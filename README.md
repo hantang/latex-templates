@@ -1,4 +1,5 @@
 # collection-latex-templates
+[![Mentioned in Awesome LaTeX](https://awesome.re/mentioned-badge.svg)](https://github.com/hantang/collection-latex-templates)
 
 ## 说明
 本项目主要收集Github网站中的各类TeX/LaTeX模板，暂时以论文类型为主。
