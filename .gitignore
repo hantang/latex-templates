@@ -1,0 +1,10 @@
+# VisualStudioCode
+.vscode/*
+
+# os
+*~
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
