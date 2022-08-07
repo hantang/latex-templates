@@ -10,10 +10,10 @@
 `中国内地高校LaTeX论文模板`和`其他地区高校LaTeX论文模板`两部分模板的初始数据来自[LaTeX科技排版工作室](http://www.latexstudio.net/)。其他一些网站也提供了丰富的模板资源，如[LaTeX Templates](https://www.latextemplates.com/)、[Overleaf](https://www.overleaf.com/)/ShareLaTex、[CTAN](http://ctan.org/)。
 
 ### 相关项目
-* [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) (star=273, watch=273, fork=95) - `A collection of LaTeX templates used for research, courses, and miscellanea.`, (2014-09-27~2017-11-21).
-* [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers) (star=38, watch=38, fork=23) - `beamer template collection`, (2017-06-11~2018-12-23).
-* [jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis) (star=2, watch=2, fork=4) - `LaTex master thesis templates that allow quick publishing as well as custom design.`, (2014-05-17~2016-05-27).
-* [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) (star=270, watch=270, fork=56) - `中文排版所需遵循的标准和规范`, (2013-09-15~2013-10-27).
+* [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates) (![Stars](https://img.shields.io/github/stars/dustinvtran/latex-templates.svg) ![Forks](https://img.shields.io/github/forks/dustinvtran/latex-templates.svg)) - `A collection of LaTeX templates used for research, courses, and miscellanea.`.
+* [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers) (![Stars](https://img.shields.io/github/stars/XiangyunHuang/awesome-beamers.svg) ![Forks](https://img.shields.io/github/forks/XiangyunHuang/awesome-beamers.svg)) - `beamer template collection`.
+* [jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis) (![Stars](https://img.shields.io/github/stars/jankapunkt/master-thesis.svg) ![Forks](https://img.shields.io/github/forks/jankapunkt/master-thesis.svg)) - `LaTex master thesis templates that allow quick publishing as well as custom design.`.
+* [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) (![Stars](https://img.shields.io/github/stars/Haixing-Hu/typesetting-standard.svg) ![Forks](https://img.shields.io/github/forks/Haixing-Hu/typesetting-standard.svg)) - `中文排版所需遵循的标准和规范`.
 
 ### 简略目录
 + [通用论文模板](#通用论文模板)
