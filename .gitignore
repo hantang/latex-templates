@@ -8,3 +8,9 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# misc
+temp/
+tmp/
+backup/
+bak/
