@@ -1,6 +1,15 @@
 # collection-latex-templates
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/collection-latex-templates)
 
+<div align="center">
+    <a href="https://github.com/hantang/awesome-latex-templates/stargazers">
+      <img src="https://img.shields.io/github/stars/hantang/awesome-latex-templates" alt="Stars Badge" />
+    </a>
+    <a href="https://github.com/hantang/awesome-latex-templates/network/members">
+      <img src="https://img.shields.io/github/forks/hantang/awesome-latex-templates" alt="Forks Badge" />
+    </a>
+</div>
+
 ## 说明
 本项目主要收集Github网站中的各类TeX/LaTeX模板，暂时以论文类型为主。
 
