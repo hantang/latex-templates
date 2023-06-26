@@ -19,7 +19,6 @@
   - [贡献](#贡献)
   - [版权](#版权)
 
-
 ## 说明
 本项目主要收集Github中的LaTeX模板仓库，以学位论文类型为主，兼收其他模板。
 
@@ -120,7 +119,6 @@
 | 中国石油大学（华东） | China University of Petroleum (East China) | <ul><li> [DotWang/UPCThesis_advan...](https://github.com/DotWang/UPCThesis_advanced) (🚀2018/10/07→2019/02/14,🤟8,👍0) ![Stars](https://img.shields.io/github/stars/DotWang/UPCThesis_advanced.svg) ![Forks](https://img.shields.io/github/forks/DotWang/UPCThesis_advanced.svg)</li></ul> |
 | 中山大学 | Sun Yat-sen University | <ul><li> [guoyl6/thesis-dev](https://github.com/guoyl6/thesis-dev) (🚀2018/10/16→2018/10/16,🤟7,👍6) ![Stars](https://img.shields.io/github/stars/guoyl6/thesis-dev.svg) ![Forks](https://img.shields.io/github/forks/guoyl6/thesis-dev.svg)</li><br><li> [chungkwong/sysu_thesis](https://github.com/chungkwong/sysu_thesis) (🚀2015/05/06→2018/02/23,🤟20,👍7) ![Stars](https://img.shields.io/github/stars/chungkwong/sysu_thesis.svg) ![Forks](https://img.shields.io/github/forks/chungkwong/sysu_thesis.svg)</li><br><li> [guanyingc/SYSU-LaTex-Thes...](https://github.com/guanyingc/SYSU-LaTex-Thesis) (🚀2017/01/07→2017/04/03,🤟29,👍6) ![Stars](https://img.shields.io/github/stars/guanyingc/SYSU-LaTex-Thesis.svg) ![Forks](https://img.shields.io/github/forks/guanyingc/SYSU-LaTex-Thesis.svg)</li><br><li> [ShevaXu/LatexThesis4SYS...](https://github.com/ShevaXu/LatexThesis4SYSU) (🚀2014/05/27→2014/05/27,🤟9,👍10) ![Stars](https://img.shields.io/github/stars/ShevaXu/LatexThesis4SYSU.svg) ![Forks](https://img.shields.io/github/forks/ShevaXu/LatexThesis4SYSU.svg)</li><br><li> [zhibo/sysuthesis](https://github.com/zhibo/sysuthesis) (🚀2011/05/09→2013/04/15,🤟25,👍19) ![Stars](https://img.shields.io/github/stars/zhibo/sysuthesis.svg) ![Forks](https://img.shields.io/github/forks/zhibo/sysuthesis.svg)</li></ul> |
 
-
 ### 中国港澳台地区高校
 
 | 高校名称(Chinese name) | 高校英文名(Name of universities/colleges) | LaTeX模板仓库(Repositories in Github) |
@@ -131,7 +129,6 @@
 | 国立清华大学 | National Tsing Hua University | <ul><li> [yszheda/nthu-master-the...](https://github.com/yszheda/nthu-master-thesis) (🚀2014/06/12→2014/06/12,🤟3,👍0) ![Stars](https://img.shields.io/github/stars/yszheda/nthu-master-thesis.svg) ![Forks](https://img.shields.io/github/forks/yszheda/nthu-master-thesis.svg)</li></ul> |
 | 国立台湾科技大学 | National Taiwan University of Science and Technology | <ul><li> [hadziq/ntust-thesis](https://github.com/hadziq/ntust-thesis) (🚀2015/06/13→2022/07/30,🤟25,👍12) ![Stars](https://img.shields.io/github/stars/hadziq/ntust-thesis.svg) ![Forks](https://img.shields.io/github/forks/hadziq/ntust-thesis.svg)</li></ul> |
 | 国立台湾大学 | National Taiwan University | <ul><li> [tzhuan/ntu-thesis](https://github.com/tzhuan/ntu-thesis) (🚀2013/04/22→2022/04/06,🤟240,👍123) ![Stars](https://img.shields.io/github/stars/tzhuan/ntu-thesis.svg) ![Forks](https://img.shields.io/github/forks/tzhuan/ntu-thesis.svg)</li><br><li> [chujay/NTU_latex](https://github.com/chujay/NTU_latex) (🚀2017/07/27→2017/07/27,🤟2,👍1) ![Stars](https://img.shields.io/github/stars/chujay/NTU_latex.svg) ![Forks](https://img.shields.io/github/forks/chujay/NTU_latex.svg)</li></ul> |
-
 
 ### 美国地区高校
 
@@ -150,7 +147,6 @@
 | 斯坦福大学 | Stanford University | <ul><li> [jbau/thesis](https://github.com/jbau/thesis) (🚀2013/05/21→2013/05/21,🤟0,👍2) ![Stars](https://img.shields.io/github/stars/jbau/thesis.svg) ![Forks](https://img.shields.io/github/forks/jbau/thesis.svg)</li></ul> |
 | 威斯康星大学麦迪逊分校 | University of Wisconsin-Madison  | <ul><li> [willb/wi-thesis-templ...](https://github.com/willb/wi-thesis-template) (🚀2008/10/01→2016/05/17,🤟46,👍34) ![Stars](https://img.shields.io/github/stars/willb/wi-thesis-template.svg) ![Forks](https://img.shields.io/github/forks/willb/wi-thesis-template.svg)</li></ul> |
 
-
 ### 其他国家（地区）高校
 
 | 高校名称(Chinese name) | 高校英文名(Name of universities/colleges) | LaTeX模板仓库(Repositories in Github) |
@@ -166,90 +162,88 @@
 | 新加坡国立大学 | National University of Singapore | <ul><li> [ramananbalakrishnan/nus-thesis-late...](https://github.com/ramananbalakrishnan/nus-thesis-latex-template) (🚀2015/01/26→2015/11/14,🤟10,👍9) ![Stars](https://img.shields.io/github/stars/ramananbalakrishnan/nus-thesis-latex-template.svg) ![Forks](https://img.shields.io/github/forks/ramananbalakrishnan/nus-thesis-latex-template.svg)</li><br><li> [saurabhg17/SPhdThesis](https://github.com/saurabhg17/SPhdThesis) (🚀2013/06/08→2014/06/20,🤟24,👍7) ![Stars](https://img.shields.io/github/stars/saurabhg17/SPhdThesis.svg) ![Forks](https://img.shields.io/github/forks/saurabhg17/SPhdThesis.svg)</li></ul> |
 | 新南威尔士大学 | The University of New South Wales | <ul><li> [andrewletten/LettenPhDThesis...](https://github.com/andrewletten/LettenPhDThesis2015) (🚀2017/06/10→2017/06/10,🤟2,👍1) ![Stars](https://img.shields.io/github/stars/andrewletten/LettenPhDThesis2015.svg) ![Forks](https://img.shields.io/github/forks/andrewletten/LettenPhDThesis2015.svg)</li></ul> |
 
-
 ## 其他类型模板
 
 ### 简历模板
 
 * [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever):
-  * Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  * (🚀2017/01/30→2023/06/06,🤟16.0k,👍2.3k) 
+  * `Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
+  * 🚀2017/01/30→2023/06/06,🤟16.0k,👍2.3k
   * ![Stars](https://img.shields.io/github/stars/salomonelli/best-resume-ever.svg) ![Forks](https://img.shields.io/github/forks/salomonelli/best-resume-ever.svg)
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV):
-  * :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-  * (🚀2015/01/18→2023/06/20,🤟19.5k,👍4.4k) 
+  * `:page_facing_up: Awesome CV is LaTeX template for your outstanding job application`
+  * 🚀2015/01/18→2023/06/20,🤟19.5k,👍4.4k
   * ![Stars](https://img.shields.io/github/stars/posquit0/Awesome-CV.svg) ![Forks](https://img.shields.io/github/forks/posquit0/Awesome-CV.svg)
 * [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume):
-  * A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student
-  * (🚀2014/04/30→2022/09/18,🤟4.6k,👍1.2k) 
+  * `A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student`
+  * 🚀2014/04/30→2022/09/18,🤟4.6k,👍1.2k
   * ![Stars](https://img.shields.io/github/stars/deedy/Deedy-Resume.svg) ![Forks](https://img.shields.io/github/forks/deedy/Deedy-Resume.svg)
 * [billryan/resume](https://github.com/billryan/resume):
-  * An elegant \LaTeX\ résumé template
-  * (🚀2015/05/30→2023/04/30,🤟7.5k,👍2.3k) 
+  * `An elegant \LaTeX\ résumé template`
+  * 🚀2015/05/30→2023/04/30,🤟7.5k,👍2.3k
   * ![Stars](https://img.shields.io/github/stars/billryan/resume.svg) ![Forks](https://img.shields.io/github/forks/billryan/resume.svg)
 * [dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv):
-  * A Nice-looking CV template made into LaTeX
-  * (🚀2015/12/14→2022/08/22,🤟1.6k,👍662) 
+  * `A Nice-looking CV template made into LaTeX`
+  * 🚀2015/12/14→2022/08/22,🤟1.6k,👍662
   * ![Stars](https://img.shields.io/github/stars/dnl-blkv/mcdowell-cv.svg) ![Forks](https://img.shields.io/github/forks/dnl-blkv/mcdowell-cv.svg)
 * [sb2nov/resume](https://github.com/sb2nov/resume):
-  * Software developer resume in Latex
-  * (🚀2015/10/11→2023/06/11,🤟3.9k,👍1.2k) 
+  * `Software developer resume in Latex`
+  * 🚀2015/10/11→2023/06/11,🤟3.9k,👍1.2k
   * ![Stars](https://img.shields.io/github/stars/sb2nov/resume.svg) ![Forks](https://img.shields.io/github/forks/sb2nov/resume.svg)
 * [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume):
-  * The Markdown Resume
-  * (🚀2014/07/09→2023/05/10,🤟1.4k,👍705) 
+  * `The Markdown Resume`
+  * 🚀2014/07/09→2023/05/10,🤟1.4k,👍705
   * ![Stars](https://img.shields.io/github/stars/mszep/pandoc_resume.svg) ![Forks](https://img.shields.io/github/forks/mszep/pandoc_resume.svg)
 * [sc932/resume](https://github.com/sc932/resume):
-  * My CV/resume in LaTeX.
-  * (🚀2011/09/19→2016/10/09,🤟493,👍133) 
+  * `My CV/resume in LaTeX.`
+  * 🚀2011/09/19→2016/10/09,🤟493,👍133
   * ![Stars](https://img.shields.io/github/stars/sc932/resume.svg) ![Forks](https://img.shields.io/github/forks/sc932/resume.svg)
 * [dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv):
-  * A Nice-looking CV template made into LaTeX
-  * (🚀2015/12/14→2022/08/22,🤟1.6k,👍662) 
+  * `A Nice-looking CV template made into LaTeX`
+  * 🚀2015/12/14→2022/08/22,🤟1.6k,👍662
   * ![Stars](https://img.shields.io/github/stars/dnl-blkv/mcdowell-cv.svg) ![Forks](https://img.shields.io/github/forks/dnl-blkv/mcdowell-cv.svg)
 * [cies/resume](https://github.com/cies/resume):
-  * My resume as a PDF including the well commented LaTeX source and build instructions.
-  * (🚀2011/02/25→2018/06/04,🤟385,👍67) 
+  * `My resume as a PDF including the well commented LaTeX source and build instructions.`
+  * 🚀2011/02/25→2018/06/04,🤟385,👍67
   * ![Stars](https://img.shields.io/github/stars/cies/resume.svg) ![Forks](https://img.shields.io/github/forks/cies/resume.svg)
 * [bamos/cv](https://github.com/bamos/cv):
-  * My YAML cv and resume.
-  * (🚀2013/12/29→2023/06/18,🤟383,👍131) 
+  * `My YAML cv and resume.`
+  * 🚀2013/12/29→2023/06/18,🤟383,👍131
   * ![Stars](https://img.shields.io/github/stars/bamos/cv.svg) ![Forks](https://img.shields.io/github/forks/bamos/cv.svg)
 * [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv):
-  * A collection of cv and resume templates written in LaTex
-  * (🚀2014/06/15→2023/06/16,🤟2.3k,👍493) 
+  * `A collection of cv and resume templates written in LaTex`
+  * 🚀2014/06/15→2023/06/16,🤟2.3k,👍493
   * ![Stars](https://img.shields.io/github/stars/jankapunkt/latexcv.svg) ![Forks](https://img.shields.io/github/forks/jankapunkt/latexcv.svg)
 * [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv):
-  * Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
-  * (🚀2014/11/09→2021/04/05,🤟430,👍140) 
+  * `Template for a simple resume or curriculum vitae (CV), in XeLaTeX.`
+  * 🚀2014/11/09→2021/04/05,🤟430,👍140
   * ![Stars](https://img.shields.io/github/stars/zachscrivena/simple-resume-cv.svg) ![Forks](https://img.shields.io/github/forks/zachscrivena/simple-resume-cv.svg)
-
 
 ### 未分类模板
 
 * [Submanifold/latex-mimosis](https://github.com/Submanifold/latex-mimosis):
-  * A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
-  * (🚀2017/05/18→2023/03/20,🤟1.1k,👍107) 
+  * `A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis`
+  * 🚀2017/05/18→2023/03/20,🤟1.1k,👍107
   * ![Stars](https://img.shields.io/github/stars/Submanifold/latex-mimosis.svg) ![Forks](https://img.shields.io/github/forks/Submanifold/latex-mimosis.svg)
 * [suchow/Dissertate](https://github.com/suchow/Dissertate):
-  * Beautiful LaTeX dissertation templates.
-  * (🚀2011/04/06→2023/02/18,🤟664,👍164) 
+  * `Beautiful LaTeX dissertation templates.`
+  * 🚀2011/04/06→2023/02/18,🤟664,👍164
   * ![Stars](https://img.shields.io/github/stars/suchow/Dissertate.svg) ![Forks](https://img.shields.io/github/forks/suchow/Dissertate.svg)
 * [latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template):
-  * LaTeX template for Master, Bachelor, Diploma, and Student Theses
-  * (🚀2012/07/09→2023/01/10,🤟328,👍115) 
+  * `LaTeX template for Master, Bachelor, Diploma, and Student Theses`
+  * 🚀2012/07/09→2023/01/10,🤟328,👍115
   * ![Stars](https://img.shields.io/github/stars/latextemplates/scientific-thesis-template.svg) ![Forks](https://img.shields.io/github/forks/latextemplates/scientific-thesis-template.svg)
 * [phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template):
-  * Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.
-  * (🚀2012/05/14→2012/05/14,🤟18,👍8) 
+  * `Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.`
+  * 🚀2012/05/14→2012/05/14,🤟18,👍8
   * ![Stars](https://img.shields.io/github/stars/phretor/cs-phd-dissertation-latex-template.svg) ![Forks](https://img.shields.io/github/forks/phretor/cs-phd-dissertation-latex-template.svg)
 * [tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template):
-  * A nice looking LaTeX templace for University reports and thesis
-  * (🚀2017/06/21→2018/04/29,🤟8,👍4) 
+  * `A nice looking LaTeX templace for University reports and thesis`
+  * 🚀2017/06/21→2018/04/29,🤟8,👍4
   * ![Stars](https://img.shields.io/github/stars/tdehaeze/clean-latex-template.svg) ![Forks](https://img.shields.io/github/forks/tdehaeze/clean-latex-template.svg)
 * [sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template):
-  * The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板
-  * (🚀2016/10/12→2022/05/09,🤟118,👍34) 
+  * `The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板`
+  * 🚀2016/10/12→2022/05/09,🤟118,👍34
   * ![Stars](https://img.shields.io/github/stars/sppmg/TW_Thesis_Template.svg) ![Forks](https://img.shields.io/github/forks/sppmg/TW_Thesis_Template.svg)
 
 ---
