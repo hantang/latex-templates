@@ -1,10 +1,12 @@
-# LaTeX模板集合
+# LaTeX模板收藏
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/collection-latex-templates)
 [![GitHub Stars Badge](https://img.shields.io/github/stars/hantang/awesome-latex-templates.svg)](https://github.com/hantang/awesome-latex-templates/stargazers)
 [![GitHub Forks Badge](https://img.shields.io/github/forks/hantang/awesome-latex-templates.svg)](https://github.com/hantang/awesome-latex-templates/network/members)
 
+<!-- lastmod -->最近更新：2023-06-27
+
 ## 目录
-- [LaTeX模板集合](#latex模板集合)
+- [LaTeX模板收藏](#latex模板收藏)
   - [目录](#目录)
   - [说明](#说明)
   - [学位论文模板](#学位论文模板)
@@ -25,7 +27,6 @@
 学位论文模板的初始数据主要来自[LaTeX科技排版工作室](http://www.latexstudio.net/)。
 其他一些网站也提供了丰富的模板资源，如[LaTeX Templates](https://www.latextemplates.com/)、[Overleaf](https://www.overleaf.com/)/ShareLaTex、[CTAN](http://ctan.org/)。
 
-<!-- lastmod -->最近更新：2023-06-27
 <!-- start of list -->
 
 ## 学位论文模板
@@ -246,8 +247,8 @@
   * ![Stars](https://img.shields.io/github/stars/phretor/cs-phd-dissertation-latex-template.svg) ![Forks](https://img.shields.io/github/forks/phretor/cs-phd-dissertation-latex-template.svg)
 
 <!-- end of list -->
----
 
+---
 
 ## 相关项目
 * [dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates)
