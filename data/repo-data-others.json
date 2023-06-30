@@ -1,32 +1,39 @@
 {
   "其他类型模板": {
-    "简历模板": [
+    "LaTeX简历模板": [
       {
         "links": [
-          "https://github.com/salomonelli/best-resume-ever",
-          "https://github.com/posquit0/Awesome-CV",
-          "https://github.com/deedy/Deedy-Resume",
-          "https://github.com/billryan/resume",
-          "https://github.com/dnl-blkv/mcdowell-cv",
-          "https://github.com/sb2nov/resume",
-          "https://github.com/mszep/pandoc_resume",
-          "https://github.com/sc932/resume",
-          "https://github.com/cies/resume",
           "https://github.com/bamos/cv",
+          "https://github.com/billryan/resume",
+          "https://github.com/cies/resume",
+          "https://github.com/deedy/Deedy-Resume",
+          "https://github.com/dnl-blkv/mcdowell-cv",
           "https://github.com/jankapunkt/latexcv",
+          "https://github.com/mszep/pandoc_resume",
+          "https://github.com/posquit0/Awesome-CV",
+          "https://github.com/salomonelli/best-resume-ever",
+          "https://github.com/sb2nov/resume",
+          "https://github.com/sc932/resume",
           "https://github.com/zachscrivena/simple-resume-cv"
         ]
       }
     ],
-    "未分类模板": [
+    "其他LaTeX模板": [
       {
         "links": [
-          "https://github.com/Pseudomanifold/latex-mimosis",
-          "https://github.com/suchow/Dissertate",
-          "https://github.com/latextemplates/scientific-thesis-template",
-          "https://github.com/phretor/cs-phd-dissertation-latex-template",
-          "https://github.com/tdehaeze/clean-latex-template",
-          "https://github.com/sppmg/TW_Thesis_Template"
+          "https://github.com/annProg/PanBook",
+          "https://github.com/fmarotta/kaobook"
+        ]
+      }
+    ],
+    "非LaTeX写作模板": [
+      {
+        "links": [
+          "https://github.com/cagix/pandoc-thesis",
+          "https://github.com/dangom/org-thesis",
+          "https://github.com/ismayc/thesisdown",
+          "https://github.com/pzhaonet/bookdownplus",
+          "https://github.com/tompollard/phd_thesis_markdown"
         ]
       }
     ]
