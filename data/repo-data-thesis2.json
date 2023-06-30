@@ -1,0 +1,396 @@
+{
+  "学位论文模板（Microsoft Word）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "北京航空航天大学",
+        "en": "Beijing University of Aeronautics and Astronautics(Beihang University)",
+        "links": [
+          "https://github.com/ixzhao/BUAA_Dissertation_Template"
+        ]
+      },
+      {
+        "zh": "北京邮电大学",
+        "en": "Beijing University of Posts and Telecommunications",
+        "links": [
+          "https://github.com/sigmarising/BUPTMasterThesisWord"
+        ]
+      },
+      {
+        "zh": "东北大学",
+        "en": "Northeastern University",
+        "links": [
+          "https://github.com/NEUAI/neuthesis-bachelor-msword"
+        ]
+      },
+      {
+        "zh": "南方科技大学",
+        "en": "Southern University of Science and Technology",
+        "links": [
+          "https://github.com/jerrylususu/sustech-thesis-word"
+        ]
+      },
+      {
+        "zh": "南京大学",
+        "en": "Nanjing University",
+        "links": [
+          "https://github.com/idealclover/NJU-Thesis-Word"
+        ]
+      },
+      {
+        "zh": "清华大学",
+        "en": "Tsinghua University",
+        "links": [
+          "https://github.com/erbanku/ThuWordThesis",
+          "https://github.com/qbh16/ThuWordThesis"
+        ]
+      },
+      {
+        "zh": "山东大学",
+        "en": "Shandong University",
+        "links": [
+          "https://github.com/tianyu-su/sdu-theis-template"
+        ]
+      },
+      {
+        "zh": "上海交通大学",
+        "en": "Shanghai Jiaotong University",
+        "links": [
+          "https://github.com/pydxflwb/SJTUUndergraduateThesis2021-Word"
+        ]
+      },
+      {
+        "zh": "四川大学",
+        "en": "Sichuan University",
+        "links": [
+          "https://github.com/IcyFeather233/SCU-Graduation-Thesis",
+          "https://github.com/SunnyHaze/scu-thesis-template",
+          "https://github.com/northword/SCU-Thesis-MSWord-Template"
+        ]
+      },
+      {
+        "zh": "武汉大学",
+        "en": "Wuhan University",
+        "links": [
+          "https://github.com/1037913794/-Word-",
+          "https://github.com/Yimsun97/thesisTemplate"
+        ]
+      },
+      {
+        "zh": "西安交通大学",
+        "en": "Xi'an Jiaotong University",
+        "links": [
+          "https://github.com/obster-y/XJTU-thesis-Office"
+        ]
+      },
+      {
+        "zh": "西北工业大学",
+        "en": "Northwestern Polytechnical University",
+        "links": [
+          "https://github.com/Sirius0v0/word-template-for-NPU-thesis"
+        ]
+      },
+      {
+        "zh": "中国科学院大学",
+        "en": "University of Chinese Academy of Sciences",
+        "links": [
+          "https://github.com/xmicroshell/UCAS-Thesis"
+        ]
+      },
+      {
+        "zh": "中山大学",
+        "en": "Sun Yat-sen University",
+        "links": [
+          "https://github.com/HareInWeed/SYSU-thesis"
+        ]
+      }
+    ]
+  },
+  "学位论文模板（Markdown类）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "北京师范大学",
+        "en": "Beijing Normal University",
+        "links": [
+          "https://github.com/94wgfk/BNUThesisPandoc"
+        ]
+      },
+      {
+        "zh": "重庆大学",
+        "en": "Chongqing University",
+        "links": [
+          "https://github.com/ilcpm/cqu-thesis-markdown"
+        ]
+      },
+      {
+        "zh": "南方科技大学",
+        "en": "Southern University of Science and Technology",
+        "links": [
+          "https://github.com/fecet/sustechthesis-markdown"
+        ]
+      },
+      {
+        "zh": "上海交通大学",
+        "en": "Shanghai Jiaotong University",
+        "links": [
+          "https://github.com/dyweb/SJTUThesis-Markdown"
+        ]
+      },
+      {
+        "zh": "中南大学",
+        "en": "Central South University",
+        "links": [
+          "https://github.com/csu-tclab/CSUthesisMD"
+        ]
+      }
+    ],
+    "其他国家和地区高校": [
+      {
+        "zh": "（英国）牛津大学",
+        "en": "University of Oxford",
+        "links": [
+          "https://github.com/ulyngs/oxforddown"
+        ]
+      }
+    ]
+  },
+  "学位论文模板（Lyx）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "北京大学",
+        "en": "Peking University",
+        "links": [
+          "https://github.com/vidon/pkuthssLyX"
+        ]
+      },
+      {
+        "zh": "电子科技大学",
+        "en": "University of Electronic Science and Technology of China",
+        "links": [
+          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex"
+        ]
+      },
+      {
+        "zh": "东南大学",
+        "en": "Southeast University",
+        "links": [
+          "https://github.com/oldoldstone/seuthslyx"
+        ]
+      },
+      {
+        "zh": "南京大学",
+        "en": "Nanjing University",
+        "links": [
+          "https://github.com/jiangyy/njuthesis"
+        ]
+      },
+      {
+        "zh": "厦门大学",
+        "en": "Xiamen University",
+        "links": [
+          "https://github.com/renkun-ken/xmu-thesis-lyx"
+        ]
+      },
+      {
+        "zh": "云南大学",
+        "en": "Yunnan University",
+        "links": [
+          "https://github.com/cherrot/ynuthesislyx"
+        ]
+      },
+      {
+        "zh": "中国科学技术大学",
+        "en": "University of Science and Technology of China",
+        "links": [
+          "https://github.com/ustctug/ustclyx"
+        ]
+      }
+    ],
+    "其他国家和地区高校": [
+      {
+        "zh": "（英国）剑桥大学",
+        "en": "University of Cambridge",
+        "links": [
+          "https://github.com/kks32/PhDThesisLyX"
+        ]
+      },
+      {
+        "zh": "（英国）牛津大学",
+        "en": "University of Oxford",
+        "links": [
+          "https://github.com/telegraphic/Oxford-LyX-Thesis-Template"
+        ]
+      }
+    ]
+  },
+  "学位论文模板（Typst）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "北京大学",
+        "en": "Peking University",
+        "links": [
+          "https://github.com/lucifer1004/pkuthss-typst"
+        ]
+      },
+      {
+        "zh": "北京邮电大学",
+        "en": "Beijing University of Posts and Telecommunications",
+        "links": [
+          "https://github.com/QQKdeGit/bupt-typst"
+        ]
+      },
+      {
+        "zh": "哈尔滨工业大学",
+        "en": "Harbin Institute of Technology",
+        "links": [
+          "https://github.com/chosertech/HIT-Thesis-Typst"
+        ]
+      },
+      {
+        "zh": "上海大学",
+        "en": "Shanghai University",
+        "links": [
+          "https://github.com/LuminolT/SHU-Bachelor-Thesis-Typst",
+          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst"
+        ]
+      },
+      {
+        "zh": "深圳大学",
+        "en": "Shenzhen University",
+        "links": [
+          "https://github.com/DongHY1/szu-typst-template"
+        ]
+      },
+      {
+        "zh": "浙江工商大学",
+        "en": "Zhejiang Gongshang University",
+        "links": [
+          "https://github.com/jujimeizuo/ZJGSU-typst-template"
+        ]
+      },
+      {
+        "zh": "中山大学",
+        "en": "Sun Yat-sen University",
+        "links": [
+          "https://github.com/howardlau1999/sysu-thesis-typst"
+        ]
+      }
+    ]
+  },
+  "学位论文开题/选题报告（LaTeX）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "西北工业大学",
+        "en": "Northwestern Polytechnical University",
+        "links": [
+          "https://github.com/MoetaYuko/NPU_PhD_proposal",
+          "https://github.com/NPUSCG/npu-dissertation-proposal",
+          "https://github.com/zzhang1987/NPUResearchProposal"
+        ]
+      },
+      {
+        "zh": "浙江大学",
+        "en": "Zhejiang University",
+        "links": [
+          "https://github.com/corenel/ZJUProposal"
+        ]
+      },
+      {
+        "zh": "中国科学院大学",
+        "en": "University of Chinese Academy of Sciences",
+        "links": [
+          "https://github.com/mohuangrui/ucasproposal"
+        ]
+      },
+      {
+        "zh": "中南大学",
+        "en": "Central South University",
+        "links": [
+          "https://github.com/zhong-yy/CSU_Thesis_Proposal"
+        ]
+      }
+    ],
+    "美国地区高校": [
+      {
+        "zh": "（美国）麻省理工学院",
+        "en": "Massachusetts Institute of Technology (MIT)",
+        "links": [
+          "https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template"
+        ]
+      }
+    ]
+  },
+  "学术演示文稿（LaTeX Beamer）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "东南大学",
+        "en": "Southeast University",
+        "links": [
+          "https://github.com/GuanxingLu/SEU-beamer-latex-slide"
+        ]
+      },
+      {
+        "zh": "西安电子科技大学",
+        "en": "Xidian University",
+        "links": [
+          "https://github.com/StickCui/BeamerForXidian",
+          "https://github.com/StickCui/XDUstyle-Beamer-Theme"
+        ]
+      },
+      {
+        "zh": "西南交通大学",
+        "en": "Southwest Jiaotong University",
+        "links": [
+          "https://github.com/swjtutug/swjtubeamer"
+        ]
+      },
+      {
+        "zh": "中国科学技术大学",
+        "en": "University of Science and Technology of China",
+        "links": [
+          "https://github.com/ustctug/ustcbeamer"
+        ]
+      },
+      {
+        "zh": "中国科学院大学",
+        "en": "University of Chinese Academy of Sciences",
+        "links": [
+          "https://github.com/peng-yq/UCAS-Beamer-Theme"
+        ]
+      },
+      {
+        "zh": "中国人民大学",
+        "en": "Renmin University of China",
+        "links": [
+          "https://github.com/andelf/ruc-beamer-template"
+        ]
+      }
+    ],
+    "美国地区高校": [
+      {
+        "zh": "（美国）南佛罗里达大学",
+        "en": "University of South Florida",
+        "links": [
+          "https://github.com/STOM-Group/USF-Beamer-Template"
+        ]
+      }
+    ]
+  },
+  "学位论文模板（LaTeX通用类型）": {
+    "通用类型": [
+      {
+        "links": [
+          "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
+          "https://github.com/Digital-Media/HagenbergThesis",
+          "https://github.com/Pseudomanifold/latex-mimosis",
+          "https://github.com/derric/cleanthesis",
+          "https://github.com/latextemplates/scientific-thesis-template",
+          "https://github.com/phretor/cs-phd-dissertation-latex-template",
+          "https://github.com/sppmg/TW_Thesis_Template",
+          "https://github.com/suchow/Dissertate",
+          "https://github.com/tdehaeze/clean-latex-template",
+          "https://github.com/zarrabi/thesis-template"
+        ]
+      }
+    ]
+  }
+}
