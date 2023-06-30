@@ -832,22 +832,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/DylanXie123/Thesis-Template-for-XJTU",
-    "description": null,
-    "stargazers_count": 20,
-    "forks_count": 5,
-    "watchers_count": 20,
-    "subscribers_count": 3,
-    "pushed_at": "2020-11-02T15:08:01Z",
-    "created_at": "2018-06-30T01:21:32Z",
-    "private": false,
-    "fork": false,
-    "archived": true,
-    "visibility": "public",
-    "size": 19254,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/ECNU-ICA/ECNU_graduation_thesis_template",
     "description": "华东师范大学研究生毕业论文 Latex 模板",
     "stargazers_count": 74,
@@ -6000,22 +5984,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/li-xin-yi/DLUTLaTeXTemplate",
-    "description": "The LATEX Template of Undergraduate Graduation Project (Thesis)",
-    "stargazers_count": 5,
-    "forks_count": 7,
-    "watchers_count": 5,
-    "subscribers_count": 1,
-    "pushed_at": "2016-03-29T13:15:00Z",
-    "created_at": "2015-07-06T14:21:49Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 1375,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/li199-code/njupt_master_thesis_latex_template",
     "description": "南京邮电大学硕士论文latex模板",
     "stargazers_count": 2,
@@ -7664,22 +7632,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/sheng-qiang/BUPTBachelorThesis",
-    "description": "A LaTeX Template for BUPT Bachelor Thesis (updated in 2018) 北京邮电大学学士学位论文LaTeX模板",
-    "stargazers_count": 417,
-    "forks_count": 125,
-    "watchers_count": 417,
-    "subscribers_count": 3,
-    "pushed_at": "2022-06-02T14:25:54Z",
-    "created_at": "2018-04-24T07:29:50Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 13139,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/sherrycattt/ScutThesis",
     "description": "华南理工大学博士学位论文Latex模板（修改自ThuThesis https://github.com/tuna/thuthesis）",
     "stargazers_count": 6,
@@ -8464,22 +8416,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/Qsion/NJAU_Thesis",
-    "description": "NJAU Thesis LaTeX Template for Undergraduate Students（南京农业大学本科生毕业论文 LaTeX 模板 理工科版）",
-    "stargazers_count": 3,
-    "forks_count": 3,
-    "watchers_count": 3,
-    "subscribers_count": 1,
-    "pushed_at": "2018-05-17T11:29:47Z",
-    "created_at": "2017-12-05T13:47:44Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 395,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/waltsims/TUM_Thesis_Template_CSE",
     "description": "A Latex template for the TUM graduate program Computational Science and Engineering (CSE).",
     "stargazers_count": 49,
@@ -8864,22 +8800,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/bdebye/thesisuestc",
-    "description": "ThesisUESTC-电子科技大学毕业论文模板",
-    "stargazers_count": 1083,
-    "forks_count": 305,
-    "watchers_count": 1083,
-    "subscribers_count": 19,
-    "pushed_at": "2023-06-05T06:21:39Z",
-    "created_at": "2017-02-13T16:38:48Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 8402,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/x86vk/JLU-CCST-Thesis",
     "description": "吉林大学 计算机科学与技术学院 本科毕业论文 Latex模板",
     "stargazers_count": 25,
@@ -9038,22 +8958,6 @@
     "visibility": "public",
     "size": 87,
     "organization": null
-  },
-  {
-    "html_url": "https://github.com/twtstudio/TJUThesisLatexTemplate",
-    "description": "LaTeX templates for TJU graduate thesis. Originally forked from code.google.com/p/tjuthesis",
-    "stargazers_count": 94,
-    "forks_count": 26,
-    "watchers_count": 94,
-    "subscribers_count": 7,
-    "pushed_at": "2023-04-30T13:01:10Z",
-    "created_at": "2015-09-25T12:30:22Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 9851,
-    "organization": "twtstudio"
   },
   {
     "html_url": "https://github.com/xueruini/thuthesis",
