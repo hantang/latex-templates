@@ -52,7 +52,7 @@
         "en": "Beijing Jiaotong University",
         "links": [
           "https://github.com/chenzewei01/bjtuThesis",
-          "https://github.com/kinard-k/bjtu-thesis",
+          "https://github.com/labusi/bjtu-thesis",
           "https://github.com/paulzhn/bjtu-bachelor-thesis",
           "https://github.com/xfdywy/bjtu-thesis-templete"
         ]
@@ -106,7 +106,6 @@
           "https://github.com/qcts33/BUPTthesis-ctex",
           "https://github.com/rioxwang/BUPTGraduateThesis",
           "https://github.com/sheng-qiang/BUPTBachelorThesis",
-          "https://github.com/sqyx008/BUPTBachelorThesis",
           "https://github.com/way-zer/BUPTBachelorThesis",
           "https://github.com/wugh/bupt-thesis-bachelor",
           "https://github.com/yangze01/BUPT-Master-Graduation-Thesis"
@@ -163,7 +162,6 @@
         "links": [
           "https://github.com/GoBigorGoHome/dutthesis",
           "https://github.com/Khaos/DLUTThesis",
-          "https://github.com/Lixinyi-DUT/DLUTLaTeXTemplate",
           "https://github.com/QuYue/The-XeLaTex-Template-of-Master-Degree-Thesis-of-DUT",
           "https://github.com/Saltsmart/DUT-master-thesis",
           "https://github.com/Youxuan1/dut_essay_model",
@@ -191,7 +189,7 @@
           "https://github.com/shifujun/UESTCthesis",
           "https://github.com/tinoryj/UESTC-Thesis-Latex-Template",
           "https://github.com/tzz1996/ThesisUESTC",
-          "https://github.com/x-magus/ThesisUESTC"
+          "https://github.com/bdebye/thesisuestc"
         ]
       },
       {
@@ -201,7 +199,7 @@
           "https://github.com/Acytoo/neu_bachelor_thesis_template",
           "https://github.com/NEUAI/neuthesis-en",
           "https://github.com/NEUAI/neuthesis-enhanced",
-          "https://github.com/NobodyLiveForever/NEU_PHD_Template",
+          "https://github.com/PlayerAI/NEU_PHD_Template",
           "https://github.com/mervin0502/neuthesis",
           "https://github.com/tzaiyang/NEUBachelorThesis",
           "https://github.com/w-mj/neu_cse_bachelor_thesis"
@@ -609,8 +607,7 @@
         "zh": "南京农业大学",
         "en": "Nanjing Agricultural University",
         "links": [
-          "https://github.com/Qsion/NJAU_Thesis",
-          "https://github.com/waiichou/NJAU_Thesis"
+          "https://github.com/Qsion/NJAU_Thesis"
         ]
       },
       {
@@ -624,7 +621,7 @@
         "zh": "南京师范大学",
         "en": "Nanjing Normal University",
         "links": [
-          "https://github.com/mathada/nnuthesis"
+          "https://github.com/jordanzhouda/nnuthesis"
         ]
       },
       {
@@ -883,7 +880,6 @@
         "en": "Tianjin University",
         "links": [
           "https://github.com/6gbluewind/Tjuthesis_phd_1.2-",
-          "https://github.com/CharlieZi/TJU-Post-Graduate-Latex-Template",
           "https://github.com/ChrisVicky/TJU-Thesis-LaTeX-Template",
           "https://github.com/HeliosZhao/TJU-Thesis-2020",
           "https://github.com/Rien190/TJU-Paper-template",
@@ -898,8 +894,7 @@
           "https://github.com/pingyuer/TJUThesis",
           "https://github.com/serendipitaet/TJUthesis_xelatex-phd-2020",
           "https://github.com/songxiaolin2009/tjuthesis_xelatex_template",
-          "https://github.com/twtstudio/TJUThesisLatexTemplate",
-          "https://github.com/xnth97/TJUThesisLatexTemplate"
+          "https://github.com/twtstudio/TJUThesisLatexTemplate"
         ]
       },
       {
@@ -909,14 +904,14 @@
           "https://github.com/C-zzZZ/TongjiThesis",
           "https://github.com/CharlieZi/TJU-Post-Graduate-Latex-Template",
           "https://github.com/Ginufet/tongji-dissertation-master-template",
-          "https://github.com/HarlanHW/TongjiThesis",
-          "https://github.com/NotoOotori/tjuthesis",
-          "https://github.com/SXKDZ/tongjithesis",
-          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis",
-          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis-env",
           "https://github.com/hang-qi/tongji-thesis",
+          "https://github.com/HarlanHW/TongjiThesis",
           "https://github.com/linxdcn/TongjiThesis",
           "https://github.com/marquistj13/TongjiThesis",
+          "https://github.com/NotoOotori/tjuthesis",
+          "https://github.com/SXKDZ/tongjithesis",
+          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis-env",
+          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis",
           "https://github.com/yumuzi/TONGJITHESIS"
         ]
       },
@@ -978,7 +973,6 @@
           "https://github.com/4712635/xjtu_thesis_template",
           "https://github.com/Aetf/xjtuthesis",
           "https://github.com/ChenjieGump/XJTU-BSThesis_latex_2022",
-          "https://github.com/DXie123/Thesis-Template-for-XJTU",
           "https://github.com/DylanXie123/Thesis-Template-for-XJTU",
           "https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template",
           "https://github.com/Radiance-nt/XJTU_BachelorThesis_DagRank",
@@ -1113,7 +1107,7 @@
         "links": [
           "https://github.com/5kg/zju-bachelor-thesis",
           "https://github.com/DelightRun/ZJUThesis-MPhil",
-          "https://github.com/DreaminginCodeZH/zju-csse-undergraduate-design-latex-template",
+          "https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template",
           "https://github.com/TheNetAdmin/zjuthesis",
           "https://github.com/Wangqsooooo/Latex_template",
           "https://github.com/Yirui-Wang/ZJU-CSE-Latex",
@@ -1141,7 +1135,7 @@
         "en": "Zhejiang University of Technology",
         "links": [
           "https://github.com/AsukaEva2/ZJUTbachelor",
-          "https://github.com/ZJUT/zjutthesis"
+          "https://github.com/yyz98799/zjutthesis"
         ]
       },
       {
