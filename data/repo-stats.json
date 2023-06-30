@@ -16,6 +16,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/1037913794/-Word-",
+    "description": "武汉大学计算机学院本科生毕业论文Word模板（瞎搞的，不是很formal）",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "pushed_at": "2020-04-19T13:51:23Z",
+    "created_at": "2020-04-19T13:48:09Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 132,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/103yiran/XDUthesis_xelatex",
     "description": "XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, master, or doctor thesis in Xidian University.",
     "stargazers_count": 19,
@@ -112,6 +128,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/94wgfk/BNUThesisPandoc",
+    "description": "使用Pandoc Markdown和LaTeX写北师大毕业论文。",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "watchers_count": 5,
+    "subscribers_count": 1,
+    "pushed_at": "2016-06-14T16:23:37Z",
+    "created_at": "2016-06-14T14:13:28Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 527,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/Achhhe/WHUMaster-Latex-2021",
     "description": "武汉大学研究生毕业论文latex模板",
     "stargazers_count": 0,
@@ -192,6 +224,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
+    "description": "LaTeX-template for russian Phd thesis",
+    "stargazers_count": 1180,
+    "forks_count": 608,
+    "watchers_count": 1180,
+    "subscribers_count": 73,
+    "pushed_at": "2021-12-09T10:47:34Z",
+    "created_at": "2012-10-29T07:25:29Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 21547,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/AndyYangjd/SUES-Paper",
     "description": "上海工程技术大学（SUES）学术型硕士毕业论文Latex模板（非官方，个人简单编辑版）",
     "stargazers_count": 5,
@@ -221,6 +269,22 @@
     "archived": false,
     "visibility": "public",
     "size": 3285,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/ArturB/WUT-Thesis",
+    "description": "LaTeX template for engineer and master thesis for Warsaw University of Technology. ",
+    "stargazers_count": 190,
+    "forks_count": 16,
+    "watchers_count": 190,
+    "subscribers_count": 8,
+    "pushed_at": "2023-01-27T19:09:06Z",
+    "created_at": "2019-04-26T20:57:58Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 28170,
     "organization": null
   },
   {
@@ -430,6 +494,38 @@
     "visibility": "public",
     "size": 3377,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU",
+    "description": "A Latex template, class file, and examples for writing a bachelor thesis at NTNU",
+    "stargazers_count": 15,
+    "forks_count": 51,
+    "watchers_count": 15,
+    "subscribers_count": 7,
+    "pushed_at": "2020-01-10T07:55:14Z",
+    "created_at": "2016-01-09T23:59:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2987,
+    "organization": "COPCSE-NTNU"
+  },
+  {
+    "html_url": "https://github.com/COPCSE-NTNU/thesis-NTNU",
+    "description": "An NTNU thesis LaTeX document class for bachelor, master, and PhD theses",
+    "stargazers_count": 78,
+    "forks_count": 305,
+    "watchers_count": 78,
+    "subscribers_count": 7,
+    "pushed_at": "2022-05-20T05:54:51Z",
+    "created_at": "2019-06-27T11:38:14Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1872,
+    "organization": "COPCSE-NTNU"
   },
   {
     "html_url": "https://github.com/CSGrandeur/CSU-Thesis-LaTeX-Template",
@@ -656,22 +752,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/DylanXie123/Thesis-Template-for-XJTU",
-    "description": null,
-    "stargazers_count": 20,
-    "forks_count": 5,
-    "watchers_count": 20,
-    "subscribers_count": 3,
-    "pushed_at": "2020-11-02T15:08:01Z",
-    "created_at": "2018-06-30T01:21:32Z",
-    "private": false,
-    "fork": false,
-    "archived": true,
-    "visibility": "public",
-    "size": 19254,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/DansYU/SeuThesiY",
     "description": "用于排版东南大学硕博学位论文的LaTeX模板",
     "stargazers_count": 51,
@@ -752,6 +832,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/Digital-Media/HagenbergThesis",
+    "description": "Hagenberg LaTeX Thesis Template",
+    "stargazers_count": 177,
+    "forks_count": 41,
+    "watchers_count": 177,
+    "subscribers_count": 10,
+    "pushed_at": "2023-04-18T16:37:41Z",
+    "created_at": "2016-06-10T14:25:24Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 231897,
+    "organization": "Digital-Media"
+  },
+  {
     "html_url": "https://github.com/DingyunZhang/ustc_thesis_bachelor",
     "description": "template for undergraduate thesis",
     "stargazers_count": 0,
@@ -768,6 +864,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/DongHY1/szu-typst-template",
+    "description": "深圳大学硕士学位论文的typst模板",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 1,
+    "pushed_at": "2023-05-18T16:10:30Z",
+    "created_at": "2023-05-18T13:44:05Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 14,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/DotWang/UPCThesis_advanced",
     "description": "中国石油大学(华东)本科毕业设计论文LaTeX模板----基于UPCLaTeX/UPCThesis进行改进",
     "stargazers_count": 8,
@@ -781,22 +893,6 @@
     "archived": false,
     "visibility": "public",
     "size": 578,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template",
-    "description": "浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板",
-    "stargazers_count": 116,
-    "forks_count": 29,
-    "watchers_count": 116,
-    "subscribers_count": 2,
-    "pushed_at": "2017-06-04T02:27:22Z",
-    "created_at": "2017-03-28T13:50:20Z",
-    "private": false,
-    "fork": false,
-    "archived": true,
-    "visibility": "public",
-    "size": 1008,
     "organization": null
   },
   {
@@ -829,6 +925,22 @@
     "archived": false,
     "visibility": "public",
     "size": 564,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/DylanXie123/Thesis-Template-for-XJTU",
+    "description": null,
+    "stargazers_count": 20,
+    "forks_count": 5,
+    "watchers_count": 20,
+    "subscribers_count": 3,
+    "pushed_at": "2020-11-02T15:08:01Z",
+    "created_at": "2018-06-30T01:21:32Z",
+    "private": false,
+    "fork": false,
+    "archived": true,
+    "visibility": "public",
+    "size": 19254,
     "organization": null
   },
   {
@@ -1152,6 +1264,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/GuanxingLu/SEU-beamer-latex-slide",
+    "description": "This is my own graduation thesis defense slide, you can think of it as a Southeast University beamer template.",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "subscribers_count": 2,
+    "pushed_at": "2023-06-08T02:21:37Z",
+    "created_at": "2023-06-03T07:25:35Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 16214,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/Gwinel/hnuthesis",
     "description": "湖南大学硕士学位论文模板（latex）",
     "stargazers_count": 15,
@@ -1229,6 +1357,22 @@
     "archived": false,
     "visibility": "public",
     "size": 2051,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/HareInWeed/SYSU-thesis",
+    "description": "SYSU-thesis: 中山大学本科生毕业论文(设计) Word 模板 （非官方）",
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "watchers_count": 8,
+    "subscribers_count": 1,
+    "pushed_at": "2021-02-23T01:15:36Z",
+    "created_at": "2021-02-22T07:06:08Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 877,
     "organization": null
   },
   {
@@ -1389,6 +1533,38 @@
     "archived": false,
     "visibility": "public",
     "size": 0,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/IcyFeather233/SCU-Graduation-Thesis",
+    "description": "四川大学本科毕业论文（设计）word模板及要求",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 1,
+    "pushed_at": "2023-04-13T07:25:40Z",
+    "created_at": "2023-04-13T07:24:31Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 173,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/Inventitech/phd-thesis-template",
+    "description": "A LaTeX template for creating beautiful PhD theses, originally created by TU Delft.",
+    "stargazers_count": 67,
+    "forks_count": 39,
+    "watchers_count": 67,
+    "subscribers_count": 5,
+    "pushed_at": "2021-03-24T10:37:47Z",
+    "created_at": "2018-11-11T16:14:47Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 7788,
     "organization": null
   },
   {
@@ -1824,22 +2000,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/li-xin-yi/DLUTLaTeXTemplate",
-    "description": "The LATEX Template of Undergraduate Graduation Project (Thesis)",
-    "stargazers_count": 5,
-    "forks_count": 7,
-    "watchers_count": 5,
-    "subscribers_count": 1,
-    "pushed_at": "2016-03-29T13:15:00Z",
-    "created_at": "2015-07-06T14:21:49Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 1375,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/Lovely-XPP/SYSU-thesis",
     "description": "中山大学 LaTeX 论文项目模板",
     "stargazers_count": 3,
@@ -1853,6 +2013,22 @@
     "archived": false,
     "visibility": "public",
     "size": 19861,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/LuminolT/SHU-Bachelor-Thesis-Typst",
+    "description": "上海大学本科毕业论文typst模板",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "pushed_at": "2023-04-10T02:00:23Z",
+    "created_at": "2023-04-08T15:57:54Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 93285,
     "organization": null
   },
   {
@@ -2000,6 +2176,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/MoetaYuko/NPU_PhD_proposal",
+    "description": "西北工业大学博士研究生学位论文开题报告表LaTeX模板",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "subscribers_count": 1,
+    "pushed_at": "2022-05-25T11:07:14Z",
+    "created_at": "2022-05-22T15:23:44Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 144,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/MrDongdongLin/xtuthesis",
     "description": "湘潭大学硕士论文模板（包含LaTeX和Word）",
     "stargazers_count": 18,
@@ -2048,6 +2240,22 @@
     "organization": "NCHUSC"
   },
   {
+    "html_url": "https://github.com/NEUAI/neuthesis-bachelor-msword",
+    "description": "The Microsoft Word template of Bachelor thesis for Northeastern University (China).（东北大学本科生毕业设计论文Microsoft Word模板）",
+    "stargazers_count": 12,
+    "forks_count": 1,
+    "watchers_count": 12,
+    "subscribers_count": 1,
+    "pushed_at": "2019-06-06T08:14:22Z",
+    "created_at": "2018-11-16T03:17:25Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1524,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/NEUAI/neuthesis-en",
     "description": "The Latex template of English Master and Ph.D. thesis for Northeastern University (China) 东北大学硕士、博士英文论文LaTeX模版",
     "stargazers_count": 4,
@@ -2078,6 +2286,22 @@
     "visibility": "public",
     "size": 1948,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/NPUSCG/npu-dissertation-proposal",
+    "description": "西北工业大学研究生选题报告表 \\LaTeX 模板",
+    "stargazers_count": 6,
+    "forks_count": 6,
+    "watchers_count": 6,
+    "subscribers_count": 1,
+    "pushed_at": "2022-06-04T03:09:57Z",
+    "created_at": "2018-01-20T13:53:50Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 479,
+    "organization": "NPUSCG"
   },
   {
     "html_url": "https://github.com/NPUSCG/nputhesis",
@@ -2157,22 +2381,6 @@
     "archived": false,
     "visibility": "public",
     "size": 1814,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/PlayerAI/NEU_PHD_Template",
-    "description": "PHD Latex Dissertation template for Northeastern University China",
-    "stargazers_count": 6,
-    "forks_count": 6,
-    "watchers_count": 6,
-    "subscribers_count": 1,
-    "pushed_at": "2013-06-05T00:43:51Z",
-    "created_at": "2013-02-21T07:46:05Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 188,
     "organization": null
   },
   {
@@ -2320,6 +2528,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/PlayerAI/NEU_PHD_Template",
+    "description": "PHD Latex Dissertation template for Northeastern University China",
+    "stargazers_count": 6,
+    "forks_count": 6,
+    "watchers_count": 6,
+    "subscribers_count": 1,
+    "pushed_at": "2013-06-05T00:43:51Z",
+    "created_at": "2013-02-21T07:46:05Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 188,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/PolarLion/BIT-thesis-template",
     "description": "北京理工大学研究生毕业论文无bug模板-template for graduate thesis of Beijing Institute of Technology (No bug  ver.)",
     "stargazers_count": 1,
@@ -2333,6 +2557,38 @@
     "archived": false,
     "visibility": "public",
     "size": 15625,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/Pseudomanifold/latex-mimosis",
+    "description": "A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis",
+    "stargazers_count": 1059,
+    "forks_count": 106,
+    "watchers_count": 1059,
+    "subscribers_count": 22,
+    "pushed_at": "2023-03-20T07:05:26Z",
+    "created_at": "2017-05-18T15:49:51Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1480,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/QQKdeGit/bupt-typst",
+    "description": "北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT). ",
+    "stargazers_count": 40,
+    "forks_count": 1,
+    "watchers_count": 40,
+    "subscribers_count": 4,
+    "pushed_at": "2023-05-27T15:39:21Z",
+    "created_at": "2023-03-28T14:32:46Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 56,
     "organization": null
   },
   {
@@ -2544,6 +2800,22 @@
     "organization": "SHU-CES-1008"
   },
   {
+    "html_url": "https://github.com/STOM-Group/USF-Beamer-Template",
+    "description": "LaTeX/Beamer presentation template for the University of South Florida",
+    "stargazers_count": 3,
+    "forks_count": 6,
+    "watchers_count": 3,
+    "subscribers_count": 3,
+    "pushed_at": "2019-11-19T14:53:13Z",
+    "created_at": "2015-08-20T17:40:53Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 28578,
+    "organization": "STOM-Group"
+  },
+  {
     "html_url": "https://github.com/SUSTC/sustcthesis",
     "description": "graduation thesis latex template for sustcer",
     "stargazers_count": 13,
@@ -2704,6 +2976,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/Sirius0v0/word-template-for-NPU-thesis",
+    "description": "西北工业大学本科毕业设计论文模板（word 版本 | Microsoft Office Word）",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "subscribers_count": 1,
+    "pushed_at": "2022-05-05T15:30:38Z",
+    "created_at": "2022-05-05T14:25:39Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 59,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/SmartHelium/sdnubachelor",
     "description": "A LaTeX template for sdnu bachelor based on CTeX !",
     "stargazers_count": 6,
@@ -2752,6 +3040,38 @@
     "organization": "SouthEastUniversityofChina"
   },
   {
+    "html_url": "https://github.com/StickCui/BeamerForXidian",
+    "description": "Mainly package for Xidian University‘s Beamer. Beamer theme based on Berkeley.",
+    "stargazers_count": 4,
+    "forks_count": 4,
+    "watchers_count": 4,
+    "subscribers_count": 2,
+    "pushed_at": "2015-11-17T05:16:29Z",
+    "created_at": "2015-06-17T10:18:25Z",
+    "private": false,
+    "fork": false,
+    "archived": true,
+    "visibility": "public",
+    "size": 11044,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/StickCui/XDUstyle-Beamer-Theme",
+    "description": "西安电子科技大学 Beamer 主题",
+    "stargazers_count": 32,
+    "forks_count": 12,
+    "watchers_count": 32,
+    "subscribers_count": 2,
+    "pushed_at": "2016-06-03T11:40:46Z",
+    "created_at": "2016-05-30T12:39:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4469,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/StickCui/XDUthesis-personal",
     "description": "XDUthesis 西安电子科技大学学位论文模板  Xidian University thesis template",
     "stargazers_count": 153,
@@ -2784,22 +3104,6 @@
     "organization": "Studio513"
   },
   {
-    "html_url": "https://github.com/Pseudomanifold/latex-mimosis",
-    "description": "A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis",
-    "stargazers_count": 1059,
-    "forks_count": 106,
-    "watchers_count": 1059,
-    "subscribers_count": 22,
-    "pushed_at": "2023-03-20T07:05:26Z",
-    "created_at": "2017-05-18T15:49:51Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 1480,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/SuikaXhq/seu-bachelor-thesis-2022",
     "description": "东南大学本科毕业设计（论文）模版",
     "stargazers_count": 57,
@@ -2829,6 +3133,22 @@
     "archived": false,
     "visibility": "public",
     "size": 2002,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/SunnyHaze/scu-thesis-template",
+    "description": "四川大学本科毕业论文word模板及常见要求",
+    "stargazers_count": 18,
+    "forks_count": 0,
+    "watchers_count": 18,
+    "subscribers_count": 1,
+    "pushed_at": "2023-04-27T12:50:06Z",
+    "created_at": "2023-03-13T13:33:06Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 627,
     "organization": null
   },
   {
@@ -3024,6 +3344,38 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/UCL/ucl-latex-thesis-templates",
+    "description": "UCL LaTeX thesis templates.",
+    "stargazers_count": 138,
+    "forks_count": 98,
+    "watchers_count": 138,
+    "subscribers_count": 26,
+    "pushed_at": "2022-07-06T10:18:56Z",
+    "created_at": "2014-06-16T22:17:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 99,
+    "organization": "UCL"
+  },
+  {
+    "html_url": "https://github.com/UWIT-IAM/UWThesis",
+    "description": "Class file for University of Washington thesis formatting with LaTeX.",
+    "stargazers_count": 55,
+    "forks_count": 51,
+    "watchers_count": 55,
+    "subscribers_count": 19,
+    "pushed_at": "2021-11-09T15:49:51Z",
+    "created_at": "2014-11-17T17:27:54Z",
+    "private": false,
+    "fork": false,
+    "archived": true,
+    "visibility": "public",
+    "size": 638,
+    "organization": "UWIT-IAM"
+  },
+  {
     "html_url": "https://github.com/VicoZhang/SCUT_Latex_template",
     "description": "华南理工大学论文模板",
     "stargazers_count": 1,
@@ -3136,6 +3488,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/Yimsun97/thesisTemplate",
+    "description": "武汉大学本科生毕业论文Word模板",
+    "stargazers_count": 13,
+    "forks_count": 4,
+    "watchers_count": 13,
+    "subscribers_count": 1,
+    "pushed_at": "2019-11-11T03:50:53Z",
+    "created_at": "2019-10-21T07:32:51Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2631,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/Yirui-Wang/ZJU-CSE-Latex",
     "description": "浙江大学控制学院本科生毕业论文Latex模板。",
     "stargazers_count": 13,
@@ -3230,22 +3598,6 @@
     "visibility": "public",
     "size": 2719,
     "organization": "ZJU-Awesome"
-  },
-  {
-    "html_url": "https://github.com/yyz98799/zjutthesis",
-    "description": "ZJUT XeLaTeX template of graduation project",
-    "stargazers_count": 21,
-    "forks_count": 14,
-    "watchers_count": 21,
-    "subscribers_count": 14,
-    "pushed_at": "2022-08-09T02:09:50Z",
-    "created_at": "2013-06-26T08:55:39Z",
-    "private": false,
-    "fork": true,
-    "archived": true,
-    "visibility": "public",
-    "size": 31815,
-    "organization": null
   },
   {
     "html_url": "https://github.com/ZLCao/NJUBachelor",
@@ -3408,6 +3760,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/adamnovak/ucscthesis",
+    "description": "LaTeX templates for UCSC thesis and/or advancement (thesis proposal)",
+    "stargazers_count": 12,
+    "forks_count": 22,
+    "watchers_count": 12,
+    "subscribers_count": 4,
+    "pushed_at": "2020-12-05T01:37:24Z",
+    "created_at": "2014-05-23T19:01:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 103,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/ahhylau/shuthesis",
     "description": "LaTeX Thesis Template for Shanghai University",
     "stargazers_count": 27,
@@ -3421,6 +3789,22 @@
     "archived": false,
     "visibility": "public",
     "size": 5418,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/akira-okumura/MasterThesisTemplate",
+    "description": "修士論文 LaTeX テンプレート｜名古屋大学宇宙地球環境研究所の理学系修士学生用",
+    "stargazers_count": 108,
+    "forks_count": 27,
+    "watchers_count": 108,
+    "subscribers_count": 4,
+    "pushed_at": "2023-02-10T10:45:24Z",
+    "created_at": "2017-01-30T05:24:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1307,
     "organization": null
   },
   {
@@ -3469,6 +3853,22 @@
     "archived": false,
     "visibility": "public",
     "size": 6496,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/andelf/ruc-beamer-template",
+    "description": "Latex beamer template for RUC",
+    "stargazers_count": 16,
+    "forks_count": 8,
+    "watchers_count": 16,
+    "subscribers_count": 3,
+    "pushed_at": "2015-03-12T12:58:41Z",
+    "created_at": "2015-03-12T09:16:43Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1500,
     "organization": null
   },
   {
@@ -3536,6 +3936,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/annProg/PanBook",
+    "description": "Pandoc LaTeX，Epub模板，用于生成书籍，幻灯片(beamer)，简历，论文等（cv, thesis, ebook,beamer)",
+    "stargazers_count": 230,
+    "forks_count": 26,
+    "watchers_count": 230,
+    "subscribers_count": 5,
+    "pushed_at": "2023-03-22T02:53:27Z",
+    "created_at": "2015-06-11T08:34:45Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 17353,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/aofenghanyue/PhDThesisWordTemplate",
     "description": "北航博士毕业设计/学位论文word模板，依据《北京航空航天大学研究生撰写学位论文的规定(2020.07)》制作",
     "stargazers_count": 4,
@@ -3597,6 +4013,22 @@
     "archived": false,
     "visibility": "public",
     "size": 2015,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/autopawn/tex-thesis-template",
+    "description": "LaTeX template for undergraduate thesis of informatics engineering at the UTFSM.",
+    "stargazers_count": 22,
+    "forks_count": 25,
+    "watchers_count": 22,
+    "subscribers_count": 2,
+    "pushed_at": "2023-04-06T20:42:01Z",
+    "created_at": "2017-08-17T02:46:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2549,
     "organization": null
   },
   {
@@ -3744,6 +4176,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/bianbian1234/NKU_latex_template",
+    "description": "南开大学硕博论文LATEX模板/答辩用beamer模板",
+    "stargazers_count": 2,
+    "forks_count": 2,
+    "watchers_count": 2,
+    "subscribers_count": 1,
+    "pushed_at": "2022-09-28T08:14:55Z",
+    "created_at": "2021-06-13T00:20:33Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2122,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/billryan/resume",
     "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
     "stargazers_count": 7503,
@@ -3824,6 +4272,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/cagix/pandoc-thesis",
+    "description": "A Template for Thesis Documents written in Markdown",
+    "stargazers_count": 70,
+    "forks_count": 19,
+    "watchers_count": 70,
+    "subscribers_count": 2,
+    "pushed_at": "2023-03-30T08:28:27Z",
+    "created_at": "2019-07-22T13:56:31Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1057,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/cambridge/thesis",
     "description": "A LaTeX document class that conforms to the Computer Laboratory's PhD thesis formatting guidelines.",
     "stargazers_count": 195,
@@ -3838,6 +4302,22 @@
     "visibility": "public",
     "size": 5794,
     "organization": "cambridge"
+  },
+  {
+    "html_url": "https://github.com/canggihpw/thesisdtetiugm",
+    "description": "Latex Template for Thesis Writing at DTETI UGM",
+    "stargazers_count": 10,
+    "forks_count": 20,
+    "watchers_count": 10,
+    "subscribers_count": 0,
+    "pushed_at": "2023-03-08T08:43:05Z",
+    "created_at": "2018-02-15T02:50:01Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4187,
+    "organization": null
   },
   {
     "html_url": "https://github.com/cci-grads/uncc-thesis-latex",
@@ -3888,6 +4368,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/cherrot/ynuthesislyx",
+    "description": "云南大学学位论文模板，基于 thuthesislyx 和 thuthesis 两个项目稍作修改而得。",
+    "stargazers_count": 8,
+    "forks_count": 8,
+    "watchers_count": 8,
+    "subscribers_count": 2,
+    "pushed_at": "2013-05-19T12:24:59Z",
+    "created_at": "2013-05-19T08:54:45Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4372,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/chguw/ecnuphd",
     "description": "华东师范大学博士学位论文 LaTeX 模板",
     "stargazers_count": 0,
@@ -3917,6 +4413,22 @@
     "archived": false,
     "visibility": "public",
     "size": 19230,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/chosertech/HIT-Thesis-Typst",
+    "description": "哈尔滨工业大学 Typst 论文模板",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "subscribers_count": 1,
+    "pushed_at": "2023-05-19T03:02:02Z",
+    "created_at": "2023-05-14T14:49:31Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 844,
     "organization": null
   },
   {
@@ -4080,6 +4592,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/corenel/ZJUProposal",
+    "description": "ZJU LaTeX Proposal Template for Undergraduate.",
+    "stargazers_count": 17,
+    "forks_count": 6,
+    "watchers_count": 17,
+    "subscribers_count": 2,
+    "pushed_at": "2017-06-29T14:33:14Z",
+    "created_at": "2017-01-05T15:00:43Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1714,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/corenel/zju-thesis",
     "description": "LaTeX template for ZJU graduate student.",
     "stargazers_count": 7,
@@ -4110,6 +4638,22 @@
     "visibility": "public",
     "size": 1268,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/csu-tclab/CSUthesisMD",
+    "description": "使用 Markdown 编写中南大学硕士毕业论文",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "pushed_at": "2022-04-11T11:09:18Z",
+    "created_at": "2022-04-11T10:33:29Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2657,
+    "organization": "csu-tclab"
   },
   {
     "html_url": "https://github.com/csust-latex-sig/CSUSTBachelorThesis",
@@ -4224,6 +4768,38 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/dangom/org-thesis",
+    "description": "Writing a Ph.D. thesis with Org Mode",
+    "stargazers_count": 482,
+    "forks_count": 54,
+    "watchers_count": 482,
+    "subscribers_count": 19,
+    "pushed_at": "2022-03-23T04:08:33Z",
+    "created_at": "2019-07-13T02:59:23Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2236,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/danhey/thesis",
+    "description": "Latex thesis template for the University of Sydney honours/masters/PhD",
+    "stargazers_count": 15,
+    "forks_count": 15,
+    "watchers_count": 15,
+    "subscribers_count": 1,
+    "pushed_at": "2022-09-25T22:48:55Z",
+    "created_at": "2018-06-22T05:42:01Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 251,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/dartall/jluthesis",
     "description": "Automatically exported from code.google.com/p/jluthesis",
     "stargazers_count": 6,
@@ -4318,6 +4894,38 @@
     "visibility": "public",
     "size": 490,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/derric/cleanthesis",
+    "description": "Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents.",
+    "stargazers_count": 866,
+    "forks_count": 110,
+    "watchers_count": 866,
+    "subscribers_count": 16,
+    "pushed_at": "2022-05-31T09:34:07Z",
+    "created_at": "2011-06-09T09:49:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4243,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/detiuaveiro/ua-thesis-template",
+    "description": "📖 A thesis LaTeX template that complies with the University of Aveiro's guidelines and provides a simple CLI workflow around make and compatibility with Overleaf.",
+    "stargazers_count": 87,
+    "forks_count": 26,
+    "watchers_count": 87,
+    "subscribers_count": 7,
+    "pushed_at": "2023-05-30T08:38:44Z",
+    "created_at": "2018-08-29T16:23:44Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2770,
+    "organization": "detiuaveiro"
   },
   {
     "html_url": "https://github.com/disc0ver-csu/csu-thesis",
@@ -4432,6 +5040,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/dyweb/SJTUThesis-Markdown",
+    "description": "（实验性项目）上海交通大学学位论文 R Markdown (bookdown) 模板",
+    "stargazers_count": 38,
+    "forks_count": 5,
+    "watchers_count": 38,
+    "subscribers_count": 10,
+    "pushed_at": "2018-06-07T11:06:21Z",
+    "created_at": "2018-06-07T07:28:32Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1337,
+    "organization": "dyweb"
+  },
+  {
     "html_url": "https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master",
     "description": "大连理工大学硕士毕业论文XeLaTeX模板",
     "stargazers_count": 5,
@@ -4477,6 +5101,22 @@
     "archived": false,
     "visibility": "public",
     "size": 236,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/erbanku/ThuWordThesis",
+    "description": "清华大学本科学位论文Word模板。An undergraduate thesis Word template for Tsinghua University.",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "subscribers_count": 0,
+    "pushed_at": "2022-05-31T16:14:25Z",
+    "created_at": "2022-06-22T17:28:42Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 375,
     "organization": null
   },
   {
@@ -4624,6 +5264,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/fecet/sustechthesis-markdown",
+    "description": "南方科技大学毕业论文markdown模板",
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "watchers_count": 8,
+    "subscribers_count": 1,
+    "pushed_at": "2022-09-26T17:21:46Z",
+    "created_at": "2022-04-16T19:49:18Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 33537,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/feimax/latex_template_for_xjtlu_eee",
     "description": "A LaTeX Template for XJTLU EEE Students",
     "stargazers_count": 32,
@@ -4669,6 +5325,22 @@
     "archived": false,
     "visibility": "public",
     "size": 214,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/fmarotta/kaobook",
+    "description": "A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.",
+    "stargazers_count": 676,
+    "forks_count": 126,
+    "watchers_count": 676,
+    "subscribers_count": 23,
+    "pushed_at": "2023-05-29T18:35:54Z",
+    "created_at": "2019-01-07T10:35:05Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 24292,
     "organization": null
   },
   {
@@ -5088,6 +5760,22 @@
     "organization": "hithesis"
   },
   {
+    "html_url": "https://github.com/howardlau1999/sysu-thesis-typst",
+    "description": "中山大学学位论文 Typst 模板",
+    "stargazers_count": 33,
+    "forks_count": 1,
+    "watchers_count": 33,
+    "subscribers_count": 2,
+    "pushed_at": "2023-04-21T01:41:17Z",
+    "created_at": "2023-04-17T15:59:19Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 105307,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/huangyxi/WHUT-Bachelor",
     "description": "武汉理工大学本科生毕业设计（论文） LaTeX 模板    LaTeX Template for Bachelor's Degree Thesis at Wuhan University of Technology (WHUT)",
     "stargazers_count": 37,
@@ -5216,6 +5904,38 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/idealclover/NJU-Thesis-Word",
+    "description": "南京大学本科毕业论文 Word 模板",
+    "stargazers_count": 13,
+    "forks_count": 2,
+    "watchers_count": 13,
+    "subscribers_count": 1,
+    "pushed_at": "2020-05-14T10:46:42Z",
+    "created_at": "2020-04-15T02:49:06Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 588,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/idfah/csuthesis",
+    "description": "Colorado State University LaTeX Thesis/Dissertation Template",
+    "stargazers_count": 37,
+    "forks_count": 29,
+    "watchers_count": 37,
+    "subscribers_count": 4,
+    "pushed_at": "2020-05-08T04:25:09Z",
+    "created_at": "2017-02-04T23:43:29Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1881,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/iihciyekub/MUST-Thesis",
     "description": "latex-template: 澳门科技大学,硕士or博士毕业论文模版",
     "stargazers_count": 18,
@@ -5229,6 +5949,38 @@
     "archived": false,
     "visibility": "public",
     "size": 16373,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/ilcpm/cqu-thesis-markdown",
+    "description": "重庆大学毕业论文 Markdown 转 Word (docx) 方案",
+    "stargazers_count": 19,
+    "forks_count": 2,
+    "watchers_count": 19,
+    "subscribers_count": 1,
+    "pushed_at": "2023-05-24T15:45:34Z",
+    "created_at": "2020-12-05T15:11:58Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 5684,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/ilcpm/pandoc_markdown2docx_instuction",
+    "description": "借助pandoc转换，用Markdown写Word论文的指导，基于重庆大学毕业论文排版",
+    "stargazers_count": 28,
+    "forks_count": 2,
+    "watchers_count": 28,
+    "subscribers_count": 5,
+    "pushed_at": "2021-05-27T07:02:09Z",
+    "created_at": "2020-06-02T07:13:55Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 894,
     "organization": null
   },
   {
@@ -5280,6 +6032,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/ismayc/thesisdown",
+    "description": "An updated R Markdown thesis template using the bookdown package",
+    "stargazers_count": 762,
+    "forks_count": 345,
+    "watchers_count": 762,
+    "subscribers_count": 25,
+    "pushed_at": "2023-05-29T03:10:10Z",
+    "created_at": "2016-08-16T17:05:41Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 3585,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/iso9/thuthesis",
     "description": "thesis for tsinghua university",
     "stargazers_count": 1,
@@ -5293,6 +6061,22 @@
     "archived": false,
     "visibility": "public",
     "size": 1723,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/ixzhao/BUAA_Dissertation_Template",
+    "description": "北航硕博研究生毕业设计论文模板（Word）",
+    "stargazers_count": 40,
+    "forks_count": 12,
+    "watchers_count": 40,
+    "subscribers_count": 1,
+    "pushed_at": "2023-03-25T04:08:17Z",
+    "created_at": "2021-12-16T06:18:47Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1735,
     "organization": null
   },
   {
@@ -5373,6 +6157,38 @@
     "archived": false,
     "visibility": "public",
     "size": 139,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/jerrylususu/sustech-thesis-word",
+    "description": "南方科技大学毕业论文 Word 模板",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 2,
+    "pushed_at": "2021-06-08T12:01:08Z",
+    "created_at": "2021-06-08T11:59:18Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 379,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/jessexknight/ut-thesis",
+    "description": "University of Toronto thesis class for LaTeX",
+    "stargazers_count": 37,
+    "forks_count": 17,
+    "watchers_count": 37,
+    "subscribers_count": 3,
+    "pushed_at": "2023-02-08T17:55:49Z",
+    "created_at": "2020-08-06T02:42:53Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 5438,
     "organization": null
   },
   {
@@ -5472,6 +6288,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/jiangyy/njuthesis",
+    "description": "南京大学山寨毕业论文模版",
+    "stargazers_count": 101,
+    "forks_count": 17,
+    "watchers_count": 101,
+    "subscribers_count": 3,
+    "pushed_at": "2019-01-16T07:17:18Z",
+    "created_at": "2016-12-19T15:20:19Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 653,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/jiaopjie/ustcthesis",
     "description": "USTC thesis LaTeX template",
     "stargazers_count": 1,
@@ -5552,6 +6384,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/jkjaer/aauLatexTemplates",
+    "description": "A collection of Aalborg University LaTeX-templates",
+    "stargazers_count": 146,
+    "forks_count": 128,
+    "watchers_count": 146,
+    "subscribers_count": 11,
+    "pushed_at": "2023-02-17T10:44:05Z",
+    "created_at": "2018-01-29T07:34:24Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 8117,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/jokerdawn/GDUTThesis",
     "description": "GDUTThesis",
     "stargazers_count": 10,
@@ -5584,6 +6432,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/jordanzhouda/nnuthesis",
+    "description": "A LaTeX solution for typesetting bachelor thesis of Nanjing Normal University",
+    "stargazers_count": 6,
+    "forks_count": 3,
+    "watchers_count": 6,
+    "subscribers_count": 3,
+    "pushed_at": "2018-08-10T05:39:07Z",
+    "created_at": "2017-09-10T06:41:22Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 3528,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/jtzhpf/NUIST-Bachelor-Thesis-LaTeX-Template-v2022.4",
     "description": "南京信息工程大学（NUIST）本科生毕业论文2022年4月修订版，兼容Windows，MacOS和Overleaf",
     "stargazers_count": 9,
@@ -5597,6 +6461,22 @@
     "archived": false,
     "visibility": "public",
     "size": 52449,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/jujimeizuo/ZJGSU-typst-template",
+    "description": "浙江工商大学（本科）毕业论文typst模版",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "watchers_count": 2,
+    "subscribers_count": 1,
+    "pushed_at": "2023-04-30T15:27:01Z",
+    "created_at": "2023-04-19T17:01:00Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 7500,
     "organization": null
   },
   {
@@ -5712,22 +6592,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/labusi/bjtu-thesis",
-    "description": "北京交通大学学位论文非官方latex模版",
-    "stargazers_count": 9,
-    "forks_count": 4,
-    "watchers_count": 9,
-    "subscribers_count": 1,
-    "pushed_at": "2018-04-30T15:11:46Z",
-    "created_at": "2018-04-27T03:52:51Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 1095,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/kirainmoe/xmu-thesis-latex-template",
     "description": "Bachelor degree thesis LaTeX template of Xiamen University for self use. (厦门大学本科生毕业论文 / 设计 LaTeX 模板)",
     "stargazers_count": 11,
@@ -5741,6 +6605,22 @@
     "archived": false,
     "visibility": "public",
     "size": 21361,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/kks32/PhDThesisLyX",
+    "description": "A LyX PhD thesis template for Cambridge University Engineering Department",
+    "stargazers_count": 41,
+    "forks_count": 26,
+    "watchers_count": 41,
+    "subscribers_count": 9,
+    "pushed_at": "2014-08-04T22:56:59Z",
+    "created_at": "2014-01-10T16:47:09Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4987,
     "organization": null
   },
   {
@@ -5821,6 +6701,22 @@
     "archived": false,
     "visibility": "public",
     "size": 8230,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/labusi/bjtu-thesis",
+    "description": "北京交通大学学位论文非官方latex模版",
+    "stargazers_count": 9,
+    "forks_count": 4,
+    "watchers_count": 9,
+    "subscribers_count": 1,
+    "pushed_at": "2018-04-30T15:11:46Z",
+    "created_at": "2018-04-27T03:52:51Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1095,
     "organization": null
   },
   {
@@ -5984,6 +6880,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/li-xin-yi/DLUTLaTeXTemplate",
+    "description": "The LATEX Template of Undergraduate Graduation Project (Thesis)",
+    "stargazers_count": 5,
+    "forks_count": 7,
+    "watchers_count": 5,
+    "subscribers_count": 1,
+    "pushed_at": "2016-03-29T13:15:00Z",
+    "created_at": "2015-07-06T14:21:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1375,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/li199-code/njupt_master_thesis_latex_template",
     "description": "南京邮电大学硕士论文latex模板",
     "stargazers_count": 2,
@@ -5997,6 +6909,22 @@
     "archived": false,
     "visibility": "public",
     "size": 8515,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/liang-chen/IU-PhD-Thesis-Template",
+    "description": "Indiana University PhD Dissertation Latex Template",
+    "stargazers_count": 24,
+    "forks_count": 26,
+    "watchers_count": 24,
+    "subscribers_count": 5,
+    "pushed_at": "2018-05-01T00:22:30Z",
+    "created_at": "2018-02-01T03:40:08Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 14,
     "organization": null
   },
   {
@@ -6029,6 +6957,22 @@
     "archived": false,
     "visibility": "public",
     "size": 7847,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/linwest/JAISTthesisLaTeX",
+    "description": "JAIST Thesis LaTeX template",
+    "stargazers_count": 26,
+    "forks_count": 18,
+    "watchers_count": 26,
+    "subscribers_count": 1,
+    "pushed_at": "2019-03-31T00:46:02Z",
+    "created_at": "2019-03-17T23:21:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2550,
     "organization": null
   },
   {
@@ -6256,6 +7200,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/lucifer1004/pkuthss-typst",
+    "description": "Typst template for dissertations in Peking University (PKU).",
+    "stargazers_count": 39,
+    "forks_count": 7,
+    "watchers_count": 39,
+    "subscribers_count": 2,
+    "pushed_at": "2023-05-30T09:53:31Z",
+    "created_at": "2023-04-08T18:39:51Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 29438,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/lusccc/cqupt-thesis",
     "description": "重庆邮电大学研究生学位论文LaTex模板",
     "stargazers_count": 16,
@@ -6384,19 +7344,19 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/jordanzhouda/nnuthesis",
-    "description": "A LaTeX solution for typesetting bachelor thesis of Nanjing Normal University",
-    "stargazers_count": 6,
-    "forks_count": 3,
-    "watchers_count": 6,
-    "subscribers_count": 3,
-    "pushed_at": "2018-08-10T05:39:07Z",
-    "created_at": "2017-09-10T06:41:22Z",
+    "html_url": "https://github.com/matteodelucchi/ZHAW_thesis-template",
+    "description": "LaTeX thesis template for ZHAW, Zurich University of Applied Sciences.",
+    "stargazers_count": 17,
+    "forks_count": 47,
+    "watchers_count": 17,
+    "subscribers_count": 4,
+    "pushed_at": "2023-06-04T09:46:08Z",
+    "created_at": "2020-08-24T12:11:52Z",
     "private": false,
     "fork": false,
     "archived": false,
     "visibility": "public",
-    "size": 3528,
+    "size": 1607,
     "organization": null
   },
   {
@@ -6557,6 +7517,38 @@
     "archived": false,
     "visibility": "public",
     "size": 18332,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template",
+    "description": "MIT EECS Thesis Proposal Template",
+    "stargazers_count": 36,
+    "forks_count": 24,
+    "watchers_count": 36,
+    "subscribers_count": 3,
+    "pushed_at": "2021-02-11T20:02:30Z",
+    "created_at": "2018-01-17T20:03:43Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 278,
+    "organization": "mit-eecs-gsa"
+  },
+  {
+    "html_url": "https://github.com/mohuangrui/ucasproposal",
+    "description": "LaTeX Proposal Template for the University of Chinese Academy of Sciences",
+    "stargazers_count": 461,
+    "forks_count": 133,
+    "watchers_count": 461,
+    "subscribers_count": 10,
+    "pushed_at": "2021-10-29T04:19:44Z",
+    "created_at": "2016-10-02T20:42:10Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 612,
     "organization": null
   },
   {
@@ -6816,6 +7808,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/northword/SCU-Thesis-MSWord-Template",
+    "description": "四川大学建筑与环境学院硕博士研究生学位论文 Word 模板",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 1,
+    "pushed_at": "2023-03-14T14:06:03Z",
+    "created_at": "2023-03-14T13:05:16Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 0,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/note286/xduts",
     "description": "Xidian University TeX Suite 西安电子科技大学LaTeX套装",
     "stargazers_count": 445,
@@ -6896,6 +7904,54 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/obster-y/XJTU-thesis-Office",
+    "description": "西安交通大学学位论文模板（Office）（适用硕士、博士学位）An unofficial Office template for Xi'an Jiaotong University degree thesis (Chinese and English)",
+    "stargazers_count": 13,
+    "forks_count": 0,
+    "watchers_count": 13,
+    "subscribers_count": 2,
+    "pushed_at": "2023-06-05T19:56:59Z",
+    "created_at": "2022-05-17T14:25:22Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1744,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/oganm/ThesisProposal",
+    "description": "PhD thesis proposal. Conforming to UBC style guides",
+    "stargazers_count": 17,
+    "forks_count": 14,
+    "watchers_count": 17,
+    "subscribers_count": 5,
+    "pushed_at": "2016-06-09T03:26:25Z",
+    "created_at": "2016-02-06T00:59:29Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 136044,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/oldoldstone/seuthslyx",
+    "description": "东南大学学位论文 LyX 模板",
+    "stargazers_count": 8,
+    "forks_count": 3,
+    "watchers_count": 8,
+    "subscribers_count": 3,
+    "pushed_at": "2017-09-04T06:03:56Z",
+    "created_at": "2017-09-02T02:56:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 9804,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/oliverck/Latex-PG-SJTU",
     "description": "根据上海交通大学研究生院给出的研究生学位论文写作模版(https://www.gs.sjtu.edu.cn/info/1136/8374.htm) 进行修改适配，解决latex模版中的一些错误，以及和word模版不一致问题",
     "stargazers_count": 28,
@@ -6909,6 +7965,22 @@
     "archived": false,
     "visibility": "public",
     "size": 347,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/ondes/Template-Latex-ITU-Thesis",
+    "description": "LaTeX Template of Istanbul Technical University thesis projects",
+    "stargazers_count": 53,
+    "forks_count": 19,
+    "watchers_count": 53,
+    "subscribers_count": 11,
+    "pushed_at": "2022-01-21T13:44:29Z",
+    "created_at": "2019-02-19T08:45:17Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1589,
     "organization": null
   },
   {
@@ -7056,6 +8128,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/peng-yq/UCAS-Beamer-Theme",
+    "description": "A Beamer Theme of UCAS for academic report, thesis and talk.",
+    "stargazers_count": 4,
+    "forks_count": 1,
+    "watchers_count": 4,
+    "subscribers_count": 1,
+    "pushed_at": "2022-12-10T04:38:33Z",
+    "created_at": "2022-12-10T04:31:50Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 738,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/phoenix1917/CASIA-Thesis",
     "description": "自动化所硕博论文模板",
     "stargazers_count": 31,
@@ -7184,6 +8272,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/pydxflwb/SJTUUndergraduateThesis2021-Word",
+    "description": "上海交通大学本科毕设论文模板2021Word版",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 2,
+    "pushed_at": "2021-05-20T02:40:06Z",
+    "created_at": "2021-05-20T02:39:23Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1152,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/pyrocat101/hust-thesis-pandoc",
     "description": "使用Pandoc Markdown和LaTeX写华中科技大学本科生毕业论文。",
     "stargazers_count": 36,
@@ -7197,6 +8301,38 @@
     "archived": false,
     "visibility": "public",
     "size": 1093,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/pzhaonet/bookdownplus",
+    "description": "The easiest way to use R package bookdown for  writing varied types of books and documents ",
+    "stargazers_count": 248,
+    "forks_count": 31,
+    "watchers_count": 248,
+    "subscribers_count": 12,
+    "pushed_at": "2021-12-31T03:36:32Z",
+    "created_at": "2017-05-15T20:24:46Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 45160,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/qbh16/ThuWordThesis",
+    "description": "清华大学本科学位论文Word模板。An undergraduate thesis Word template for Tsinghua University.",
+    "stargazers_count": 110,
+    "forks_count": 4,
+    "watchers_count": 110,
+    "subscribers_count": 2,
+    "pushed_at": "2023-03-22T13:51:52Z",
+    "created_at": "2021-05-13T11:52:07Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 0,
     "organization": null
   },
   {
@@ -7328,6 +8464,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex",
+    "description": "LaTeX template for thesis writing in University of Electronic Science and Technology of China (电子科技大学官方主页)",
+    "stargazers_count": 0,
+    "forks_count": 1,
+    "watchers_count": 0,
+    "subscribers_count": 2,
+    "pushed_at": "2019-01-25T05:22:39Z",
+    "created_at": "2017-11-08T12:28:43Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 20569,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/ramananbalakrishnan/nus-thesis-latex-template",
     "description": "A LaTeX template for NUS Masters/PhD theses",
     "stargazers_count": 10,
@@ -7341,6 +8493,22 @@
     "archived": false,
     "visibility": "public",
     "size": 1240,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/renkun-ken/xmu-thesis-lyx",
+    "description": "A LyX Template for master/PhD thesis of Xiamen University",
+    "stargazers_count": 1,
+    "forks_count": 2,
+    "watchers_count": 1,
+    "subscribers_count": 2,
+    "pushed_at": "2015-04-17T07:27:33Z",
+    "created_at": "2015-03-10T15:04:47Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 200,
     "organization": null
   },
   {
@@ -7390,6 +8558,22 @@
     "visibility": "public",
     "size": 8530,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/rucsgss/thesis",
+    "description": "LaTeX template for Rutgers University Computer Science thesis",
+    "stargazers_count": 23,
+    "forks_count": 16,
+    "watchers_count": 23,
+    "subscribers_count": 3,
+    "pushed_at": "2019-11-10T16:11:32Z",
+    "created_at": "2015-04-14T18:37:18Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 8,
+    "organization": "rucsgss"
   },
   {
     "html_url": "https://github.com/ruiminshen/ThesisXTU",
@@ -7632,6 +8816,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/sheng-qiang/BUPTBachelorThesis",
+    "description": "A LaTeX Template for BUPT Bachelor Thesis (updated in 2018) 北京邮电大学学士学位论文LaTeX模板",
+    "stargazers_count": 417,
+    "forks_count": 125,
+    "watchers_count": 417,
+    "subscribers_count": 3,
+    "pushed_at": "2022-06-02T14:25:54Z",
+    "created_at": "2018-04-24T07:29:50Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 13139,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/sherrycattt/ScutThesis",
     "description": "华南理工大学博士学位论文Latex模板（修改自ThuThesis https://github.com/tuna/thuthesis）",
     "stargazers_count": 6,
@@ -7680,6 +8880,22 @@
     "organization": "shuosc"
   },
   {
+    "html_url": "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst",
+    "description": "上海大学本科生毕业论文Typst模板",
+    "stargazers_count": 44,
+    "forks_count": 9,
+    "watchers_count": 44,
+    "subscribers_count": 9,
+    "pushed_at": "2023-04-19T08:37:27Z",
+    "created_at": "2023-04-09T07:36:07Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4997,
+    "organization": "shuosc"
+  },
+  {
     "html_url": "https://github.com/shuwei1204/ZJUthesis",
     "description": "Latex Thesis template of Zhejiang University (zju)",
     "stargazers_count": 122,
@@ -7712,6 +8928,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/sigmarising/BUPTMasterThesisWord",
+    "description": "The Microsoft Office Word template of BUPT Thesis for Master Degree.",
+    "stargazers_count": 169,
+    "forks_count": 27,
+    "watchers_count": 169,
+    "subscribers_count": 3,
+    "pushed_at": "2023-06-12T15:01:52Z",
+    "created_at": "2022-02-08T07:16:39Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 25291,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/sijichun/sufethesis",
     "description": "上海财经大学博士学位论文LaTeX and LyX 模板",
     "stargazers_count": 19,
@@ -7725,6 +8957,22 @@
     "archived": false,
     "visibility": "public",
     "size": 885,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/sinamomken/tehran-thesis",
+    "description": "LaTeX template for BSc/MSc/PhD theses of University of Tehran - قالب لاتک پایان‌نامه دانشگاه تهران",
+    "stargazers_count": 117,
+    "forks_count": 42,
+    "watchers_count": 117,
+    "subscribers_count": 5,
+    "pushed_at": "2022-12-30T08:50:00Z",
+    "created_at": "2017-05-09T07:15:34Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 18375,
     "organization": null
   },
   {
@@ -7757,6 +9005,22 @@
     "archived": false,
     "visibility": "public",
     "size": 21382,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/skulumani/thesis-gwu",
+    "description": "GWU SEAS sample thesis",
+    "stargazers_count": 22,
+    "forks_count": 14,
+    "watchers_count": 22,
+    "subscribers_count": 4,
+    "pushed_at": "2022-07-27T13:02:02Z",
+    "created_at": "2016-09-25T00:57:04Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 8014,
     "organization": null
   },
   {
@@ -7853,22 +9117,6 @@
     "archived": false,
     "visibility": "public",
     "size": 27799,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/sheng-qiang/BUPTBachelorThesis",
-    "description": "A LaTeX Template for BUPT Bachelor Thesis (updated in 2018) 北京邮电大学学士学位论文LaTeX模板",
-    "stargazers_count": 417,
-    "forks_count": 125,
-    "watchers_count": 417,
-    "subscribers_count": 3,
-    "pushed_at": "2022-06-02T14:25:54Z",
-    "created_at": "2018-04-24T07:29:50Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 13139,
     "organization": null
   },
   {
@@ -8000,6 +9248,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/swjtutug/swjtubeamer",
+    "description": "A Simple Demonstration of Beamer Class for Presentation of SWJTU.",
+    "stargazers_count": 4,
+    "forks_count": 2,
+    "watchers_count": 4,
+    "subscribers_count": 2,
+    "pushed_at": "2018-03-22T12:53:38Z",
+    "created_at": "2018-03-17T08:53:59Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 3107,
+    "organization": "swjtutug"
+  },
+  {
     "html_url": "https://github.com/swjtutug/swjtuthesis",
     "description": "LaTeX template for SWJTU thesis.",
     "stargazers_count": 34,
@@ -8096,6 +9360,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/telegraphic/Oxford-LyX-Thesis-Template",
+    "description": "University of Oxford LyX Thesis Template",
+    "stargazers_count": 29,
+    "forks_count": 16,
+    "watchers_count": 29,
+    "subscribers_count": 5,
+    "pushed_at": "2015-01-27T20:54:21Z",
+    "created_at": "2011-05-13T10:18:51Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1225,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/tensor-matrix/NKUThesis",
     "description": "南开大学本科毕业论文模板",
     "stargazers_count": 1,
@@ -8109,6 +9389,22 @@
     "archived": false,
     "visibility": "public",
     "size": 304,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/themiguelamador/ThesisIST",
+    "description": "LaTeX MSc and PhD Thesis Template - Instituto Superior Técnico",
+    "stargazers_count": 27,
+    "forks_count": 8,
+    "watchers_count": 27,
+    "subscribers_count": 5,
+    "pushed_at": "2023-06-16T20:41:16Z",
+    "created_at": "2012-12-02T15:05:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 902,
     "organization": null
   },
   {
@@ -8160,6 +9456,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/tianyu-su/sdu-theis-template",
+    "description": "山东大学硕（博）学位论文模板（word版）",
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "watchers_count": 4,
+    "subscribers_count": 1,
+    "pushed_at": "2023-01-20T17:05:35Z",
+    "created_at": "2023-01-20T10:20:28Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 5979,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/tinoryj/UESTC-Thesis-Latex-Template",
     "description": "UESTC Thesis Latex Template 2023. It fully supports the latest format specification in 2023, supports independent symbol table, abbreviation table, and complete and fully customizable Academic/Professional-Master/PhD covers.",
     "stargazers_count": 234,
@@ -8189,6 +9501,22 @@
     "archived": false,
     "visibility": "public",
     "size": 25758,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/tompollard/phd_thesis_markdown",
+    "description": "Template for writing a PhD thesis in Markdown",
+    "stargazers_count": 1145,
+    "forks_count": 534,
+    "watchers_count": 1145,
+    "subscribers_count": 31,
+    "pushed_at": "2023-05-23T16:12:54Z",
+    "created_at": "2015-02-10T10:32:25Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 55228,
     "organization": null
   },
   {
@@ -8237,6 +9565,22 @@
     "archived": false,
     "visibility": "public",
     "size": 6074,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/tuxu/ethz-thesis",
+    "description": "LaTeX template for a PhD thesis at ETH Zurich",
+    "stargazers_count": 82,
+    "forks_count": 38,
+    "watchers_count": 82,
+    "subscribers_count": 4,
+    "pushed_at": "2017-03-04T13:12:17Z",
+    "created_at": "2017-03-01T16:56:28Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 304,
     "organization": null
   },
   {
@@ -8368,6 +9712,70 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/ulyngs/oxforddown",
+    "description": "Template for writing an Oxford University thesis in R Markdown; uses the OxThesis LaTeX template and was inspired by thesisdown.",
+    "stargazers_count": 212,
+    "forks_count": 81,
+    "watchers_count": 212,
+    "subscribers_count": 8,
+    "pushed_at": "2023-01-10T10:13:57Z",
+    "created_at": "2018-11-30T00:21:33Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 38040,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/umasscs/umassthesis",
+    "description": "Unofficial UMass thesis style files for use with LaTeX",
+    "stargazers_count": 55,
+    "forks_count": 42,
+    "watchers_count": 55,
+    "subscribers_count": 14,
+    "pushed_at": "2022-02-17T17:28:13Z",
+    "created_at": "2011-11-03T17:13:12Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 329,
+    "organization": "umasscs"
+  },
+  {
+    "html_url": "https://github.com/ustctug/ustcbeamer",
+    "description": "USTC Beamer 模板（基于学校公用 PPT 模板）",
+    "stargazers_count": 215,
+    "forks_count": 54,
+    "watchers_count": 215,
+    "subscribers_count": 9,
+    "pushed_at": "2022-07-26T06:50:32Z",
+    "created_at": "2015-03-17T04:46:43Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2067,
+    "organization": "ustctug"
+  },
+  {
+    "html_url": "https://github.com/ustctug/ustclyx",
+    "description": "LyX template for USTC  thesis ",
+    "stargazers_count": 39,
+    "forks_count": 7,
+    "watchers_count": 39,
+    "subscribers_count": 9,
+    "pushed_at": "2022-07-29T08:13:45Z",
+    "created_at": "2014-03-13T01:09:27Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 146,
+    "organization": "ustctug"
+  },
+  {
     "html_url": "https://github.com/ustctug/ustcthesis",
     "description": "LaTeX template for USTC thesis",
     "stargazers_count": 1358,
@@ -8397,6 +9805,22 @@
     "archived": false,
     "visibility": "public",
     "size": 1484,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/vidon/pkuthssLyX",
+    "description": "A LyX template for thesis of Peking University",
+    "stargazers_count": 5,
+    "forks_count": 2,
+    "watchers_count": 5,
+    "subscribers_count": 2,
+    "pushed_at": "2016-06-04T00:45:35Z",
+    "created_at": "2016-06-28T09:51:15Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1609,
     "organization": null
   },
   {
@@ -8525,6 +9949,22 @@
     "archived": false,
     "visibility": "public",
     "size": 3106,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/wengan-li/ncku-thesis-template-latex",
+    "description": "NCKU Thesis/Dissertation Template in Latex | 台灣國立成功大學碩博士用畢業論文LaTex模板",
+    "stargazers_count": 76,
+    "forks_count": 30,
+    "watchers_count": 76,
+    "subscribers_count": 5,
+    "pushed_at": "2023-01-29T09:43:24Z",
+    "created_at": "2014-10-13T16:32:32Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 118886,
     "organization": null
   },
   {
@@ -8944,6 +10384,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/xmicroshell/UCAS-Thesis",
+    "description": "中国科学院大学学位论文 Word模板",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "watchers_count": 3,
+    "subscribers_count": 2,
+    "pushed_at": "2021-03-17T11:03:45Z",
+    "created_at": "2021-03-14T13:29:59Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 849,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/xmlu/hduthesis",
     "description": "杭州电子科技大学硕士学位论文LaTeX模版",
     "stargazers_count": 1,
@@ -9120,6 +10576,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/yl3dy/mipt-thesis",
+    "description": "Шаблон для дипломов в МФТИ",
+    "stargazers_count": 72,
+    "forks_count": 19,
+    "watchers_count": 72,
+    "subscribers_count": 2,
+    "pushed_at": "2022-05-25T09:26:31Z",
+    "created_at": "2016-06-03T11:07:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 20,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/ymrl/thesis-template",
     "description": "SFCの修士論文に（たぶん）準拠したLaTeXテンプレート",
     "stargazers_count": 41,
@@ -9280,6 +10752,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/yyz98799/zjutthesis",
+    "description": "ZJUT XeLaTeX template of graduation project",
+    "stargazers_count": 21,
+    "forks_count": 14,
+    "watchers_count": 21,
+    "subscribers_count": 14,
+    "pushed_at": "2022-08-09T02:09:50Z",
+    "created_at": "2013-06-26T08:55:39Z",
+    "private": false,
+    "fork": true,
+    "archived": true,
+    "visibility": "public",
+    "size": 31815,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/yzbrlan/fudan-thesis-latex-template",
     "description": "复旦论文latex模版，包括毕业论文模版，普通课程论文模版(带封皮)",
     "stargazers_count": 40,
@@ -9325,6 +10813,22 @@
     "archived": false,
     "visibility": "public",
     "size": 10737,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/zarrabi/thesis-template",
+    "description": "A LaTeX template for typesetting theses in Persian",
+    "stargazers_count": 76,
+    "forks_count": 29,
+    "watchers_count": 76,
+    "subscribers_count": 1,
+    "pushed_at": "2023-06-17T21:41:02Z",
+    "created_at": "2017-08-25T23:01:34Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2007,
     "organization": null
   },
   {
@@ -9440,6 +10944,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template",
+    "description": "浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板",
+    "stargazers_count": 116,
+    "forks_count": 29,
+    "watchers_count": 116,
+    "subscribers_count": 2,
+    "pushed_at": "2017-06-04T02:27:22Z",
+    "created_at": "2017-03-28T13:50:20Z",
+    "private": false,
+    "fork": false,
+    "archived": true,
+    "visibility": "public",
+    "size": 1008,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/zhangzhanluo/SJTU-thesis-template",
     "description": "上海交通大学研究生学位论文模板",
     "stargazers_count": 32,
@@ -9485,6 +11005,22 @@
     "archived": false,
     "visibility": "public",
     "size": 8080,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/zhong-yy/CSU_Thesis_Proposal",
+    "description": "中南大学研究生学位论文开题报告LaTeX模板",
+    "stargazers_count": 10,
+    "forks_count": 5,
+    "watchers_count": 10,
+    "subscribers_count": 0,
+    "pushed_at": "2021-11-19T06:49:49Z",
+    "created_at": "2018-11-21T12:27:21Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 268,
     "organization": null
   },
   {
@@ -9597,6 +11133,22 @@
     "archived": false,
     "visibility": "public",
     "size": 415,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/zzhang1987/NPUResearchProposal",
+    "description": " 西北工业大学博士开题报告XeLaTeX模板",
+    "stargazers_count": 8,
+    "forks_count": 6,
+    "watchers_count": 8,
+    "subscribers_count": 2,
+    "pushed_at": "2015-07-23T10:03:11Z",
+    "created_at": "2014-10-09T04:34:27Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 333,
     "organization": null
   },
   {
