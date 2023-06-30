@@ -28,7 +28,7 @@
 [CTAN](http://ctan.org/)。
 
 部分长期不活跃的模板不在首页继续展示，可以在[数据文件](data/repo-data-thesis.json)等中查看。
-按按国家（地区）、模板类型（论文、开题报告、简历、通用、Beamer、其他等）、
+按按国家（地区）、模板类型（论文、开题报告、简历、通用、Beamer等）、
 LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
 可以在[本仓库等Wiki](https://github.com/hantang/awesome-latex-templates/wiki/)
 或[wiki.md](wiki.md)中查找。
@@ -135,7 +135,7 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * 🚀2014/07/09→2023/05/10,👀1.4k,🤟1.4k,👍705
   * ![Stars](https://img.shields.io/github/stars/mszep/pandoc_resume.svg) ![Forks](https://img.shields.io/github/forks/mszep/pandoc_resume.svg)
 * [bamos/cv](https://github.com/bamos/cv):
-  * ``
+  * 
   * 🚀2013/12/29→2023/06/18,👀383,🤟383,👍131
   * ![Stars](https://img.shields.io/github/stars/bamos/cv.svg) ![Forks](https://img.shields.io/github/forks/bamos/cv.svg)
 * [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv):
