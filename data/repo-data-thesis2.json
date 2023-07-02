@@ -363,6 +363,13 @@
         "links": [
           "https://github.com/andelf/ruc-beamer-template"
         ]
+      },
+      {
+        "zh": "大连理工大学",
+        "en": "Dalian University of Technology",
+        "links": [
+          "https://github.com/fuujiro/DLUT-Beamer-Slide-V2"
+        ]
       }
     ],
     "美国地区高校": [
@@ -388,7 +395,9 @@
           "https://github.com/sppmg/TW_Thesis_Template",
           "https://github.com/suchow/Dissertate",
           "https://github.com/tdehaeze/clean-latex-template",
-          "https://github.com/zarrabi/thesis-template"
+          "https://github.com/zarrabi/thesis-template",
+          "https://github.com/WetenSchaap/latex-imitatie",
+          "https://github.com/dimkirt/latex-thesis-template"
         ]
       }
     ]
