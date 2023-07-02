@@ -1,4 +1,5 @@
 # LaTeX等模板（论文模板为主）收藏
+
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/collection-latex-templates)
 [![GitHub Stars Badge](https://img.shields.io/github/stars/hantang/awesome-latex-templates.svg)](https://github.com/hantang/awesome-latex-templates/stargazers)
 [![GitHub Forks Badge](https://img.shields.io/github/forks/hantang/awesome-latex-templates.svg)](https://github.com/hantang/awesome-latex-templates/network/members)
