@@ -82,8 +82,8 @@
         "zh": "北京林业大学",
         "en": "Beijing Forestry University",
         "links": [
-          "https://github.com/ufo5260987423/BjfuLatexTemplate",
-          "https://github.com/DeeDive/BJFUThesis"
+          "https://github.com/DeeDive/BJFUThesis",
+          "https://github.com/ufo5260987423/BjfuLatexTemplate"
         ]
       },
       {
@@ -144,8 +144,8 @@
         "zh": "重庆邮电大学",
         "en": "Chongqing University of Posts and Telecommunications",
         "links": [
-          "https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template",
           "https://github.com/AutOMaN-me/CQUPTtex",
+          "https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template",
           "https://github.com/lusccc/cqupt-thesis",
           "https://github.com/mequanwei/CQUPTThesis"
         ]
@@ -225,9 +225,9 @@
         "en": "Northeast Normal University",
         "links": [
           "https://github.com/BENZJ/NNU_Latex_temple",
+          "https://github.com/chenpx976/nenuthesis",
           "https://github.com/tiankonguse/NENUCSThesis",
-          "https://github.com/wuyanglee/LaTeX_template_for_Thesis_NENU",
-          "https://github.com/chenpx976/nenuthesis"
+          "https://github.com/wuyanglee/LaTeX_template_for_Thesis_NENU"
         ]
       },
       {
@@ -1034,8 +1034,8 @@
         "zh": "西南财经大学",
         "en": "Southwestern University of Finance and Economics",
         "links": [
-          "https://github.com/sierxue/ThesisSWUFE",
-          "https://github.com/OopsYao/swufethesis"
+          "https://github.com/OopsYao/swufethesis",
+          "https://github.com/sierxue/ThesisSWUFE"
         ]
       },
       {
@@ -1236,8 +1236,8 @@
           "https://github.com/HughYau/RUCthesis-for-Bachelor",
           "https://github.com/MelodyRen1998/ruc-thesis-template-via-bookdown",
           "https://github.com/ZebinWang/ructhesis",
-          "https://github.com/tnoa77/RUC_Thesis_2019",
-          "https://github.com/abuccts/ructhesis"
+          "https://github.com/abuccts/ructhesis",
+          "https://github.com/tnoa77/RUC_Thesis_2019"
         ]
       },
       {
@@ -1275,6 +1275,7 @@
         "en": "Sun Yat-sen University",
         "links": [
           "https://github.com/1FCENdoge/SYSUThesis",
+          "https://github.com/DapengFeng/sysuthesis",
           "https://github.com/Lovely-XPP/SYSU-thesis",
           "https://github.com/SYSU-SCC/sysu-thesis",
           "https://github.com/ShevaXu/LatexThesis4SYSU",
@@ -1283,8 +1284,7 @@
           "https://github.com/guoyl6/thesis-dev",
           "https://github.com/irenier/sysuthesis",
           "https://github.com/kuiqx/biyelunwen",
-          "https://github.com/zhibo/sysuthesis",
-          "https://github.com/DapengFeng/sysuthesis"
+          "https://github.com/zhibo/sysuthesis"
         ]
       },
       {
@@ -1297,51 +1297,11 @@
     ],
     "中国港澳台地区高校": [
       {
-        "zh": "香港大学",
-        "en": "University of Hong Kong (UHK)",
-        "links": [
-          "https://github.com/guanyingc/HKU-PhD-Thesis-LaTex",
-          "https://github.com/monaen/HKU-Thesis-Template"
-        ]
-      },
-      {
-        "zh": "香港城市大学",
-        "en": "City University of Hong Kong (CityU)",
-        "links": [
-          "https://github.com/huwan/CityU-Thesis",
-          "https://github.com/huwan/cleanthesis-cityu"
-        ]
-      },
-      {
-        "zh": "香港科技大学",
-        "en": "Hong Kong University Of Science And Technology (HUST)",
-        "links": [
-          "https://github.com/fcyu/HKUST_PhD_MPhil_thesis_Latex",
-          "https://github.com/onlytailei/HKUST_latex_thesis_2019"
-        ]
-      },
-      {
-        "zh": "香港理工大学",
-        "en": "Hong Kong Polytechnic University (PolyU)",
-        "links": [
-          "https://github.com/edwardtoday/hkputhesis",
-          "https://github.com/quxiaofeng/PolyU_thesis_template"
-        ]
-      },
-      {
-        "zh": "香港中文大学",
-        "en": "Chinese University of Hong Kong (CUHK)",
-        "links": [
-          "https://github.com/cllu/CUHK-Thesis-Template",
-          "https://github.com/lixin4ever/CUHK-PHD-Thesis-Template"
-        ]
-      },
-      {
         "zh": "澳门科技大学",
         "en": "Macau University of Science and Technology (MUST)",
         "links": [
-          "https://github.com/iihciyekub/MUST-Thesis",
-          "https://github.com/Tim-eyes/MUST_Thesis_Template"
+          "https://github.com/Tim-eyes/MUST_Thesis_Template",
+          "https://github.com/iihciyekub/MUST-Thesis"
         ]
       },
       {
@@ -1391,6 +1351,46 @@
         "en": "National Taiwan University of Science and Technology (NTUST)",
         "links": [
           "https://github.com/hadziq/ntust-thesis"
+        ]
+      },
+      {
+        "zh": "香港城市大学",
+        "en": "City University of Hong Kong (CityU)",
+        "links": [
+          "https://github.com/huwan/CityU-Thesis",
+          "https://github.com/huwan/cleanthesis-cityu"
+        ]
+      },
+      {
+        "zh": "香港大学",
+        "en": "University of Hong Kong (UHK)",
+        "links": [
+          "https://github.com/guanyingc/HKU-PhD-Thesis-LaTex",
+          "https://github.com/monaen/HKU-Thesis-Template"
+        ]
+      },
+      {
+        "zh": "香港科技大学",
+        "en": "Hong Kong University Of Science And Technology (HUST)",
+        "links": [
+          "https://github.com/fcyu/HKUST_PhD_MPhil_thesis_Latex",
+          "https://github.com/onlytailei/HKUST_latex_thesis_2019"
+        ]
+      },
+      {
+        "zh": "香港理工大学",
+        "en": "Hong Kong Polytechnic University (PolyU)",
+        "links": [
+          "https://github.com/edwardtoday/hkputhesis",
+          "https://github.com/quxiaofeng/PolyU_thesis_template"
+        ]
+      },
+      {
+        "zh": "香港中文大学",
+        "en": "Chinese University of Hong Kong (CUHK)",
+        "links": [
+          "https://github.com/cllu/CUHK-Thesis-Template",
+          "https://github.com/lixin4ever/CUHK-PHD-Thesis-Template"
         ]
       }
     ],
@@ -1480,6 +1480,13 @@
         ]
       },
       {
+        "zh": "（美国）马萨诸塞大学",
+        "en": "University of Massachusetts (UMass)",
+        "links": [
+          "https://github.com/umasscs/umassthesis"
+        ]
+      },
+      {
         "zh": "（美国）密歇根州立大学",
         "en": "Michigan State University",
         "links": [
@@ -1528,100 +1535,9 @@
         "links": [
           "https://github.com/weitzner/jhu-thesis-template"
         ]
-      },
-      {
-        "zh": "（美国）马萨诸塞大学",
-        "en": "University of Massachusetts (UMass)",
-        "links": [
-          "https://github.com/umasscs/umassthesis"
-        ]
       }
     ],
     "其他国家（地区）高校": [
-      {
-        "zh": "（希腊）雅典国家技术大学",
-        "en": "National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο, NTUA)",
-        "links": [
-          "https://github.com/estamos/NTUA-ECE-Thesis-Template"
-        ]
-      },
-      {
-        "zh": "（德国）康斯坦茨应用科技大学",
-        "en": "Konstanz University of Applied Sciences (Hochschule Konstanz HTWG )",
-        "links": [
-          "https://github.com/AihamAbusaleh/thesis-template-latex"
-        ]
-      },
-      {
-        "zh": "（西班牙）马德里理工大学",
-        "en": "Technical University of Madrid (Universidad Politécnica de Madrid, UPM)",
-        "links": [
-          "https://github.com/ricardolopezgr/TFG-TFM-template"
-        ]
-      },
-      {
-        "zh": "（英国）帝国理工学院",
-        "en": "Imperial College London (IC)",
-        "links": [
-          "https://github.com/blaahhrrgg/icldiss"
-        ]
-      },
-      {
-        "zh": "（罗马尼亚）雅西“亚历山德鲁·杨·库扎”大学",
-        "en": "Alexandru Ioan Cuza University of Iasi („Alexandru Ioan Cuza” University of Iași, UAIC)",
-        "links": [
-          "https://github.com/blankdots/LatexThesisTemplate"
-        ]
-      },
-      {
-        "zh": "（挪威）奥斯陆大学",
-        "en": "University of Oslo (Universitetet i Oslo)",
-        "links": [
-          "https://github.com/uio-latex/phduio-monograph"
-        ]
-      },
-      {
-        "zh": "（匈牙利）罗兰大学",
-        "en": "Eötvös Loránd University (Eötvös Loránd Tudományegyetem, ELTE)",
-        "links": [
-          "https://github.com/mcserep/elteiktdk"
-        ]
-      },
-      {
-        "zh": "（西班牙）马拉加大学",
-        "en": "University of Malaga (Universidad de Málaga, UMA)",
-        "links": [
-          "https://github.com/benhid/TFG-UMA"
-        ]
-      },
-      {
-        "zh": "（加拿大）滑铁卢大学",
-        "en": "University of Waterloo",
-        "links": [
-          "https://github.com/mohuangrui/uwaterloothesis"
-        ]
-      },
-      {
-        "zh": "（加拿大）康考迪亚大学",
-        "en": "Concordia University",
-        "links": [
-          "https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students"
-        ]
-      },
-      {
-        "zh": "（俄罗斯）莫斯科罗蒙诺索夫国立大学",
-        "en": "Lomonosov Moscow State University (Московский государственный университет имени М.В.Ломоносова, MSU)",
-        "links": [
-          "https://github.com/SweetVishnya/msu-thesis"
-        ]
-      },
-      {
-        "zh": "（俄罗斯）莫斯科国立航空学院",
-        "en": "Moscow Aviation Institute (Московский авиационный институт, МАИ)",
-        "links": [
-          "https://github.com/NetherQuartz/BachelorThesis"
-        ]
-      },
       {
         "zh": "（澳大利亚）昆士兰科技大学",
         "en": "Queensland University of Technology",
@@ -1665,6 +1581,13 @@
         ]
       },
       {
+        "zh": "（德国）康斯坦茨应用科技大学",
+        "en": "Konstanz University of Applied Sciences (Hochschule Konstanz HTWG )",
+        "links": [
+          "https://github.com/AihamAbusaleh/thesis-template-latex"
+        ]
+      },
+      {
         "zh": "（德国）慕尼黑工业大学",
         "en": "Technical University of Munich (Technische Universität München)",
         "links": [
@@ -1672,6 +1595,20 @@
           "https://github.com/fwalch/tum-thesis-latex",
           "https://github.com/nnedkov/tum-thesis-latex",
           "https://github.com/waltsims/TUM_Thesis_Template_CSE"
+        ]
+      },
+      {
+        "zh": "（俄罗斯）莫斯科国立航空学院",
+        "en": "Moscow Aviation Institute (Московский авиационный институт, МАИ)",
+        "links": [
+          "https://github.com/NetherQuartz/BachelorThesis"
+        ]
+      },
+      {
+        "zh": "（俄罗斯）莫斯科罗蒙诺索夫国立大学",
+        "en": "Lomonosov Moscow State University (Московский государственный университет имени М.В.Ломоносова, MSU)",
+        "links": [
+          "https://github.com/SweetVishnya/msu-thesis"
         ]
       },
       {
@@ -1700,6 +1637,34 @@
         "en": "University of Toronto",
         "links": [
           "https://github.com/jessexknight/ut-thesis"
+        ]
+      },
+      {
+        "zh": "（加拿大）滑铁卢大学",
+        "en": "University of Waterloo",
+        "links": [
+          "https://github.com/mohuangrui/uwaterloothesis"
+        ]
+      },
+      {
+        "zh": "（加拿大）康考迪亚大学",
+        "en": "Concordia University",
+        "links": [
+          "https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students"
+        ]
+      },
+      {
+        "zh": "（罗马尼亚）雅西“亚历山德鲁·杨·库扎”大学",
+        "en": "Alexandru Ioan Cuza University of Iasi („Alexandru Ioan Cuza” University of Iași, UAIC)",
+        "links": [
+          "https://github.com/blankdots/LatexThesisTemplate"
+        ]
+      },
+      {
+        "zh": "（挪威）奥斯陆大学",
+        "en": "University of Oslo (Universitetet i Oslo)",
+        "links": [
+          "https://github.com/uio-latex/phduio-monograph"
         ]
       },
       {
@@ -1767,6 +1732,27 @@
         ]
       },
       {
+        "zh": "（西班牙）马德里理工大学",
+        "en": "Technical University of Madrid (Universidad Politécnica de Madrid, UPM)",
+        "links": [
+          "https://github.com/ricardolopezgr/TFG-TFM-template"
+        ]
+      },
+      {
+        "zh": "（西班牙）马拉加大学",
+        "en": "University of Malaga (Universidad de Málaga, UMA)",
+        "links": [
+          "https://github.com/benhid/TFG-UMA"
+        ]
+      },
+      {
+        "zh": "（希腊）雅典国家技术大学",
+        "en": "National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο, NTUA)",
+        "links": [
+          "https://github.com/estamos/NTUA-ECE-Thesis-Template"
+        ]
+      },
+      {
         "zh": "新加坡国立大学",
         "en": "National University of Singapore",
         "links": [
@@ -1783,6 +1769,13 @@
         ]
       },
       {
+        "zh": "（匈牙利）罗兰大学",
+        "en": "Eötvös Loránd University (Eötvös Loránd Tudományegyetem, ELTE)",
+        "links": [
+          "https://github.com/mcserep/elteiktdk"
+        ]
+      },
+      {
         "zh": "（伊朗）德黑兰大学",
         "en": "University of Tehran (دانشگاه تهران , UT)",
         "links": [
@@ -1794,6 +1787,13 @@
         "en": "University of Gadjah Mada (Universitas Gadjah Mada, UGM)",
         "links": [
           "https://github.com/canggihpw/thesisdtetiugm"
+        ]
+      },
+      {
+        "zh": "（英国）帝国理工学院",
+        "en": "Imperial College London (IC)",
+        "links": [
+          "https://github.com/blaahhrrgg/icldiss"
         ]
       },
       {

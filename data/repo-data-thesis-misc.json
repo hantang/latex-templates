@@ -322,6 +322,13 @@
   "学术演示文稿（LaTeX Beamer）": {
     "中国内地（大陆）高校": [
       {
+        "zh": "大连理工大学",
+        "en": "Dalian University of Technology",
+        "links": [
+          "https://github.com/fuujiro/DLUT-Beamer-Slide-V2"
+        ]
+      },
+      {
         "zh": "东南大学",
         "en": "Southeast University",
         "links": [
@@ -362,13 +369,6 @@
         "en": "Renmin University of China",
         "links": [
           "https://github.com/andelf/ruc-beamer-template"
-        ]
-      },
-      {
-        "zh": "大连理工大学",
-        "en": "Dalian University of Technology",
-        "links": [
-          "https://github.com/fuujiro/DLUT-Beamer-Slide-V2"
         ]
       }
     ],
