@@ -6,17 +6,17 @@
           "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
           "https://github.com/Digital-Media/HagenbergThesis",
           "https://github.com/Pseudomanifold/latex-mimosis",
+          "https://github.com/WetenSchaap/latex-imitatie",
           "https://github.com/derric/cleanthesis",
+          "https://github.com/dimkirt/latex-thesis-template",
+          "https://github.com/jankapunkt/master-thesis",
+          "https://github.com/jorgepiloto/escriba",
           "https://github.com/latextemplates/scientific-thesis-template",
           "https://github.com/phretor/cs-phd-dissertation-latex-template",
           "https://github.com/sppmg/TW_Thesis_Template",
           "https://github.com/suchow/Dissertate",
           "https://github.com/tdehaeze/clean-latex-template",
-          "https://github.com/zarrabi/thesis-template",
-          "https://github.com/WetenSchaap/latex-imitatie",
-          "https://github.com/dimkirt/latex-thesis-template",
-          "https://github.com/jankapunkt/master-thesis",
-          "https://github.com/jorgepiloto/escriba"
+          "https://github.com/zarrabi/thesis-template"
         ]
       }
     ],
@@ -41,20 +41,20 @@
     "通用LaTeX模板": [
       {
         "links": [
+          "https://github.com/ElegantLaTeX/ElegantBook",
+          "https://github.com/alexpovel/latex-cookbook",
           "https://github.com/annProg/PanBook",
           "https://github.com/fmarotta/kaobook",
-          "https://github.com/ElegantLaTeX/ElegantBook",
           "https://github.com/rorygregson/OSCOLA-LaTeX-Template",
-          "https://github.com/thesfinox/latex-commons",
-          "https://github.com/alexpovel/latex-cookbook"
+          "https://github.com/thesfinox/latex-commons"
         ]
       }
     ],
     "LaTeX绘图": [
       {
         "links": [
-          "https://github.com/xinychen/awesome-latex-drawing",
-          "https://github.com/xinychen/academic-drawing"
+          "https://github.com/xinychen/academic-drawing",
+          "https://github.com/xinychen/awesome-latex-drawing"
         ]
       }
     ]
@@ -76,8 +76,8 @@
     "LaTeX收藏": [
       {
         "links": [
-          "https://github.com/dustinvtran/latex-templates",
           "https://github.com/XiangyunHuang/awesome-beamers",
+          "https://github.com/dustinvtran/latex-templates",
           "https://github.com/martinbjeldbak/ultimate-beamer-theme-list"
         ]
       }
@@ -86,8 +86,8 @@
       {
         "links": [
           "https://github.com/hushidong/biblatex-gb7714-2015",
-          "https://github.com/zepinglee/gbt7714-bibtex-style",
-          "https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl"
+          "https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl",
+          "https://github.com/zepinglee/gbt7714-bibtex-style"
         ]
       }
     ],
