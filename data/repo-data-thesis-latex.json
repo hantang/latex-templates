@@ -145,7 +145,7 @@
         "en": "Chongqing University of Posts and Telecommunications",
         "links": [
           "https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template",
-          "https://github.com/Matataya/CQUPTtex",
+          "https://github.com/AutOMaN-me/CQUPTtex",
           "https://github.com/lusccc/cqupt-thesis",
           "https://github.com/mequanwei/CQUPTThesis"
         ]
@@ -911,7 +911,6 @@
           "https://github.com/NotoOotori/tjuthesis",
           "https://github.com/SXKDZ/tongjithesis",
           "https://github.com/TJ-CSCCG/tongji-undergrad-thesis",
-          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis-env",
           "https://github.com/hang-qi/tongji-thesis",
           "https://github.com/linxdcn/TongjiThesis",
           "https://github.com/marquistj13/TongjiThesis",
@@ -1307,18 +1306,18 @@
       },
       {
         "zh": "香港城市大学",
-        "en": "University of Hong Kong (UHK)",
-        "links": [
-          "https://github.com/guanyingc/HKU-PhD-Thesis-LaTex",
-          "https://github.com/monaen/HKU-Thesis-Template"
-        ]
-      },
-      {
-        "zh": "香港科技大学",
         "en": "City University of Hong Kong (CityU)",
         "links": [
           "https://github.com/huwan/CityU-Thesis",
           "https://github.com/huwan/cleanthesis-cityu"
+        ]
+      },
+      {
+        "zh": "香港科技大学",
+        "en": "Hong Kong University Of Science And Technology (HUST)",
+        "links": [
+          "https://github.com/fcyu/HKUST_PhD_MPhil_thesis_Latex",
+          "https://github.com/onlytailei/HKUST_latex_thesis_2019"
         ]
       },
       {

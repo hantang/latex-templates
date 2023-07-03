@@ -381,25 +381,5 @@
         ]
       }
     ]
-  },
-  "学位论文模板（LaTeX通用类型）": {
-    "通用类型": [
-      {
-        "links": [
-          "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
-          "https://github.com/Digital-Media/HagenbergThesis",
-          "https://github.com/Pseudomanifold/latex-mimosis",
-          "https://github.com/derric/cleanthesis",
-          "https://github.com/latextemplates/scientific-thesis-template",
-          "https://github.com/phretor/cs-phd-dissertation-latex-template",
-          "https://github.com/sppmg/TW_Thesis_Template",
-          "https://github.com/suchow/Dissertate",
-          "https://github.com/tdehaeze/clean-latex-template",
-          "https://github.com/zarrabi/thesis-template",
-          "https://github.com/WetenSchaap/latex-imitatie",
-          "https://github.com/dimkirt/latex-thesis-template"
-        ]
-      }
-    ]
   }
 }
