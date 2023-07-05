@@ -268,6 +268,13 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `中文排版所需遵循的标准和规范`
   * 🚀2013/09/15→2020/06/16,👀619,🤟619,👍103
   * ![Stars](https://img.shields.io/github/stars/Haixing-Hu/typesetting-standard.svg) ![Forks](https://img.shields.io/github/forks/Haixing-Hu/typesetting-standard.svg)
+* [W3C-中文排版需求](https://www.w3.org/TR/clreq/)
+
+> 以上大部分是建议和参考，其中有一些其实是不合理的，
+> 譬如一些人建议的中英文之间加上空格。
+> 
+> 排版某种程度而言是个性化的，个人审美与趣味。
+> 理论上在纸张上任意的文字和符号书写都能得到合适的印刷（电子）排版，但似乎缺少提纲挈领的方案。
 
 ---
 
