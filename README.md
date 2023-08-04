@@ -81,8 +81,11 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * 🚀2017/02/18→2023/05/27,👀648,🤟648,👍170
   * ![Stars](https://img.shields.io/github/stars/stone-zeng/fduthesis.svg) ![Forks](https://img.shields.io/github/forks/stone-zeng/fduthesis.svg)
 
-## LaTeX学术论文模板
+---
 
+## LaTeX学术论文模板
+<details>
+  <summary>Details</summary>
 * [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template):
   * `LaTeX-template for russian Phd thesis`
   * 🚀2012/10/29→2021/12/09,👀1.2k,🤟1.2k,👍611
@@ -139,9 +142,13 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.`
   * 🚀2012/05/14→2012/05/14,👀18,🤟18,👍8
   * ![Stars](https://img.shields.io/github/stars/phretor/cs-phd-dissertation-latex-template.svg) ![Forks](https://img.shields.io/github/forks/phretor/cs-phd-dissertation-latex-template.svg)
+</details>
+
+---
 
 ## LaTeX简历模板
-
+<details>
+  <summary>Details</summary>
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV):
   * `:page_facing_up: Awesome CV is LaTeX template for your outstanding job application`
   * 🚀2015/01/18→2023/06/30,👀19.5k,🤟19.5k,👍4.4k
@@ -190,9 +197,14 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `My CV/resume in LaTeX.`
   * 🚀2011/09/19→2016/10/09,👀493,🤟493,👍133
   * ![Stars](https://img.shields.io/github/stars/sc932/resume.svg) ![Forks](https://img.shields.io/github/forks/sc932/resume.svg)
+</details>
+
+---
 
 ## LaTeX通用模板
 
+<details>
+  <summary>Details</summary>
 * [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook):
   * `Elegant LaTeX Template for Books`
   * 🚀2019/01/15→2022/12/31,👀1.7k,🤟1.7k,👍344
@@ -217,9 +229,11 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `Common custom commands and classes in LaTeX`
   * 🚀2020/06/10→2023/05/16,👀1,🤟1,👍0
   * ![Stars](https://img.shields.io/github/stars/thesfinox/latex-commons.svg) ![Forks](https://img.shields.io/github/forks/thesfinox/latex-commons.svg)
+</details>
 
 ## LaTeX绘图
-
+<details>
+  <summary>Details</summary>
 * [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing):
   * `Drawing Bayesian networks, graphical models, tensors, and technical frameworks and illustrations in LaTeX.`
   * 🚀2019/01/11→2023/03/31,👀1.1k,🤟1.1k,👍147
@@ -228,7 +242,11 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `Providing codes (including Matlab and Python) for visualizing numerical experiment results.`
   * 🚀2018/06/14→2019/09/27,👀172,🤟172,👍40
   * ![Stars](https://img.shields.io/github/stars/xinychen/academic-drawing.svg) ![Forks](https://img.shields.io/github/forks/xinychen/academic-drawing.svg)
+</details>
+
 ## LaTeX收藏
+<details>
+  <summary>Details</summary>
 
 * [martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list):
   * `A collection of Beamer themes from the community`
@@ -242,9 +260,11 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `beamer template collection`
   * 🚀2017/06/11→2019/06/14,👀213,🤟213,👍76
   * ![Stars](https://img.shields.io/github/stars/XiangyunHuang/awesome-beamers.svg) ![Forks](https://img.shields.io/github/forks/XiangyunHuang/awesome-beamers.svg)
+</details>
 
 ## 文献引用
-
+<details>
+  <summary>Details</summary>
 * [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl):
   * `GB/T 7714相关的csl以及Zotero使用技巧及教程。`
   * 🚀2020/12/16→2023/07/02,👀2.8k,🤟2.8k,👍649
@@ -257,9 +277,12 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
   * `A biblatex implementation of the GB/T7714-2015 bibliography style  || GB/T 7714-2015 参考文献著录和标注的biblatex样式包`
   * 🚀2016/10/12→2023/05/27,👀631,🤟631,👍76
   * ![Stars](https://img.shields.io/github/stars/hushidong/biblatex-gb7714-2015.svg) ![Forks](https://img.shields.io/github/forks/hushidong/biblatex-gb7714-2015.svg)
+</details>
 
 ## 排版相关
 
+<details>
+  <summary>Details</summary>
 * [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines):
   * `Chinese copywriting guidelines for better written communication／中文文案排版指北`
   * 🚀2014/03/17→2023/03/13,👀12.9k,🤟12.9k,👍1.8k
@@ -275,6 +298,8 @@ LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）
 > 
 > 排版某种程度而言是个性化的，个人审美与趣味。
 > 理论上在纸张上任意的文字和符号书写都能得到合适的印刷（电子）排版，但似乎缺少提纲挈领的方案。
+
+</details>
 
 ---
 
