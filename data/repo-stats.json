@@ -2128,6 +2128,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/MLNLP-World/Paper-Picture-Writing-Code",
+    "description": "MLNLP: Paper Picture Writing Code",
+    "stargazers_count": 830,
+    "forks_count": 97,
+    "watchers_count": 830,
+    "subscribers_count": 16,
+    "pushed_at": "2022-11-05T10:44:56Z",
+    "created_at": "2022-07-25T14:55:04Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 6232,
+    "organization": "MLNLP-World"
+  },
+  {
     "html_url": "https://github.com/MUCVIP/mucthesis",
     "description": "中央民族大学学位论文Latex模板",
     "stargazers_count": 0,
@@ -9806,6 +9822,22 @@
     "visibility": "public",
     "size": 4956,
     "organization": null
+  },
+  {
+    "html_url": "https://github.com/synercys/annotated_latex_equations",
+    "description": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
+    "stargazers_count": 3484,
+    "forks_count": 189,
+    "watchers_count": 3484,
+    "subscribers_count": 37,
+    "pushed_at": "2022-07-12T23:11:07Z",
+    "created_at": "2022-01-10T02:22:42Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 684,
+    "organization": "synercys"
   },
   {
     "html_url": "https://github.com/szsdk/LZUthesis",
