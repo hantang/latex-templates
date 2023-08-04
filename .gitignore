@@ -11,6 +11,5 @@ $RECYCLE.BIN/
 
 # misc
 temp/
-tmp/
 backup/
-bak/
+src/
