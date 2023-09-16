@@ -321,6 +321,10 @@ LaTeX 或非 LaTeX 语言（Microsoft Word、Markdown、Lyx、Typst 等）
 
 ---
 
+## Stars
+
+![Stargazers over time](https://starchart.cc/hantang/latex-templates.svg)
+
 ## 贡献
 
 WIP
