@@ -1,15 +1,18 @@
-# VisualStudioCode
-.vscode/*
-
-# os
-*~
-[Dd]esktop.ini
-$RECYCLE.BIN/
+# macos
 .DS_Store
-.AppleDouble
-.LSOverride
 
-# misc
-temp/
+# linux
+*~
+
+# ide
+.vscode/
+.idea/
+
+# more
+.trash/
+back/
 backup/
+tmp/
+temp/
+todo/
 src/
