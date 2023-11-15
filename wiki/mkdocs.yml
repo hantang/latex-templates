@@ -73,22 +73,22 @@ markdown_extensions:
 nav:
   - Home: 
       说明: index.md
-      中国内地（大陆）高校: 1.1-中国内地（大陆）高校.md
-      中国港澳台地区高校: 1.2-中国港澳台地区高校.md
-      美国地区高校: 1.3-美国地区高校.md
-      其他国家（地区）高校: 1.4-其他国家（地区）高校.md
-      其他LaTeX模板: 2.0-其他LaTeX模板.md
-      非LaTeX模板: 3.0-非LaTeX模板.md
-      补充资料: 4.0-补充资料.md
-      LaTex资源: 5.0-LaTex资源.md
+      中国内地（大陆）高校: 1.1-zh1.md
+      中国港澳台地区高校: 1.2-zh2.md
+      美国地区高校: 1.3-us.md
+      其他国家（地区）高校: 1.4-else.md
+      其他LaTeX模板: 2.0-latex.md
+      非LaTeX模板: 3.0-more.md
+      补充资料: 4.0-supplement.md
+      LaTex资源: 5.0-resource.md
   - Thesis:
-      中国内地（大陆）高校: 1.1-中国内地（大陆）高校.md
-      中国港澳台地区高校: 1.2-中国港澳台地区高校.md
-      美国地区高校: 1.3-美国地区高校.md
-      其他国家（地区）高校: 1.4-其他国家（地区）高校.md
+      中国内地（大陆）高校: 1.1-zh1.md
+      中国港澳台地区高校: 1.2-zh2.md
+      美国地区高校: 1.3-us.md
+      其他国家（地区）高校: 1.4-else.md
   - More:
-      其他LaTeX模板: 2.0-其他LaTeX模板.md
-      非LaTeX模板: 3.0-非LaTeX模板.md
+      其他LaTeX模板: 2.0-latex.md
+      非LaTeX模板: 3.0-more.md
   - Resource:
-      补充资料: 4.0-补充资料.md
-      LaTex资源: 5.0-LaTex资源.md
+      补充资料: 4.0-supplement.md
+      LaTex资源: 5.0-resource.md
