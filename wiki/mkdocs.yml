@@ -1,7 +1,7 @@
-site_name: LaTeX Templates
+site_name: Beyond LaTeX Templates
 site_url: https://hantang.github.io/latex-templates
 site_author: hantang
-site_description: "Collect awesome latex templates (mainly thesis)..."
+site_description: "Collect awesome latex* templates (mainly thesis)..."
 # docs_dir: docs/
 
 # Repository
@@ -13,6 +13,8 @@ copyright: Copyright &copy; 2023 Hantang
 
 theme:
   name: material
+  language: zh
+  highlightjs: true
   font:
     text: Helvetica Neue # Roboto
     code: Roboto Mono
@@ -71,7 +73,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home:
+  - 主页:
     - 说明: index.md
     - 中国内地（大陆）高校: 1.1-zh1.md
     - 中国港澳台地区高校: 1.2-zh2.md
@@ -81,14 +83,14 @@ nav:
     - 非LaTeX模板: 3.0-more.md
     - 补充资料: 4.0-supplement.md
     - LaTex资源: 5.0-resource.md
-  - Thesis:
+  - 论文模板:
     - 中国内地（大陆）高校: 1.1-zh1.md
     - 中国港澳台地区高校: 1.2-zh2.md
     - 美国地区高校: 1.3-us.md
     - 其他国家（地区）高校: 1.4-else.md
-  - More:
+  - 更多模版:
     - 其他LaTeX模板: 2.0-latex.md
     - 非LaTeX模板: 3.0-more.md
-  - Resource:
+  - 更多资源:
     - 补充资料: 4.0-supplement.md
     - LaTex资源: 5.0-resource.md
