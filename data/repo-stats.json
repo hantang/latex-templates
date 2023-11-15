@@ -432,6 +432,22 @@
     "organization": "BIT-thesis"
   },
   {
+    "html_url": "https://github.com/BITNP/BIThesis",
+    "description": "📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）",
+    "stargazers_count": 467,
+    "forks_count": 94,
+    "watchers_count": 467,
+    "subscribers_count": 10,
+    "pushed_at": "2023-10-26T09:48:48Z",
+    "created_at": "2020-01-12T14:44:20Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 45405,
+    "organization": "BITNP"
+  },
+  {
     "html_url": "https://github.com/Baileyswu/ECNU-thesis-template",
     "description": "华东师范大学硕士学位论文模版",
     "stargazers_count": 18,
