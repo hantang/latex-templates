@@ -70,6 +70,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - mdx_truly_sane_lists
 
 # Page tree
 nav:
