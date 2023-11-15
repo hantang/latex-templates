@@ -40,7 +40,6 @@
         "zh": "清华大学",
         "en": "Tsinghua University",
         "links": [
-          "https://github.com/erbanku/ThuWordThesis",
           "https://github.com/qbh16/ThuWordThesis"
         ]
       },
@@ -71,7 +70,7 @@
         "zh": "武汉大学",
         "en": "Wuhan University",
         "links": [
-          "https://github.com/1037913794/-Word-",
+          "https://github.com/happytianhao/-Word-",
           "https://github.com/Yimsun97/thesisTemplate"
         ]
       },
@@ -256,15 +255,13 @@
       {
         "zh": "深圳大学",
         "en": "Shenzhen University",
-        "links": [
-          "https://github.com/DongHY1/szu-typst-template"
-        ]
+        "links": []
       },
       {
         "zh": "浙江工商大学",
         "en": "Zhejiang Gongshang University",
         "links": [
-          "https://github.com/jujimeizuo/ZJGSU-typst-template"
+          "https://github.com/jujimeizuo/ZJSU-typst-template"
         ]
       },
       {
