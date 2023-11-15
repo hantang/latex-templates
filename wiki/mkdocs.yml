@@ -1,0 +1,94 @@
+site_name: LaTeX Templates
+site_url: https://hantang.github.io/latex-templates
+site_author: hantang
+site_description: "Collect awesome latex templates (mainly thesis)..."
+# docs_dir: docs/
+
+# Repository
+repo_name: hantang/latex-templates
+repo_url: https://github.com/hantang/latex-templates
+# edit_uri: tree/main
+
+copyright: Copyright &copy; 2023 Hantang
+
+theme:
+  name: material
+  font:
+    text: Helvetica Neue # Roboto
+    code: Roboto Mono
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.indexes
+    - navigation.path
+    - navigation.footer
+    - toc.follow
+    - content.tabs.link
+    - search.share
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.code.annotations
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hantang
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+# Page tree
+nav:
+  - Home: 
+      说明: index.md
+      中国内地（大陆）高校: 1.1-中国内地（大陆）高校.md
+      中国港澳台地区高校: 1.2-中国港澳台地区高校.md
+      美国地区高校: 1.3-美国地区高校.md
+      其他国家（地区）高校: 1.4-其他国家（地区）高校.md
+      其他LaTeX模板: 2.0-其他LaTeX模板.md
+      非LaTeX模板: 3.0-非LaTeX模板.md
+      补充资料: 4.0-补充资料.md
+      LaTex资源: 5.0-LaTex资源.md
+  - Thesis:
+      中国内地（大陆）高校: 1.1-中国内地（大陆）高校.md
+      中国港澳台地区高校: 1.2-中国港澳台地区高校.md
+      美国地区高校: 1.3-美国地区高校.md
+      其他国家（地区）高校: 1.4-其他国家（地区）高校.md
+  - More:
+      其他LaTeX模板: 2.0-其他LaTeX模板.md
+      非LaTeX模板: 3.0-非LaTeX模板.md
+  - Resource:
+      补充资料: 4.0-补充资料.md
+      LaTex资源: 5.0-LaTex资源.md
