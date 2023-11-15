@@ -1,7 +1,12 @@
 # Welcome to the awesome-latex-templates wiki!
 
-> 可以根据需要，按国家（地区）、模板类型（论文、开题报告、简历、通用、Beamer等）、
-> LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）等在右侧目录查询。
+> 可以根据需要，按
+> 
+> - 国家（地区）、
+> - 模板类型（论文、开题报告、简历、通用、Beamer等）、
+> - LaTeX或非LaTeX语言（Microsoft Word、Markdown、Lyx、Typst等）等
+> 
+> 在导航栏分类检索。
 
 ---
 
