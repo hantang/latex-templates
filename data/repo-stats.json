@@ -16,22 +16,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/1037913794/-Word-",
-    "description": "武汉大学计算机学院本科生毕业论文Word模板（瞎搞的，不是很formal）",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 0,
-    "pushed_at": "2020-04-19T13:51:23Z",
-    "created_at": "2020-04-19T13:48:09Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 132,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/103yiran/XDUthesis_xelatex",
     "description": "XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, master, or doctor thesis in Xidian University.",
     "stargazers_count": 19,
@@ -365,22 +349,6 @@
     "archived": false,
     "visibility": "public",
     "size": 112368,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/AutOMaN-me/CQUPTtex",
-    "description": " 依据重庆邮电大学本科生毕业论文格式要求整理，2022年7月更新",
-    "stargazers_count": 23,
-    "forks_count": 2,
-    "watchers_count": 23,
-    "subscribers_count": 1,
-    "pushed_at": "2022-07-21T07:44:59Z",
-    "created_at": "2022-07-20T15:23:52Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 2043,
     "organization": null
   },
   {
@@ -944,22 +912,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/DongHY1/szu-typst-template",
-    "description": "深圳大学硕士学位论文的typst模板",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 1,
-    "pushed_at": "2023-05-18T16:10:30Z",
-    "created_at": "2023-05-18T13:44:05Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 14,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/DotWang/UPCThesis_advanced",
     "description": "中国石油大学(华东)本科毕业设计论文LaTeX模板----基于UPCLaTeX/UPCThesis进行改进",
     "stargazers_count": 8,
@@ -1248,19 +1200,19 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/GUET-TeX-Users-Group/Guet_Thesis_LaTeX",
+    "html_url": "https://github.com/GUET-TeX-Users-Group/GUET_Thesis_LaTeX",
     "description": "桂林电子科技大学硕博学位论文LATEX模板",
-    "stargazers_count": 13,
-    "forks_count": 5,
-    "watchers_count": 13,
+    "stargazers_count": 17,
+    "forks_count": 6,
+    "watchers_count": 17,
     "subscribers_count": 2,
-    "pushed_at": "2023-06-14T06:33:45Z",
+    "pushed_at": "2023-11-12T06:59:47Z",
     "created_at": "2023-04-03T07:08:34Z",
     "private": false,
     "fork": false,
     "archived": false,
     "visibility": "public",
-    "size": 31028,
+    "size": 38451,
     "organization": "GUET-TeX-Users-Group"
   },
   {
@@ -3744,22 +3696,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/YuFeiGan/WHUThesis",
-    "description": "武汉大学学士学位论文模板",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "watchers_count": 0,
-    "subscribers_count": 1,
-    "pushed_at": "2015-01-03T10:41:14Z",
-    "created_at": "2015-01-03T10:41:14Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 0,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/YuanXinCherry/wust-thesis",
     "description": "📝 武汉科技大学毕业论文 LaTeX 模版 2021",
     "stargazers_count": 1,
@@ -4205,22 +4141,6 @@
     "archived": false,
     "visibility": "public",
     "size": 822,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/aqni/template-nkuthesis",
-    "description": "南开大学本科生毕业论文LaTeX模板",
-    "stargazers_count": 0,
-    "forks_count": 1,
-    "watchers_count": 0,
-    "subscribers_count": 1,
-    "pushed_at": "2023-05-12T03:55:38Z",
-    "created_at": "2023-05-02T06:27:22Z",
-    "private": false,
-    "fork": false,
-    "archived": true,
-    "visibility": "public",
-    "size": 49,
     "organization": null
   },
   {
@@ -4896,6 +4816,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/coding-tan/CQUPTtex",
+    "description": " 依据重庆邮电大学本科生毕业论文格式要求整理，2022年7月更新",
+    "stargazers_count": 24,
+    "forks_count": 1,
+    "watchers_count": 24,
+    "subscribers_count": 1,
+    "pushed_at": "2022-07-21T07:44:59Z",
+    "created_at": "2022-07-20T15:23:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 2043,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/corenel/ZJUProposal",
     "description": "ZJU LaTeX Proposal Template for Undergraduate.",
     "stargazers_count": 17,
@@ -5168,6 +5104,22 @@
     "organization": null
   },
   {
+    "html_url": "https://github.com/ddusen/ecnu-master-thesis-template",
+    "description": "2022华东师范大学硕士论文模版",
+    "stargazers_count": 20,
+    "forks_count": 2,
+    "watchers_count": 20,
+    "subscribers_count": 1,
+    "pushed_at": "2023-02-23T12:10:07Z",
+    "created_at": "2022-02-11T07:19:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 34931,
+    "organization": null
+  },
+  {
     "html_url": "https://github.com/deedy/Deedy-Resume",
     "description": "A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student",
     "stargazers_count": 4568,
@@ -5328,22 +5280,6 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/dusennn/ecnu-master-thesis-template",
-    "description": "2022华东师范大学硕士论文模版",
-    "stargazers_count": 19,
-    "forks_count": 3,
-    "watchers_count": 19,
-    "subscribers_count": 1,
-    "pushed_at": "2023-02-23T12:10:07Z",
-    "created_at": "2022-02-11T07:19:52Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 34931,
-    "organization": null
-  },
-  {
     "html_url": "https://github.com/dustincys/NEFUThesis",
     "description": "东北林业大学硕博士毕业论文 xe LaTeX 模板",
     "stargazers_count": 6,
@@ -5437,22 +5373,6 @@
     "archived": false,
     "visibility": "public",
     "size": 236,
-    "organization": null
-  },
-  {
-    "html_url": "https://github.com/erbanku/ThuWordThesis",
-    "description": "清华大学本科学位论文Word模板。An undergraduate thesis Word template for Tsinghua University.",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "watchers_count": 1,
-    "subscribers_count": 0,
-    "pushed_at": "2022-05-31T16:14:25Z",
-    "created_at": "2022-06-22T17:28:42Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 375,
     "organization": null
   },
   {
@@ -5981,6 +5901,22 @@
     "archived": true,
     "visibility": "public",
     "size": 4308,
+    "organization": null
+  },
+  {
+    "html_url": "https://github.com/happytianhao/-Word-",
+    "description": "武汉大学计算机学院本科生毕业论文Word模板（瞎搞的，不是很formal）",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "subscribers_count": 0,
+    "pushed_at": "2020-04-19T13:51:23Z",
+    "created_at": "2020-04-19T13:48:09Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 132,
     "organization": null
   },
   {
@@ -6896,7 +6832,7 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/jujimeizuo/ZJGSU-typst-template",
+    "html_url": "https://github.com/jujimeizuo/ZJSU-typst-template",
     "description": "浙江工商大学（本科）毕业论文typst模版",
     "stargazers_count": 2,
     "forks_count": 0,
@@ -7360,7 +7296,7 @@
     "organization": null
   },
   {
-    "html_url": "https://github.com/liangzhenduo0608/TJU-thesis-template",
+    "html_url": "https://github.com/liangzhenduo/TJU-thesis-template",
     "description": "天津大学本科生毕业论文LaTeX模版",
     "stargazers_count": 32,
     "forks_count": 13,
