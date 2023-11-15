@@ -8,10 +8,12 @@
 .vscode/
 .idea/
 
-# more
+# mkdocs
+site/
+
+# local
 .trash/
 back/
-backup/
 tmp/
 temp/
 todo/
