@@ -6,7 +6,7 @@
 
 <!-- lastmod -->
 
-最近更新：2023-07-03
+最近更新：2023-11-15
 
 <!-- toc -->
 
@@ -20,6 +20,7 @@
   - [LaTeX 收藏](#latex-收藏)
   - [文献引用](#文献引用)
   - [排版相关](#排版相关)
+  - [Stars](#stars)
   - [贡献](#贡献)
   - [版权](#版权)
 
@@ -188,7 +189,7 @@ LaTeX 或非 LaTeX 语言（Microsoft Word、Markdown、Lyx、Typst 等）
   - 🚀2014/07/09→2023/05/10,👀1.4k,🤟1.4k,👍703
   - ![Stars](https://img.shields.io/github/stars/mszep/pandoc_resume.svg) ![Forks](https://img.shields.io/github/forks/mszep/pandoc_resume.svg)
 - [bamos/cv](https://github.com/bamos/cv):
-  - ``
+  - ` `
   - 🚀2013/12/29→2023/06/18,👀383,🤟383,👍131
   - ![Stars](https://img.shields.io/github/stars/bamos/cv.svg) ![Forks](https://img.shields.io/github/forks/bamos/cv.svg)
 - [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv):
