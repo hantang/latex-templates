@@ -1,5 +1,5 @@
 {
-  "学位论文模板（LaTeX）": {
+  "学位论文模板（LaTeX/Lyx）": {
     "中国内地（大陆）高校": [
       {
         "zh": "安徽大学",
@@ -24,7 +24,9 @@
           "https://github.com/Thesharing/pkuthss",
           "https://github.com/doubleZ0108/pkuthss-mac",
           "https://github.com/tbcdebug/PKU_EECS_UGR_THSS",
-          "https://github.com/wongsingfo/pku-grad-thesis"
+          "https://github.com/wongsingfo/pku-grad-thesis",
+          "https://github.com/vidon/pkuthssLyX",
+          "https://github.com/AllanChain/pkuthss-lyx"
         ]
       },
       {
@@ -173,7 +175,8 @@
           "https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
           "https://github.com/wendy2003888/DLUT_XeLatex_TemplateForBachelor",
           "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Doctor",
-          "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste"
+          "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste",
+          "https://github.com/dutLQG/DUT-LyX"
         ]
       },
       {
@@ -190,7 +193,8 @@
           "https://github.com/savicsw/ThesisUESTC",
           "https://github.com/shifujun/UESTCthesis",
           "https://github.com/tinoryj/UESTC-Thesis-Latex-Template",
-          "https://github.com/tzz1996/ThesisUESTC"
+          "https://github.com/tzz1996/ThesisUESTC",
+          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex"
         ]
       },
       {
@@ -249,7 +253,8 @@
           "https://github.com/liuying1905/seu_thesis",
           "https://github.com/seucs/seuthesis",
           "https://github.com/wen-fei/seu-thesis-latex-template",
-          "https://github.com/zhimengfan1990/seuthesix"
+          "https://github.com/zhimengfan1990/seuthesix",
+          "https://github.com/oldoldstone/seuthslyx"
         ]
       },
       {
@@ -570,7 +575,8 @@
           "https://github.com/nju-lug/NJUThesis",
           "https://github.com/njuHan/njuthesis-nju-thesis-template",
           "https://github.com/solrex/njuthesis",
-          "https://github.com/zhangchuheng123/NJUThesis"
+          "https://github.com/zhangchuheng123/NJUThesis",
+          "https://github.com/jiangyy/njuthesis"
         ]
       },
       {
@@ -1076,7 +1082,8 @@
           "https://github.com/uhomelee/xmu-undergraduate-thesis",
           "https://github.com/wwwxmu/-Latex-",
           "https://github.com/xiamenwcy/LaTeXFileforXMUThesis",
-          "https://github.com/zoam/xmu-thesis-grd"
+          "https://github.com/zoam/xmu-thesis-grd",
+          "https://github.com/renkun-ken/xmu-thesis-lyx"
         ]
       },
       {
@@ -1093,7 +1100,8 @@
         "links": [
           "https://github.com/Astro-Lee/YNU-thesis-bachelor",
           "https://github.com/Astro-Lee/YNUthesis",
-          "https://github.com/ZhenfengLei/Yunnan-University-Thesis-Latex"
+          "https://github.com/ZhenfengLei/Yunnan-University-Thesis-Latex",
+          "https://github.com/cherrot/ynuthesislyx"
         ]
       },
       {
@@ -1190,7 +1198,8 @@
           "https://github.com/acgotaku/USTC-SSE-THESIS",
           "https://github.com/jiaopjie/ustcthesis",
           "https://github.com/ustctug/ustcthesis",
-          "https://github.com/ywgATustcbbs/ustcthesis"
+          "https://github.com/ywgATustcbbs/ustcthesis",
+          "https://github.com/ustctug/ustclyx"
         ]
       },
       {
@@ -1534,6 +1543,13 @@
         "links": [
           "https://github.com/weitzner/jhu-thesis-template"
         ]
+      },
+      {
+        "zh": "（美国）威廉与玛丽学院",
+        "en": " College of William and Mary",
+        "links": [
+          "https://github.com/yishanhe/WM-AS-thesis-latex-template"
+        ]
       }
     ],
     "其他国家（地区）高校": [
@@ -1628,7 +1644,8 @@
         "zh": "（加拿大）不列颠哥伦比亚大学",
         "en": "University of British Columbia (UBC)",
         "links": [
-          "https://github.com/oganm/ThesisProposal"
+          "https://github.com/oganm/ThesisProposal",
+          "https://github.com/alanmanning/ubc-thesis-lyx"
         ]
       },
       {
@@ -1727,7 +1744,8 @@
         "zh": "（土耳其）伊斯坦布尔科技大学",
         "en": "Istanbul Technical University (istanbul Teknik Üniversitesi, ITU)",
         "links": [
-          "https://github.com/ondes/Template-Latex-ITU-Thesis"
+          "https://github.com/ondes/Template-Latex-ITU-Thesis",
+          "https://github.com/ituast/itutezLyX"
         ]
       },
       {
@@ -1821,7 +1839,8 @@
         "zh": "（英国）伦敦大学学院",
         "en": "University College London (UCL)",
         "links": [
-          "https://github.com/UCL/ucl-latex-thesis-templates"
+          "https://github.com/UCL/ucl-latex-thesis-templates",
+          "https://github.com/wittawatj/ucl-lyx-thesis"
         ]
       },
       {
@@ -1837,10 +1856,109 @@
         "links": [
           "https://github.com/autopawn/tex-thesis-template"
         ]
+      },
+      {
+        "zh": "（以色列）特拉维夫大学",
+        "en": "Tel Aviv University (אוניברסיטת תל־אביב)",
+        "links": [
+          "https://github.com/alexlib/tau_thesis_lyx_template"
+        ]
+      },
+      {
+        "zh": "（澳大利亚）詹姆斯·库克大学",
+        "en": "James Cook University",
+        "links": [
+          "https://github.com/davidjb/JCU-Thesis-LyX-Layout"
+        ]
+      },
+      {
+        "zh": "（意大利）博洛尼亚大学",
+        "en": "University of Bologna (Università di Bologna)",
+        "links": [
+          "https://github.com/andreadecorte/unibo-thesis-lyx"
+        ]
+      },
+      {
+        "zh": "（印度）印度理工学院马德拉斯分校",
+        "en": "Indian Institute of Technology Madras, IIT Madras",
+        "links": [
+          "https://github.com/amitanilkulkarni/iitm-thesis-template"
+        ]
+      },
+      {
+        "zh": "（印度）霍米巴巴国家研究所",
+        "en": "Homi Bhabha National Institute, HBNI",
+        "links": [
+          "https://github.com/rajeshrinet/lyx-hbniThesis"
+        ]
+      },
+      {
+        "zh": "（德国）柏林洪堡大学",
+        "en": "Humboldt University of Berlin (Humboldt-Universität zu Berlin, HU Berlin)",
+        "links": [
+          "https://github.com/benmaier/LyXTufteThesis"
+        ]
+      },
+      {
+        "zh": "（英国）曼彻斯特大学",
+        "en": "University of Manchester",
+        "links": [
+          "https://github.com/Adorno-Lab/phd-thesis-lyx-template"
+        ]
+      },
+      {
+        "zh": "（荷兰）代尔夫特理工大学",
+        "en": "Delft University of Technology (Technische Universiteit Delft, TUDelft)",
+        "links": [
+          "https://github.com/jmilhomens/lyx-phdthesis-tudelft"
+        ]
+      },
+      {
+        "zh": "（捷克）捷克生命科学大学",
+        "en": "Czech University of Life Sciences Prague (Česká zemědělská univerzita v Praze, ČZU/CULS)",
+        "links": [
+          "https://github.com/Harvie/CULS-Thesis"
+        ]
+      },
+      {
+        "zh": "（英国）伦敦艺术大学",
+        "en": "University of the Arts London, UAL",
+        "links": [
+          "https://github.com/natuk/ual-thesis-template"
+        ]
+      },
+      {
+        "zh": "（奥地利）格拉茨技术大学",
+        "en": "Graz University of Technology (Technische Universität Graz, TU Graz)",
+        "links": [
+          "https://github.com/MarkusPic/master_thesis_template"
+        ]
+      },
+      {
+        "zh": "（加拿大）阿尔伯塔大学",
+        "en": "University of Alberta",
+        "links": [
+          "https://github.com/draldric/uAlberta-Thesis-LaTeX-Template"
+        ]
+      },
+      {
+        "zh": "（德国）柏林工业大学",
+        "en": "Technical University of Berlin (Technische Universität Berlin)",
+        "links": [
+          "https://github.com/holgern/TUB_PhDThesisTemplate"
+        ]
+      },
+      {
+        "zh": "（印度尼西亚）印度尼西亚大学",
+        "en": "University of Indonesia (Universitas Indonesia)",
+        "links": [
+          "https://github.com/yohanesgultom/ui_style",
+          "https://github.com/rkkautsar/ui-thesis-template"
+        ]
       }
     ]
   },
-  "学位论文开题和选题报告（LaTeX）": {
+  "学位论文开题和选题报告（LaTeX/Lyx）": {
     "中国内地（大陆）高校": [
       {
         "zh": "西北工业大学",
