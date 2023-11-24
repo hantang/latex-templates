@@ -104,126 +104,22 @@
       }
     ],
     "中国港澳台地区高校": [],
-    "美国地区高校": [],
-    "其他国家（地区）高校": []
-  },
-  "学位论文模板（Markdown）": {
-    "中国内地（大陆）高校": [
+    "美国地区高校": [
+      
       {
-        "zh": "北京师范大学",
-        "en": "Beijing Normal University",
+        "zh": "（美国）博伊西州立大学",
+        "en": "Boise State University",
         "links": [
-          "https://github.com/94wgfk/BNUThesisPandoc"
-        ]
-      },
-      {
-        "zh": "重庆大学",
-        "en": "Chongqing University",
-        "links": [
-          "https://github.com/ilcpm/cqu-thesis-markdown"
-        ]
-      },
-      {
-        "zh": "南方科技大学",
-        "en": "Southern University of Science and Technology",
-        "links": [
-          "https://github.com/fecet/sustechthesis-markdown"
-        ]
-      },
-      {
-        "zh": "上海交通大学",
-        "en": "Shanghai Jiaotong University",
-        "links": [
-          "https://github.com/dyweb/SJTUThesis-Markdown"
-        ]
-      },
-      {
-        "zh": "中南大学",
-        "en": "Central South University",
-        "links": [
-          "https://github.com/csu-tclab/CSUthesisMD"
+          "https://github.com/lorrainegaudio/BSU_Graduate_Thesis"
         ]
       }
     ],
-    "中国港澳台地区高校": [],
-    "美国地区高校": [],
     "其他国家（地区）高校": [
       {
-        "zh": "（英国）牛津大学",
-        "en": "University of Oxford",
+        "zh": "（孟加拉国）库尔纳工程技术大学",
+        "en": "Khulna University of Engineering and Technology",
         "links": [
-          "https://github.com/ulyngs/oxforddown"
-        ]
-      }
-    ]
-  },
-  "学位论文模板（Lyx）": {
-    "中国内地（大陆）高校": [
-      {
-        "zh": "北京大学",
-        "en": "Peking University",
-        "links": [
-          "https://github.com/vidon/pkuthssLyX"
-        ]
-      },
-      {
-        "zh": "电子科技大学",
-        "en": "University of Electronic Science and Technology of China",
-        "links": [
-          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex"
-        ]
-      },
-      {
-        "zh": "东南大学",
-        "en": "Southeast University",
-        "links": [
-          "https://github.com/oldoldstone/seuthslyx"
-        ]
-      },
-      {
-        "zh": "南京大学",
-        "en": "Nanjing University",
-        "links": [
-          "https://github.com/jiangyy/njuthesis"
-        ]
-      },
-      {
-        "zh": "厦门大学",
-        "en": "Xiamen University",
-        "links": [
-          "https://github.com/renkun-ken/xmu-thesis-lyx"
-        ]
-      },
-      {
-        "zh": "云南大学",
-        "en": "Yunnan University",
-        "links": [
-          "https://github.com/cherrot/ynuthesislyx"
-        ]
-      },
-      {
-        "zh": "中国科学技术大学",
-        "en": "University of Science and Technology of China",
-        "links": [
-          "https://github.com/ustctug/ustclyx"
-        ]
-      }
-    ],
-    "中国港澳台地区高校": [],
-    "美国地区高校": [],
-    "其他国家（地区）高校": [
-      {
-        "zh": "（英国）剑桥大学",
-        "en": "University of Cambridge",
-        "links": [
-          "https://github.com/kks32/PhDThesisLyX"
-        ]
-      },
-      {
-        "zh": "（英国）牛津大学",
-        "en": "University of Oxford",
-        "links": [
-          "https://github.com/telegraphic/Oxford-LyX-Thesis-Template"
+          "https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word"
         ]
       }
     ]
@@ -280,7 +176,188 @@
       }
     ],
     "中国港澳台地区高校": [],
-    "美国地区高校": [],
-    "其他国家（地区）高校": []
+    "美国地区高校": [
+      {
+        "zh": "（美国）宾夕法尼亚州立大学",
+        "en": "Pennsylvania State University",
+        "links": [
+          "https://github.com/cafeclimber/typst-psu"
+        ]
+      }
+    ],
+    "其他国家（地区）高校": [
+      {
+        "zh": "（英国）剑桥大学",
+        "en": "University of Cambridge",
+        "links": [
+          "https://github.com/jeffa5/typst-cambridge"
+        ]
+      },
+      {
+        "zh": "（德国）弗赖堡大学",
+        "en": "University of Freiburg (Universität Freiburg)",
+        "links": [
+          "https://github.com/d-mironov/typst-slides-uni-freiburg"
+        ]
+      },
+      {
+        "zh": "（德国）马格德堡大学",
+        "en": "Otto von Guericke University Magdeburg (Otto-von-Guericke-Universität Magdeburg, OvGU)",
+        "links": [
+          "https://github.com/v411e/ovgu-typst-thesis-template"
+        ]
+      },
+      {
+        "zh": "（加拿大）滑铁卢大学",
+        "en": "University of Waterloo",
+        "links": [
+          "https://github.com/yangwenbo99/typst-uwthesis"
+        ]
+      },
+      {
+        "zh": "（澳大利亚）斯威本科技大学",
+        "en": "Swinburne University of Technology",
+        "links": [
+          "https://github.com/coljac/swinburne-phd-typst"
+        ]
+      },
+      {
+        "zh": "（拉脱维亚）里加工业大学",
+        "en": "Riga Technical University (Rīgas Tehniskā Universitāte, RTU)",
+        "links": [
+          "https://github.com/Ri0ee/typst-rtu"
+        ]
+      },
+      {
+        "zh": "（立陶宛）维尔纽斯大学",
+        "en": "Vilnius University (Vilniaus universitetas)",
+        "links": [
+          "https://github.com/ramojus/typst-template-VU-thesis"
+        ]
+      },
+      {
+        "zh": "通用模板",
+        "en": "simple thesis template",
+        "links": [
+          "https://github.com/zagoli/simple-typst-thesis"
+        ]
+      }
+    ]
+  },
+  "学位论文模板（Markdown）": {
+    "中国内地（大陆）高校": [
+      {
+        "zh": "北京师范大学",
+        "en": "Beijing Normal University",
+        "links": [
+          "https://github.com/94wgfk/BNUThesisPandoc"
+        ]
+      },
+      {
+        "zh": "重庆大学",
+        "en": "Chongqing University",
+        "links": [
+          "https://github.com/ilcpm/cqu-thesis-markdown"
+        ]
+      },
+      {
+        "zh": "南方科技大学",
+        "en": "Southern University of Science and Technology",
+        "links": [
+          "https://github.com/fecet/sustechthesis-markdown"
+        ]
+      },
+      {
+        "zh": "上海交通大学",
+        "en": "Shanghai Jiaotong University",
+        "links": [
+          "https://github.com/dyweb/SJTUThesis-Markdown"
+        ]
+      },
+      {
+        "zh": "中南大学",
+        "en": "Central South University",
+        "links": [
+          "https://github.com/csu-tclab/CSUthesisMD"
+        ]
+      }
+    ],
+    "中国港澳台地区高校": [
+      {
+        "zh": "国立台湾大学（國立臺灣大學）",
+        "en": "National Taiwan University",
+        "links": [
+          "https://github.com/liao961120/thesis"
+        ]
+      }
+    ],
+    "美国地区高校": [
+      {
+        "zh": "（智利）明尼苏达大学",
+        "en": "University of Minnesota",
+        "links": [
+          "https://github.com/neyhartj/umn_thesis"
+        ]
+      }
+    ],
+    "其他国家（地区）高校": [
+      {
+        "zh": "（英国）牛津大学",
+        "en": "University of Oxford",
+        "links": [
+          "https://github.com/ulyngs/oxforddown",
+          "https://github.com/aesadde/ox-thesis"
+        ]
+      },
+      {
+        "zh": "（瑞士）苏黎世大学",
+        "en": "University of Zurich (Universität Zürich, UZH)",
+        "links": [
+          "https://github.com/maehr/uzh-ma-thesis"
+        ]
+      },
+      {
+        "zh": "（芬兰）拉彭兰塔-拉赫蒂工业大学",
+        "en": "Lappeenranta University of Technology, LUT",
+        "links": [
+          "https://github.com/paulihuhtiniemi/lut-thesis-markdown"
+        ]
+      },
+      {
+        "zh": "（智利）塔尔卡大学",
+        "en": "University of Talca (Universidad de Talca)",
+        "links": [
+          "https://github.com/jose-villar/thesis-template-utal"
+        ]
+      },
+      {
+        "zh": "（南非）金山大学（威特沃特斯兰大学）",
+        "en": "University of the Witwatersrand, Wits University",
+        "links": [
+          "https://github.com/Keniajin/Wits_SPH_Thesis"
+        ]
+      },
+      {
+        "zh": "（南非）斯坦陵布什大学",
+        "en": "Stellenbosch University (Universiteit Stellenbosch)",
+        "links": [
+          "https://github.com/WihanZA/su_thesis_template"
+        ]
+      },
+      {
+        "zh": "（德国）柏林洪堡大学",
+        "en": "Humboldt University of Berlin (Humboldt-Universität zu Berlin, HU Berlin)",
+        "links": [
+          "https://github.com/napiontek/huphydown"
+        ]
+      },
+      {
+        "zh": "（意大利）米兰圣心天主教大学",
+        "en": "Catholic University of Sacred Heart (Università Cattolica del Sacro Cuore)",
+        "links": [
+          "https://github.com/NiccoloSalvini/cattolicadown"
+        ]
+      }
+    ]
   }
 }

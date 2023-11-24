@@ -69,18 +69,36 @@
           "https://github.com/dangom/org-thesis",
           "https://github.com/ismayc/thesisdown",
           "https://github.com/pzhaonet/bookdownplus",
-          "https://github.com/tompollard/phd_thesis_markdown"
+          "https://github.com/tompollard/phd_thesis_markdown",
+          "https://github.com/typst/templates"
         ]
       }
     ]
   },
   "补充资料": {
-    "LaTeX收藏": [
+    "LaTeX资源": [
       {
         "links": [
           "https://github.com/XiangyunHuang/awesome-beamers",
           "https://github.com/dustinvtran/latex-templates",
           "https://github.com/martinbjeldbak/ultimate-beamer-theme-list"
+        ]
+      }
+    ],
+    "Typst资源": [
+      {
+        "links": [
+          "https://github.com/typst/typst",
+          "https://github.com/qjcg/awesome-typst"
+        ]
+      }
+    ],
+    "Markdown资源": [
+      {
+        "links": [
+          "https://github.com/mundimark/awesome-markdown",
+          "https://github.com/BubuAnabelas/awesome-markdown",
+          "https://github.com/mundimark/awesome-markdown-editors"
         ]
       }
     ],
