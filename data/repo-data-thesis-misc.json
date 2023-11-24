@@ -102,9 +102,12 @@
           "https://github.com/HareInWeed/SYSU-thesis"
         ]
       }
-    ]
+    ],
+    "中国港澳台地区高校": [],
+    "美国地区高校": [],
+    "其他国家（地区）高校": []
   },
-  "学位论文模板（Markdown类）": {
+  "学位论文模板（Markdown）": {
     "中国内地（大陆）高校": [
       {
         "zh": "北京师范大学",
@@ -142,6 +145,8 @@
         ]
       }
     ],
+    "中国港澳台地区高校": [],
+    "美国地区高校": [],
     "其他国家（地区）高校": [
       {
         "zh": "（英国）牛津大学",
@@ -204,6 +209,8 @@
         ]
       }
     ],
+    "中国港澳台地区高校": [],
+    "美国地区高校": [],
     "其他国家（地区）高校": [
       {
         "zh": "（英国）剑桥大学",
@@ -271,112 +278,9 @@
           "https://github.com/howardlau1999/sysu-thesis-typst"
         ]
       }
-    ]
-  },
-  "学位论文开题/选题报告（LaTeX）": {
-    "中国内地（大陆）高校": [
-      {
-        "zh": "西北工业大学",
-        "en": "Northwestern Polytechnical University",
-        "links": [
-          "https://github.com/MoetaYuko/NPU_PhD_proposal",
-          "https://github.com/NPUSCG/npu-dissertation-proposal",
-          "https://github.com/zzhang1987/NPUResearchProposal"
-        ]
-      },
-      {
-        "zh": "浙江大学",
-        "en": "Zhejiang University",
-        "links": [
-          "https://github.com/corenel/ZJUProposal"
-        ]
-      },
-      {
-        "zh": "中国科学院大学",
-        "en": "University of Chinese Academy of Sciences",
-        "links": [
-          "https://github.com/mohuangrui/ucasproposal"
-        ]
-      },
-      {
-        "zh": "中南大学",
-        "en": "Central South University",
-        "links": [
-          "https://github.com/zhong-yy/CSU_Thesis_Proposal"
-        ]
-      }
     ],
-    "美国地区高校": [
-      {
-        "zh": "（美国）麻省理工学院",
-        "en": "Massachusetts Institute of Technology (MIT)",
-        "links": [
-          "https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template"
-        ]
-      }
-    ]
-  },
-  "学术演示文稿（LaTeX Beamer）": {
-    "中国内地（大陆）高校": [
-      {
-        "zh": "大连理工大学",
-        "en": "Dalian University of Technology",
-        "links": [
-          "https://github.com/fuujiro/DLUT-Beamer-Slide-V2"
-        ]
-      },
-      {
-        "zh": "东南大学",
-        "en": "Southeast University",
-        "links": [
-          "https://github.com/GuanxingLu/SEU-beamer-latex-slide"
-        ]
-      },
-      {
-        "zh": "西安电子科技大学",
-        "en": "Xidian University",
-        "links": [
-          "https://github.com/StickCui/BeamerForXidian",
-          "https://github.com/StickCui/XDUstyle-Beamer-Theme"
-        ]
-      },
-      {
-        "zh": "西南交通大学",
-        "en": "Southwest Jiaotong University",
-        "links": [
-          "https://github.com/swjtutug/swjtubeamer"
-        ]
-      },
-      {
-        "zh": "中国科学技术大学",
-        "en": "University of Science and Technology of China",
-        "links": [
-          "https://github.com/ustctug/ustcbeamer"
-        ]
-      },
-      {
-        "zh": "中国科学院大学",
-        "en": "University of Chinese Academy of Sciences",
-        "links": [
-          "https://github.com/peng-yq/UCAS-Beamer-Theme"
-        ]
-      },
-      {
-        "zh": "中国人民大学",
-        "en": "Renmin University of China",
-        "links": [
-          "https://github.com/andelf/ruc-beamer-template"
-        ]
-      }
-    ],
-    "美国地区高校": [
-      {
-        "zh": "（美国）南佛罗里达大学",
-        "en": "University of South Florida",
-        "links": [
-          "https://github.com/STOM-Group/USF-Beamer-Template"
-        ]
-      }
-    ]
+    "中国港澳台地区高校": [],
+    "美国地区高校": [],
+    "其他国家（地区）高校": []
   }
 }
