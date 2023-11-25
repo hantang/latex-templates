@@ -3,7 +3,7 @@
     "中国内地（大陆）高校": [
       {
         "zh": "北京航空航天大学",
-        "en": "Beijing University of Aeronautics and Astronautics(Beihang University)",
+        "en": "Beijing University of Aeronautics and Astronautics (Beihang University)",
         "links": [
           "https://github.com/ixzhao/BUAA_Dissertation_Template"
         ]
@@ -70,8 +70,8 @@
         "zh": "武汉大学",
         "en": "Wuhan University",
         "links": [
-          "https://github.com/happytianhao/-Word-",
-          "https://github.com/Yimsun97/thesisTemplate"
+          "https://github.com/Yimsun97/thesisTemplate",
+          "https://github.com/happytianhao/-Word-"
         ]
       },
       {
@@ -304,8 +304,8 @@
         "zh": "（英国）牛津大学",
         "en": "University of Oxford",
         "links": [
-          "https://github.com/ulyngs/oxforddown",
-          "https://github.com/aesadde/ox-thesis"
+          "https://github.com/aesadde/ox-thesis",
+          "https://github.com/ulyngs/oxforddown"
         ]
       },
       {
