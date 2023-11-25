@@ -1,6 +1,6 @@
 {
   "更多LaTeX/Lyx模板": {
-    "LaTeX学术论文模板": [
+    "LaTeX论文模板": [
       {
         "links": [
           "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
@@ -50,7 +50,7 @@
         ]
       }
     ],
-    "LaTeX绘图": [
+    "LaTeX绘图示例": [
       {
         "links": [
           "https://github.com/MLNLP-World/Paper-Picture-Writing-Code",
@@ -62,16 +62,24 @@
     ]
   },
   "非LaTeX/Lyx模板": {
-    "非LaTeX写作模板": [
+    "Typst模板": [
+      {
+        "links": ["https://github.com/typst/templates"]
+      }
+    ],
+    "Markdown写作模板": [
       {
         "links": [
           "https://github.com/cagix/pandoc-thesis",
-          "https://github.com/dangom/org-thesis",
           "https://github.com/ismayc/thesisdown",
           "https://github.com/pzhaonet/bookdownplus",
-          "https://github.com/tompollard/phd_thesis_markdown",
-          "https://github.com/typst/templates"
+          "https://github.com/tompollard/phd_thesis_markdown"
         ]
+      }
+    ],
+    "其他写作模板": [
+      {
+        "links": ["https://github.com/dangom/org-thesis"]
       }
     ]
   },
