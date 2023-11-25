@@ -7443,6 +7443,22 @@
     "size": 21361
   },
   {
+    "html_url": "https://github.com/kks32/PhDThesisLyX",
+    "description": "A LyX PhD thesis template for Cambridge University Engineering Department",
+    "stargazers_count": 41,
+    "forks_count": 25,
+    "watchers_count": 41,
+    "subscribers_count": 9,
+    "pushed_at": "2014-08-04T22:56:59Z",
+    "created_at": "2014-01-10T16:47:09Z",
+    "updated_at": "2023-10-10T16:31:26Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 4987
+  },
+  {
     "html_url": "https://github.com/kks32/phd-thesis-template",
     "description": "A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department (CUED)",
     "stargazers_count": 770,
@@ -10526,6 +10542,22 @@
     "size": 4291
   },
   {
+    "html_url": "https://github.com/telegraphic/Oxford-LyX-Thesis-Template",
+    "description": "University of Oxford LyX Thesis Template",
+    "stargazers_count": 29,
+    "forks_count": 15,
+    "watchers_count": 29,
+    "subscribers_count": 5,
+    "pushed_at": "2015-01-27T20:54:21Z",
+    "created_at": "2011-05-13T10:18:51Z",
+    "updated_at": "2022-08-11T12:41:49Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 1225
+  },
+  {
     "html_url": "https://github.com/tensor-matrix/NKUThesis",
     "description": "南开大学本科毕业论文模板",
     "stargazers_count": 1,
@@ -11608,6 +11640,44 @@
     ]
   },
   {
+    "html_url": "https://github.com/xiamyphys/hduthesis",
+    "description": "杭州电子科技大学本科生毕业论文LaTeX模板",
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "watchers_count": 8,
+    "subscribers_count": 1,
+    "pushed_at": "2023-06-02T15:47:16Z",
+    "created_at": "2023-06-02T15:36:54Z",
+    "updated_at": "2023-11-13T14:11:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 444,
+    "hist_html_url": [
+      "https://github.com/xiamyphys/HDUPaper"
+    ]
+  },
+  {
+    "html_url": "https://github.com/xiamyphys/hduthesis",
+    "description": "杭州电子科技大学本科生毕业论文LaTeX模板",
+    "stargazers_count": 8,
+    "forks_count": 0,
+    "watchers_count": 8,
+    "subscribers_count": 1,
+    "pushed_at": "2023-06-02T15:47:16Z",
+    "created_at": "2023-06-02T15:36:54Z",
+    "updated_at": "2023-11-13T14:11:52Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 444,
+    "hist_html_url": [
+      "https://github.com/xiamyphys/HDUPaper"
+    ]
+  },
+  {
     "html_url": "https://github.com/xiaoyao9933/UCASthesis",
     "description": "**国科大新版标准** 中国科学院大学学位论文模板，目前遵守2018国科大指导标准。 a LaTeX template for UCAS.",
     "stargazers_count": 206,
@@ -12533,5 +12603,21 @@
     "archived": false,
     "visibility": "public",
     "size": 333
+  },
+  {
+    "html_url": "https://github.com/zzjjzzgggg/xjtuthesis",
+    "description": "A latex template for doctural thesis of xjtu.",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "watchers_count": 1,
+    "subscribers_count": 1,
+    "pushed_at": "2016-09-18T03:21:54Z",
+    "created_at": "2015-06-07T05:02:21Z",
+    "updated_at": "2016-03-10T12:27:00Z",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "visibility": "public",
+    "size": 908
   }
 ]
