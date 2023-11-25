@@ -1306,7 +1306,7 @@
     ],
     "中国港澳台地区高校": [
       {
-        "zh": "澳门科技大学",
+        "zh": "澳门科技大学（澳門科技大學）",
         "en": "Macau University of Science and Technology (MUST)",
         "links": [
           "https://github.com/Tim-eyes/MUST_Thesis_Template",
@@ -1314,31 +1314,21 @@
         ]
       },
       {
-        "zh": "国立成功大学",
+        "zh": "国立成功大学（國立成功大學）",
         "en": "National Cheng Kung University (NCKU)",
         "links": [
           "https://github.com/wengan-li/ncku-thesis-template-latex"
         ]
       },
       {
-        "zh": "国立高雄科技大学",
+        "zh": "国立高雄科技大学（國立高雄科技大學）",
         "en": "National Kaohsiung First University of Science and Technology (NKFUST)",
         "links": [
           "https://github.com/yuhao-kuo/NKUST-thesis-template"
         ]
       },
       {
-        "zh": "国立交通大学",
-        "en": "National Chiao Tung University (NCTU)",
-        "links": [
-          "https://github.com/alex81527/latex-nctu-thesis",
-          "https://github.com/borting/nctu-thesis",
-          "https://github.com/chiehmin/nctu-thesis",
-          "https://github.com/hungys/nctu-thesis-latex"
-        ]
-      },
-      {
-        "zh": "国立清华大学",
+        "zh": "国立清华大学（國立清華大學）",
         "en": "National Tsing Hua University (NTHU)",
         "links": [
           "https://github.com/HW-Lee/nthu-thesis-template",
@@ -1346,7 +1336,7 @@
         ]
       },
       {
-        "zh": "国立台湾大学",
+        "zh": "国立台湾大学（國立臺灣大學）",
         "en": "National Taiwan University (NTU)",
         "links": [
           "https://github.com/Hsins/NTU-Thesis-LaTeX-Template",
@@ -1356,14 +1346,24 @@
         ]
       },
       {
-        "zh": "国立台湾科技大学",
+        "zh": "国立台湾科技大学（國立臺灣科技大學）",
         "en": "National Taiwan University of Science and Technology (NTUST)",
         "links": [
           "https://github.com/hadziq/ntust-thesis"
         ]
       },
       {
-        "zh": "香港城市大学",
+        "zh": "国立阳明交通大学（國立陽明交通大學）",
+        "en": "National Yang Ming Chiao Tung University (NYCU)",
+        "links": [
+          "https://github.com/alex81527/latex-nctu-thesis",
+          "https://github.com/borting/nctu-thesis",
+          "https://github.com/chiehmin/nctu-thesis",
+          "https://github.com/hungys/nctu-thesis-latex"
+        ]
+      },
+      {
+        "zh": "香港城市大学（香港城市大學）",
         "en": "City University of Hong Kong (CityU)",
         "links": [
           "https://github.com/huwan/CityU-Thesis",
@@ -1371,7 +1371,7 @@
         ]
       },
       {
-        "zh": "香港大学",
+        "zh": "香港大学（香港大學）",
         "en": "University of Hong Kong (UHK)",
         "links": [
           "https://github.com/guanyingc/HKU-PhD-Thesis-LaTex",
@@ -1379,7 +1379,7 @@
         ]
       },
       {
-        "zh": "香港科技大学",
+        "zh": "香港科技大学（香港科技大學）",
         "en": "Hong Kong University Of Science And Technology (HUST)",
         "links": [
           "https://github.com/fcyu/HKUST_PhD_MPhil_thesis_Latex",
@@ -1387,7 +1387,7 @@
         ]
       },
       {
-        "zh": "香港理工大学",
+        "zh": "香港理工大学（香港理工大學）",
         "en": "Hong Kong Polytechnic University (PolyU)",
         "links": [
           "https://github.com/edwardtoday/hkputhesis",
@@ -1395,7 +1395,7 @@
         ]
       },
       {
-        "zh": "香港中文大学",
+        "zh": "香港中文大学（香港中文大學）",
         "en": "Chinese University of Hong Kong (CUHK)",
         "links": [
           "https://github.com/cllu/CUHK-Thesis-Template",
