@@ -49,12 +49,17 @@ theme:
         name: Switch to light mode
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - assets/javascripts/tablesort.js
 
 # Plugins
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - table-reader
 
 # Additional configuration
 extra:
@@ -70,10 +75,10 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - mdx_truly_sane_lists
   - tables
   - toc:
       permalink: true
-  - mdx_truly_sane_lists
 
 # Page tree
 nav:

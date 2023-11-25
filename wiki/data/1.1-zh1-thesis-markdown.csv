@@ -1,0 +1,6 @@
+index,zh,en,count,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
+0,北京师范大学,Beijing Normal University,0/1,[94wgfk/BNUThesisPandoc](https://github.com/94wgfk/BNUThesisPandoc),0,1,6,1,2016-06-14T16:23:37Z,2016-06-14T14:13:28Z,2023-11-15T06:42:23Z,**【长久未更新】** 使用Pandoc Markdown和LaTeX写北师大毕业论文。
+1,重庆大学,Chongqing University,1/1,[ilcpm/cqu-thesis-markdown](https://github.com/ilcpm/cqu-thesis-markdown),1,2,19,1,2023-07-19T15:18:42Z,2020-12-05T15:11:58Z,2023-05-15T15:51:39Z,重庆大学毕业论文 Markdown 转 Word (docx) 方案
+2,南方科技大学,Southern University of Science and Technology,1/1,[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown),1,0,8,1,2022-09-26T17:21:46Z,2022-04-16T19:49:18Z,2023-06-05T06:58:01Z,南方科技大学毕业论文markdown模板
+3,上海交通大学,Shanghai Jiaotong University,1/1,[dyweb/SJTUThesis-Markdown](https://github.com/dyweb/SJTUThesis-Markdown),1,5,39,10,2018-06-07T11:06:21Z,2018-06-07T07:28:32Z,2023-06-30T07:32:56Z,（实验性项目）上海交通大学学位论文 R Markdown (bookdown) 模板
+4,中南大学,Central South University,1/1,[csu-tclab/CSUthesisMD](https://github.com/csu-tclab/CSUthesisMD),1,0,0,0,2022-04-11T11:09:18Z,2022-04-11T10:33:29Z,2022-04-11T10:50:54Z,使用 Markdown 编写中南大学硕士毕业论文
