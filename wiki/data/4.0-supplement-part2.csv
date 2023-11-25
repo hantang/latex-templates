@@ -1,0 +1,4 @@
+index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
+0,[BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown),1,67,714,17,2023-06-02T22:40:04Z,2016-07-26T20:38:59Z,2023-11-15T09:06:08Z,:memo: Delightful Markdown stuff.
+1,[mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown),1,219,1286,45,2022-12-04T13:34:00Z,2015-05-03T11:23:16Z,2023-11-24T19:17:18Z,"A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)"
+2,[mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors),1,95,778,25,2023-11-17T17:52:51Z,2016-03-15T23:55:06Z,2023-11-23T03:11:41Z,"A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more"
