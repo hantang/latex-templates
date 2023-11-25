@@ -1638,7 +1638,8 @@
         "zh": "（荷兰）代尔夫特理工大学",
         "en": "Delft University of Technology (Technische Universiteit Delft, TU Delft)",
         "links": [
-          "https://github.com/Inventitech/phd-thesis-template"
+          "https://github.com/Inventitech/phd-thesis-template",
+          "https://github.com/jmilhomens/lyx-phdthesis-tudelft"
         ]
       },
       {
@@ -1907,13 +1908,6 @@
         "en": "University of Manchester",
         "links": [
           "https://github.com/Adorno-Lab/phd-thesis-lyx-template"
-        ]
-      },
-      {
-        "zh": "（荷兰）代尔夫特理工大学",
-        "en": "Delft University of Technology (Technische Universiteit Delft, TUDelft)",
-        "links": [
-          "https://github.com/jmilhomens/lyx-phdthesis-tudelft"
         ]
       },
       {
