@@ -11635,47 +11635,7 @@
     "archived": false,
     "visibility": "public",
     "size": 444,
-    "hist_html_url": [
-      "https://github.com/xiamyphys/HDUPaper"
-    ]
-  },
-  {
-    "html_url": "https://github.com/xiamyphys/hduthesis",
-    "description": "杭州电子科技大学本科生毕业论文LaTeX模板",
-    "stargazers_count": 8,
-    "forks_count": 0,
-    "watchers_count": 8,
-    "subscribers_count": 1,
-    "pushed_at": "2023-06-02T15:47:16Z",
-    "created_at": "2023-06-02T15:36:54Z",
-    "updated_at": "2023-11-13T14:11:52Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 444,
-    "hist_html_url": [
-      "https://github.com/xiamyphys/HDUPaper"
-    ]
-  },
-  {
-    "html_url": "https://github.com/xiamyphys/hduthesis",
-    "description": "杭州电子科技大学本科生毕业论文LaTeX模板",
-    "stargazers_count": 8,
-    "forks_count": 0,
-    "watchers_count": 8,
-    "subscribers_count": 1,
-    "pushed_at": "2023-06-02T15:47:16Z",
-    "created_at": "2023-06-02T15:36:54Z",
-    "updated_at": "2023-11-13T14:11:52Z",
-    "private": false,
-    "fork": false,
-    "archived": false,
-    "visibility": "public",
-    "size": 444,
-    "hist_html_url": [
-      "https://github.com/xiamyphys/HDUPaper"
-    ]
+    "hist_html_url": "https://github.com/xiamyphys/HDUPaper"
   },
   {
     "html_url": "https://github.com/xiaoyao9933/UCASthesis",
