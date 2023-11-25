@@ -1,3 +1,4 @@
 mkdocs
 mkdocs-material
+mkdocs-table-reader-plugin
 mdx_truly_sane_lists
