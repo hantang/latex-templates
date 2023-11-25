@@ -990,6 +990,7 @@
           "https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021",
           "https://github.com/obster-y/XJTU-thesis",
           "https://github.com/smartsrh/xjtubachelor",
+          "https://github.com/zzjjzzgggg/xjtuthesis",
           "https://github.com/zzjjzzgggg/xjtuthesis"
         ]
       },
@@ -1825,7 +1826,8 @@
         "en": "University of Cambridge",
         "links": [
           "https://github.com/cambridge/thesis",
-          "https://github.com/kks32/phd-thesis-template"
+          "https://github.com/kks32/phd-thesis-template",
+          "https://github.com/kks32/PhDThesisLyX"
         ]
       },
       {
@@ -1847,7 +1849,8 @@
         "zh": "（英国）牛津大学",
         "en": "University of Oxford",
         "links": [
-          "https://github.com/mcmanigle/OxThesis"
+          "https://github.com/mcmanigle/OxThesis",
+          "https://github.com/telegraphic/Oxford-LyX-Thesis-Template"
         ]
       },
       {
