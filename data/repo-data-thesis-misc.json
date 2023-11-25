@@ -186,10 +186,17 @@
     ],
     "其他国家（地区）高校": [
       {
-        "zh": "（英国）剑桥大学",
-        "en": "University of Cambridge",
+        "zh": "通用模板",
+        "en": "simple thesis template",
         "links": [
-          "https://github.com/jeffa5/typst-cambridge"
+          "https://github.com/zagoli/simple-typst-thesis"
+        ]
+      },
+      {
+        "zh": "（澳大利亚）斯威本科技大学",
+        "en": "Swinburne University of Technology",
+        "links": [
+          "https://github.com/coljac/swinburne-phd-typst"
         ]
       },
       {
@@ -214,13 +221,6 @@
         ]
       },
       {
-        "zh": "（澳大利亚）斯威本科技大学",
-        "en": "Swinburne University of Technology",
-        "links": [
-          "https://github.com/coljac/swinburne-phd-typst"
-        ]
-      },
-      {
         "zh": "（拉脱维亚）里加工业大学",
         "en": "Riga Technical University (Rīgas Tehniskā Universitāte, RTU)",
         "links": [
@@ -235,10 +235,10 @@
         ]
       },
       {
-        "zh": "通用模板",
-        "en": "simple thesis template",
+        "zh": "（英国）剑桥大学",
+        "en": "University of Cambridge",
         "links": [
-          "https://github.com/zagoli/simple-typst-thesis"
+          "https://github.com/jeffa5/typst-cambridge"
         ]
       }
     ]
@@ -301,18 +301,10 @@
     ],
     "其他国家（地区）高校": [
       {
-        "zh": "（英国）牛津大学",
-        "en": "University of Oxford",
+        "zh": "（德国）柏林洪堡大学",
+        "en": "Humboldt University of Berlin (Humboldt-Universität zu Berlin, HU Berlin)",
         "links": [
-          "https://github.com/aesadde/ox-thesis",
-          "https://github.com/ulyngs/oxforddown"
-        ]
-      },
-      {
-        "zh": "（瑞士）苏黎世大学",
-        "en": "University of Zurich (Universität Zürich, UZH)",
-        "links": [
-          "https://github.com/maehr/uzh-ma-thesis"
+          "https://github.com/napiontek/huphydown"
         ]
       },
       {
@@ -320,13 +312,6 @@
         "en": "Lappeenranta University of Technology, LUT",
         "links": [
           "https://github.com/paulihuhtiniemi/lut-thesis-markdown"
-        ]
-      },
-      {
-        "zh": "（智利）塔尔卡大学",
-        "en": "University of Talca (Universidad de Talca)",
-        "links": [
-          "https://github.com/jose-villar/thesis-template-utal"
         ]
       },
       {
@@ -344,10 +329,10 @@
         ]
       },
       {
-        "zh": "（德国）柏林洪堡大学",
-        "en": "Humboldt University of Berlin (Humboldt-Universität zu Berlin, HU Berlin)",
+        "zh": "（瑞士）苏黎世大学",
+        "en": "University of Zurich (Universität Zürich, UZH)",
         "links": [
-          "https://github.com/napiontek/huphydown"
+          "https://github.com/maehr/uzh-ma-thesis"
         ]
       },
       {
@@ -355,6 +340,21 @@
         "en": "Catholic University of Sacred Heart (Università Cattolica del Sacro Cuore)",
         "links": [
           "https://github.com/NiccoloSalvini/cattolicadown"
+        ]
+      },
+      {
+        "zh": "（英国）牛津大学",
+        "en": "University of Oxford",
+        "links": [
+          "https://github.com/aesadde/ox-thesis",
+          "https://github.com/ulyngs/oxforddown"
+        ]
+      },
+      {
+        "zh": "（智利）塔尔卡大学",
+        "en": "University of Talca (Universidad de Talca)",
+        "links": [
+          "https://github.com/jose-villar/thesis-template-utal"
         ]
       }
     ]
