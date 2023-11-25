@@ -1,0 +1,5 @@
+index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
+0,[MLNLP-World/Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code),1,166,900,18,2022-11-05T10:44:56Z,2022-07-25T14:55:04Z,2023-11-25T04:28:30Z,MLNLP: Paper Picture Writing Code
+1,[synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations),1,201,3617,37,2022-07-12T23:11:07Z,2022-01-10T02:22:42Z,2023-11-24T20:21:33Z,"Examples of how to create colorful, annotated equations in Latex using Tikz."
+2,[xinychen/academic-drawing](https://github.com/xinychen/academic-drawing),1,40,176,6,2019-09-27T15:11:21Z,2018-06-14T05:24:59Z,2023-11-24T19:40:46Z,Providing codes (including Matlab and Python) for visualizing numerical experiment results.
+3,[xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing),1,152,1162,36,2023-03-31T00:23:38Z,2019-01-11T07:07:52Z,2023-11-24T19:46:37Z,"Drawing Bayesian networks, graphical models, tensors, and technical frameworks and illustrations in LaTeX."
