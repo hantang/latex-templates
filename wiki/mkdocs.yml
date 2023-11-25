@@ -15,6 +15,8 @@ theme:
   name: material
   language: zh
   highlightjs: true
+  icon:
+    logo: material/notebook
   font:
     text: Helvetica Neue # Roboto
     code: Roboto Mono
@@ -79,6 +81,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 # Page tree
 nav:
@@ -91,7 +96,7 @@ nav:
     - 其他LaTeX模板: 2.0-latex.md
     - 非LaTeX模板: 3.0-more.md
     - 补充资料: 4.0-supplement.md
-    - LaTex资源: 5.0-resource.md
+    - LaTeX资源: 5.0-resource.md
   - 论文模板:
     - 中国内地（大陆）高校: 1.1-zh1.md
     - 中国港澳台地区高校: 1.2-zh2.md
@@ -102,4 +107,4 @@ nav:
     - 非LaTeX模板: 3.0-more.md
   - 更多资源:
     - 补充资料: 4.0-supplement.md
-    - LaTex资源: 5.0-resource.md
+    - LaTeX资源: 5.0-resource.md
