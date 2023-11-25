@@ -1,0 +1,5 @@
+index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
+0,[cagix/pandoc-thesis](https://github.com/cagix/pandoc-thesis),1,20,70,2,2023-09-11T08:40:28Z,2019-07-22T13:56:31Z,2023-11-01T17:25:07Z,A Template for Thesis Documents written in Markdown
+1,[ismayc/thesisdown](https://github.com/ismayc/thesisdown),1,348,779,26,2023-05-29T03:10:10Z,2016-08-16T17:05:41Z,2023-11-18T01:30:03Z,An updated R Markdown thesis template using the bookdown package
+2,[pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus),1,31,246,12,2021-12-31T03:36:32Z,2017-05-15T20:24:46Z,2023-08-23T19:07:37Z,The easiest way to use R package bookdown for  writing varied types of books and documents
+3,[tompollard/phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown),1,531,1163,30,2023-05-23T16:12:54Z,2015-02-10T10:32:25Z,2023-11-24T19:16:28Z,Template for writing a PhD thesis in Markdown
