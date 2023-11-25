@@ -19,14 +19,14 @@
         "zh": "北京大学",
         "en": "Peking University",
         "links": [
+          "https://github.com/AllanChain/pkuthss-lyx",
           "https://github.com/CasperVector/pkuthss",
           "https://github.com/GXIU/Easy-Templates",
           "https://github.com/Thesharing/pkuthss",
           "https://github.com/doubleZ0108/pkuthss-mac",
           "https://github.com/tbcdebug/PKU_EECS_UGR_THSS",
-          "https://github.com/wongsingfo/pku-grad-thesis",
           "https://github.com/vidon/pkuthssLyX",
-          "https://github.com/AllanChain/pkuthss-lyx"
+          "https://github.com/wongsingfo/pku-grad-thesis"
         ]
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "zh": "北京航空航天大学",
-        "en": "Beijing University of Aeronautics and Astronautics(Beihang University)",
+        "en": "Beijing University of Aeronautics and Astronautics (Beihang University)",
         "links": [
           "https://github.com/BHOSC/BUAAthesis",
           "https://github.com/CheckBoxStudio/BUAAThesis",
@@ -72,8 +72,8 @@
         "zh": "北京理工大学",
         "en": "Beijing Institute of Technology",
         "links": [
-          "https://github.com/BITNP/BIThesis",
           "https://github.com/BIT-thesis/LaTeX-template",
+          "https://github.com/BITNP/BIThesis",
           "https://github.com/FDUZS/BIThesis",
           "https://github.com/PolarLion/BIT-thesis-template",
           "https://github.com/jiandahao/BIT-thesis-LaTex",
@@ -147,8 +147,8 @@
         "zh": "重庆邮电大学",
         "en": "Chongqing University of Posts and Telecommunications",
         "links": [
-          "https://github.com/coding-tan/CQUPTtex",
           "https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template",
+          "https://github.com/coding-tan/CQUPTtex",
           "https://github.com/lusccc/cqupt-thesis",
           "https://github.com/mequanwei/CQUPTThesis"
         ]
@@ -169,14 +169,14 @@
           "https://github.com/QuYue/The-XeLaTex-Template-of-Master-Degree-Thesis-of-DUT",
           "https://github.com/Saltsmart/DUT-master-thesis",
           "https://github.com/Youxuan1/dut_essay_model",
+          "https://github.com/dutLQG/DUT-LyX",
           "https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master",
           "https://github.com/hanqing0521/thesis-dut",
           "https://github.com/li-xin-yi/DLUTLaTeXTemplate",
           "https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
           "https://github.com/wendy2003888/DLUT_XeLatex_TemplateForBachelor",
           "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Doctor",
-          "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste",
-          "https://github.com/dutLQG/DUT-LyX"
+          "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste"
         ]
       },
       {
@@ -189,12 +189,12 @@
           "https://github.com/lzcn/uestcthesis",
           "https://github.com/raja21068/UESTC-LATEX-THESIS-FORMAT",
           "https://github.com/raja21068/UESTC-THESIS",
+          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex",
           "https://github.com/richardkwo/UESTC-bachelor-thesis-xelatex",
           "https://github.com/savicsw/ThesisUESTC",
           "https://github.com/shifujun/UESTCthesis",
           "https://github.com/tinoryj/UESTC-Thesis-Latex-Template",
-          "https://github.com/tzz1996/ThesisUESTC",
-          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex"
+          "https://github.com/tzz1996/ThesisUESTC"
         ]
       },
       {
@@ -251,10 +251,10 @@
           "https://github.com/cmuCoppelia/seuthesis2020",
           "https://github.com/jasonbian97/Southeast-University-Paper-Latex-Template",
           "https://github.com/liuying1905/seu_thesis",
+          "https://github.com/oldoldstone/seuthslyx",
           "https://github.com/seucs/seuthesis",
           "https://github.com/wen-fei/seu-thesis-latex-template",
-          "https://github.com/zhimengfan1990/seuthesix",
-          "https://github.com/oldoldstone/seuthslyx"
+          "https://github.com/zhimengfan1990/seuthesix"
         ]
       },
       {
@@ -342,7 +342,7 @@
           "https://github.com/dcpnonstop/HDUthesis",
           "https://github.com/hduffddybz/HDU-thesis",
           "https://github.com/m13253/LaTeX-HDU-Bachelor-Thesis",
-          "https://github.com/xiamyphys/HDUPaper",
+          "https://github.com/xiamyphys/hduthesis",
           "https://github.com/xmlu/hduthesis",
           "https://github.com/ydar95/HDU-Master-Thesis-Latex"
         ]
@@ -572,11 +572,11 @@
           "https://github.com/GFrankenstein/NJU-Thesis-LaTeX-Template",
           "https://github.com/Haixing-Hu/nju-thesis",
           "https://github.com/ZLCao/NJUBachelor",
+          "https://github.com/jiangyy/njuthesis",
           "https://github.com/nju-lug/NJUThesis",
           "https://github.com/njuHan/njuthesis-nju-thesis-template",
           "https://github.com/solrex/njuthesis",
-          "https://github.com/zhangchuheng123/NJUThesis",
-          "https://github.com/jiangyy/njuthesis"
+          "https://github.com/zhangchuheng123/NJUThesis"
         ]
       },
       {
@@ -1080,11 +1080,11 @@
           "https://github.com/liulizhi1996/XMU-Bachelor-Thesis-Templete",
           "https://github.com/naseeihity/xmu-latex-temple",
           "https://github.com/neofung/XMU_master_and_doctor_degree_thesis",
+          "https://github.com/renkun-ken/xmu-thesis-lyx",
           "https://github.com/uhomelee/xmu-undergraduate-thesis",
           "https://github.com/wwwxmu/-Latex-",
           "https://github.com/xiamenwcy/LaTeXFileforXMUThesis",
-          "https://github.com/zoam/xmu-thesis-grd",
-          "https://github.com/renkun-ken/xmu-thesis-lyx"
+          "https://github.com/zoam/xmu-thesis-grd"
         ]
       },
       {
@@ -1198,9 +1198,9 @@
           "https://github.com/GaZ3ll3/ustcthesis",
           "https://github.com/acgotaku/USTC-SSE-THESIS",
           "https://github.com/jiaopjie/ustcthesis",
+          "https://github.com/ustctug/ustclyx",
           "https://github.com/ustctug/ustcthesis",
-          "https://github.com/ywgATustcbbs/ustcthesis",
-          "https://github.com/ustctug/ustclyx"
+          "https://github.com/ywgATustcbbs/ustcthesis"
         ]
       },
       {
@@ -1645,8 +1645,8 @@
         "zh": "（加拿大）不列颠哥伦比亚大学",
         "en": "University of British Columbia (UBC)",
         "links": [
-          "https://github.com/oganm/ThesisProposal",
-          "https://github.com/alanmanning/ubc-thesis-lyx"
+          "https://github.com/alanmanning/ubc-thesis-lyx",
+          "https://github.com/oganm/ThesisProposal"
         ]
       },
       {
@@ -1745,8 +1745,8 @@
         "zh": "（土耳其）伊斯坦布尔科技大学",
         "en": "Istanbul Technical University (istanbul Teknik Üniversitesi, ITU)",
         "links": [
-          "https://github.com/ondes/Template-Latex-ITU-Thesis",
-          "https://github.com/ituast/itutezLyX"
+          "https://github.com/ituast/itutezLyX",
+          "https://github.com/ondes/Template-Latex-ITU-Thesis"
         ]
       },
       {
@@ -1826,8 +1826,8 @@
         "en": "University of Cambridge",
         "links": [
           "https://github.com/cambridge/thesis",
-          "https://github.com/kks32/phd-thesis-template",
-          "https://github.com/kks32/PhDThesisLyX"
+          "https://github.com/kks32/PhDThesisLyX",
+          "https://github.com/kks32/phd-thesis-template"
         ]
       },
       {
@@ -1955,8 +1955,8 @@
         "zh": "（印度尼西亚）印度尼西亚大学",
         "en": "University of Indonesia (Universitas Indonesia)",
         "links": [
-          "https://github.com/yohanesgultom/ui_style",
-          "https://github.com/rkkautsar/ui-thesis-template"
+          "https://github.com/rkkautsar/ui-thesis-template",
+          "https://github.com/yohanesgultom/ui_style"
         ]
       }
     ]

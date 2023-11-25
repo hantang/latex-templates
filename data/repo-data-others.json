@@ -53,10 +53,10 @@
     "LaTeX绘图": [
       {
         "links": [
-          "https://github.com/xinychen/academic-drawing",
-          "https://github.com/xinychen/awesome-latex-drawing",
           "https://github.com/MLNLP-World/Paper-Picture-Writing-Code",
-          "https://github.com/synercys/annotated_latex_equations"
+          "https://github.com/synercys/annotated_latex_equations",
+          "https://github.com/xinychen/academic-drawing",
+          "https://github.com/xinychen/awesome-latex-drawing"
         ]
       }
     ]
@@ -88,16 +88,16 @@
     "Typst资源": [
       {
         "links": [
-          "https://github.com/typst/typst",
-          "https://github.com/qjcg/awesome-typst"
+          "https://github.com/qjcg/awesome-typst",
+          "https://github.com/typst/typst"
         ]
       }
     ],
     "Markdown资源": [
       {
         "links": [
-          "https://github.com/mundimark/awesome-markdown",
           "https://github.com/BubuAnabelas/awesome-markdown",
+          "https://github.com/mundimark/awesome-markdown",
           "https://github.com/mundimark/awesome-markdown-editors"
         ]
       }
