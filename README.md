@@ -54,6 +54,8 @@
 学位论文写作，建议优先查询所在学校（学院）相关文件规范或咨询在校校师生。
 有能力的，可以参考目前最受欢迎的模板进行适配调整。
 
+[![Beyond LaTeX Templates](images/website-docs.png)](https://hantang.github.io/latex-templates)
+
 ---
 
 <!-- top list -->
