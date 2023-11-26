@@ -407,6 +407,8 @@
 
 </details>
 
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
+
 <!-- end top list -->
 
 ---
@@ -422,10 +424,10 @@ WIP
 欢迎 fork，提交 issue、指出或修正错误。
 Powered By ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
-
 ## 版权
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 此项目基于[知识共享-署名 4.0 国际](https://creativecommons.org/licenses/by/4.0/).
+
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
