@@ -29,7 +29,6 @@
     - [Markdown 资源](#markdown-资源)
     - [文献引用](#文献引用)
     - [排版相关](#排版相关)
-  - [关注度](#关注度)
   - [贡献](#贡献)
 
 ## 说明
@@ -414,16 +413,17 @@
 
 ---
 
-## 关注度
-
-![Stargazers over time](https://starchart.cc/hantang/latex-templates.svg)
+<!-- ## 关注度 -->
+<!-- [Stargazers over time](https://starchart.cc/hantang/latex-templates.svg) -->
 
 ## 贡献
 
 WIP
 
-欢迎 fork，提交 issue、指出或修正错误。
+欢迎 fork，提交 issue，补充数据，以及帮助指出或修正错误。
 
-Powered By ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+Copyright &copy; 2018-2023 Hantang
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
