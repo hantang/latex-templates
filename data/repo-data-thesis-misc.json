@@ -2,6 +2,13 @@
   "学位论文模板（Microsoft Word）": {
     "中国内地（大陆）高校": [
       {
+        "zh": "北京大学",
+        "en": "Peking University",
+        "links": [
+          "https://github.com/xelmirage/pku_thesis_docx"
+        ]
+      },
+      {
         "zh": "北京航空航天大学",
         "en": "Beijing University of Aeronautics and Astronautics (Beihang University)",
         "links": [
