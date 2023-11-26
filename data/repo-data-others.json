@@ -64,7 +64,9 @@
   "非LaTeX/Lyx模板": {
     "Typst模板": [
       {
-        "links": ["https://github.com/typst/templates"]
+        "links": [
+          "https://github.com/typst/templates"
+        ]
       }
     ],
     "Markdown写作模板": [
@@ -79,7 +81,9 @@
     ],
     "其他写作模板": [
       {
-        "links": ["https://github.com/dangom/org-thesis"]
+        "links": [
+          "https://github.com/dangom/org-thesis"
+        ]
       }
     ]
   },
