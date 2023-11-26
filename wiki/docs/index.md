@@ -95,7 +95,6 @@
   - 🔖`2018-03-03` ![stargazers_count=300](https://flat.badgen.net/github/stars/njuHan/njuthesis-nju-thesis-template) ![forks_count=90](https://flat.badgen.net/github/forks/njuHan/njuthesis-nju-thesis-template) ![pushed_at=2023-05-11](https://flat.badgen.net/github/last-commit/njuHan/njuthesis-nju-thesis-template) ![license=GPL-2.0](https://flat.badgen.net/github/license/njuHan/njuthesis-nju-thesis-template)
 - ...
 
-**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
 
 ## 最受欢迎 LaTeX 其他学位论文模板
 
@@ -145,5 +144,3 @@
   - `JHU Thesis Template`
   - 🔖`2014-04-29` ![stargazers_count=35](https://flat.badgen.net/github/stars/weitzner/jhu-thesis-template) ![forks_count=83](https://flat.badgen.net/github/forks/weitzner/jhu-thesis-template) ![pushed_at=2018-07-18](https://flat.badgen.net/github/last-commit/weitzner/jhu-thesis-template) ![license= ](https://flat.badgen.net/github/license/weitzner/jhu-thesis-template)
 - ...
-
-**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**

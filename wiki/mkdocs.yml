@@ -54,8 +54,10 @@ extra_css:
   - assets/stylesheets/extra.css
 
 extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - assets/javascripts/tablesort.js
+  - assets/javascripts/tablesort-5.3.0/dist/tablesort.min.js
+  - assets/javascripts/tablesort-5.3.0/dist/sorts/tablesort.date.min.js
+  - assets/javascripts/tablesort-5.3.0/dist/sorts/tablesort.number.min.js
+  - assets/javascripts/extra.js
 
 # Plugins
 plugins:
@@ -79,6 +81,7 @@ markdown_extensions:
   - md_in_html
   - mdx_truly_sane_lists
   - tables
+  - pymdownx.tilde
   - toc:
       permalink: true
   - pymdownx.emoji:
