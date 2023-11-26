@@ -1,4 +1,4 @@
-index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,[XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers),1,80,225,7,2023-09-01T05:43:57Z,2017-06-11T01:57:07Z,2023-11-21T11:20:20Z,beamer template collection
-1,[dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates),1,157,718,20,2021-05-28T19:39:05Z,2014-09-27T21:13:32Z,2023-11-24T19:15:24Z,"A collection of LaTeX templates used for research, courses, and miscellanea."
-2,[martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list),1,106,1106,53,2023-09-09T00:46:19Z,2014-09-16T22:26:50Z,2023-11-24T19:15:19Z,A collection of Beamer themes from the community
+index,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,[XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers),1,225,80,7,2023-09-01,2017-06-11,2023-11-21, ,beamer template collection
+1,[dustinvtran/latex-templates](https://github.com/dustinvtran/latex-templates),1,718,157,20,2021-05-28,2014-09-27,2023-11-24, ,"A collection of LaTeX templates used for research, courses, and miscellanea."
+2,[martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list),1,1106,106,53,2023-09-09,2014-09-16,2023-11-24, ,A collection of Beamer themes from the community

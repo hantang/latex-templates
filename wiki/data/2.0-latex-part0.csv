@@ -1,15 +1,15 @@
-index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,[AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template),1,625,1214,74,2023-11-04T19:07:53Z,2012-10-29T07:25:29Z,2023-11-24T15:45:35Z,LaTeX-template for russian Phd thesis
-1,[Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis),1,43,181,10,2023-11-24T17:06:24Z,2016-06-10T14:25:24Z,2023-11-20T10:47:40Z,Hagenberg LaTeX Thesis Template
-2,[Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis),1,113,1085,23,2023-11-16T15:10:18Z,2017-05-18T15:49:51Z,2023-11-24T19:30:59Z,A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
-3,[WetenSchaap/latex-imitatie](https://github.com/WetenSchaap/latex-imitatie),1,0,1,2,2022-06-17T09:00:09Z,2022-04-04T09:12:46Z,2022-04-04T12:30:54Z,Latex class for Dutch PhD-thesis
-4,[derric/cleanthesis](https://github.com/derric/cleanthesis),1,111,881,16,2022-05-31T09:34:07Z,2011-06-09T09:49:17Z,2023-11-16T20:44:49Z,"Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents."
-5,[dimkirt/latex-thesis-template](https://github.com/dimkirt/latex-thesis-template),1,0,0,1,2018-08-06T17:22:48Z,2018-07-28T18:54:43Z,2018-08-05T17:53:39Z,Latex template for thesis documents
-6,[jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis),1,9,10,4,2021-03-09T20:41:46Z,2014-05-17T15:59:43Z,2023-09-27T06:35:55Z,LaTex master thesis templates that allow quick publishing as well as custom design.
-7,[jorgepiloto/escriba](https://github.com/jorgepiloto/escriba),1,0,9,1,2021-09-16T17:24:12Z,2021-09-14T07:14:17Z,2023-03-28T09:34:38Z,Efficiently manage and automate LaTeX based academical works
-8,[latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template),1,115,333,19,2023-08-01T16:41:55Z,2012-07-09T17:29:29Z,2023-11-21T03:36:17Z,"LaTeX template for Master, Bachelor, Diploma, and Student Theses"
-9,[phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template),0,8,18,4,2012-05-14T10:36:06Z,2012-05-14T10:10:06Z,2023-03-19T20:33:50Z,**【长久未更新】** Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.
-10,[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template),1,35,129,7,2023-08-07T10:00:13Z,2016-10-12T23:40:08Z,2023-11-09T12:59:08Z,The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板
-11,[suchow/Dissertate](https://github.com/suchow/Dissertate),1,164,674,33,2023-02-18T05:07:31Z,2011-04-06T02:58:40Z,2023-11-24T19:14:08Z,Beautiful LaTeX dissertation templates.
-12,[tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template),1,4,8,2,2018-04-29T14:48:17Z,2017-06-21T15:18:13Z,2021-04-25T14:08:59Z,A nice looking LaTeX templace for University reports and thesis
-13,[zarrabi/thesis-template](https://github.com/zarrabi/thesis-template),1,31,84,1,2023-06-17T21:41:02Z,2017-08-25T23:01:34Z,2023-10-31T14:27:27Z,A LaTeX template for typesetting theses in Persian
+index,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,[AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template),1,1214,625,74,2023-11-25,2012-10-29,2023-11-24,CC-BY-4.0,LaTeX-template for russian Phd thesis
+1,[Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis),1,181,43,10,2023-11-25,2016-06-10,2023-11-20,NOASSERTION,Hagenberg LaTeX Thesis Template
+2,[Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis),1,1085,113,23,2023-11-16,2017-05-18,2023-11-24,MIT,A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis
+3,[WetenSchaap/latex-imitatie](https://github.com/WetenSchaap/latex-imitatie),1,1,0,2,2022-06-17,2022-04-04,2022-04-04,AGPL-3.0,Latex class for Dutch PhD-thesis
+4,[derric/cleanthesis](https://github.com/derric/cleanthesis),1,881,111,16,2022-05-31,2011-06-09,2023-11-16, ,"Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents."
+5,[dimkirt/latex-thesis-template](https://github.com/dimkirt/latex-thesis-template),1,0,0,1,2018-08-06,2018-07-28,2018-08-05, ,Latex template for thesis documents
+6,[jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis),1,10,9,4,2021-03-09,2014-05-17,2023-09-27, ,LaTex master thesis templates that allow quick publishing as well as custom design.
+7,[jorgepiloto/escriba](https://github.com/jorgepiloto/escriba),1,9,0,1,2021-09-16,2021-09-14,2023-03-28,NOASSERTION,Efficiently manage and automate LaTeX based academical works
+8,[latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template),1,333,115,19,2023-08-01,2012-07-09,2023-11-21,0BSD,"LaTeX template for Master, Bachelor, Diploma, and Student Theses"
+9,[phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template),0,18,8,4,2012-05-14,2012-05-14,2023-03-19,NOASSERTION,**【长久未更新】** Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.
+10,[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template),1,129,35,7,2023-08-07,2016-10-12,2023-11-09,MIT,The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板
+11,[suchow/Dissertate](https://github.com/suchow/Dissertate),1,674,164,33,2023-02-18,2011-04-06,2023-11-24,AGPL-3.0,Beautiful LaTeX dissertation templates.
+12,[tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template),1,8,4,2,2018-04-29,2017-06-21,2021-04-25, ,A nice looking LaTeX templace for University reports and thesis
+13,[zarrabi/thesis-template](https://github.com/zarrabi/thesis-template),1,84,31,1,2023-06-17,2017-08-25,2023-10-31, ,A LaTeX template for typesetting theses in Persian

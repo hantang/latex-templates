@@ -1,13 +1,13 @@
-index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,[bamos/cv](https://github.com/bamos/cv),1,137,391,9,2023-11-04T22:52:24Z,2013-12-29T00:37:06Z,2023-11-25T03:08:08Z, 
-1,[billryan/resume](https://github.com/billryan/resume),1,2408,8065,84,2023-04-30T10:09:49Z,2015-05-30T11:06:09Z,2023-11-24T22:42:39Z,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
-2,[cies/resume](https://github.com/cies/resume),1,67,389,18,2018-06-04T07:23:14Z,2011-02-25T08:15:43Z,2023-11-23T03:00:04Z,My resume as a PDF including the well commented LaTeX source and build instructions.
-3,[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume),1,1226,4645,90,2022-09-18T07:22:40Z,2014-04-30T12:14:35Z,2023-11-24T19:14:16Z,"A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student"
-4,[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv),1,692,1781,25,2023-08-30T09:22:36Z,2015-12-14T03:33:02Z,2023-11-25T05:18:14Z,A Nice-looking CV template made into LaTeX
-5,[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv),1,526,2473,43,2023-08-22T14:34:11Z,2014-06-15T19:31:19Z,2023-11-24T19:14:36Z,:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
-6,[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume),1,723,1500,26,2023-05-10T19:48:04Z,2014-07-09T19:40:28Z,2023-11-24T19:14:47Z,The Markdown Resume
-7,[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV),1,4560,20539,213,2023-11-19T17:19:20Z,2015-01-18T08:42:23Z,2023-11-25T02:16:05Z,:page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-8,[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever),1,2298,16130,318,2023-10-06T05:11:49Z,2017-01-30T23:02:00Z,2023-11-24T19:27:57Z,:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-9,[sb2nov/resume](https://github.com/sb2nov/resume),1,1252,4253,51,2023-11-16T17:12:55Z,2015-10-11T23:37:23Z,2023-11-24T19:18:59Z,Software developer resume in Latex
-10,[sc932/resume](https://github.com/sc932/resume),0,131,494,11,2016-10-09T22:29:21Z,2011-09-19T14:12:41Z,2023-10-21T04:38:38Z,**【长久未更新】** My CV/resume in LaTeX.
-11,[zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv),1,142,446,16,2021-04-05T21:47:03Z,2014-11-09T15:01:42Z,2023-11-18T19:04:56Z,"Template for a simple resume or curriculum vitae (CV), in XeLaTeX."
+index,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,[bamos/cv](https://github.com/bamos/cv),1,391,137,9,2023-11-04,2013-12-29,2023-11-25,MIT, 
+1,[billryan/resume](https://github.com/billryan/resume),1,8069,2409,84,2023-04-30,2015-05-30,2023-11-25,MIT,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+2,[cies/resume](https://github.com/cies/resume),1,389,67,18,2018-06-04,2011-02-25,2023-11-23, ,My resume as a PDF including the well commented LaTeX source and build instructions.
+3,[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume),1,4645,1226,90,2022-09-18,2014-04-30,2023-11-24,Apache-2.0,"A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student"
+4,[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv),1,1782,692,25,2023-08-30,2015-12-14,2023-11-26,MIT,A Nice-looking CV template made into LaTeX
+5,[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv),1,2473,526,43,2023-08-22,2014-06-15,2023-11-24,MIT,:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+6,[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume),1,1501,723,26,2023-05-10,2014-07-09,2023-11-25,MIT,The Markdown Resume
+7,[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV),1,20544,4561,213,2023-11-19,2015-01-18,2023-11-25,LPPL-1.3c,:page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+8,[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever),1,16130,2298,318,2023-10-06,2017-01-30,2023-11-24,MIT,:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+9,[sb2nov/resume](https://github.com/sb2nov/resume),1,4257,1252,51,2023-11-16,2015-10-11,2023-11-25,MIT,Software developer resume in Latex
+10,[sc932/resume](https://github.com/sc932/resume),0,494,131,11,2016-10-09,2011-09-19,2023-10-21,MIT,**【长久未更新】** My CV/resume in LaTeX.
+11,[zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv),1,447,142,16,2021-04-05,2014-11-09,2023-11-25,Unlicense,"Template for a simple resume or curriculum vitae (CV), in XeLaTeX."

@@ -1,7 +1,7 @@
-index,zh,en,count,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,西北工业大学,Northwestern Polytechnical University,2/3,[MoetaYuko/NPU_PhD_proposal](https://github.com/MoetaYuko/NPU_PhD_proposal),1,1,4,1,2022-05-25T11:07:14Z,2022-05-22T15:23:44Z,2023-04-02T15:58:19Z,西北工业大学博士研究生学位论文开题报告表LaTeX模板
-1,西北工业大学,Northwestern Polytechnical University,2/3,[NPUSCG/npu-dissertation-proposal](https://github.com/NPUSCG/npu-dissertation-proposal),1,6,6,1,2022-06-04T03:09:57Z,2018-01-20T13:53:50Z,2022-11-24T10:59:20Z,西北工业大学研究生选题报告表 LaTeX 模板
-2,西北工业大学,Northwestern Polytechnical University,2/3,[zzhang1987/NPUResearchProposal](https://github.com/zzhang1987/NPUResearchProposal),0,6,8,2,2015-07-23T10:03:11Z,2014-10-09T04:34:27Z,2023-02-22T13:28:36Z,**【长久未更新】** 西北工业大学博士开题报告XeLaTeX模板
-3,浙江大学,Zhejiang University,0/1,[corenel/ZJUProposal](https://github.com/corenel/ZJUProposal),0,6,17,2,2017-06-29T14:33:14Z,2017-01-05T15:00:43Z,2023-02-11T10:09:26Z,**【长久未更新】** ZJU LaTeX Proposal Template for Undergraduate.
-4,中国科学院大学,University of Chinese Academy of Sciences,1/1,[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal),1,134,511,10,2021-10-29T04:19:44Z,2016-10-02T20:42:10Z,2023-11-24T19:25:04Z,LaTeX Proposal Template for the University of Chinese Academy of Sciences
-5,中南大学,Central South University,1/1,[zhong-yy/CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal),1,5,10,0,2021-11-19T06:49:49Z,2018-11-21T12:27:21Z,2023-04-04T14:25:39Z,中南大学研究生学位论文开题报告LaTeX模板
+index,zh,en,count,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,西北工业大学,Northwestern Polytechnical University,2/3,[MoetaYuko/NPU_PhD_proposal](https://github.com/MoetaYuko/NPU_PhD_proposal),1,4,1,1,2022-05-25,2022-05-22,2023-04-02, ,西北工业大学博士研究生学位论文开题报告表LaTeX模板
+1,西北工业大学,Northwestern Polytechnical University,2/3,[NPUSCG/npu-dissertation-proposal](https://github.com/NPUSCG/npu-dissertation-proposal),1,6,6,1,2022-06-04,2018-01-20,2022-11-24, ,西北工业大学研究生选题报告表 LaTeX 模板
+2,西北工业大学,Northwestern Polytechnical University,2/3,[zzhang1987/NPUResearchProposal](https://github.com/zzhang1987/NPUResearchProposal),0,8,6,2,2015-07-23,2014-10-09,2023-02-22, ,**【长久未更新】** 西北工业大学博士开题报告XeLaTeX模板
+3,浙江大学,Zhejiang University,0/1,[corenel/ZJUProposal](https://github.com/corenel/ZJUProposal),0,17,6,2,2017-06-29,2017-01-05,2023-02-11,GPL-3.0,**【长久未更新】** ZJU LaTeX Proposal Template for Undergraduate.
+4,中国科学院大学,University of Chinese Academy of Sciences,1/1,[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal),1,511,134,10,2021-10-29,2016-10-02,2023-11-24, ,LaTeX Proposal Template for the University of Chinese Academy of Sciences
+5,中南大学,Central South University,1/1,[zhong-yy/CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal),1,10,5,0,2021-11-19,2018-11-21,2023-04-04, ,中南大学研究生学位论文开题报告LaTeX模板

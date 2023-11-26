@@ -1,8 +1,8 @@
-index,zh,en,count,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,北京大学,Peking University,1/1,[lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst),1,8,45,2,2023-11-22T01:54:46Z,2023-04-08T18:39:51Z,2023-11-22T14:38:55Z,Typst template for dissertations in Peking University (PKU).
-1,北京邮电大学,Beijing University of Posts and Telecommunications,1/1,[QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst),1,2,45,4,2023-11-11T04:51:21Z,2023-03-28T14:32:46Z,2023-11-19T16:13:07Z,北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT).
-2,哈尔滨工业大学,Harbin Institute of Technology,1/1,[chosertech/HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst),1,1,4,1,2023-05-19T03:02:02Z,2023-05-14T14:49:31Z,2023-09-18T00:49:48Z,哈尔滨工业大学 Typst 论文模板
-3,上海大学,Shanghai University,2/2,[LuminolT/SHU-Bachelor-Thesis-Typst](https://github.com/LuminolT/SHU-Bachelor-Thesis-Typst),1,0,0,0,2023-04-10T02:00:23Z,2023-04-08T15:57:54Z,2023-04-10T13:31:42Z,上海大学本科毕业论文typst模板
-4,上海大学,Shanghai University,2/2,[shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst),1,10,51,9,2023-04-19T08:37:27Z,2023-04-09T07:36:07Z,2023-11-21T16:46:57Z,上海大学本科生毕业论文Typst模板
-5,浙江工商大学,Zhejiang Gongshang University,1/1,[jujimeizuo/ZJSU-typst-template](https://github.com/jujimeizuo/ZJSU-typst-template),1,0,2,1,2023-04-30T15:27:01Z,2023-04-19T17:01:00Z,2023-09-27T12:21:41Z,浙江工商大学（本科）毕业论文typst模版
-6,中山大学,Sun Yat-sen University,1/1,[howardlau1999/sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst),1,2,39,2,2023-11-13T10:06:25Z,2023-04-17T15:59:19Z,2023-11-11T16:06:37Z,中山大学学位论文 Typst 模板
+index,zh,en,count,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,北京大学,Peking University,1/1,[lucifer1004/pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst),1,45,8,2,2023-11-22,2023-04-08,2023-11-22,MIT,Typst template for dissertations in Peking University (PKU).
+1,北京邮电大学,Beijing University of Posts and Telecommunications,1/1,[QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst),1,45,2,4,2023-11-11,2023-03-28,2023-11-19,MIT,北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT).
+2,哈尔滨工业大学,Harbin Institute of Technology,1/1,[chosertech/HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst),1,4,1,1,2023-05-19,2023-05-14,2023-09-18, ,哈尔滨工业大学 Typst 论文模板
+3,上海大学,Shanghai University,2/2,[LuminolT/SHU-Bachelor-Thesis-Typst](https://github.com/LuminolT/SHU-Bachelor-Thesis-Typst),1,0,0,0,2023-04-10,2023-04-08,2023-04-10, ,上海大学本科毕业论文typst模板
+4,上海大学,Shanghai University,2/2,[shuosc/SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst),1,51,10,9,2023-04-19,2023-04-09,2023-11-21,Apache-2.0,上海大学本科生毕业论文Typst模板
+5,浙江工商大学,Zhejiang Gongshang University,1/1,[jujimeizuo/ZJSU-typst-template](https://github.com/jujimeizuo/ZJSU-typst-template),1,2,0,1,2023-04-30,2023-04-19,2023-09-27,Apache-2.0,浙江工商大学（本科）毕业论文typst模版
+6,中山大学,Sun Yat-sen University,1/1,[howardlau1999/sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst),1,39,2,2,2023-11-13,2023-04-17,2023-11-11,MIT,中山大学学位论文 Typst 模板
