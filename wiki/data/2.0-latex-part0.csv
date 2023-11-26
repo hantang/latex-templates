@@ -8,8 +8,9 @@ index,github-repository,status,stargazers_count,forks_count,subscribers_count,pu
 6,[jankapunkt/master-thesis](https://github.com/jankapunkt/master-thesis),1,10,9,4,2021-03-09,2014-05-17,2023-09-27, ,LaTex master thesis templates that allow quick publishing as well as custom design.
 7,[jorgepiloto/escriba](https://github.com/jorgepiloto/escriba),1,9,0,1,2021-09-16,2021-09-14,2023-03-28,NOASSERTION,Efficiently manage and automate LaTeX based academical works
 8,[latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template),1,333,115,19,2023-08-01,2012-07-09,2023-11-21,0BSD,"LaTeX template for Master, Bachelor, Diploma, and Student Theses"
-9,[phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template),0,18,8,4,2012-05-14,2012-05-14,2023-03-19,NOASSERTION,**【长久未更新】** Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.
-10,[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template),1,129,35,7,2023-08-07,2016-10-12,2023-11-09,MIT,The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板
-11,[suchow/Dissertate](https://github.com/suchow/Dissertate),1,674,164,33,2023-02-18,2011-04-06,2023-11-24,AGPL-3.0,Beautiful LaTeX dissertation templates.
-12,[tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template),1,8,4,2,2018-04-29,2017-06-21,2021-04-25, ,A nice looking LaTeX templace for University reports and thesis
-13,[zarrabi/thesis-template](https://github.com/zarrabi/thesis-template),1,84,31,1,2023-06-17,2017-08-25,2023-10-31, ,A LaTeX template for typesetting theses in Persian
+9,[openHPI/modernthesis](https://github.com/openHPI/modernthesis),0,6,2,7,2017-06-30,2017-06-30,2019-10-24, ,**【长久未更新】** Bootstrapped classicthesis template
+10,[phretor/cs-phd-dissertation-latex-template](https://github.com/phretor/cs-phd-dissertation-latex-template),0,18,8,4,2012-05-14,2012-05-14,2023-03-19,NOASSERTION,**【长久未更新】** Latex template based on the typographic memoir class for formatting PhD dissertations. Suitable for any areas but devised for computer science researchers.
+11,[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template),1,129,35,7,2023-08-07,2016-10-12,2023-11-09,MIT,The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板
+12,[suchow/Dissertate](https://github.com/suchow/Dissertate),1,674,164,33,2023-02-18,2011-04-06,2023-11-24,AGPL-3.0,Beautiful LaTeX dissertation templates.
+13,[tdehaeze/clean-latex-template](https://github.com/tdehaeze/clean-latex-template),1,8,4,2,2018-04-29,2017-06-21,2021-04-25, ,A nice looking LaTeX templace for University reports and thesis
+14,[zarrabi/thesis-template](https://github.com/zarrabi/thesis-template),1,84,31,1,2023-06-17,2017-08-25,2023-10-31, ,A LaTeX template for typesetting theses in Persian
