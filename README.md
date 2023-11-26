@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/latex-templates)
 ![GitHub Stars Badge](https://img.shields.io/github/stars/hantang/latex-templates.svg)
 ![GitHub Forks Badge](https://img.shields.io/github/forks/hantang/latex-templates.svg)
+![GitHub Commit Badge](https://img.shields.io/github/last-commit/hantang/latex-templates.svg)
+![GitHub License Badge](https://img.shields.io/github/license/hantang/latex-templates.svg)
 
 <!-- lastmod -->
 
@@ -130,6 +132,8 @@
   - 🔖`2018-03-03` ![stargazers_count=300](https://flat.badgen.net/github/stars/njuHan/njuthesis-nju-thesis-template) ![forks_count=90](https://flat.badgen.net/github/forks/njuHan/njuthesis-nju-thesis-template) ![pushed_at=2023-05-11](https://flat.badgen.net/github/last-commit/njuHan/njuthesis-nju-thesis-template) ![license=GPL-2.0](https://flat.badgen.net/github/license/njuHan/njuthesis-nju-thesis-template)
 - ...
 
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
+
 ## 最受欢迎 LaTeX 其他学位论文模板
 
 - **University of Cambridge** (（英国）剑桥大学): [kks32/phd-thesis-template](https://github.com/kks32/phd-thesis-template)
@@ -178,6 +182,8 @@
   - `JHU Thesis Template`
   - 🔖`2014-04-29` ![stargazers_count=35](https://flat.badgen.net/github/stars/weitzner/jhu-thesis-template) ![forks_count=83](https://flat.badgen.net/github/forks/weitzner/jhu-thesis-template) ![pushed_at=2018-07-18](https://flat.badgen.net/github/last-commit/weitzner/jhu-thesis-template) ![license= ](https://flat.badgen.net/github/license/weitzner/jhu-thesis-template)
 - ...
+
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
 
 ---
 
@@ -409,8 +415,9 @@
 WIP
 
 欢迎 fork，提交 issue、指出或修正错误。
+Powered By ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**[⬆ 回到顶部](#beyond-latex-templates)**
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
 
 ## 版权
 
