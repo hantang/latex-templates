@@ -294,7 +294,7 @@
       },
       {
         "zh": "广东工业大学",
-        "en": "Guangdong University of Technology University",
+        "en": "Guangdong University of Technology",
         "links": [
           "https://github.com/sikouhjw/gdutthesis"
         ]
@@ -799,7 +799,6 @@
           "https://github.com/ahhylau/shuthesis",
           "https://github.com/bowenbfeng/SHU-Bachelor-Thesis-Template",
           "https://github.com/shuosc/SHU-Bachelor-Thesis-OSC",
-          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst",
           "https://github.com/zeakey/shu-thesis"
         ]
       },
