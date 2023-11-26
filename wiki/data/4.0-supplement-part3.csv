@@ -1,4 +1,4 @@
-index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015),1,75,656,14,2023-09-13T04:17:42Z,2016-10-12T11:02:21Z,2023-11-25T02:10:46Z,A biblatex implementation of the GB/T7714-2015 bibliography style  || GB/T 7714-2015 参考文献著录和标注的biblatex样式包
-1,[redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl),1,700,3361,19,2023-10-28T08:20:55Z,2020-12-16T12:21:04Z,2023-11-25T02:25:04Z,GB/T 7714相关的csl以及Zotero使用技巧及教程。
-2,[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style),1,187,976,26,2023-11-09T09:05:02Z,2016-03-19T04:16:10Z,2023-11-24T14:59:59Z,GB/T 7714-2015 BibTeX Style
+index,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015),1,656,75,14,2023-09-13,2016-10-12,2023-11-25, ,A biblatex implementation of the GB/T7714-2015 bibliography style  || GB/T 7714-2015 参考文献著录和标注的biblatex样式包
+1,[redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl),1,3364,700,19,2023-10-28,2020-12-16,2023-11-25,NOASSERTION,GB/T 7714相关的csl以及Zotero使用技巧及教程。
+2,[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style),1,975,187,26,2023-11-09,2016-03-19,2023-11-25,LPPL-1.3c,GB/T 7714-2015 BibTeX Style

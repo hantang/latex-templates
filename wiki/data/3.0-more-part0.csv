@@ -1,2 +1,2 @@
-index,github-repository,status,forks_count,watchers_count,subscribers_count,pushed_at,created_at,updated_at,desc
-0,[typst/templates](https://github.com/typst/templates),1,7,104,5,2023-11-20T17:48:52Z,2023-03-27T13:22:08Z,2023-11-22T05:47:21Z,The templates that ship with the Typst web app.
+index,github-repository,status,stargazers_count,forks_count,subscribers_count,pushed_at,created_at,updated_at,license,desc
+0,[typst/templates](https://github.com/typst/templates),1,104,8,5,2023-11-25,2023-03-27,2023-11-22,Unlicense,The templates that ship with the Typst web app.
