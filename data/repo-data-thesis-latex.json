@@ -850,7 +850,8 @@
         "links": [
           "https://github.com/Kexin-Zhang-UCAS/ShanghaiTechThesis",
           "https://github.com/OpenMandrivaAssociation/texlive-shtthesis",
-          "https://github.com/sslchi/SISTThesis"
+          "https://github.com/sslchi/SISTThesis",
+          "https://github.com/Haoxiaoling/shtuthesis"
         ]
       },
       {
@@ -1206,7 +1207,8 @@
         "en": "Zhejiang University of Technology",
         "links": [
           "https://github.com/AsukaEva2/ZJUTbachelor",
-          "https://github.com/yyz98799/zjutthesis"
+          "https://github.com/yyz98799/zjutthesis",
+          "https://github.com/zjutjh/zjutthesis"
         ]
       },
       {
@@ -1313,7 +1315,16 @@
         "zh": "中国石油大学（华东）",
         "en": "China University of Petroleum (East China)",
         "links": [
-          "https://github.com/DotWang/UPCThesis_advanced"
+          "https://github.com/DotWang/UPCThesis_advanced",
+          "https://github.com/walkman-z/upc-thesis-2020",
+          "https://github.com/cr0wchen/upc-thesis-2020"
+        ]
+      },
+      {
+        "zh": "中国石油大学（北京）",
+        "en": "China University of Petroleum (Beijing)",
+        "links": [
+          "https://github.com/linyuantiaohe/cupb-phd-thesis"
         ]
       },
       {
@@ -1361,6 +1372,115 @@
         "en": "Minzu University of China",
         "links": [
           "https://github.com/MUCVIP/mucthesis"
+        ]
+      },
+      {
+        "zh": "东华大学",
+        "en": "Donghua University",
+        "links": [
+          "https://github.com/godshen/dhu_thesis",
+          "https://github.com/DCMMC/DHU-Paper-Template"
+        ]
+      },
+      {
+        "zh": "中国传媒大学",
+        "en": "Communication University of China",
+        "links": [
+          "https://github.com/AmnesiaBeing/CUC-Thesis-Template",
+          "https://github.com/felicia-tung/My-CUC-Thesis",
+          "https://github.com/AmnesiaBeing/CUC-Thesis-Template",
+          "https://github.com/cucJ2014/CUC_Template-of-thesis_Latex"
+        ]
+      },
+      {
+        "zh": "华中师范大学",
+        "en": "Central China Normal University",
+        "links": [
+          "https://github.com/xkwxdyy/CCNUthesis",
+          "https://github.com/wasphin/latex-ccnu-thesis"
+        ]
+      },
+      {
+        "zh": "北京外国语大学",
+        "en": "Beijing Foreign Studies University",
+        "links": [
+          "https://github.com/Ryan-the-hito/BFSU-paper"
+        ]
+      },
+      {
+        "zh": "对外经贸大学",
+        "en": "University of International Business and Economics",
+        "links": [
+          "https://github.com/caibengbu/uibethesis"
+        ]
+      },
+      {
+        "zh": "成都理工大学",
+        "en": "Chengdu University of Technology",
+        "links": [
+          "https://github.com/fumeng6/CDUT-Undergraduate-Thesis-Template",
+          "https://github.com/cs-whh/CDUT_thesis"
+        ]
+      },
+      {
+        "zh": "海南师范大学",
+        "en": "Hainan Normal University",
+        "links": [
+          "https://github.com/cliffigor/Hainnu-Thesis"
+        ]
+      },
+      {
+        "zh": "河海大学",
+        "en": "Hohai University",
+        "links": [
+          "https://github.com/caowenhan/hhuthesis",
+          "https://github.com/Vitzron/HHU-thesis",
+          "https://github.com/schochastics/hhu_thesis",
+          "https://github.com/davyxx3/hhu-thesis-bachelor"
+        ]
+      },
+      {
+        "zh": "福州大学",
+        "en": "Fuzhou University",
+        "links": [
+          "https://github.com/FzuerStudio/fzu-thesis-template",
+          "https://github.com/siaimes/ThesisFZU"
+
+        ]
+      },
+      {
+        "zh": "西北大学",
+        "en": "Northwestern University",
+        "links": [
+          "https://github.com/Nat-Sci/NWU-dissertation-template"
+        ]
+      },
+      {
+        "zh": "贵州大学",
+        "en": "Guizhou University",
+        "links": [
+          "https://github.com/francisol/GZUthesis-template"
+        ]
+      },
+      {
+        "zh": "陕西师范大学",
+        "en": "Shaanxi Normal University",
+        "links": [
+          "https://github.com/yykphy/yk-snnu-thesis"
+        ]
+      },
+      {
+        "zh": "青海大学",
+        "en": "Qinghai University",
+        "links": [
+          "https://github.com/coffeelize/QHUthesis"
+        ]
+      },
+      {
+        "zh": "浙江理工大学",
+        "en": "Zhejiang Sci-Tech University ",
+        "links": [
+          "https://github.com/YvonZhou/ZSTUThesis"
         ]
       }
     ],
@@ -2125,6 +2245,13 @@
         "en": "Renmin University of China",
         "links": [
           "https://github.com/andelf/ruc-beamer-template"
+        ]
+      },
+      {
+        "zh": "河北工业大学",
+        "en": "Hebei University of Technology",
+        "links": [
+          "https://github.com/lime-j/HEBUT-Beamer-Theme"
         ]
       }
     ],
