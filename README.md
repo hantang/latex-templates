@@ -31,7 +31,6 @@
     - [排版相关](#排版相关)
   - [关注度](#关注度)
   - [贡献](#贡献)
-  - [版权](#版权)
 
 ## 说明
 
@@ -424,12 +423,7 @@
 WIP
 
 欢迎 fork，提交 issue、指出或修正错误。
+
 Powered By ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 版权
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-此项目基于[知识共享-署名 4.0 国际](https://creativecommons.org/licenses/by/4.0/).
 
 **[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
