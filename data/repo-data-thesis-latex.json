@@ -50,6 +50,13 @@
         ]
       },
       {
+        "zh": "北京化工大学",
+        "en": "Beijing University of Chemical Technology",
+        "links": [
+          "https://github.com/qianqianjun/UnetFCNDAE"
+        ]
+      },
+      {
         "zh": "北京交通大学",
         "en": "Beijing Jiaotong University",
         "links": [
@@ -120,6 +127,13 @@
         "en": "Beijing Language and Culture University",
         "links": [
           "https://github.com/cunliangkong/BLCU-Thesis"
+        ]
+      },
+      {
+        "zh": "长安大学",
+        "en": "Chang'an University",
+        "links": [
+          "https://github.com/xiaoleeza/chdthesis"
         ]
       },
       {
@@ -279,11 +293,18 @@
         ]
       },
       {
+        "zh": "广东工业大学",
+        "en": "Guangdong University of Technology University",
+        "links": [
+          "https://github.com/sikouhjw/gdutthesis"
+        ]
+      },
+      {
         "zh": "广州大学",
         "en": "Guangzhou University",
         "links": [
-          "https://github.com/whitelok/GZHU_Latex_Template",
-          "https://github.com/swq123459/GZHU-Report-Latex-Version"
+          "https://github.com/swq123459/GZHU-Report-Latex-Version",
+          "https://github.com/whitelok/GZHU_Latex_Template"
         ]
       },
       {
@@ -518,6 +539,23 @@
         ]
       },
       {
+        "zh": "江苏大学",
+        "en": "Jiangsu University",
+        "links": [
+          "https://github.com/NTrabbit5/UJS-thesis",
+          "https://github.com/TYZQ/ujsthesis",
+          "https://github.com/xtc-chen/UJS_Masterthesis",
+          "https://github.com/xtc-chen/UJS_phdthesis"
+        ]
+      },
+      {
+        "zh": "江苏科技大学",
+        "en": "Jiangsu University of Science and Technology",
+        "links": [
+          "https://github.com/sheeplib/JustThesis"
+        ]
+      },
+      {
         "zh": "兰州大学",
         "en": "Lanzhou University",
         "links": [
@@ -537,6 +575,13 @@
         "en": "Lanzhou University of Technology",
         "links": [
           "https://github.com/estivalinp/LuThesis"
+        ]
+      },
+      {
+        "zh": "南昌大学",
+        "en": "Nanchang University",
+        "links": [
+          "https://github.com/Jin-bao/NCU-thesis"
         ]
       },
       {
@@ -754,8 +799,8 @@
           "https://github.com/ahhylau/shuthesis",
           "https://github.com/bowenbfeng/SHU-Bachelor-Thesis-Template",
           "https://github.com/shuosc/SHU-Bachelor-Thesis-OSC",
-          "https://github.com/zeakey/shu-thesis",
-          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst"
+          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst",
+          "https://github.com/zeakey/shu-thesis"
         ]
       },
       {
@@ -1068,6 +1113,14 @@
         ]
       },
       {
+        "zh": "西南石油大学",
+        "en": "Southwest Petroleum University",
+        "links": [
+          "https://github.com/qingbyin/swputhesis",
+          "https://github.com/sudrizzz/swputhesis"
+        ]
+      },
+      {
         "zh": "厦门大学",
         "en": "Xiamen University",
         "links": [
@@ -1094,6 +1147,13 @@
         "links": [
           "https://github.com/MrDongdongLin/xtuthesis",
           "https://github.com/ruiminshen/ThesisXTU"
+        ]
+      },
+      {
+        "zh": "新疆大学",
+        "en": "Xinjiang University",
+        "links": [
+          "https://github.com/LeoLQF/xjuthesis"
         ]
       },
       {
@@ -1303,66 +1363,6 @@
         "links": [
           "https://github.com/MUCVIP/mucthesis"
         ]
-      },
-      {
-        "zh": "江苏大学",
-        "en": "Jiangsu University",
-        "links": [
-          "https://github.com/xtc-chen/UJS_Masterthesis",
-          "https://github.com/TYZQ/ujsthesis",
-          "https://github.com/xtc-chen/UJS_phdthesis",
-          "https://github.com/NTrabbit5/UJS-thesis"
-        ]
-      },
-      {
-        "zh": "江苏科技大学",
-        "en": "Jiangsu University of Science and Technology",
-        "links": [
-          "https://github.com/sheeplib/JustThesis"
-        ]
-      },
-      {
-        "zh": "长安大学",
-        "en": "Chang'an University",
-        "links": [
-          "https://github.com/xiaoleeza/chdthesis"
-        ]
-      },
-      {
-        "zh": "广东工业大学",
-        "en": "Guangdong University of Technology University",
-        "links": [
-          "https://github.com/sikouhjw/gdutthesis"
-        ]
-      },
-      {
-        "zh": "西南石油大学",
-        "en": "Southwest Petroleum University",
-        "links": [
-          "https://github.com/sudrizzz/swputhesis",
-          "https://github.com/qingbyin/swputhesis"
-        ]
-      },
-      {
-        "zh": "新疆大学",
-        "en": "Xinjiang University",
-        "links": [
-          "https://github.com/LeoLQF/xjuthesis"
-        ]
-      },
-      {
-        "zh": "南昌大学",
-        "en": "Nanchang University",
-        "links": [
-          "https://github.com/Jin-bao/NCU-thesis"
-        ]
-      },
-      {
-        "zh": "北京化工大学",
-        "en": "Beijing University of Chemical Technology",
-        "links": [
-          "https://github.com/qianqianjun/UnetFCNDAE"
-        ]
       }
     ],
     "中国港澳台地区高校": [
@@ -1370,8 +1370,8 @@
         "zh": "澳门大学（澳門大學）",
         "en": "University of Macau (UM)",
         "links": [
-          "https://github.com/williamwuzeyi/UM-FST-MSc-Thesis-LaTeX-TMPL",
-          "https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL"
+          "https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL",
+          "https://github.com/williamwuzeyi/UM-FST-MSc-Thesis-LaTeX-TMPL"
         ]
       },
       {
@@ -1624,30 +1624,6 @@
     ],
     "其他国家（地区）高校": [
       {
-        "zh": "（挪威）挪威科技大学",
-        "en": "Norwegian University of Science and Technology (Norges teknisk-naturvitenskapelige universitet, NTNU)",
-        "links": [
-          "https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU",
-          "https://github.com/COPCSE-NTNU/thesis-NTNU"
-        ]
-      },
-      {
-        "zh": "（新加坡）新加坡国立大学",
-        "en": "National University of Singapore",
-        "links": [
-          "https://github.com/ramananbalakrishnan/nus-thesis-latex-template",
-          "https://github.com/saurabhg17/SPhdThesis",
-          "https://github.com/streamjoin/nusthesis"
-        ]
-      },
-      {
-        "zh": "（新加坡）新加坡南洋理工大学",
-        "en": "Nanyang Technological University (NTU)",
-        "links": [
-          "https://github.com/wang-chen/thesis_template_ntu"
-        ]
-      },
-      {
         "zh": "（澳大利亚）昆士兰科技大学",
         "en": "Queensland University of Technology",
         "links": [
@@ -1821,6 +1797,14 @@
         ]
       },
       {
+        "zh": "（挪威）挪威科技大学",
+        "en": "Norwegian University of Science and Technology (Norges teknisk-naturvitenskapelige universitet, NTNU)",
+        "links": [
+          "https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU",
+          "https://github.com/COPCSE-NTNU/thesis-NTNU"
+        ]
+      },
+      {
         "zh": "（葡萄牙） 里斯本高等理工学院",
         "en": "Instituto Superior Técnico (Instituto Superior Técnico, IST)",
         "links": [
@@ -1896,6 +1880,22 @@
         "en": "National Technical University of Athens (Εθνικό Μετσόβιο Πολυτεχνείο, NTUA)",
         "links": [
           "https://github.com/estamos/NTUA-ECE-Thesis-Template"
+        ]
+      },
+      {
+        "zh": "（新加坡）新加坡国立大学",
+        "en": "National University of Singapore",
+        "links": [
+          "https://github.com/ramananbalakrishnan/nus-thesis-latex-template",
+          "https://github.com/saurabhg17/SPhdThesis",
+          "https://github.com/streamjoin/nusthesis"
+        ]
+      },
+      {
+        "zh": "（新加坡）新加坡南洋理工大学",
+        "en": "Nanyang Technological University (NTU)",
+        "links": [
+          "https://github.com/wang-chen/thesis_template_ntu"
         ]
       },
       {
@@ -1986,6 +1986,13 @@
         ]
       },
       {
+        "zh": "（英国）利物浦大学",
+        "en": "University Of Liverpool",
+        "links": [
+          "https://github.com/GiacomoPope/thesis-template"
+        ]
+      },
+      {
         "zh": "（英国）伦敦大学学院",
         "en": "University College London (UCL)",
         "links": [
@@ -2020,13 +2027,6 @@
         "en": "Federico Santa María Technical University (Universidad Técnica Federico Santa María, UTFSM)",
         "links": [
           "https://github.com/autopawn/tex-thesis-template"
-        ]
-      },
-      {
-        "zh": "（英国）利物浦大学",
-        "en": "University Of Liverpool",
-        "links": [
-          "https://github.com/GiacomoPope/thesis-template/"
         ]
       }
     ]
