@@ -65,6 +65,13 @@
         ]
       },
       {
+        "zh": "石河子大学",
+        "en": "Shihezi University",
+        "links": [
+          "https://github.com/swcyo/2021shzuthesis"
+        ]
+      },
+      {
         "zh": "四川大学",
         "en": "Sichuan University",
         "links": [
@@ -107,13 +114,6 @@
         "en": "Sun Yat-sen University",
         "links": [
           "https://github.com/HareInWeed/SYSU-thesis"
-        ]
-      },
-      {
-        "zh": "石河子大学",
-        "en": "Shihezi University",
-        "links": [
-          "https://github.com/swcyo/2021shzuthesis"
         ]
       }
     ],
