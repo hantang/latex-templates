@@ -2,3 +2,4 @@ mkdocs
 mkdocs-material
 mkdocs-table-reader-plugin
 mdx_truly_sane_lists
+mkdocs-git-revision-date-localized-plugin
