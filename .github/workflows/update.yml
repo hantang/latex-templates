@@ -1,0 +1,39 @@
+name: Update data and deploy MkDocs Pages
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: pip install -r src/requirements.txt
+      - name: Run Python Scripts
+        run: |
+          cd src
+          python run.py --token ${{ secrets.TOKEN }}
+      - name: Git auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Automated Update repo stats
+
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: pip install -r wiki/requirements-mkdocs.txt
+      - run: mkdocs gh-deploy -f wiki/mkdocs.yml --force
