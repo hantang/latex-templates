@@ -106,7 +106,7 @@ class RepoStats:
         # omit same update
         if not self._update:
             logging.info(f"No update, last update at {self._lasttime}")
-            return
+            return False
         if token:
             logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
         
@@ -157,6 +157,7 @@ class RepoStats:
         self.renamed_repos = renamed_repos
         len_info = f"{len(self.repos)}/{len(self.error_repos)}/{len(self.renamed_repos)}"
         logging.info("Processed repo: total/error/renamed repos = " + len_info)
+        return True
 
     def output(self):
         lastupdate = self._now if self._update else self._lasttime
