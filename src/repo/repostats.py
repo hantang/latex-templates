@@ -68,9 +68,9 @@ class RepoStats:
             if (idx + 1) % 5 == 0 or idx == 0:
                 logging.info(f"Query repo api: round = {idx+1:03d}/{total:03d}")
 
-            random_sleep(idx + 1, step=17, second=17)
+            random_sleep(idx + 1, step=29, second=29)
             repo = Repo(repo_url)
-            repo.query(tokens, sleep=idx % 2 == 0)
+            repo.query(tokens, sleep=idx % 3 == 0)
 
             if repo.repo_stats:
                 temp_data[key_repos].append([repo_url, repo.repo_stats])
@@ -97,7 +97,7 @@ class RepoStats:
         }
         return temp_repo_data
 
-    def process(self, token, retry=5):
+    def process(self, token=None, retry=5):
         # temp_file = self.temp_file
         key_repos = self.key_repos
         key_error = self.key_error
@@ -105,10 +105,13 @@ class RepoStats:
         key_renamed_url = self.key_renamed_url
         key_renamed_alias = self.key_renamed_alias
 
+        # omit same update
         if not self._update:
             logging.info("No update, last update at {self._lasttime}")
             return
-
+        if token:
+            logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
+        
         for i in range(retry):
             logging.info(f">> Retry ... {i+1}/{retry}")
             temp_repo_data = self.query(token)
@@ -154,9 +157,8 @@ class RepoStats:
         self.repos = [repos[repo_id] for repo_id in sorted(repos.keys())]
         self.error_repos = error_repos
         self.renamed_repos = renamed_repos
-        logging.info(
-            f"Processed repo: total/error/renamed repos = {len(self.repos)}/{len(self.error_repos)}/{len(self.renamed_repos)}"
-        )
+        len_info = f"{len(self.repos)}/{len(self.error_repos)}/{len(self.renamed_repos)}"
+        logging.info("Processed repo: total/error/renamed repos = " + len_info)
 
     def output(self):
         lastupdate = self._now if self._update else self._lasttime
