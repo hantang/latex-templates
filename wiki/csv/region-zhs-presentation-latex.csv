@@ -1,0 +1,10 @@
+index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+0,大连理工大学,Dalian University of Technology,1/0/0,[fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2), , ,63,16,2021-02-04,2021-02-04,LPPL-1.3c,✨新版大连理工Beamer主题 ✨一份简约现代的beamer模板 / PPT杀手 / 学术范入门
+1,东南大学,Southeast University,1/0/0,[GuanxingLu/SEU-beamer-latex-slide](https://github.com/GuanxingLu/SEU-beamer-latex-slide), , ,3,0,2023-06-08,2023-06-08, ,"This is my own graduation thesis defense slide, you can think of it as a Southeast University beamer template."
+2,河北工业大学,Hebei University of Technology,1/0/0,[lime-j/HEBUT-Beamer-Theme](https://github.com/lime-j/HEBUT-Beamer-Theme), , ,7,2,2021-04-16,2021-04-16,LPPL-1.3c,A LaTeX beamer theme template for HEBUT students.
+3,西安电子科技大学,Xidian University,2/1/2,[StickCui/BeamerForXidian](https://github.com/StickCui/BeamerForXidian),🔒️,🔒️,4,4,2015-11-17,2015-11-17,GPL-2.0,Mainly package for Xidian University‘s Beamer. Beamer theme based on Berkeley.
+4,西安电子科技大学,Xidian University,2/1/2,[StickCui/XDUstyle-Beamer-Theme](https://github.com/StickCui/XDUstyle-Beamer-Theme), ,🔒️,32,12,2016-06-03,2016-06-03, ,西安电子科技大学 Beamer 主题
+5,西南交通大学,Southwest Jiaotong University,1/0/1,[swjtutug/swjtubeamer](https://github.com/swjtutug/swjtubeamer), ,🔒️,4,2,2018-03-22,2018-03-22, ,A Simple Demonstration of Beamer Class for Presentation of SWJTU.
+6,中国科学技术大学,University of Science and Technology of China,1/0/0,[ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer), , ,236,54,2022-07-26,2022-07-26,LPPL-1.3c,USTC Beamer 模板（基于学校公用 PPT 模板）
+7,中国科学院大学,University of Chinese Academy of Sciences,1/0/0,[peng-yq/UCAS-Beamer-Theme](https://github.com/peng-yq/UCAS-Beamer-Theme), , ,7,1,2022-12-10,2022-12-10,MIT,"A Beamer Theme of UCAS for academic report, thesis and talk."
+8,中国人民大学,Renmin University of China,1/0/1,[andelf/ruc-beamer-template](https://github.com/andelf/ruc-beamer-template), ,🔒️,17,8,2015-03-12,2015-03-12,CC0-1.0,Latex beamer template for RUC

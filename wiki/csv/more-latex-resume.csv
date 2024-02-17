@@ -1,0 +1,13 @@
+index,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+0,12/0/2,[bamos/cv](https://github.com/bamos/cv), , ,392,139,2024-01-11,2024-01-11,MIT, 
+1,12/0/2,[billryan/resume](https://github.com/billryan/resume), , ,8335,2450,2023-04-30,2023-04-30,MIT,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+2,12/0/2,[cies/resume](https://github.com/cies/resume), ,🔒️,391,67,2018-06-04,2018-06-04, ,My resume as a PDF including the well commented LaTeX source and build instructions.
+3,12/0/2,[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume), , ,4672,1234,2022-09-18,2022-09-18,Apache-2.0,"A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student"
+4,12/0/2,[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv), , ,1878,715,2023-08-30,2023-08-30,MIT,A Nice-looking CV template made into LaTeX
+5,12/0/2,[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv), , ,2571,540,2023-08-22,2023-08-22,MIT,:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+6,12/0/2,[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume), , ,1535,734,2024-01-11,2024-01-11,MIT,The Markdown Resume
+7,12/0/2,[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV), , ,21204,4646,2024-02-12,2024-02-12,LPPL-1.3c,:page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+8,12/0/2,[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever), , ,16185,2301,2023-12-13,2023-12-13,MIT,:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+9,12/0/2,[sb2nov/resume](https://github.com/sb2nov/resume), , ,4468,1289,2024-01-27,2024-01-27,MIT,Software developer resume in Latex
+10,12/0/2,[sc932/resume](https://github.com/sc932/resume), ,🔒️,498,131,2016-10-09,2016-10-09,MIT,My CV/resume in LaTeX.
+11,12/0/2,[zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv), , ,456,148,2024-02-11,2024-02-11,Unlicense,"Template for a simple resume or curriculum vitae (CV), in XeLaTeX."
