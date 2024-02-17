@@ -10,6 +10,8 @@
 
 最近更新：*2023-11-26*
 
+<!-- end-lastmod -->
+
 <!-- toc -->
 
 - [Beyond LaTeX Templates](#beyond-latex-templates)
@@ -30,6 +32,8 @@
     - [文献引用](#文献引用)
     - [排版相关](#排版相关)
   - [贡献](#贡献)
+
+<!-- end-toc -->
 
 ## 说明
 
@@ -56,7 +60,7 @@
 
 ---
 
-<!-- top list -->
+<!-- toplist0 -->
 
 ## 最受欢迎 LaTeX 中文学位论文模板
 
@@ -137,7 +141,11 @@
   - 🔖`2018-03-03` ![stargazers_count=300](https://flat.badgen.net/github/stars/njuHan/njuthesis-nju-thesis-template) ![forks_count=90](https://flat.badgen.net/github/forks/njuHan/njuthesis-nju-thesis-template) ![pushed_at=2023-05-11](https://flat.badgen.net/github/last-commit/njuHan/njuthesis-nju-thesis-template) ![license=GPL-2.0](https://flat.badgen.net/github/license/njuHan/njuthesis-nju-thesis-template)
 - ...
 
+<!-- end-toplist0 -->
+
 **[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
+
+<!-- toplist1 -->
 
 ## 最受欢迎 LaTeX 其他学位论文模板
 
@@ -188,11 +196,15 @@
   - 🔖`2014-04-29` ![stargazers_count=35](https://flat.badgen.net/github/stars/weitzner/jhu-thesis-template) ![forks_count=83](https://flat.badgen.net/github/forks/weitzner/jhu-thesis-template) ![pushed_at=2018-07-18](https://flat.badgen.net/github/last-commit/weitzner/jhu-thesis-template) ![license= ](https://flat.badgen.net/github/license/weitzner/jhu-thesis-template)
 - ...
 
+<!-- end-toplist1 -->
+
 **[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
 
 ---
 
-## 更多
+<!-- toplist2 -->
+
+## 更多模板和资源
 
 ### LaTeX 论文模板
 
@@ -407,13 +419,12 @@
 
 </details>
 
-**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
+<!-- end-toplist2 -->
 
-<!-- end top list -->
+**[🔝 Back to Top/回到顶部](#beyond-latex-templates)**
 
 ---
 
-<!-- ## 关注度 -->
 <!-- [Stargazers over time](https://starchart.cc/hantang/latex-templates.svg) -->
 
 ## 贡献
@@ -422,7 +433,7 @@ WIP
 
 欢迎 fork，提交 issue，补充数据，以及帮助指出或修正错误。
 
-Copyright &copy; 2018-2023 Hantang
+Copyright &copy; 2018-2024 Hantang
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
