@@ -131,7 +131,7 @@ def to_list(df_entry, top=10, order=True):
     df_entry[key] = df_entry[key].astype("int")
     df_entry2 = df_entry[df_entry[key] > 0]
     if order:
-        df_entry2 = df_entry2.sort_values(key, ascending=False)
+        df_entry2 = df_entry2.sort_values([key, "pushed_at", "created_at"], ascending=False)
     if top > 0:
         df_entry2 = df_entry2.head(top)
 
