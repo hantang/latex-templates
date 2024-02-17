@@ -80,7 +80,7 @@
   - 🎉`2024-01-12` ![stars=3115](https://flat.badgen.net/github/stars/sjtug/SJTUThesis) ![forks=776](https://flat.badgen.net/github/forks/sjtug/SJTUThesis) ![last-commit=2024-01-12](https://flat.badgen.net/github/last-commit/sjtug/SJTUThesis) ![license=Apache-2.0](https://flat.badgen.net/github/license/sjtug/SJTUThesis)
 - **浙江大学**（Zhejiang University）: [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
   - `Zhejiang University Graduation Thesis LaTeX Template`
-  - 🎉`2024-01-11` ![stars=2224](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=547](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
+  - 🎉`2024-01-11` ![stars=2224](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=548](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
 - **中国科学技术大学**（University of Science and Technology of China）: [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)
   - `LaTeX template for USTC thesis`
   - 🎉`2023-08-05` ![stars=1462](https://flat.badgen.net/github/stars/ustctug/ustcthesis) ![forks=380](https://flat.badgen.net/github/forks/ustctug/ustcthesis) ![last-commit=2023-08-05](https://flat.badgen.net/github/last-commit/ustctug/ustcthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/ustctug/ustcthesis)
@@ -325,13 +325,13 @@
 
 [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
   - `:page_facing_up: Awesome CV is LaTeX template for your outstanding job application`
-  - 🎉`2024-02-12` ![stars=21204](https://flat.badgen.net/github/stars/posquit0/Awesome-CV) ![forks=4646](https://flat.badgen.net/github/forks/posquit0/Awesome-CV) ![last-commit=2024-02-12](https://flat.badgen.net/github/last-commit/posquit0/Awesome-CV) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/posquit0/Awesome-CV)
+  - 🎉`2024-02-12` ![stars=21205](https://flat.badgen.net/github/stars/posquit0/Awesome-CV) ![forks=4646](https://flat.badgen.net/github/forks/posquit0/Awesome-CV) ![last-commit=2024-02-12](https://flat.badgen.net/github/last-commit/posquit0/Awesome-CV) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/posquit0/Awesome-CV)
 [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)
   - `:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
   - 🎉`2023-12-13` ![stars=16185](https://flat.badgen.net/github/stars/salomonelli/best-resume-ever) ![forks=2301](https://flat.badgen.net/github/forks/salomonelli/best-resume-ever) ![last-commit=2023-12-13](https://flat.badgen.net/github/last-commit/salomonelli/best-resume-ever) ![license=MIT](https://flat.badgen.net/github/license/salomonelli/best-resume-ever)
 [billryan/resume](https://github.com/billryan/resume)
   - `An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git`
-  - 🎉`2023-04-30` ![stars=8335](https://flat.badgen.net/github/stars/billryan/resume) ![forks=2450](https://flat.badgen.net/github/forks/billryan/resume) ![last-commit=2023-04-30](https://flat.badgen.net/github/last-commit/billryan/resume) ![license=MIT](https://flat.badgen.net/github/license/billryan/resume)
+  - 🎉`2023-04-30` ![stars=8337](https://flat.badgen.net/github/stars/billryan/resume) ![forks=2450](https://flat.badgen.net/github/forks/billryan/resume) ![last-commit=2023-04-30](https://flat.badgen.net/github/last-commit/billryan/resume) ![license=MIT](https://flat.badgen.net/github/license/billryan/resume)
 [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)
   - `A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student`
   - 🎉`2022-09-18` ![stars=4672](https://flat.badgen.net/github/stars/deedy/Deedy-Resume) ![forks=1234](https://flat.badgen.net/github/forks/deedy/Deedy-Resume) ![last-commit=2022-09-18](https://flat.badgen.net/github/last-commit/deedy/Deedy-Resume) ![license=Apache-2.0](https://flat.badgen.net/github/license/deedy/Deedy-Resume)
@@ -373,7 +373,7 @@
 
 [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
   - `Examples of how to create colorful, annotated equations in Latex using Tikz.`
-  - 🎉`2022-07-12` ![stars=3673](https://flat.badgen.net/github/stars/synercys/annotated_latex_equations) ![forks=209](https://flat.badgen.net/github/forks/synercys/annotated_latex_equations) ![last-commit=2022-07-12](https://flat.badgen.net/github/last-commit/synercys/annotated_latex_equations) ![license=MIT](https://flat.badgen.net/github/license/synercys/annotated_latex_equations)
+  - 🎉`2022-07-12` ![stars=3674](https://flat.badgen.net/github/stars/synercys/annotated_latex_equations) ![forks=209](https://flat.badgen.net/github/forks/synercys/annotated_latex_equations) ![last-commit=2022-07-12](https://flat.badgen.net/github/last-commit/synercys/annotated_latex_equations) ![license=MIT](https://flat.badgen.net/github/license/synercys/annotated_latex_equations)
 [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
   - `Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.`
   - 🎉`2023-03-31` ![stars=1204](https://flat.badgen.net/github/stars/xinychen/awesome-latex-drawing) ![forks=154](https://flat.badgen.net/github/forks/xinychen/awesome-latex-drawing) ![last-commit=2023-03-31](https://flat.badgen.net/github/last-commit/xinychen/awesome-latex-drawing) ![license=MIT](https://flat.badgen.net/github/license/xinychen/awesome-latex-drawing)
@@ -452,7 +452,7 @@
 
 [typst/typst](https://github.com/typst/typst)
   - `A new markup-based typesetting system that is powerful and easy to learn.`
-  - 🎉`2024-02-17` ![stars=26221](https://flat.badgen.net/github/stars/typst/typst) ![forks=680](https://flat.badgen.net/github/forks/typst/typst) ![last-commit=2024-02-17](https://flat.badgen.net/github/last-commit/typst/typst) ![license=Apache-2.0](https://flat.badgen.net/github/license/typst/typst)
+  - 🎉`2024-02-17` ![stars=26228](https://flat.badgen.net/github/stars/typst/typst) ![forks=680](https://flat.badgen.net/github/forks/typst/typst) ![last-commit=2024-02-17](https://flat.badgen.net/github/last-commit/typst/typst) ![license=Apache-2.0](https://flat.badgen.net/github/license/typst/typst)
 [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst)
   - `Awesome Typst Links`
   - 🎉`2024-02-14` ![stars=1487](https://flat.badgen.net/github/stars/qjcg/awesome-typst) ![forks=93](https://flat.badgen.net/github/forks/qjcg/awesome-typst) ![last-commit=2024-02-14](https://flat.badgen.net/github/last-commit/qjcg/awesome-typst) ![license=CC0-1.0](https://flat.badgen.net/github/license/qjcg/awesome-typst)
@@ -469,7 +469,7 @@
   - 🎉`2024-02-04` ![stars=1344](https://flat.badgen.net/github/stars/mundimark/awesome-markdown) ![forks=229](https://flat.badgen.net/github/forks/mundimark/awesome-markdown) ![last-commit=2024-02-04](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown)
 [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
   - `A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more`
-  - 🎉`2024-02-13` ![stars=866](https://flat.badgen.net/github/stars/mundimark/awesome-markdown-editors) ![forks=104](https://flat.badgen.net/github/forks/mundimark/awesome-markdown-editors) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown-editors) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown-editors)
+  - 🎉`2024-02-13` ![stars=867](https://flat.badgen.net/github/stars/mundimark/awesome-markdown-editors) ![forks=104](https://flat.badgen.net/github/forks/mundimark/awesome-markdown-editors) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown-editors) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown-editors)
 [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
   - `:memo: Delightful Markdown stuff.`
   - 🎉`2024-01-17` ![stars=735](https://flat.badgen.net/github/stars/BubuAnabelas/awesome-markdown) ![forks=69](https://flat.badgen.net/github/forks/BubuAnabelas/awesome-markdown) ![last-commit=2024-01-17](https://flat.badgen.net/github/last-commit/BubuAnabelas/awesome-markdown) ![license=CC0-1.0](https://flat.badgen.net/github/license/BubuAnabelas/awesome-markdown)
@@ -483,7 +483,7 @@
 
 [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)
   - `GB/T 7714相关的csl以及Zotero使用技巧及教程。`
-  - 🎉`2024-02-16` ![stars=3904](https://flat.badgen.net/github/stars/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![forks=740](https://flat.badgen.net/github/forks/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![last-commit=2024-02-16](https://flat.badgen.net/github/last-commit/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![license=NOASSERTION](https://flat.badgen.net/github/license/redleafnew/Chinese-STD-GB-T-7714-related-csl)
+  - 🎉`2024-02-16` ![stars=3905](https://flat.badgen.net/github/stars/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![forks=740](https://flat.badgen.net/github/forks/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![last-commit=2024-02-16](https://flat.badgen.net/github/last-commit/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![license=NOASSERTION](https://flat.badgen.net/github/license/redleafnew/Chinese-STD-GB-T-7714-related-csl)
 [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
   - `GB/T 7714-2015 BibTeX Style`
   - 🎉`2023-11-09` ![stars=1025](https://flat.badgen.net/github/stars/zepinglee/gbt7714-bibtex-style) ![forks=193](https://flat.badgen.net/github/forks/zepinglee/gbt7714-bibtex-style) ![last-commit=2023-11-09](https://flat.badgen.net/github/last-commit/zepinglee/gbt7714-bibtex-style) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/zepinglee/gbt7714-bibtex-style)

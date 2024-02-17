@@ -17,7 +17,7 @@
   - 🎉`2024-01-12` ![stars=3115](https://flat.badgen.net/github/stars/sjtug/SJTUThesis) ![forks=776](https://flat.badgen.net/github/forks/sjtug/SJTUThesis) ![last-commit=2024-01-12](https://flat.badgen.net/github/last-commit/sjtug/SJTUThesis) ![license=Apache-2.0](https://flat.badgen.net/github/license/sjtug/SJTUThesis)
 - **浙江大学**（Zhejiang University）: [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
   - `Zhejiang University Graduation Thesis LaTeX Template`
-  - 🎉`2024-01-11` ![stars=2224](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=547](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
+  - 🎉`2024-01-11` ![stars=2224](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=548](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
 - **中国科学技术大学**（University of Science and Technology of China）: [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)
   - `LaTeX template for USTC thesis`
   - 🎉`2023-08-05` ![stars=1462](https://flat.badgen.net/github/stars/ustctug/ustcthesis) ![forks=380](https://flat.badgen.net/github/forks/ustctug/ustcthesis) ![last-commit=2023-08-05](https://flat.badgen.net/github/last-commit/ustctug/ustcthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/ustctug/ustcthesis)
