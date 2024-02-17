@@ -45,7 +45,7 @@ def get_headers(tokens=None):
     if tokens:
         tokens = tokens.split(",")
         token = random.choice(tokens)
-        logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
+        # logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
         # headers = {
         #     "Accept": "application/vnd.github.v3+json",
         #     "Authorization": f"Bearer {token}",
