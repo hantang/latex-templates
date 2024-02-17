@@ -410,6 +410,7 @@ class RepoLists:
             hashtag, title = re.findall(r"(#+) (.+)", line)[0]
             hash_len = (len(hashtag) - 1) * 2
             title2 = title.lower().replace(" ", "-")
+            title2 = re.sub("[（）()]", "", title2)
             toc_list.append("{}- [{}](#{})".format(" " * hash_len, title, title2))
 
         # readme
