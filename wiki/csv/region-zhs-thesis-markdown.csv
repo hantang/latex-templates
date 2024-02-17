@@ -1,6 +1,6 @@
 index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
 0,北京师范大学,Beijing Normal University,1/0/1,[94wgfk/BNUThesisPandoc](https://github.com/94wgfk/BNUThesisPandoc), ,🔒️,6,1,2016-06-14,2016-06-14,GPL-3.0,使用Pandoc Markdown和LaTeX写北师大毕业论文。
-1,重庆大学,Chongqing University,1/0/0,[ilcpm/cqu-thesis-markdown](https://github.com/ilcpm/cqu-thesis-markdown), , ,23,3,2023-07-19,2023-07-19,MIT,重庆大学毕业论文 Markdown 转 Word (docx) 方案
-2,南方科技大学,Southern University of Science and Technology,1/0/0,[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown), , ,8,0,2022-09-26,2022-09-26,LPPL-1.3c,南方科技大学毕业论文markdown模板
+1,重庆大学,Chongqing University,1/0/0,[ilcpm/cqu-thesis-markdown](https://github.com/ilcpm/cqu-thesis-markdown), , ,23,3,2023-07-19,2020-12-05,MIT,重庆大学毕业论文 Markdown 转 Word (docx) 方案
+2,南方科技大学,Southern University of Science and Technology,1/0/0,[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown), , ,8,0,2022-09-26,2022-04-16,LPPL-1.3c,南方科技大学毕业论文markdown模板
 3,上海交通大学,Shanghai Jiaotong University,1/0/1,[dyweb/SJTUThesis-Markdown](https://github.com/dyweb/SJTUThesis-Markdown), ,🔒️,39,5,2018-06-07,2018-06-07,BSD-3-Clause,（实验性项目）上海交通大学学位论文 R Markdown (bookdown) 模板
 4,中南大学,Central South University,1/0/0,[csu-tclab/CSUthesisMD](https://github.com/csu-tclab/CSUthesisMD), , ,0,0,2022-04-11,2022-04-11, ,使用 Markdown 编写中南大学硕士毕业论文
