@@ -13,7 +13,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 11,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[BHOSC/BUAAthesis](https://github.com/BHOSC/BUAAthesis), , ,905,278,2023-06-29,2023-06-29,NOASSERTION,北航毕设论文LaTeX模板
 12,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[CheckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis), , ,466,107,2024-02-01,2024-02-01,MIT,北航研究生学位论文模板（Word+LaTeX）.
 13,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[JunyiHua/latex-mould-for-BUAA-bachelor-thesis-2021](https://github.com/JunyiHua/latex-mould-for-BUAA-bachelor-thesis-2021), , ,4,0,2021-01-12,2021-01-12, ,北航2021毕业论文latex模板
-14,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[Kelmory/BUAA-Thesis-BWE](https://github.com/Kelmory/BUAA-Thesis-BWE),🔒️,🔒️,41,8,2019-06-12,2019-06-12,MIT,北航本科生毕业设计论文模板。BUAA dissertation template of undergraduate.
+14,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[Kelmory/BUAA-Thesis-BWE](https://github.com/Kelmory/BUAA-Thesis-BWE),📦,🔒️,41,8,2019-06-12,2019-06-12,MIT,北航本科生毕业设计论文模板。BUAA dissertation template of undergraduate.
 15,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[ZhuGongpu/BUAA-Graduate-Dissertation-Template](https://github.com/ZhuGongpu/BUAA-Graduate-Dissertation-Template), ,🔒️,12,1,2018-09-28,2018-09-28,MIT,北航研究生毕业论文模版
 16,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[aofenghanyue/PhDThesisWordTemplate](https://github.com/aofenghanyue/PhDThesisWordTemplate), , ,5,0,2021-11-27,2021-11-27,MIT,北航博士毕业设计/学位论文word模板，依据《北京航空航天大学研究生撰写学位论文的规定(2020.07)》制作
 17,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),7/1/2,[yzd-v/BUAA_thesis_overleaf](https://github.com/yzd-v/BUAA_thesis_overleaf), , ,23,3,2021-12-04,2021-12-04,NOASSERTION,北航毕设论文overleaf Latex模板
@@ -49,7 +49,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 47,北京邮电大学,Beijing University of Posts and Telecommunications,9/0/5,[way-zer/BUPTBachelorThesis](https://github.com/way-zer/BUPTBachelorThesis), , ,0,0,2023-04-21,2023-04-21, , 
 48,北京邮电大学,Beijing University of Posts and Telecommunications,9/0/5,[wugh/bupt-thesis-bachelor](https://github.com/wugh/bupt-thesis-bachelor), ,🔒️,6,9,2014-06-09,2014-06-09, , 
 49,北京邮电大学,Beijing University of Posts and Telecommunications,9/0/5,[yangze01/BUPT-Master-Graduation-Thesis](https://github.com/yangze01/BUPT-Master-Graduation-Thesis), ,🔒️,2,0,2020-01-10,2020-01-10, , 
-50,北京语言大学,Beijing Language and Culture University,1/1/0,[cunliangkong/BLCU-Thesis](https://github.com/cunliangkong/BLCU-Thesis),🔒️, ,3,2,2023-05-15,2023-05-15, ,北京语言大学硕、博士毕业论文Latex模板。
+50,北京语言大学,Beijing Language and Culture University,1/1/0,[cunliangkong/BLCU-Thesis](https://github.com/cunliangkong/BLCU-Thesis),📦, ,3,2,2023-05-15,2023-05-15, ,北京语言大学硕、博士毕业论文Latex模板。
 51,长安大学,Chang'an University,1/0/0,[xiaoleeza/chdthesis](https://github.com/xiaoleeza/chdthesis), , ,21,9,2021-05-24,2021-05-24,LPPL-1.3c,长安大学研究生学位论文LaTeX模板
 52,长沙理工大学,Changsha University of Technology,1/0/0,[csust-latex-sig/CSUSTBachelorThesis](https://github.com/csust-latex-sig/CSUSTBachelorThesis), , ,14,2,2023-07-24,2023-07-24, ,长沙理工大学本科生毕业论文 LaTeX 模板。
 53,成都理工大学,Chengdu University of Technology,2/0/0,[cs-whh/CDUT_thesis](https://github.com/cs-whh/CDUT_thesis), , ,3,1,2022-01-13,2022-01-13, ,成都理工大学本科毕业论文LaTeX模板
@@ -83,7 +83,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 81,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[raja21068/UESTC-Thesis-Templete-LYX-Latex](https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex), ,🔒️,0,1,2019-01-25,2019-01-25, ,LaTeX template for thesis writing in University of Electronic Science and Technology of China (电子科技大学官方主页)
 82,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[richardkwo/UESTC-bachelor-thesis-xelatex](https://github.com/richardkwo/UESTC-bachelor-thesis-xelatex), ,🔒️,10,2,2014-01-20,2014-01-20, ,电子科技大学本科毕业论文xelatex模板
 83,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[savicsw/ThesisUESTC](https://github.com/savicsw/ThesisUESTC), , ,10,2,2021-03-30,2021-03-30, ,电子科技大学毕业论文模板（2020）
-84,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[shifujun/UESTCthesis](https://github.com/shifujun/UESTCthesis),🔒️, ,550,162,2023-04-24,2023-04-24, ,电子科技大学毕设设计论文LaTeX模板
+84,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[shifujun/UESTCthesis](https://github.com/shifujun/UESTCthesis),📦, ,550,162,2023-04-24,2023-04-24, ,电子科技大学毕设设计论文LaTeX模板
 85,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[tinoryj/UESTC-Thesis-Latex-Template](https://github.com/tinoryj/UESTC-Thesis-Latex-Template), , ,288,64,2023-03-30,2023-03-30,MIT,"UESTC Thesis Latex Template 2023. It fully supports the latest format specification in 2023, supports independent symbol table, abbreviation table, and complete and fully customizable Academic/Professional-Master/PhD covers."
 86,电子科技大学,University of Electronic Science and Technology of China,12/1/5,[tzz1996/ThesisUESTC](https://github.com/tzz1996/ThesisUESTC), ,🔒️,0,0,2018-08-06,2018-08-06, ,电子科技大学letax论文
 87,东北大学,Northeastern University,8/0/4,[Acytoo/neu_bachelor_thesis_template](https://github.com/Acytoo/neu_bachelor_thesis_template), ,🔒️,57,14,2019-06-11,2019-06-11, ,东北大学本科毕业设计 论文latex模板 2019
@@ -129,7 +129,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 127,复旦大学,Fudan University,8/0/3,[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis), , ,751,191,2023-05-27,2023-05-27,LPPL-1.3c,LaTeX thesis template for Fudan University
 128,复旦大学,Fudan University,8/0/3,[yhyi15/FDU_PhD_Thesis_Template](https://github.com/yhyi15/FDU_PhD_Thesis_Template), ,🔒️,3,2,2017-04-04,2017-04-04, ,复旦博士论文模板
 129,复旦大学,Fudan University,8/0/3,[yzbrlan/fudan-thesis-latex-template](https://github.com/yzbrlan/fudan-thesis-latex-template), , ,53,18,2023-03-30,2023-03-30, ,复旦论文latex模版，包括毕业论文模版，普通课程论文模版(带封皮)
-130,广东工业大学,Guangdong University of Technology,1/1/1,[jokerdawn/GDUTThesis](https://github.com/jokerdawn/GDUTThesis),🔒️,🔒️,10,10,2019-02-19,2019-02-19, ,GDUTThesis
+130,广东工业大学,Guangdong University of Technology,1/1/1,[jokerdawn/GDUTThesis](https://github.com/jokerdawn/GDUTThesis),📦,🔒️,10,10,2019-02-19,2019-02-19, ,GDUTThesis
 131,广东工业大学,Guangdong University of Technology,1/0/0,[sikouhjw/gdutthesis](https://github.com/sikouhjw/gdutthesis), , ,174,33,2024-02-03,2024-02-03,LPPL-1.3c,广东工业大学 LaTeX 论文模板
 132,广州大学,Guangzhou University,2/0/1,[swq123459/GZHU-Report-Latex-Version](https://github.com/swq123459/GZHU-Report-Latex-Version), , ,295,169,2020-05-09,2020-05-09,MIT,我自己制作的广州大学Latex报告模板，有毕业设计，课程设计，毕业论文，等等🎈
 133,广州大学,Guangzhou University,2/0/1,[whitelok/GZHU_Latex_Template](https://github.com/whitelok/GZHU_Latex_Template), ,🔒️,7,3,2017-09-13,2017-09-13,MIT,Guangzhou University bachelor 's degree thesis Latex template 广州大学学士毕业论文模板
@@ -190,7 +190,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 188,华东师范大学,East China Normal University,16/1/2,[Koyamin/ECNUThesis-Undergraduate](https://github.com/Koyamin/ECNUThesis-Undergraduate), , ,48,19,2023-05-20,2023-05-20,LPPL-1.3c,"华东师范大学 (East China Normal University, ECNU) 本科生学士学位论文 LaTeX 模板"
 189,华东师范大学,East China Normal University,16/1/2,[QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022), , ,23,9,2022-04-22,2022-04-22,BSD-2-Clause,ECNU Undergraduate Thesis Template (Class of 2022)
 190,华东师范大学,East China Normal University,16/1/2,[SmartPangzi/ECNU-Graduation-Thesis-Template](https://github.com/SmartPangzi/ECNU-Graduation-Thesis-Template), , ,0,1,2020-07-04,2020-07-04, ,华东师范大学研究生毕业论文Latex模板
-191,华东师范大学,East China Normal University,16/1/2,[YijunYuan/ECNU-Undergraduate-LaTeX](https://github.com/YijunYuan/ECNU-Undergraduate-LaTeX),🔒️, ,95,16,2020-04-09,2020-04-09,NOASSERTION,华东师范大学本科毕业论文模板（不再维护）
+191,华东师范大学,East China Normal University,16/1/2,[YijunYuan/ECNU-Undergraduate-LaTeX](https://github.com/YijunYuan/ECNU-Undergraduate-LaTeX),📦, ,95,16,2020-04-09,2020-04-09,NOASSERTION,华东师范大学本科毕业论文模板（不再维护）
 192,华东师范大学,East China Normal University,16/1/2,[c834606877/ECNU-Paper-Template](https://github.com/c834606877/ECNU-Paper-Template), , ,35,8,2021-12-05,2021-12-05, ,华东师范大学(ECNU) 硕士 研究生 毕业论文 LaTeX模板
 193,华东师范大学,East China Normal University,16/1/2,[chguw/ecnuphd](https://github.com/chguw/ecnuphd), , ,0,0,2023-04-11,2023-04-11,BSD-3-Clause,华东师范大学博士学位论文 LaTeX 模板
 194,华东师范大学,East China Normal University,16/1/2,[ddusen/ecnu-master-thesis-template](https://github.com/ddusen/ecnu-master-thesis-template), , ,23,3,2023-02-23,2023-02-23,Apache-2.0,2022华东师范大学硕士论文模版
@@ -212,10 +212,10 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 210,华南理工大学,South China University of Technology,12/0/2,[yecfly/scut-thesis](https://github.com/yecfly/scut-thesis), , ,28,3,2021-03-15,2021-03-15, ,华南理工大学学位论文 Latex/Lyx 模板----latex for SCUT thesis
 211,华南农业大学,South China Agricultural University,1/0/0,[wuenzhe/SCAUThesis](https://github.com/wuenzhe/SCAUThesis), , ,5,0,2023-03-29,2023-03-29, ,华南农业大学本科生学位论文latex模板-----SCAU(South China Agricultural University) thesis latex template for undergraduates
 212,华南师范大学,South China Normal University,2/1/1,[scnu/scnuthesis](https://github.com/scnu/scnuthesis), , ,199,60,2024-01-08,2024-01-08, ,符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。
-213,华南师范大学,South China Normal University,2/1/1,[wzpan/scnuthesis](https://github.com/wzpan/scnuthesis),🔒️,🔒️,10,7,2015-01-22,2015-01-22, ,符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。
+213,华南师范大学,South China Normal University,2/1/1,[wzpan/scnuthesis](https://github.com/wzpan/scnuthesis),📦,🔒️,10,7,2015-01-22,2015-01-22, ,符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。
 214,华中科技大学,Huazhong University of Science,6/1/2,[Qinnn/LaTeX-ThesisTemplatesForHUSTer](https://github.com/Qinnn/LaTeX-ThesisTemplatesForHUSTer), ,🔒️,8,2,2015-04-22,2015-04-22, ,A rough LaTeX thesis template for HUSTer
 215,华中科技大学,Huazhong University of Science,6/1/2,[XinzeZhang/HUST-PhD-Thesis-Latex](https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex), , ,95,18,2024-01-31,2024-01-31, ,华中科技大学博士毕业论文Latex模板
-216,华中科技大学,Huazhong University of Science,6/1/2,[hust-latex/hustthesis](https://github.com/hust-latex/hustthesis),🔒️, ,149,30,2021-04-29,2021-04-29,LPPL-1.3c,:notebook_with_decorative_cover: An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology
+216,华中科技大学,Huazhong University of Science,6/1/2,[hust-latex/hustthesis](https://github.com/hust-latex/hustthesis),📦, ,149,30,2021-04-29,2021-04-29,LPPL-1.3c,:notebook_with_decorative_cover: An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology
 217,华中科技大学,Huazhong University of Science,6/1/2,[pyrocat101/hust-thesis-pandoc](https://github.com/pyrocat101/hust-thesis-pandoc), ,🔒️,37,12,2018-11-13,2018-11-13, ,使用Pandoc Markdown和LaTeX写华中科技大学本科生毕业论文。
 218,华中科技大学,Huazhong University of Science,6/1/2,[skinaze/HUSTPaperTemp](https://github.com/skinaze/HUSTPaperTemp), , ,291,51,2022-04-12,2022-04-12,MIT,华中科技大学本科毕业论文LaTeX模板 2017
 219,华中科技大学,Huazhong University of Science,6/1/2,[zfengg/HUSTtex](https://github.com/zfengg/HUSTtex), , ,42,12,2023-04-10,2023-04-10,MIT,A series of TeX templates for undergraduate thesis at HUST.
@@ -251,7 +251,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 249,兰州理工大学,Lanzhou University of Technology,1/0/1,[estivalinp/LuThesis](https://github.com/estivalinp/LuThesis), ,🔒️,8,3,2018-06-05,2018-06-05, ,兰州理工大学毕业论文LaTeX模板 LaTeX Thesis Template for Lanzhou University of Technology
 250,南昌大学,Nanchang University,1/0/0,[Jin-bao/NCU-thesis](https://github.com/Jin-bao/NCU-thesis), , ,14,0,2023-03-22,2023-03-22,LPPL-1.3c,南昌大学学位（毕业）论文 LaTeX 模板
 251,南昌航空大学,Nanchang Aviation University,1/0/0,[NCHUSC/NCHU_Bachelor_Thesis_Template](https://github.com/NCHUSC/NCHU_Bachelor_Thesis_Template), , ,7,2,2023-01-15,2023-01-15,MIT,南昌航空大学（非官方）本科生毕业论文模板 | A LaTeX template for bachelor thesis in Nanchang Hangkong University (NCHU)
-252,南方科技大学,Southern University of Science and Technology,5/1/3,[Peng-YM/SUSTech-Thesis](https://github.com/Peng-YM/SUSTech-Thesis),🔒️,🔒️,91,30,2019-10-15,2019-10-15,MIT,南方科技大学毕业论文LaTeX模板
+252,南方科技大学,Southern University of Science and Technology,5/1/3,[Peng-YM/SUSTech-Thesis](https://github.com/Peng-YM/SUSTech-Thesis),📦,🔒️,91,30,2019-10-15,2019-10-15,MIT,南方科技大学毕业论文LaTeX模板
 253,南方科技大学,Southern University of Science and Technology,5/1/3,[SUSTC/sustcthesis](https://github.com/SUSTC/sustcthesis), ,🔒️,13,2,2015-04-06,2015-04-06,MIT,graduation thesis latex template for sustcer
 254,南方科技大学,Southern University of Science and Technology,5/1/3,[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis), , ,165,42,2024-01-27,2024-01-27,LPPL-1.3c,南方科技大学研究生学位论文LaTeX模板
 255,南方科技大学,Southern University of Science and Technology,5/1/3,[iydon/sustechthesis](https://github.com/iydon/sustechthesis), , ,171,49,2023-06-08,2023-06-08,LPPL-1.3c,南方科技大学本科生毕业论文 LaTeX 模板
@@ -408,7 +408,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 406,武汉大学,Wuhan University,15/1/4,[BenjaminHb/whu-thesis](https://github.com/BenjaminHb/whu-thesis), , ,9,1,2022-06-21,2022-06-21,MIT,:memo: 武汉大学毕业论文 LaTeX 模版 2022（为学术硕士进行了优化）
 407,武汉大学,Wuhan University,15/1/4,[HarborYuan/whucs-thesis](https://github.com/HarborYuan/whucs-thesis), , ,2,0,2023-06-01,2023-06-01, ,武汉大学计算机学院毕业论文latex模版
 408,武汉大学,Wuhan University,15/1/4,[YuanXinCherry/wust-thesis](https://github.com/YuanXinCherry/wust-thesis), , ,1,0,2021-12-12,2021-12-12,MIT,📝 武汉科技大学毕业论文 LaTeX 模版 2021
-409,武汉大学,Wuhan University,15/1/4,[beanyoung/whu-master-thesis-template](https://github.com/beanyoung/whu-master-thesis-template),🔒️,🔒️,14,3,2012-06-19,2012-06-19, ,武汉大学硕士学位论文latex模版
+409,武汉大学,Wuhan University,15/1/4,[beanyoung/whu-master-thesis-template](https://github.com/beanyoung/whu-master-thesis-template),📦,🔒️,14,3,2012-06-19,2012-06-19, ,武汉大学硕士学位论文latex模版
 410,武汉大学,Wuhan University,15/1/4,[csarron/bsThesisWHU](https://github.com/csarron/bsThesisWHU), ,🔒️,18,6,2015-05-16,2015-05-16,MIT,WHU BS Thesis Template
 411,武汉大学,Wuhan University,15/1/4,[jwwangchn/WHU-Thesis-LaTeX](https://github.com/jwwangchn/WHU-Thesis-LaTeX), , ,9,4,2021-04-14,2021-04-14, ,武汉大学毕业论文模板。
 412,武汉大学,Wuhan University,15/1/4,[lh9171338/WHU-Thesis](https://github.com/lh9171338/WHU-Thesis), , ,6,0,2020-04-05,2020-04-05,MIT,武汉大学本科生毕业论文 LaTeX 模板
@@ -432,18 +432,18 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 430,西安电子科技大学,Xidian University,12/1/7,[note286/xduts](https://github.com/note286/xduts), , ,575,66,2023-03-23,2023-03-23,LPPL-1.3c,Xidian University TeX Suite 西安电子科技大学LaTeX套装
 431,西安电子科技大学,Xidian University,12/1/7,[oopsno/XDUThesis](https://github.com/oopsno/XDUThesis), ,🔒️,10,0,2016-06-07,2016-06-07, ,西安电子科技大学本科生毕业设计（论文）LaTeX模板
 432,西安电子科技大学,Xidian University,12/1/7,[oopsno/yabasky](https://github.com/oopsno/yabasky), ,🔒️,0,0,2016-05-26,2016-05-26,LGPL-3.0,"Yet Another XDU BAchelor thesiS Kit, YaBAskY"
-433,西安电子科技大学,Xidian University,12/1/7,[xdlinux/xdba-thesis](https://github.com/xdlinux/xdba-thesis),🔒️,🔒️,101,41,2017-04-07,2017-04-07,LGPL-3.0,西电本科毕业设计论文LaTeX模板宏包
+433,西安电子科技大学,Xidian University,12/1/7,[xdlinux/xdba-thesis](https://github.com/xdlinux/xdba-thesis),📦,🔒️,101,41,2017-04-07,2017-04-07,LGPL-3.0,西电本科毕业设计论文LaTeX模板宏包
 434,西安电子科技大学,Xidian University,12/1/7,[ztcxdu/xdu_MS_thesis_template](https://github.com/ztcxdu/xdu_MS_thesis_template), , ,1,2,2020-12-22,2020-12-22,GPL-3.0,西电硕士论文模板
 435,西安交通大学,Xi'an Jiaotong University,15/2/6,[1989Ryan/XJTU-Bachelor-Thesis-LaTeX-Template](https://github.com/1989Ryan/XJTU-Bachelor-Thesis-LaTeX-Template), , ,13,5,2022-06-11,2022-06-11,GPL-3.0,Thesis template without cover for B.S. candidates in XJTU.
 436,西安交通大学,Xi'an Jiaotong University,15/2/6,[4712635/xjtu_thesis_template](https://github.com/4712635/xjtu_thesis_template), ,🔒️,1,1,2016-10-08,2016-10-08,GPL-3.0,A latex template for xjtu thesis writing.
 437,西安交通大学,Xi'an Jiaotong University,15/2/6,[Aetf/xjtuthesis](https://github.com/Aetf/xjtuthesis), , ,178,47,2023-06-16,2023-06-16,LPPL-1.3c,使用 LaTeX 排版学位论文！适用于西安交通大学学生
 438,西安交通大学,Xi'an Jiaotong University,15/2/6,[ChenjieGump/XJTU-BSThesis_latex_2022](https://github.com/ChenjieGump/XJTU-BSThesis_latex_2022), , ,7,0,2023-05-04,2023-05-04,MIT,西安交通大学2022届本科毕业论文latex模版
-439,西安交通大学,Xi'an Jiaotong University,15/2/6,[DylanXie123/Thesis-Template-for-XJTU](https://github.com/DylanXie123/Thesis-Template-for-XJTU),🔒️, ,20,5,2020-11-02,2020-11-02,GPL-3.0, 
+439,西安交通大学,Xi'an Jiaotong University,15/2/6,[DylanXie123/Thesis-Template-for-XJTU](https://github.com/DylanXie123/Thesis-Template-for-XJTU),📦, ,20,5,2020-11-02,2020-11-02,GPL-3.0, 
 440,西安交通大学,Xi'an Jiaotong University,15/2/6,[Ming-Zhang-XJTU/XJTU-Thesis-Template](https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template), ,🔒️,34,16,2017-10-05,2017-10-05, ,This is a LaTeX template for doctoral thesis of Xi`an Jiaotong University (XJTU). The platform is Windows + TexLive + XeLaTex.
 441,西安交通大学,Xi'an Jiaotong University,15/2/6,[Radiance-nt/XJTU_BachelorThesis_DagRank](https://github.com/Radiance-nt/XJTU_BachelorThesis_DagRank), , ,0,0,2023-06-24,2023-06-24,GPL-3.0,"西安交通大学, xjtu, 计算机科学与技术, cs, 本科毕业设计模板, latex"
 442,西安交通大学,Xi'an Jiaotong University,15/2/6,[Tedxz/xjtuthesis-x](https://github.com/Tedxz/xjtuthesis-x), ,🔒️,52,19,2019-05-19,2019-05-19, ,西安交通大学毕业论文LaTeX模板
 443,西安交通大学,Xi'an Jiaotong University,15/2/6,[bys17778885154/xjtu_thesis](https://github.com/bys17778885154/xjtu_thesis), , ,0,0,2023-02-20,2023-02-20,LPPL-1.3c, 
-444,西安交通大学,Xi'an Jiaotong University,15/2/6,[haoyun/xjtu-thesis-BSc](https://github.com/haoyun/xjtu-thesis-BSc),🔒️,🔒️,6,3,2014-03-29,2014-03-29,LPPL-1.3c,Template for Bachelor of Science Thesis in Xi'an Jiaotong University
+444,西安交通大学,Xi'an Jiaotong University,15/2/6,[haoyun/xjtu-thesis-BSc](https://github.com/haoyun/xjtu-thesis-BSc),📦,🔒️,6,3,2014-03-29,2014-03-29,LPPL-1.3c,Template for Bachelor of Science Thesis in Xi'an Jiaotong University
 445,西安交通大学,Xi'an Jiaotong University,15/2/6,[kohillyang/XJTUthesis-master-2020](https://github.com/kohillyang/XJTUthesis-master-2020), , ,17,2,2020-06-07,2020-06-07, ,西安交通大学学术型硕士学位论文latex模板，参照2018西安交通大学学术型硕士学位论文模板.docx定制而来
 446,西安交通大学,Xi'an Jiaotong University,15/2/6,[leekunhwee/XJTU_Thesis_LaTeX_2021](https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021), , ,18,6,2021-09-29,2021-09-29, ,Master and PhD Thesis LaTeX Template of Xi'an Jiaotong University :page_facing_up:
 447,西安交通大学,Xi'an Jiaotong University,15/2/6,[obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis), , ,177,44,2023-06-06,2023-06-06,LPPL-1.3c,西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)
@@ -470,7 +470,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 468,西南民族大学,Southwest University for Nationalities,1/0/1,[changkun/SWUNThesis](https://github.com/changkun/SWUNThesis), ,🔒️,5,3,2016-05-09,2016-05-09,LGPL-3.0,LaTeX Thesis Template for Southwest University for Nationalities
 469,西南石油大学,Southwest Petroleum University,2/0/0,[MeetQu/swputhesis](https://github.com/MeetQu/swputhesis), , ,18,6,2023-09-07,2023-09-07,GPL-3.0,西南石油大学硕士学位论文 LaTeX 模板
 470,西南石油大学,Southwest Petroleum University,2/0/0,[qingbyin/swputhesis](https://github.com/qingbyin/swputhesis), , ,3,0,2022-05-15,2022-05-15, ,LaTeX Thesis Template for SouthWest Petroleum University (SWPU)
-471,厦门大学,Xiamen University,15/1/9,[CamuseCao/XMU-Thesis-Overleaf](https://github.com/CamuseCao/XMU-Thesis-Overleaf),🔒️, ,3,0,2020-08-11,2020-08-11, ,XMU-Thesis-template-on-Overleaf
+471,厦门大学,Xiamen University,15/1/9,[CamuseCao/XMU-Thesis-Overleaf](https://github.com/CamuseCao/XMU-Thesis-Overleaf),📦, ,3,0,2020-08-11,2020-08-11, ,XMU-Thesis-template-on-Overleaf
 472,厦门大学,Xiamen University,15/1/9,[CamuseCao/XMU-thesis](https://github.com/CamuseCao/XMU-thesis), , ,83,23,2021-05-21,2021-05-21,LPPL-1.3c,A LaTeX template
 473,厦门大学,Xiamen University,15/1/9,[CoolTowel/XMU_ThesisTemplate](https://github.com/CoolTowel/XMU_ThesisTemplate), , ,3,0,2020-02-23,2020-02-23,GPL-3.0,厦门大学本科生毕业论文模板，基于2019年的标准。
 474,厦门大学,Xiamen University,15/1/9,[DiggerWang/-Latex-](https://github.com/DiggerWang/-Latex-), ,🔒️,5,0,2019-01-30,2019-01-30, ,厦门大学本科生毕业论文最新Latex模板
@@ -508,10 +508,10 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 506,浙江大学,Zhejiang University,16/1/13,[junpeiz/ZJU-CS-Undergrad-Thesis-Latex-Template](https://github.com/junpeiz/ZJU-CS-Undergrad-Thesis-Latex-Template), ,🔒️,3,1,2019-03-24,2019-03-24, ,Zhejiang University CS Department Undergraduate Thesis Latex Template
 507,浙江大学,Zhejiang University,16/1/13,[jzhugithub/zju_thesis_latex](https://github.com/jzhugithub/zju_thesis_latex), ,🔒️,5,7,2018-04-03,2018-04-03, ,propose and thesis latex templet for zhejiang university
 508,浙江大学,Zhejiang University,16/1/13,[shuwei1204/ZJUthesis](https://github.com/shuwei1204/ZJUthesis), ,🔒️,130,51,2018-06-22,2018-06-22, ,Latex Thesis template of Zhejiang University (zju)
-509,浙江大学,Zhejiang University,16/1/13,[zhanghai/zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template),🔒️,🔒️,130,30,2017-06-04,2017-06-04, ,浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板
+509,浙江大学,Zhejiang University,16/1/13,[zhanghai/zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template),📦,🔒️,130,30,2017-06-04,2017-06-04, ,浙江大学计算机科学与技术、软件工程专业本科毕业设计 LaTeX 模板
 510,浙江工商大学,Zhejiang Gongshang University,1/0/0,[zewei-Zhang/zjgsuthesis](https://github.com/zewei-Zhang/zjgsuthesis), , ,4,0,2022-04-26,2022-04-26,MIT,用于浙江工商大学本科生毕业论文的Latex模板。
 511,浙江工业大学,Zhejiang University of Technology,3/1/0,[AsukaEva2/ZJUTbachelor](https://github.com/AsukaEva2/ZJUTbachelor), , ,6,0,2022-09-15,2022-09-15,GPL-3.0,浙江工业大学理学院本科论文LaTeX模板
-512,浙江工业大学,Zhejiang University of Technology,3/1/0,[yyz98799/zjutthesis](https://github.com/yyz98799/zjutthesis),🔒️, ,21,14,2022-08-09,2022-08-09, ,ZJUT XeLaTeX template of graduation project
+512,浙江工业大学,Zhejiang University of Technology,3/1/0,[yyz98799/zjutthesis](https://github.com/yyz98799/zjutthesis),📦, ,21,14,2022-08-09,2022-08-09, ,ZJUT XeLaTeX template of graduation project
 513,浙江工业大学,Zhejiang University of Technology,3/1/0,[zjutjh/zjutthesis](https://github.com/zjutjh/zjutthesis), , ,37,31,2023-01-30,2023-01-30, ,ZJUT XeLaTeX template of graduation project
 514,浙江理工大学,Zhejiang Sci-Tech University,1/0/1,[YvonZhou/ZSTUThesis](https://github.com/YvonZhou/ZSTUThesis), ,🔒️,1,0,2019-04-14,2019-04-14,Apache-2.0,浙江理工大学 XeLaTeX 学位论文及课程论文模板
 515,浙江师范大学,Zhejiang Normal University,1/0/1,[minqimao/zjnu_thesis](https://github.com/minqimao/zjnu_thesis), ,🔒️,1,0,2017-01-27,2017-01-27,GPL-2.0,zjnuthesis/浙江师范大学毕业论文LaTeX模板/tmp
@@ -530,7 +530,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 528,中国海洋大学,Ocean University of China,6/1/0,[Duola-li/OUC-Latex-Thesis-master](https://github.com/Duola-li/OUC-Latex-Thesis-master), , ,1,0,2023-05-29,2023-05-29, ,中国海洋大学研究生毕业论文模版（硕博通用）
 529,中国海洋大学,Ocean University of China,6/1/0,[OSOUC/UndergraduateThesisLaTeXTemplate](https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate), , ,46,9,2022-05-01,2022-05-01,MIT,中国海洋大学本科毕业论文LaTeX模版 OUC Undergraduate Thesis LaTeX Template
 530,中国海洋大学,Ocean University of China,6/1/0,[SunYufei/oucthesis](https://github.com/SunYufei/oucthesis), , ,2,0,2021-05-24,2021-05-24, ,中国海洋大学硕博学位论文 LaTeX 模板
-531,中国海洋大学,Ocean University of China,6/1/0,[ouc-ocean-group/oucthesis](https://github.com/ouc-ocean-group/oucthesis),🔒️, ,43,11,2022-12-13,2022-12-13, ,中国海洋大学硕士博士学位论文 LaTeX 模板 Latex template for OUC graduate thesis.
+531,中国海洋大学,Ocean University of China,6/1/0,[ouc-ocean-group/oucthesis](https://github.com/ouc-ocean-group/oucthesis),📦, ,43,11,2022-12-13,2022-12-13, ,中国海洋大学硕士博士学位论文 LaTeX 模板 Latex template for OUC graduate thesis.
 532,中国海洋大学,Ocean University of China,6/1/0,[summitgao/OUC-LaTex-bachelor](https://github.com/summitgao/OUC-LaTex-bachelor), , ,55,12,2023-06-01,2023-06-01, ,中国海洋大学本科生毕业论文LaTeX模板（Overleaf版）
 533,中国海洋大学,Ocean University of China,6/1/0,[summitgao/OUC-LaTex-master](https://github.com/summitgao/OUC-LaTex-master), , ,54,8,2023-02-20,2023-02-20, ,中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版）
 534,中国科学技术大学,University of Science and Technology of China,7/0/4,[DingyunZhang/ustc_thesis_bachelor](https://github.com/DingyunZhang/ustc_thesis_bachelor), , ,0,0,2022-04-01,2022-04-01,LPPL-1.3c,template for undergraduate thesis
@@ -563,7 +563,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 561,中南财经政法大学,Zhongnan University of Economics and Law,2/0/1,[YihanCao123/zuel_thesis](https://github.com/YihanCao123/zuel_thesis), , ,2,0,2020-05-18,2020-05-18,MIT,中南财经政法大学本科课程论文模板（非官方）
 562,中南财经政法大学,Zhongnan University of Economics and Law,2/0/1,[donk3yzz/zuel_zh](https://github.com/donk3yzz/zuel_zh), ,🔒️,2,0,2019-04-06,2019-04-06, ,中南财经政法大学本科生毕业论文模版
 563,中南大学,Central South University,9/1/1,[BingBLL/CSUThesis](https://github.com/BingBLL/CSUThesis), , ,0,0,2021-12-24,2021-12-24,Apache-2.0,中南大学大学 XeLaTeX 学位论文及课程论文模板 Central South University XeLaTeX Thesis Template
-564,中南大学,Central South University,9/1/1,[BlurryLight/CSU-Thesis-LaTeX-Template](https://github.com/BlurryLight/CSU-Thesis-LaTeX-Template),🔒️, ,18,3,2021-05-11,2021-05-11, ,中南大学本科学位论文LaTeX模板
+564,中南大学,Central South University,9/1/1,[BlurryLight/CSU-Thesis-LaTeX-Template](https://github.com/BlurryLight/CSU-Thesis-LaTeX-Template),📦, ,18,3,2021-05-11,2021-05-11, ,中南大学本科学位论文LaTeX模板
 565,中南大学,Central South University,9/1/1,[CSGrandeur/CSU-Thesis-LaTeX-Template](https://github.com/CSGrandeur/CSU-Thesis-LaTeX-Template), , ,70,33,2022-06-27,2022-06-27, ,中南大学学位论文LaTeX模板
 566,中南大学,Central South University,9/1/1,[CSUcse/CSUthesis](https://github.com/CSUcse/CSUthesis), , ,113,31,2023-04-19,2023-04-19, ,中南大学研究生学位论文LaTex模版（博士和硕士）
 567,中南大学,Central South University,9/1/1,[ChaoYan/CSUThesis](https://github.com/ChaoYan/CSUThesis), , ,3,0,2021-07-22,2021-07-22,Apache-2.0,中南大学 XeLaTeX 学位论文及课程论文模板 Central South University XeLaTeX Thesis Template

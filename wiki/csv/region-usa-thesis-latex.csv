@@ -2,7 +2,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 0,（美国）北卡罗来纳大学夏洛特分校,University of North Carolina at Charlotte,1/0/1,[cci-grads/uncc-thesis-latex](https://github.com/cci-grads/uncc-thesis-latex), ,🔒️,14,10,2019-02-27,2019-02-27, ,LaTeX template for UNC-Charlotte dissertations
 1,（美国）北卡罗来纳州立大学,North Carolina State University,1/0/1,[jhykes/ncsuthesis](https://github.com/jhykes/ncsuthesis), ,🔒️,13,6,2019-07-08,2019-07-08, ,A LaTeX thesis class conforming to NC State ETD guidelines
 2,（美国）德克萨斯州大学奥斯汀分校,University of Texas at Austin,1/0/1,[OttoStruve/UT-thesis](https://github.com/OttoStruve/UT-thesis), ,🔒️,0,5,2018-06-27,2018-06-27,MIT,"UT thesis template, so we can stop passing it around via email like animals"
-3,（美国）华盛顿大学,University of Washington (UW),1/1/0,[UWIT-IAM/UWThesis](https://github.com/UWIT-IAM/UWThesis),🔒️, ,58,53,2021-11-09,2021-11-09,NOASSERTION,Class file for University of Washington thesis formatting with LaTeX.
+3,（美国）华盛顿大学,University of Washington (UW),1/1/0,[UWIT-IAM/UWThesis](https://github.com/UWIT-IAM/UWThesis),📦, ,58,53,2021-11-09,2021-11-09,NOASSERTION,Class file for University of Washington thesis formatting with LaTeX.
 4,（美国）加利福尼亚大学洛杉矶分校,"University of California, Los Angeles (UCLA)",1/0/0,[uclathes/uclathes](https://github.com/uclathes/uclathes), , ,119,83,2020-06-15,2020-06-15, ,UCLA Thesis LaTeX style
 5,（美国）加利福尼亚大学欧文分校,"University of California, Irvine (UCI)",1/0/0,[lotten/uci-thesis-latex](https://github.com/lotten/uci-thesis-latex), , ,74,55,2022-04-13,2022-04-13, ,LaTeX template for thesis and dissertation documents at UC Irvine
 6,（美国）加利福尼亚大学圣迭戈分校,"University of California, San Diego (UCSD)",1/0/0,[ucsd-thesis/ucsd-thesis](https://github.com/ucsd-thesis/ucsd-thesis), , ,68,57,2022-06-27,2022-06-27,MIT, 
@@ -10,7 +10,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 8,（美国）科罗拉多州立大学,Colorado State University,1/0/0,[idfah/csuthesis](https://github.com/idfah/csuthesis), , ,42,32,2020-05-08,2020-05-08,NOASSERTION,Colorado State University LaTeX Thesis/Dissertation Template
 9,（美国）罗格斯大学,Rutgers University,1/0/1,[rucsgss/thesis](https://github.com/rucsgss/thesis), ,🔒️,23,16,2019-11-10,2019-11-10, ,LaTeX template for Rutgers University Computer Science thesis
 10,（美国）麻省理工学院,Massachusetts Institute of Technology (MIT),1/0/1,[kljensen/mit-phd-thesis](https://github.com/kljensen/mit-phd-thesis), ,🔒️,62,32,2019-12-07,2019-12-07, ,MIT Ph.D. Thesis in LaTeX
-11,（美国）马凯特大学,Marquette University,1/1/0,[pdgessler/mugsthesis](https://github.com/pdgessler/mugsthesis),🔒️, ,2,2,2022-09-01,2022-09-01, ,"A thesis class, based on memoir, complying with Marquette University Graduate School requirements"
+11,（美国）马凯特大学,Marquette University,1/1/0,[pdgessler/mugsthesis](https://github.com/pdgessler/mugsthesis),📦, ,2,2,2022-09-01,2022-09-01, ,"A thesis class, based on memoir, complying with Marquette University Graduate School requirements"
 12,（美国）马萨诸塞大学,University of Massachusetts (UMass),1/0/0,[umasscs/umassthesis](https://github.com/umasscs/umassthesis), , ,56,46,2023-10-18,2023-10-18, ,Unofficial UMass thesis style files for use with LaTeX
 13,（美国）密歇根州立大学,Michigan State University,1/0/0,[amunn/msu-thesis](https://github.com/amunn/msu-thesis), , ,19,9,2023-10-07,2023-10-07, ,Thesis Class for Michigan State University
 14,（美国）乔治·华盛顿大学,George Washington University (GWU),1/0/0,[skulumani/thesis-gwu](https://github.com/skulumani/thesis-gwu), , ,28,15,2022-07-27,2022-07-27,GPL-3.0,GWU SEAS sample thesis

@@ -37,7 +37,7 @@
   - `LaTeX thesis template for Fudan University`
   - 🎉`2023-05-27` ![stars=751](https://flat.badgen.net/github/stars/stone-zeng/fduthesis) ![forks=191](https://flat.badgen.net/github/forks/stone-zeng/fduthesis) ![last-commit=2023-05-27](https://flat.badgen.net/github/last-commit/stone-zeng/fduthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/stone-zeng/fduthesis)
 - **电子科技大学**（University of Electronic Science and Technology of China）: [shifujun/UESTCthesis](https://github.com/shifujun/UESTCthesis)
-  - 🔒️ `电子科技大学毕设设计论文LaTeX模板`
+  - 📦 `电子科技大学毕设设计论文LaTeX模板`
   - 🎉`2023-04-24` ![stars=550](https://flat.badgen.net/github/stars/shifujun/UESTCthesis) ![forks=162](https://flat.badgen.net/github/forks/shifujun/UESTCthesis) ![last-commit=2023-04-24](https://flat.badgen.net/github/last-commit/shifujun/UESTCthesis) ![license=None](https://flat.badgen.net/github/license/shifujun/UESTCthesis)
 - **北京大学**（Peking University）: [CasperVector/pkuthss](https://github.com/CasperVector/pkuthss)
   - `LaTeX template for dissertations in Peking University`
@@ -88,7 +88,7 @@
   - `LaTeX-template for russian Phd thesis`
   - 🎉`2024-02-08` ![stars=1245](https://flat.badgen.net/github/stars/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![forks=628](https://flat.badgen.net/github/forks/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![last-commit=2024-02-08](https://flat.badgen.net/github/last-commit/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![license=CC-BY-4.0](https://flat.badgen.net/github/license/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
 - **北京邮电大学**（Beijing University of Posts and Telecommunications）: [sigmarising/BUPTMasterThesisWord](https://github.com/sigmarising/BUPTMasterThesisWord)
-  - 🔒️ `The Microsoft Office Word template of BUPT Thesis for Master Degree.`
+  - 📦 `The Microsoft Office Word template of BUPT Thesis for Master Degree.`
   - 🎉`2024-01-24` ![stars=207](https://flat.badgen.net/github/stars/sigmarising/BUPTMasterThesisWord) ![forks=29](https://flat.badgen.net/github/forks/sigmarising/BUPTMasterThesisWord) ![last-commit=2024-01-24](https://flat.badgen.net/github/last-commit/sigmarising/BUPTMasterThesisWord) ![license=MIT](https://flat.badgen.net/github/license/sigmarising/BUPTMasterThesisWord)
 - **清华大学**（Tsinghua University）: [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis)
   - `清华大学学位论文Word模板。A Word thesis template for Tsinghua University.`
@@ -139,7 +139,7 @@
   - `A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department (CUED)`
   - 🎉`2023-07-30` ![stars=784](https://flat.badgen.net/github/stars/kks32/phd-thesis-template) ![forks=381](https://flat.badgen.net/github/forks/kks32/phd-thesis-template) ![last-commit=2023-07-30](https://flat.badgen.net/github/last-commit/kks32/phd-thesis-template) ![license=MIT](https://flat.badgen.net/github/license/kks32/phd-thesis-template)
 - **（德国）慕尼黑工业大学**（Technical University of Munich (Technische Universität München)）: [fwalch/tum-thesis-latex](https://github.com/fwalch/tum-thesis-latex)
-  - 🔒️ `:notebook_with_decorative_cover: A LaTeX template for TUM Bachelor/Master theses.`
+  - 📦 `:notebook_with_decorative_cover: A LaTeX template for TUM Bachelor/Master theses.`
   - 🎉`2022-12-20` ![stars=425](https://flat.badgen.net/github/stars/fwalch/tum-thesis-latex) ![forks=218](https://flat.badgen.net/github/forks/fwalch/tum-thesis-latex) ![last-commit=2022-12-20](https://flat.badgen.net/github/last-commit/fwalch/tum-thesis-latex) ![license=None](https://flat.badgen.net/github/license/fwalch/tum-thesis-latex)
 - **（挪威）挪威科技大学**（Norwegian University of Science and Technology (Norges teknisk-naturvitenskapelige universitet, NTNU)）: [COPCSE-NTNU/thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU)
   - `An NTNU thesis LaTeX document class for bachelor, master, and PhD theses`
