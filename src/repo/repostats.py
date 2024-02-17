@@ -19,10 +19,13 @@ class RepoStats:
         self.key_repos = "repositories"
         self.key_error = "error"
         self.key_renamed = "renamed"
+        self.key_update = "update_time"
         self.key_renamed_url = "url"
         self.key_renamed_alias = "alias"
         self.key_time = "update_time"
+        self._lasttime = None
         self._now = datetime.utcnow()
+        self._update = False
         self._readfile()
 
     def _readfile(self):
@@ -31,9 +34,12 @@ class RepoStats:
             logging.info(f"Read and init file = {file}")
             with open(file) as f:
                 data = json.load(f)
-            # self.repos = data[self.key_repos]
+            self.repos = data[self.key_repos]
             self.error_repos = data[self.key_error]
             self.renamed_repos = data[self.key_renamed]
+            self._lasttime = datetime.strptime(data[self.key_update], "%Y-%m-%dT%H:%M:%SZ")
+            if (self.now - self._lasttime).days >= 1:
+                self._update = True
 
     def query(self, tokens):
         links = self.links
@@ -99,6 +105,10 @@ class RepoStats:
         key_renamed_url = self.key_renamed_url
         key_renamed_alias = self.key_renamed_alias
 
+        if not self._update:
+            logging.info("No update, last update at {self._lasttime}")
+            return
+
         for i in range(retry):
             logging.info(f">> Retry ... {i+1}/{retry}")
             temp_repo_data = self.query(token)
@@ -149,8 +159,9 @@ class RepoStats:
         )
 
     def output(self):
+        lastupdate = self._now if self._update else self._lasttime
         return {
-            self.key_time: self._now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            self.key_time: lastupdate.strftime("%Y-%m-%dT%H:%M:%SZ"),
             self.key_repos: self.repos,
             self.key_error: self.error_repos,
             self.key_renamed: self.renamed_repos,
