@@ -98,16 +98,14 @@ class RepoStats:
         return temp_repo_data
 
     def process(self, token=None, retry=5):
-        # temp_file = self.temp_file
         key_repos = self.key_repos
         key_error = self.key_error
-        # key_renamed = self.key_renamed
         key_renamed_url = self.key_renamed_url
         key_renamed_alias = self.key_renamed_alias
 
         # omit same update
         if not self._update:
-            logging.info("No update, last update at {self._lasttime}")
+            logging.info(f"No update, last update at {self._lasttime}")
             return
         if token:
             logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
