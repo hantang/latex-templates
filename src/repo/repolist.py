@@ -49,8 +49,14 @@ def _get_badges(repo, pushed_at, created_at, stargazers, forks, license):
     badges = " ".join(badges)
     return f"🎉`{created_at}` {badges}".rstrip()
 
+
 def _get_description(description):
-    return strip(re.sub(r"\\(latex)\\?", r"\1", description, flags=re.IGNORECASE) if description else description)
+    return strip(
+        re.sub(r"\\(latex)\\?", r"\1", description, flags=re.IGNORECASE)
+        if description
+        else description
+    )
+
 
 def _get_desc(archived, obslete, description):
     tags = "/".join([v for v in [archived, obslete] if v])
@@ -59,8 +65,7 @@ def _get_desc(archived, obslete, description):
 
 
 def _get_title(zh_name, en_name, repository):
-    return f"- **{zh_name}**（{en_name}）: {repository}" if zh_name else repository
-
+    return f"**{zh_name}**（{en_name}）: {repository}" if zh_name else repository
 
 
 def to_df(entries, repo_dict, date_now=None):
@@ -89,7 +94,7 @@ def to_df(entries, repo_dict, date_now=None):
                 "forks": repo_info["forks_count"],
                 # "subscribers":repo_info["subscribers_count"],
                 "pushed_at": repo_info["pushed_at"].split("T")[0],
-                "created_at": repo_info["pushed_at"].split("T")[0],
+                "created_at": repo_info["created_at"].split("T")[0],
                 # "updated_at": repo_info["updated_at"].split("T")[0],
                 "license": repo_info["license_name"],
                 "description": _get_description(repo_info["description"]),
@@ -129,12 +134,13 @@ def to_list(df_entry, top=10, order=True):
         df_entry2 = df_entry2.sort_values(key, ascending=False)
     if top > 0:
         df_entry2 = df_entry2.head(top)
+
     texts = []
     blank = " " * 2
     entries = df_entry2.to_dict("records")
     for e in entries:
-        texts.append(e["title"])
-        texts.extend(["{}- {}".format(blank, v) for v in [e["desc"], e["badges"]] if v])
+        texts.append("- " + e["title"])
+        texts.extend([f"{blank}- {v}" for v in [e["desc"], e["badges"]] if v])
     if len(df_entry2) < len(df_entry):
         texts.append("- ...")
     return texts
@@ -385,19 +391,11 @@ class RepoLists:
             return
 
         # list
-        toc0a, text0a = self.thesis_repo_list.get_thesis_list(
-            stats, True, latex=True, top=25
-        )
-        toc0b, text0b = self.thesis_repo_list.get_thesis_list(
-            stats, True, latex=False, top=15
-        )
-
-        toc1a, text1a = self.thesis_repo_list.get_thesis_list(
-            stats, False, latex=True, top=15
-        )
-        toc1b, text1b = self.thesis_repo_list.get_thesis_list(
-            stats, False, latex=False, top=10
-        )
+        theis = self.thesis_repo_list
+        toc0a, text0a = theis.get_thesis_list(stats, True, latex=True, top=25)
+        toc0b, text0b = theis.get_thesis_list(stats, True, latex=False, top=15)
+        toc1a, text1a = theis.get_thesis_list(stats, False, latex=True, top=15)
+        toc1b, text1b = theis.get_thesis_list(stats, False, latex=False, top=10)
 
         toc2, text2 = self.other_repo_list.get_other_list(stats, top=5)
 
