@@ -44,13 +44,14 @@
 
 目前覆盖的大学约250所（包括中国内地（大陆）、港澳台地区约150所大学，30个外国（地区）近100所大学），收录GitHub仓库总数超过800。
 
-学位论文模板的初始数据主要来自[LaTeX 工作室，国内大学高校 LaTeX 论文、报告模板统计](https://ask.latexstudio.net/ask/article/90.html)。
-其他一些网站也提供了丰富的模板资源，如
-[LaTeX Templates](https://www.latextemplates.com/)、
-[Overleaf](https://www.overleaf.com/latex/templates)~~/ShareLaTex~~、
-[CTAN](http://ctan.org/)。
+相关资料：
+- [LaTeX 工作室, 国内大学高校 LaTeX 论文、报告模板统计, 2021-03-29 ](https://ask.latexstudio.net/ask/article/90.html)、
+- [LaTeX Templates](https://www.latextemplates.com/)、
+- [Overleaf](https://www.overleaf.com/latex/templates)~~/ShareLaTex~~、
+- [CTAN](http://ctan.org/)。
 
-相似项目：[Andy1621/thesis_latex](https://github.com/Andy1621/thesis_latex)
+相似项目：
+- [Andy1621/thesis_latex](https://github.com/Andy1621/thesis_latex)。
 
 详细地，可以在[本仓库文档](https://hantang.github.io/latex-templates)
 按国家（地区）、模板类型（论文、报告、简历、通用、演示等）、LaTeX（以及 Lyx）
