@@ -26,7 +26,7 @@ def _get_status_obsolete(repo_info, date_now=None, date_gap=1461):
 
 
 def _get_status_archive(repo_info):
-    return TAG_OBSOLETE if repo_info["archived"] else None
+    return TAG_ARCHIVED if repo_info["archived"] else None
 
 
 def _get_score(stargazers, fork):
