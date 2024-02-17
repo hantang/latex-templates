@@ -3,7 +3,6 @@
     "LaTeX论文模板": [
       {
         "links": [
-          "https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template",
           "https://github.com/Digital-Media/HagenbergThesis",
           "https://github.com/Pseudomanifold/latex-mimosis",
           "https://github.com/WetenSchaap/latex-imitatie",
@@ -62,8 +61,8 @@
       }
     ]
   },
-  "非LaTeX/Lyx模板": {
-    "Typst模板": [
+  "更多非LaTeX模板": {
+    "Typst写作模板": [
       {
         "links": [
           "https://github.com/typst/templates"
