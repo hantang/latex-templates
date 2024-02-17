@@ -11,10 +11,13 @@
 # mkdocs
 site/
 
+# python
+__pycache__/
+__pypackages__/
+*.py[cod]
+
 # local
 .trash/
 back/
-tmp/
 temp/
 todo/
-src/
