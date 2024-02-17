@@ -246,7 +246,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 244,兰州大学,Lanzhou University,9/0/1,[mosesnow/LZUthesis](https://github.com/mosesnow/LZUthesis), , ,32,11,2022-04-14,2022-04-14, ,兰州大学学位论文LyX模板及LaTeX模板
 245,兰州大学,Lanzhou University,9/0/1,[suchot/LZUThesis2017](https://github.com/suchot/LZUThesis2017), , ,13,10,2020-05-14,2020-05-14, ,兰州大学本科生（学士学位）LaTeX模板
 246,兰州大学,Lanzhou University,9/0/1,[szsdk/LZUthesis](https://github.com/szsdk/LZUthesis), , ,11,4,2022-11-16,2022-11-16, , 
-247,兰州大学,Lanzhou University,9/0/1,[yuhldr/LZUThesis2020](https://github.com/yuhldr/LZUThesis2020), , ,88,21,2023-11-27,2023-11-27,AGPL-3.0,兰州大学2023毕业论文LaTex模板：本科生、研究生两个模板
+247,兰州大学,Lanzhou University,9/0/1,[yuhldr/LZUThesis2020](https://github.com/yuhldr/LZUThesis2020), , ,89,21,2023-11-27,2023-11-27,AGPL-3.0,兰州大学2023毕业论文LaTex模板：本科生、研究生两个模板
 248,兰州大学,Lanzhou University,9/0/1,[zmx0142857/lzuthesis](https://github.com/zmx0142857/lzuthesis), , ,3,0,2020-05-31,2020-05-31, ,兰州大学本科生毕业论文模板
 249,兰州理工大学,Lanzhou University of Technology,1/0/1,[estivalinp/LuThesis](https://github.com/estivalinp/LuThesis), ,🔒️,8,3,2018-06-05,2018-06-05, ,兰州理工大学毕业论文LaTeX模板 LaTeX Thesis Template for Lanzhou University of Technology
 250,南昌大学,Nanchang University,1/0/0,[Jin-bao/NCU-thesis](https://github.com/Jin-bao/NCU-thesis), , ,14,0,2023-03-22,2023-03-22,LPPL-1.3c,南昌大学学位（毕业）论文 LaTeX 模板
@@ -412,7 +412,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 410,武汉大学,Wuhan University,15/1/4,[csarron/bsThesisWHU](https://github.com/csarron/bsThesisWHU), ,🔒️,18,6,2015-05-16,2015-05-16,MIT,WHU BS Thesis Template
 411,武汉大学,Wuhan University,15/1/4,[jwwangchn/WHU-Thesis-LaTeX](https://github.com/jwwangchn/WHU-Thesis-LaTeX), , ,9,4,2021-04-14,2021-04-14, ,武汉大学毕业论文模板。
 412,武汉大学,Wuhan University,15/1/4,[lh9171338/WHU-Thesis](https://github.com/lh9171338/WHU-Thesis), , ,6,0,2020-04-05,2020-04-05,MIT,武汉大学本科生毕业论文 LaTeX 模板
-413,武汉大学,Wuhan University,15/1/4,[liuyijiang1994/WHU-PhD-Latex](https://github.com/liuyijiang1994/WHU-PhD-Latex), , ,6,1,2022-03-28,2022-03-28, ,武汉大学武大博士生毕业论文latex模板
+413,武汉大学,Wuhan University,15/1/4,[liuyijiang1994/WHU-PhD-Latex](https://github.com/liuyijiang1994/WHU-PhD-Latex), , ,6,1,2024-02-17,2024-02-17, ,武汉大学武大博士生毕业论文latex模板
 414,武汉大学,Wuhan University,15/1/4,[lvZic/latex](https://github.com/lvZic/latex), ,🔒️,2,0,2018-08-16,2018-08-16, ,武汉大学博士毕业论文(含标准参考文献格式) LaTeX 模版
 415,武汉大学,Wuhan University,15/1/4,[paul-wu/whuthesis](https://github.com/paul-wu/whuthesis), ,🔒️,1,2,2014-12-30,2014-12-30, ,武汉大学本科毕业论文latex模板
 416,武汉大学,Wuhan University,15/1/4,[prejudice666/whu-thesis-latex-template](https://github.com/prejudice666/whu-thesis-latex-template), , ,0,0,2023-05-25,2023-05-25, ,武汉大学2019级本科毕业论文Latex模板
@@ -495,7 +495,7 @@ index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,create
 493,浙江财经大学,Zhejiang University Of Finance & Economics,1/0/0,[sqsssq/ZUFE-Thesis](https://github.com/sqsssq/ZUFE-Thesis), , ,15,3,2022-12-07,2022-12-07,MIT,浙江财经大学本科生毕业论文（设计）模板，LaTeX / Word
 494,浙江大学,Zhejiang University,16/1/13,[5kg/zju-bachelor-thesis](https://github.com/5kg/zju-bachelor-thesis), ,🔒️,14,8,2012-05-07,2012-05-07, ,LaTeX templates for ZJU bachlor thesis
 495,浙江大学,Zhejiang University,16/1/13,[DelightRun/ZJUThesis-MPhil](https://github.com/DelightRun/ZJUThesis-MPhil), ,🔒️,30,12,2019-01-14,2019-01-14,MIT,浙江大学计算机学院硕士论文LaTeX模板
-496,浙江大学,Zhejiang University,16/1/13,[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis), , ,2224,547,2024-01-11,2024-01-11,MIT,Zhejiang University Graduation Thesis LaTeX Template
+496,浙江大学,Zhejiang University,16/1/13,[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis), , ,2224,548,2024-01-11,2024-01-11,MIT,Zhejiang University Graduation Thesis LaTeX Template
 497,浙江大学,Zhejiang University,16/1/13,[Wangqsooooo/Latex_template](https://github.com/Wangqsooooo/Latex_template), ,🔒️,16,3,2019-04-09,2019-04-09, ,浙江大学电气工程学院毕业论文文献综述与开题报告Latex模板
 498,浙江大学,Zhejiang University,16/1/13,[Yirui-Wang/ZJU-CSE-Latex](https://github.com/Yirui-Wang/ZJU-CSE-Latex), ,🔒️,15,0,2019-01-11,2019-01-11, ,浙江大学控制学院本科生毕业论文Latex模板。
 499,浙江大学,Zhejiang University,16/1/13,[ZJU-Awesome/write_with_LaTeX](https://github.com/ZJU-Awesome/write_with_LaTeX), ,🔒️,125,90,2019-01-08,2019-01-08, , 
