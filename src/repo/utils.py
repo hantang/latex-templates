@@ -60,7 +60,8 @@ def get_headers(tokens=None):
 
 
 def nowtime(utc=True):
-    return datetime.utcnow() if utc else datetime.now()
+    now = datetime.utcnow() if utc else datetime.now()
+    return now.replace(microsecond=0)
 
 
 def strptime(dt_str, fmt="%Y-%m-%dT%H:%M:%SZ"):

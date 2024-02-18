@@ -15,7 +15,7 @@ class RepoStats:
         self.renamed_repos = {}
         self.links_exists = []
 
-        self._now = nowtime()
+        self._nowtime = nowtime()
         self._lasttime = None
         self._update = False
 
@@ -43,6 +43,7 @@ class RepoStats:
             self.links_exists = self.get_repos_links()
 
             self._lasttime = strptime(data[self.key_update])
+            logging.info(f"Delta days = {self.now - self._lasttime}, may need update")
             if (self.now - self._lasttime).days >= 1:
                 self._update = True
 
@@ -111,7 +112,7 @@ class RepoStats:
         # omit same update
         if not self._update:
             if len(delta_links) == 0:
-                logging.info(f"No update, last update at {self._lasttime}.")
+                logging.info(f"No update, last update at {self._lasttime}, now = {self._nowtime}.")
                 return False
             else:
                 logging.info("Only update new links!")
@@ -179,7 +180,7 @@ class RepoStats:
 
     def output(self):
         return {
-            self.key_time: strftime(self._now if self._update else self._lasttime),
+            self.key_time: strftime(self._nowtime if self._update else self._lasttime),
             self.key_repos: self.repos,
             self.key_error: self.error_repos,
             self.key_renamed: self.renamed_repos,
@@ -209,7 +210,7 @@ class RepoStats:
 
     @property
     def now(self):
-        return self._now
+        return self._nowtime
 
     def save(self):
         stats_file = self.filename
