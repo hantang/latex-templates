@@ -6,20 +6,22 @@ import pandas as pd
 import re
 
 from .config import NAME_MAP, REPO_STRUCTS, COLUMNS2, COLUMNS
-from .utils import strip_url, strip, get_pinyin_key
+from .utils import nowtime, strftime, strip_url, strip, get_pinyin_key, strptime
 from .repostats import RepoStats
 
 
 TAG_ARCHIVED = "📦"  # :package: 已归档
 TAG_OBSOLETE = "🔒️"  # :lock: 长久未更新
 TAG_REMOVED = "🗑️"  # :wastebasket:
+REPO_STATS_URL = "https://flat.badgen.net/github"
+REPO_STATS_KEYS = ["stars", "forks", "last-commit", "license"]
 
 
 def _get_status_obsolete(repo_info, date_now=None, date_gap=1461):
     date_update = max([repo_info[key] for key in ["pushed_at", "created_at"]])
-    date_update = datetime.strptime(date_update, "%Y-%m-%dT%H:%M:%SZ")
+    date_update = strptime(date_update)
     if not date_now:
-        date_now = datetime.utcnow()
+        date_now = nowtime()
     if (date_now - date_update).days > date_gap:
         return TAG_OBSOLETE
     return None
@@ -34,13 +36,6 @@ def _get_score(stargazers, fork):
 
 
 def _get_badges(repo, pushed_at, created_at, stargazers, forks, license):
-    """_summary_
-    🔖`2011-09-12` ![stargazers_count=4122](https://flat.badgen.net/github/stars/tuna/thuthesis) ![forks_count=1040](https://flat.badgen.net/github/forks/tuna/thuthesis) ![pushed_at=2023-11-07](https://flat.badgen.net/github/last-commit/tuna/thuthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/tuna/thuthesis)
-    Args:
-        repo_info (_type_): _description_
-    """
-    REPO_STATS_URL = "https://flat.badgen.net/github"
-    REPO_STATS_KEYS = ["stars", "forks", "last-commit", "license"]
     REPO_STATS_VALS = [stargazers, forks, pushed_at, license]
 
     badges = []
@@ -378,14 +373,18 @@ class RepoLists:
         self.other_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
 
     def update_readme(self, stats):
-        toc = ["# Beyond LaTeX Templates", "## 说明"]
+        toc = ["## 说明"]
         head_list = [
             "## 最受欢迎的LaTeX学位论文模板（中文）",
             "## 最受欢迎LaTeX学位论文模板（其他）",
             "## 更多模板资源",
         ]
+        wiki = [
+            "# Beyond LaTeX Templates",
+            "**Welcome to awesome latex-templates wiki!**",
+        ]
+        update_date = strftime(nowtime(), fmt="%Y-%m-%d")
         readme_file = self.readme_file
-        s = datetime.utcnow().strftime("%Y-%m-%d")
         if not Path(readme_file).exists():
             logging.warning(f"Readme file {readme_file} does not exist")
             return
@@ -406,21 +405,22 @@ class RepoLists:
         toc_list = []
         for line in toc:
             hashtag, title = re.findall(r"(#+) (.+)", line)[0]
-            hash_len = (len(hashtag) - 1) * 2
+            hash_len = (len(hashtag) - 2) * 2
             title2 = title.lower().replace(" ", "-")
             title2 = re.sub("[（）()]", "", title2)
             toc_list.append("{}- [{}](#{})".format(" " * hash_len, title, title2))
-
-        # readme
+        
+        # sections        
         sections = ["lastmod", "toc", "toplist0", "toplist1", "toplist2"]
         paragraphs = [
-            f"最近更新：*{s}*",
+            f"最近更新：*{update_date}*",
             "\n".join(toc_list),
             "\n".join([head_list[0]] + text0a + text0b),
             "\n".join([head_list[1]] + text1a + text1b),
             "\n".join([head_list[2]] + text2),
         ]
 
+        # update readme
         logging.info(f"Read {readme_file}")
         with open(readme_file) as f:
             text = f.read()
@@ -436,11 +436,9 @@ class RepoLists:
         with open(readme_file, "w") as fw:
             fw.write(text)
 
+        # update wiki/index.md
         wiki_file = Path(self.doc_dir, "index.md")
-        more = [
-            "# Beyond LaTeX Templates",
-            "**Welcome to awesome latex-templates wiki!**",
-        ] + paragraphs[2:4]
+        wiki =  wiki + paragraphs[2:4]
         logging.info(f"Save to wiki: {wiki_file}")
         with open(wiki_file, "w") as fw:
-            fw.write("\n\n".join(more) + "\n")
+            fw.write("\n\n".join(wiki) + "\n")
