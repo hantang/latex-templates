@@ -45,12 +45,12 @@
 - **南京大学**（Nanjing University）: [Haixing-Hu/nju-thesis](https://github.com/Haixing-Hu/nju-thesis)
   - `南京大学学位论文XeLaTeX模板`
   - 🎉`2013-08-23` ![stars=412](https://flat.badgen.net/github/stars/Haixing-Hu/nju-thesis) ![forks=148](https://flat.badgen.net/github/forks/Haixing-Hu/nju-thesis) ![last-commit=2021-03-23](https://flat.badgen.net/github/last-commit/Haixing-Hu/nju-thesis) ![license=GPL-2.0](https://flat.badgen.net/github/license/Haixing-Hu/nju-thesis)
-- **西安电子科技大学**（Xidian University）: [note286/xduts](https://github.com/note286/xduts)
-  - `Xidian University TeX Suite 西安电子科技大学LaTeX套装`
-  - 🎉`2022-04-03` ![stars=575](https://flat.badgen.net/github/stars/note286/xduts) ![forks=66](https://flat.badgen.net/github/forks/note286/xduts) ![last-commit=2023-03-23](https://flat.badgen.net/github/last-commit/note286/xduts) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/note286/xduts)
 - **北京理工大学**（Beijing Institute of Technology）: [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
   - `📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）`
   - 🎉`2020-01-12` ![stars=515](https://flat.badgen.net/github/stars/BITNP/BIThesis) ![forks=96](https://flat.badgen.net/github/forks/BITNP/BIThesis) ![last-commit=2024-01-29](https://flat.badgen.net/github/last-commit/BITNP/BIThesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/BITNP/BIThesis)
+- **西安电子科技大学**（Xidian University）: [note286/xduts](https://github.com/note286/xduts)
+  - `Xidian University TeX Suite 西安电子科技大学LaTeX套装`
+  - 🎉`2022-04-03` ![stars=575](https://flat.badgen.net/github/stars/note286/xduts) ![forks=66](https://flat.badgen.net/github/forks/note286/xduts) ![last-commit=2023-03-23](https://flat.badgen.net/github/last-commit/note286/xduts) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/note286/xduts)
 - **北京邮电大学**（Beijing University of Posts and Telecommunications）: [sheng-qiang/BUPTBachelorThesis](https://github.com/sheng-qiang/BUPTBachelorThesis)
   - `A LaTeX Template for BUPT Bachelor Thesis (updated in 2018) 北京邮电大学学士学位论文LaTeX模板`
   - 🎉`2018-04-24` ![stars=443](https://flat.badgen.net/github/stars/sheng-qiang/BUPTBachelorThesis) ![forks=120](https://flat.badgen.net/github/forks/sheng-qiang/BUPTBachelorThesis) ![last-commit=2022-06-02](https://flat.badgen.net/github/last-commit/sheng-qiang/BUPTBachelorThesis) ![license=MIT](https://flat.badgen.net/github/license/sheng-qiang/BUPTBachelorThesis)
@@ -201,16 +201,16 @@
 - **（英国）牛津大学**（University of Oxford）: [aesadde/ox-thesis](https://github.com/aesadde/ox-thesis)
   - 🔒️ `A set of templates to render a thesis in the Oxford University format using pandoc markdown`
   - 🎉`2016-07-06` ![stars=5](https://flat.badgen.net/github/stars/aesadde/ox-thesis) ![forks=0](https://flat.badgen.net/github/forks/aesadde/ox-thesis) ![last-commit=2016-07-20](https://flat.badgen.net/github/last-commit/aesadde/ox-thesis) ![license=MIT](https://flat.badgen.net/github/license/aesadde/ox-thesis)
-- **（南非）斯坦陵布什大学**（Stellenbosch University (Universiteit Stellenbosch)）: [WihanZA/su_thesis_template](https://github.com/WihanZA/su_thesis_template)
-  - `R Markdown framework for producing theses and dissertations that meet the formatting requirements of Stellenbosch University. Derived from Danie Els's Latex package "usthesis" which is available on CTAN.`
-  - 🎉`2022-11-17` ![stars=0](https://flat.badgen.net/github/stars/WihanZA/su_thesis_template) ![forks=1](https://flat.badgen.net/github/forks/WihanZA/su_thesis_template) ![last-commit=2023-04-06](https://flat.badgen.net/github/last-commit/WihanZA/su_thesis_template) ![license=None](https://flat.badgen.net/github/license/WihanZA/su_thesis_template)
-- **（智利）塔尔卡大学**（University of Talca (Universidad de Talca)）: [jose-villar/thesis-template-utal](https://github.com/jose-villar/thesis-template-utal)
-  - `Pandoc's markdown template for University of Talca theses`
-  - 🎉`2023-02-04` ![stars=2](https://flat.badgen.net/github/stars/jose-villar/thesis-template-utal) ![forks=0](https://flat.badgen.net/github/forks/jose-villar/thesis-template-utal) ![last-commit=2023-02-08](https://flat.badgen.net/github/last-commit/jose-villar/thesis-template-utal) ![license=MIT](https://flat.badgen.net/github/license/jose-villar/thesis-template-utal)
 - **（德国）马格德堡大学**（Otto von Guericke University Magdeburg (Otto-von-Guericke-Universität Magdeburg, OvGU)）: [v411e/ovgu-typst-thesis-template](https://github.com/v411e/ovgu-typst-thesis-template)
   - `Otto von Guericke University Magdeburg typst thesis template`
   - 🎉`2023-09-15` ![stars=2](https://flat.badgen.net/github/stars/v411e/ovgu-typst-thesis-template) ![forks=0](https://flat.badgen.net/github/forks/v411e/ovgu-typst-thesis-template) ![last-commit=2024-02-07](https://flat.badgen.net/github/last-commit/v411e/ovgu-typst-thesis-template) ![license=None](https://flat.badgen.net/github/license/v411e/ovgu-typst-thesis-template)
 - **（立陶宛）维尔纽斯大学**（Vilnius University (Vilniaus universitetas)）: [ramojus/typst-template-VU-thesis](https://github.com/ramojus/typst-template-VU-thesis)
   - `typst template for Vilnius University thesis`
   - 🎉`2023-11-01` ![stars=0](https://flat.badgen.net/github/stars/ramojus/typst-template-VU-thesis) ![forks=1](https://flat.badgen.net/github/forks/ramojus/typst-template-VU-thesis) ![last-commit=2024-01-21](https://flat.badgen.net/github/last-commit/ramojus/typst-template-VU-thesis) ![license=None](https://flat.badgen.net/github/license/ramojus/typst-template-VU-thesis)
+- **（南非）斯坦陵布什大学**（Stellenbosch University (Universiteit Stellenbosch)）: [WihanZA/su_thesis_template](https://github.com/WihanZA/su_thesis_template)
+  - `R Markdown framework for producing theses and dissertations that meet the formatting requirements of Stellenbosch University. Derived from Danie Els's Latex package "usthesis" which is available on CTAN.`
+  - 🎉`2022-11-17` ![stars=0](https://flat.badgen.net/github/stars/WihanZA/su_thesis_template) ![forks=1](https://flat.badgen.net/github/forks/WihanZA/su_thesis_template) ![last-commit=2023-04-06](https://flat.badgen.net/github/last-commit/WihanZA/su_thesis_template) ![license=None](https://flat.badgen.net/github/license/WihanZA/su_thesis_template)
+- **（智利）塔尔卡大学**（University of Talca (Universidad de Talca)）: [jose-villar/thesis-template-utal](https://github.com/jose-villar/thesis-template-utal)
+  - `Pandoc's markdown template for University of Talca theses`
+  - 🎉`2023-02-04` ![stars=2](https://flat.badgen.net/github/stars/jose-villar/thesis-template-utal) ![forks=0](https://flat.badgen.net/github/forks/jose-villar/thesis-template-utal) ![last-commit=2023-02-08](https://flat.badgen.net/github/last-commit/jose-villar/thesis-template-utal) ![license=MIT](https://flat.badgen.net/github/license/jose-villar/thesis-template-utal)
 - ...
