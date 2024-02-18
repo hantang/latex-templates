@@ -3,8 +3,8 @@ import logging
 from repo import RepoLists, RepoStats
 
 
-def run(datadir, docdir, csvdir, readme_file, stats_file, token):
-    repolist = RepoLists(datadir, docdir, csvdir, readme_file)
+def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
+    repolist = RepoLists(data_dir, doc_dir, csv_dir, readme_file)
     links = repolist.get_links()
 
     repostats = RepoStats(stats_file, links)
@@ -26,10 +26,10 @@ if __name__ == "__main__":
     token = args.token
     basedir = args.base
     
-    datadir = f"{basedir}/data"
-    docdir = f"{basedir}/wiki/docs"
-    csvdir = f"{basedir}/wiki/csv"
+    data_dir = f"{basedir}/data"
+    doc_dir = f"{basedir}/wiki/docs"
+    csv_dir = f"{basedir}/wiki/csv"
     stats_file = f"{basedir}/resource/repo-stats.json"
     readme_file = f"{basedir}/README.md"
 
-    run(datadir, docdir, csvdir, readme_file, stats_file, token)
+    run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token)

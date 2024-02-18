@@ -58,8 +58,8 @@ def _get_description(description):
     )
 
 
-def _get_desc(archived, obslete, description):
-    tags = "/".join([v for v in [archived, obslete] if v])
+def _get_desc(archived, obsolete, description):
+    tags = "/".join([v for v in [archived, obsolete] if v])
     desc = " ".join([tags, (f"`{description}`" if description else "")])
     return desc.strip()
 
@@ -147,19 +147,19 @@ def to_list(df_entry, top=10, order=True):
 
 
 class RepoList:
-    def __init__(self, datadir, config, is_thesis=True) -> None:
-        self.datadir = datadir
+    def __init__(self, data_dir, config, is_thesis=True) -> None:
+        self.data_dir = data_dir
         self.config = config
-        self.is_theis = is_thesis
+        self.is_thesis = is_thesis
 
         self.key_zh = "zh"
         self.key_en = "en"
         self.key_links = "links"
 
         self.name = self._init_file()
-        self.file = Path(self.datadir, self.name)
+        self.file = Path(self.data_dir, self.name)
         self.groups = self._init_groups()
-        self.data = self._readfile()
+        self.data = self._read_file()
 
     def _init_file(self):
         config = self.config
@@ -173,7 +173,7 @@ class RepoList:
         else:
             return config["groups"]
 
-    def _readfile(self):
+    def _read_file(self):
         file = self.file
         if not file.exists():
             logging.warning("Error file `{file}` does not exist")
@@ -262,18 +262,18 @@ class RepoList:
                 df_list.append((group, cate, df))
         return df_list
 
-    def save_wiki(self, docdir, csvdir, stats):
-        csvdir = Path(csvdir)
-        docdir = Path(docdir)
-        if not csvdir.exists():
-            logging.info(f"Make dir {csvdir}")
-            csvdir.mkdir(parents=True)
-        if not docdir.exists():
-            logging.info(f"Make dir {docdir}")
-            docdir.mkdir(parents=True)
+    def save_wiki(self, doc_dir, csv_dir, stats):
+        csv_dir = Path(csv_dir)
+        doc_dir = Path(doc_dir)
+        if not csv_dir.exists():
+            logging.info(f"Make dir {csv_dir}")
+            csv_dir.mkdir(parents=True)
+        if not doc_dir.exists():
+            logging.info(f"Make dir {doc_dir}")
+            doc_dir.mkdir(parents=True)
 
         columns = COLUMNS2
-        if not self.is_theis:
+        if not self.is_thesis:
             columns = columns[2:]
         df_list = self._to_df(stats)
         md_texts = {}
@@ -281,7 +281,7 @@ class RepoList:
         for group, cate, df in df_list:
             group_name = NAME_MAP[group]
             cate_name = NAME_MAP[cate]
-            savefile = Path(csvdir, f"{group_name}-{cate_name}.csv")
+            savefile = Path(csv_dir, f"{group_name}-{cate_name}.csv")
             logging.info(f"Save to csv to {savefile}")
             df[["index"] + columns].to_csv(savefile, index=False)
             if group not in md_texts:
@@ -289,14 +289,14 @@ class RepoList:
             md_texts[group].extend(
                 [
                     f"## {cate}",
-                    f'{{{{ read_csv("../{csvdir.name}/{savefile.name}") }}}}',
+                    f'{{{{ read_csv("../{csv_dir.name}/{savefile.name}") }}}}',
                 ]
             )
 
         logging.info("Save to wiki docs")
         for group, texts in md_texts.items():
             group_name = NAME_MAP[group]
-            savefile = Path(docdir, f"{group_name}.md")
+            savefile = Path(doc_dir, f"{group_name}.md")
             logging.info(f"Save to markdown to {savefile}")
             with open(savefile, "w") as fw:
                 fw.write("\n\n".join(texts).strip() + "\n")
@@ -349,14 +349,14 @@ class RepoList:
 
 
 class RepoLists:
-    def __init__(self, datadir, docdir, csvdir, readme_file) -> None:
-        self.datadir = datadir
-        self.docdir = docdir
-        self.csvdir = csvdir
+    def __init__(self, data_dir, doc_dir, csv_dir, readme_file) -> None:
+        self.data_dir = data_dir
+        self.doc_dir = doc_dir
+        self.csv_dir = csv_dir
         self.readme_file = readme_file
 
-        self.thesis_repo_list = RepoList(datadir, REPO_STRUCTS[0], is_thesis=True)
-        self.other_repo_list = RepoList(datadir, REPO_STRUCTS[1], is_thesis=False)
+        self.thesis_repo_list = RepoList(data_dir, REPO_STRUCTS[0], is_thesis=True)
+        self.other_repo_list = RepoList(data_dir, REPO_STRUCTS[1], is_thesis=False)
 
     def get_links(self):
         links1 = self.thesis_repo_list.get_links()
@@ -374,8 +374,8 @@ class RepoLists:
         self.other_repo_list.save()
 
     def update_wiki(self, stats):
-        self.thesis_repo_list.save_wiki(self.docdir, self.csvdir, stats)
-        self.other_repo_list.save_wiki(self.docdir, self.csvdir, stats)
+        self.thesis_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
+        self.other_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
 
     def update_readme(self, stats):
         toc = ["# Beyond LaTeX Templates", "## 说明"]
@@ -384,18 +384,18 @@ class RepoLists:
             "## 最受欢迎LaTeX学位论文模板（其他）",
             "## 更多模板资源",
         ]
-        readmefile = self.readme_file
+        readme_file = self.readme_file
         s = datetime.utcnow().strftime("%Y-%m-%d")
-        if not Path(readmefile).exists():
-            logging.warning(f"Readme file {readmefile} does not exist")
+        if not Path(readme_file).exists():
+            logging.warning(f"Readme file {readme_file} does not exist")
             return
 
         # list
-        theis = self.thesis_repo_list
-        toc0a, text0a = theis.get_thesis_list(stats, True, latex=True, top=25)
-        toc0b, text0b = theis.get_thesis_list(stats, True, latex=False, top=15)
-        toc1a, text1a = theis.get_thesis_list(stats, False, latex=True, top=15)
-        toc1b, text1b = theis.get_thesis_list(stats, False, latex=False, top=10)
+        thesis = self.thesis_repo_list
+        toc0a, text0a = thesis.get_thesis_list(stats, True, latex=True, top=25)
+        toc0b, text0b = thesis.get_thesis_list(stats, True, latex=False, top=15)
+        toc1a, text1a = thesis.get_thesis_list(stats, False, latex=True, top=15)
+        toc1b, text1b = thesis.get_thesis_list(stats, False, latex=False, top=10)
 
         toc2, text2 = self.other_repo_list.get_other_list(stats, top=5)
 
@@ -421,8 +421,8 @@ class RepoLists:
             "\n".join([head_list[2]] + text2),
         ]
 
-        logging.info(f"Read {readmefile}")
-        with open(readmefile) as f:
+        logging.info(f"Read {readme_file}")
+        with open(readme_file) as f:
             text = f.read()
 
         for sec, para in zip(sections, paragraphs):
@@ -432,15 +432,15 @@ class RepoLists:
             to = "\n\n".join([begin, para, end])
             text = re.sub(pattern, lambda m: to, text)
 
-        logging.info(f"Save to {readmefile}")
-        with open(readmefile, "w") as fw:
+        logging.info(f"Save to {readme_file}")
+        with open(readme_file, "w") as fw:
             fw.write(text)
 
-        wikifile = Path(self.docdir, "index.md")
+        wiki_file = Path(self.doc_dir, "index.md")
         more = [
             "# Beyond LaTeX Templates",
             "**Welcome to awesome latex-templates wiki!**",
         ] + paragraphs[2:4]
-        logging.info(f"Save to wiki: {wikifile}")
-        with open(wikifile, "w") as fw:
+        logging.info(f"Save to wiki: {wiki_file}")
+        with open(wiki_file, "w") as fw:
             fw.write("\n\n".join(more) + "\n")
