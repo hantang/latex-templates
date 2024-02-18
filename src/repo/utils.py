@@ -1,3 +1,4 @@
+from datetime import datetime
 from itertools import chain
 import logging
 import random
@@ -56,3 +57,15 @@ def get_headers(tokens=None):
             "Authorization": f"Bearer {token}",
         }
     return headers
+
+
+def nowtime(utc=True):
+    return datetime.utcnow() if utc else datetime.now()
+
+
+def strptime(dt_str, fmt="%Y-%m-%dT%H:%M:%SZ"):
+    return datetime.strptime(dt_str, fmt)
+
+
+def strftime(dt, fmt="%Y-%m-%dT%H:%M:%SZ"):
+    return dt.strftime(fmt)
