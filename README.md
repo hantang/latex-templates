@@ -8,7 +8,7 @@
 
 <!-- lastmod -->
 
-最近更新：*2024-02-17*
+最近更新：*2024-02-19*
 
 <!-- end-lastmod -->
 
@@ -71,34 +71,34 @@
 
 - **清华大学**（Tsinghua University）: [tuna/thuthesis](https://github.com/tuna/thuthesis)
   - `LaTeX Thesis Template for Tsinghua University`
-  - 🎉`2011-09-12` ![stars=4243](https://flat.badgen.net/github/stars/tuna/thuthesis) ![forks=1051](https://flat.badgen.net/github/forks/tuna/thuthesis) ![last-commit=2024-02-15](https://flat.badgen.net/github/last-commit/tuna/thuthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/tuna/thuthesis)
+  - 🎉`2011-09-12` ![stars=4246](https://flat.badgen.net/github/stars/tuna/thuthesis) ![forks=1052](https://flat.badgen.net/github/forks/tuna/thuthesis) ![last-commit=2024-02-15](https://flat.badgen.net/github/last-commit/tuna/thuthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/tuna/thuthesis)
 - **中国科学院大学**（University of Chinese Academy of Sciences）: [mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)
   - `LaTeX Thesis Template for the University of Chinese Academy of Sciences`
-  - 🎉`2014-05-08` ![stars=3266](https://flat.badgen.net/github/stars/mohuangrui/ucasthesis) ![forks=925](https://flat.badgen.net/github/forks/mohuangrui/ucasthesis) ![last-commit=2023-06-19](https://flat.badgen.net/github/last-commit/mohuangrui/ucasthesis) ![license=None](https://flat.badgen.net/github/license/mohuangrui/ucasthesis)
+  - 🎉`2014-05-08` ![stars=3271](https://flat.badgen.net/github/stars/mohuangrui/ucasthesis) ![forks=926](https://flat.badgen.net/github/forks/mohuangrui/ucasthesis) ![last-commit=2023-06-19](https://flat.badgen.net/github/last-commit/mohuangrui/ucasthesis) ![license=None](https://flat.badgen.net/github/license/mohuangrui/ucasthesis)
 - **上海交通大学**（Shanghai Jiaotong University）: [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)
   - `上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template`
-  - 🎉`2012-05-25` ![stars=3115](https://flat.badgen.net/github/stars/sjtug/SJTUThesis) ![forks=776](https://flat.badgen.net/github/forks/sjtug/SJTUThesis) ![last-commit=2024-01-12](https://flat.badgen.net/github/last-commit/sjtug/SJTUThesis) ![license=Apache-2.0](https://flat.badgen.net/github/license/sjtug/SJTUThesis)
+  - 🎉`2012-05-25` ![stars=3116](https://flat.badgen.net/github/stars/sjtug/SJTUThesis) ![forks=776](https://flat.badgen.net/github/forks/sjtug/SJTUThesis) ![last-commit=2024-02-19](https://flat.badgen.net/github/last-commit/sjtug/SJTUThesis) ![license=Apache-2.0](https://flat.badgen.net/github/license/sjtug/SJTUThesis)
 - **浙江大学**（Zhejiang University）: [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
   - `Zhejiang University Graduation Thesis LaTeX Template`
-  - 🎉`2018-04-19` ![stars=2224](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=548](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
+  - 🎉`2018-04-19` ![stars=2226](https://flat.badgen.net/github/stars/TheNetAdmin/zjuthesis) ![forks=548](https://flat.badgen.net/github/forks/TheNetAdmin/zjuthesis) ![last-commit=2024-01-11](https://flat.badgen.net/github/last-commit/TheNetAdmin/zjuthesis) ![license=MIT](https://flat.badgen.net/github/license/TheNetAdmin/zjuthesis)
 - **中国科学技术大学**（University of Science and Technology of China）: [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)
   - `LaTeX template for USTC thesis`
   - 🎉`2015-07-07` ![stars=1462](https://flat.badgen.net/github/stars/ustctug/ustcthesis) ![forks=380](https://flat.badgen.net/github/forks/ustctug/ustcthesis) ![last-commit=2023-08-05](https://flat.badgen.net/github/last-commit/ustctug/ustcthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/ustctug/ustcthesis)
 - **哈尔滨工业大学**（Harbin Institute of Technology）: [hithesis/hithesis](https://github.com/hithesis/hithesis)
   - `嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板`
-  - 🎉`2017-06-08` ![stars=1465](https://flat.badgen.net/github/stars/hithesis/hithesis) ![forks=349](https://flat.badgen.net/github/forks/hithesis/hithesis) ![last-commit=2023-09-20](https://flat.badgen.net/github/last-commit/hithesis/hithesis) ![license=None](https://flat.badgen.net/github/license/hithesis/hithesis)
+  - 🎉`2017-06-08` ![stars=1467](https://flat.badgen.net/github/stars/hithesis/hithesis) ![forks=349](https://flat.badgen.net/github/forks/hithesis/hithesis) ![last-commit=2023-09-20](https://flat.badgen.net/github/last-commit/hithesis/hithesis) ![license=None](https://flat.badgen.net/github/license/hithesis/hithesis)
 - **电子科技大学**（University of Electronic Science and Technology of China）: [bdebye/thesisuestc](https://github.com/bdebye/thesisuestc)
   - `ThesisUESTC-电子科技大学毕业论文模板`
-  - 🎉`2017-02-13` ![stars=1224](https://flat.badgen.net/github/stars/bdebye/thesisuestc) ![forks=306](https://flat.badgen.net/github/forks/bdebye/thesisuestc) ![last-commit=2023-06-05](https://flat.badgen.net/github/last-commit/bdebye/thesisuestc) ![license=None](https://flat.badgen.net/github/license/bdebye/thesisuestc)
+  - 🎉`2017-02-13` ![stars=1224](https://flat.badgen.net/github/stars/bdebye/thesisuestc) ![forks=307](https://flat.badgen.net/github/forks/bdebye/thesisuestc) ![last-commit=2023-06-05](https://flat.badgen.net/github/last-commit/bdebye/thesisuestc) ![license=None](https://flat.badgen.net/github/license/bdebye/thesisuestc)
 - **北京航空航天大学**（Beijing University of Aeronautics and Astronautics (Beihang University)）: [BHOSC/BUAAthesis](https://github.com/BHOSC/BUAAthesis)
   - `北航毕设论文LaTeX模板`
   - 🎉`2012-06-17` ![stars=905](https://flat.badgen.net/github/stars/BHOSC/BUAAthesis) ![forks=278](https://flat.badgen.net/github/forks/BHOSC/BUAAthesis) ![last-commit=2023-06-29](https://flat.badgen.net/github/last-commit/BHOSC/BUAAthesis) ![license=NOASSERTION](https://flat.badgen.net/github/license/BHOSC/BUAAthesis)
 - **武汉大学**（Wuhan University）: [whutug/whu-thesis](https://github.com/whutug/whu-thesis)
   - `:memo: 武汉大学毕业论文 LaTeX 模版 2022`
-  - 🎉`2019-03-18` ![stars=791](https://flat.badgen.net/github/stars/whutug/whu-thesis) ![forks=173](https://flat.badgen.net/github/forks/whutug/whu-thesis) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/whutug/whu-thesis) ![license=MIT](https://flat.badgen.net/github/license/whutug/whu-thesis)
+  - 🎉`2019-03-18` ![stars=792](https://flat.badgen.net/github/stars/whutug/whu-thesis) ![forks=173](https://flat.badgen.net/github/forks/whutug/whu-thesis) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/whutug/whu-thesis) ![license=MIT](https://flat.badgen.net/github/license/whutug/whu-thesis)
 - **复旦大学**（Fudan University）: [stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)
   - `LaTeX thesis template for Fudan University`
-  - 🎉`2017-02-18` ![stars=751](https://flat.badgen.net/github/stars/stone-zeng/fduthesis) ![forks=191](https://flat.badgen.net/github/forks/stone-zeng/fduthesis) ![last-commit=2023-05-27](https://flat.badgen.net/github/last-commit/stone-zeng/fduthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/stone-zeng/fduthesis)
+  - 🎉`2017-02-18` ![stars=752](https://flat.badgen.net/github/stars/stone-zeng/fduthesis) ![forks=192](https://flat.badgen.net/github/forks/stone-zeng/fduthesis) ![last-commit=2023-05-27](https://flat.badgen.net/github/last-commit/stone-zeng/fduthesis) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/stone-zeng/fduthesis)
 - **电子科技大学**（University of Electronic Science and Technology of China）: [shifujun/UESTCthesis](https://github.com/shifujun/UESTCthesis)
   - 📦 `电子科技大学毕设设计论文LaTeX模板`
   - 🎉`2013-02-19` ![stars=550](https://flat.badgen.net/github/stars/shifujun/UESTCthesis) ![forks=162](https://flat.badgen.net/github/forks/shifujun/UESTCthesis) ![last-commit=2023-04-24](https://flat.badgen.net/github/last-commit/shifujun/UESTCthesis) ![license=None](https://flat.badgen.net/github/license/shifujun/UESTCthesis)
@@ -119,40 +119,40 @@
   - 🎉`2018-04-24` ![stars=443](https://flat.badgen.net/github/stars/sheng-qiang/BUPTBachelorThesis) ![forks=120](https://flat.badgen.net/github/forks/sheng-qiang/BUPTBachelorThesis) ![last-commit=2022-06-02](https://flat.badgen.net/github/last-commit/sheng-qiang/BUPTBachelorThesis) ![license=MIT](https://flat.badgen.net/github/license/sheng-qiang/BUPTBachelorThesis)
 - **北京航空航天大学**（Beijing University of Aeronautics and Astronautics (Beihang University)）: [CheckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis)
   - `北航研究生学位论文模板（Word+LaTeX）.`
-  - 🎉`2017-12-19` ![stars=466](https://flat.badgen.net/github/stars/CheckBoxStudio/BUAAThesis) ![forks=107](https://flat.badgen.net/github/forks/CheckBoxStudio/BUAAThesis) ![last-commit=2024-02-01](https://flat.badgen.net/github/last-commit/CheckBoxStudio/BUAAThesis) ![license=MIT](https://flat.badgen.net/github/license/CheckBoxStudio/BUAAThesis)
+  - 🎉`2017-12-19` ![stars=467](https://flat.badgen.net/github/stars/CheckBoxStudio/BUAAThesis) ![forks=107](https://flat.badgen.net/github/forks/CheckBoxStudio/BUAAThesis) ![last-commit=2024-02-01](https://flat.badgen.net/github/last-commit/CheckBoxStudio/BUAAThesis) ![license=MIT](https://flat.badgen.net/github/license/CheckBoxStudio/BUAAThesis)
 - **广州大学**（Guangzhou University）: [swq123459/GZHU-Report-Latex-Version](https://github.com/swq123459/GZHU-Report-Latex-Version)
   - `我自己制作的广州大学Latex报告模板，有毕业设计，课程设计，毕业论文，等等🎈`
   - 🎉`2018-12-28` ![stars=295](https://flat.badgen.net/github/stars/swq123459/GZHU-Report-Latex-Version) ![forks=169](https://flat.badgen.net/github/forks/swq123459/GZHU-Report-Latex-Version) ![last-commit=2020-05-09](https://flat.badgen.net/github/last-commit/swq123459/GZHU-Report-Latex-Version) ![license=MIT](https://flat.badgen.net/github/license/swq123459/GZHU-Report-Latex-Version)
 - **国防科技大学**（National Defense University of Science and Technology）: [liubenyuan/nudtpaper](https://github.com/liubenyuan/nudtpaper)
   - `A LaTeX template for Master/PhD Thesis of NUDT`
-  - 🎉`2013-02-23` ![stars=319](https://flat.badgen.net/github/stars/liubenyuan/nudtpaper) ![forks=148](https://flat.badgen.net/github/forks/liubenyuan/nudtpaper) ![last-commit=2022-11-02](https://flat.badgen.net/github/last-commit/liubenyuan/nudtpaper) ![license=None](https://flat.badgen.net/github/license/liubenyuan/nudtpaper)
+  - 🎉`2013-02-23` ![stars=320](https://flat.badgen.net/github/stars/liubenyuan/nudtpaper) ![forks=148](https://flat.badgen.net/github/forks/liubenyuan/nudtpaper) ![last-commit=2022-11-02](https://flat.badgen.net/github/last-commit/liubenyuan/nudtpaper) ![license=None](https://flat.badgen.net/github/license/liubenyuan/nudtpaper)
 - **北京邮电大学**（Beijing University of Posts and Telecommunications）: [rioxwang/BUPTGraduateThesis](https://github.com/rioxwang/BUPTGraduateThesis)
-  - 🎉`2015-01-03` ![stars=380](https://flat.badgen.net/github/stars/rioxwang/BUPTGraduateThesis) ![forks=115](https://flat.badgen.net/github/forks/rioxwang/BUPTGraduateThesis) ![last-commit=2023-05-16](https://flat.badgen.net/github/last-commit/rioxwang/BUPTGraduateThesis) ![license=None](https://flat.badgen.net/github/license/rioxwang/BUPTGraduateThesis)
+  - 🎉`2015-01-03` ![stars=382](https://flat.badgen.net/github/stars/rioxwang/BUPTGraduateThesis) ![forks=115](https://flat.badgen.net/github/forks/rioxwang/BUPTGraduateThesis) ![last-commit=2023-05-16](https://flat.badgen.net/github/last-commit/rioxwang/BUPTGraduateThesis) ![license=None](https://flat.badgen.net/github/license/rioxwang/BUPTGraduateThesis)
 - **中山大学**（Sun Yat-sen University）: [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)
   - `中山大学 LaTeX 论文项目模板`
-  - 🎉`2020-12-28` ![stars=450](https://flat.badgen.net/github/stars/SYSU-SCC/sysu-thesis) ![forks=65](https://flat.badgen.net/github/forks/SYSU-SCC/sysu-thesis) ![last-commit=2024-01-13](https://flat.badgen.net/github/last-commit/SYSU-SCC/sysu-thesis) ![license=GPL-3.0](https://flat.badgen.net/github/license/SYSU-SCC/sysu-thesis)
+  - 🎉`2020-12-28` ![stars=451](https://flat.badgen.net/github/stars/SYSU-SCC/sysu-thesis) ![forks=65](https://flat.badgen.net/github/forks/SYSU-SCC/sysu-thesis) ![last-commit=2024-01-13](https://flat.badgen.net/github/last-commit/SYSU-SCC/sysu-thesis) ![license=GPL-3.0](https://flat.badgen.net/github/license/SYSU-SCC/sysu-thesis)
 - **北京理工大学**（Beijing Institute of Technology）: [BIT-thesis/LaTeX-template](https://github.com/BIT-thesis/LaTeX-template)
   - `LaTeX template for BIT thesis`
   - 🎉`2017-03-08` ![stars=342](https://flat.badgen.net/github/stars/BIT-thesis/LaTeX-template) ![forks=90](https://flat.badgen.net/github/forks/BIT-thesis/LaTeX-template) ![last-commit=2021-11-01](https://flat.badgen.net/github/last-commit/BIT-thesis/LaTeX-template) ![license=None](https://flat.badgen.net/github/license/BIT-thesis/LaTeX-template)
 - **南京大学**（Nanjing University）: [njuHan/njuthesis-nju-thesis-template](https://github.com/njuHan/njuthesis-nju-thesis-template)
   - `南京大学学位论文(本科/硕士/博士)，毕业论文LaTeX模板`
-  - 🎉`2018-03-03` ![stars=315](https://flat.badgen.net/github/stars/njuHan/njuthesis-nju-thesis-template) ![forks=92](https://flat.badgen.net/github/forks/njuHan/njuthesis-nju-thesis-template) ![last-commit=2023-05-11](https://flat.badgen.net/github/last-commit/njuHan/njuthesis-nju-thesis-template) ![license=GPL-2.0](https://flat.badgen.net/github/license/njuHan/njuthesis-nju-thesis-template)
+  - 🎉`2018-03-03` ![stars=316](https://flat.badgen.net/github/stars/njuHan/njuthesis-nju-thesis-template) ![forks=92](https://flat.badgen.net/github/forks/njuHan/njuthesis-nju-thesis-template) ![last-commit=2023-05-11](https://flat.badgen.net/github/last-commit/njuHan/njuthesis-nju-thesis-template) ![license=GPL-2.0](https://flat.badgen.net/github/license/njuHan/njuthesis-nju-thesis-template)
 - **国立台湾大学（國立臺灣大學）**（National Taiwan University (NTU)）: [tzhuan/ntu-thesis](https://github.com/tzhuan/ntu-thesis)
   - `NTU thesis template for XeLaTeX`
   - 🎉`2013-04-22` ![stars=239](https://flat.badgen.net/github/stars/tzhuan/ntu-thesis) ![forks=127](https://flat.badgen.net/github/forks/tzhuan/ntu-thesis) ![last-commit=2022-04-06](https://flat.badgen.net/github/last-commit/tzhuan/ntu-thesis) ![license=None](https://flat.badgen.net/github/license/tzhuan/ntu-thesis)
 - **同济大学**（Tongji University）: [marquistj13/TongjiThesis](https://github.com/marquistj13/TongjiThesis)
   - `同济大学硕博士论文LaTeX模板`
-  - 🎉`2018-02-18` ![stars=282](https://flat.badgen.net/github/stars/marquistj13/TongjiThesis) ![forks=94](https://flat.badgen.net/github/forks/marquistj13/TongjiThesis) ![last-commit=2020-11-02](https://flat.badgen.net/github/last-commit/marquistj13/TongjiThesis) ![license=None](https://flat.badgen.net/github/license/marquistj13/TongjiThesis)
+  - 🎉`2018-02-18` ![stars=283](https://flat.badgen.net/github/stars/marquistj13/TongjiThesis) ![forks=94](https://flat.badgen.net/github/forks/marquistj13/TongjiThesis) ![last-commit=2020-11-02](https://flat.badgen.net/github/last-commit/marquistj13/TongjiThesis) ![license=None](https://flat.badgen.net/github/license/marquistj13/TongjiThesis)
 - ...
 
 ### 学位论文模板（非LaTeX）
 
 - **北京邮电大学**（Beijing University of Posts and Telecommunications）: [sigmarising/BUPTMasterThesisWord](https://github.com/sigmarising/BUPTMasterThesisWord)
   - 📦 `The Microsoft Office Word template of BUPT Thesis for Master Degree.`
-  - 🎉`2022-02-08` ![stars=207](https://flat.badgen.net/github/stars/sigmarising/BUPTMasterThesisWord) ![forks=29](https://flat.badgen.net/github/forks/sigmarising/BUPTMasterThesisWord) ![last-commit=2024-01-24](https://flat.badgen.net/github/last-commit/sigmarising/BUPTMasterThesisWord) ![license=MIT](https://flat.badgen.net/github/license/sigmarising/BUPTMasterThesisWord)
+  - 🎉`2022-02-08` ![stars=208](https://flat.badgen.net/github/stars/sigmarising/BUPTMasterThesisWord) ![forks=29](https://flat.badgen.net/github/forks/sigmarising/BUPTMasterThesisWord) ![last-commit=2024-01-24](https://flat.badgen.net/github/last-commit/sigmarising/BUPTMasterThesisWord) ![license=MIT](https://flat.badgen.net/github/license/sigmarising/BUPTMasterThesisWord)
 - **清华大学**（Tsinghua University）: [qbh16/ThuWordThesis](https://github.com/qbh16/ThuWordThesis)
   - `清华大学学位论文Word模板。A Word thesis template for Tsinghua University.`
-  - 🎉`2021-05-13` ![stars=132](https://flat.badgen.net/github/stars/qbh16/ThuWordThesis) ![forks=6](https://flat.badgen.net/github/forks/qbh16/ThuWordThesis) ![last-commit=2023-03-22](https://flat.badgen.net/github/last-commit/qbh16/ThuWordThesis) ![license=None](https://flat.badgen.net/github/license/qbh16/ThuWordThesis)
+  - 🎉`2021-05-13` ![stars=133](https://flat.badgen.net/github/stars/qbh16/ThuWordThesis) ![forks=6](https://flat.badgen.net/github/forks/qbh16/ThuWordThesis) ![last-commit=2023-03-22](https://flat.badgen.net/github/last-commit/qbh16/ThuWordThesis) ![license=None](https://flat.badgen.net/github/license/qbh16/ThuWordThesis)
 - **北京大学**（Peking University）: [xelmirage/pku_thesis_docx](https://github.com/xelmirage/pku_thesis_docx)
   - `docx版本的北京大学毕业论文模板`
   - 🎉`2020-11-24` ![stars=92](https://flat.badgen.net/github/stars/xelmirage/pku_thesis_docx) ![forks=16](https://flat.badgen.net/github/forks/xelmirage/pku_thesis_docx) ![last-commit=2024-01-17](https://flat.badgen.net/github/last-commit/xelmirage/pku_thesis_docx) ![license=None](https://flat.badgen.net/github/license/xelmirage/pku_thesis_docx)
@@ -167,7 +167,7 @@
   - 🎉`2021-12-16` ![stars=45](https://flat.badgen.net/github/stars/ixzhao/BUAA_Dissertation_Template) ![forks=12](https://flat.badgen.net/github/forks/ixzhao/BUAA_Dissertation_Template) ![last-commit=2023-03-25](https://flat.badgen.net/github/last-commit/ixzhao/BUAA_Dissertation_Template) ![license=MIT](https://flat.badgen.net/github/license/ixzhao/BUAA_Dissertation_Template)
 - **北京邮电大学**（Beijing University of Posts and Telecommunications）: [QQKdeGit/bupt-typst](https://github.com/QQKdeGit/bupt-typst)
   - `北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT).`
-  - 🎉`2023-03-28` ![stars=53](https://flat.badgen.net/github/stars/QQKdeGit/bupt-typst) ![forks=4](https://flat.badgen.net/github/forks/QQKdeGit/bupt-typst) ![last-commit=2024-01-13](https://flat.badgen.net/github/last-commit/QQKdeGit/bupt-typst) ![license=MIT](https://flat.badgen.net/github/license/QQKdeGit/bupt-typst)
+  - 🎉`2023-03-28` ![stars=54](https://flat.badgen.net/github/stars/QQKdeGit/bupt-typst) ![forks=4](https://flat.badgen.net/github/forks/QQKdeGit/bupt-typst) ![last-commit=2024-01-13](https://flat.badgen.net/github/last-commit/QQKdeGit/bupt-typst) ![license=MIT](https://flat.badgen.net/github/license/QQKdeGit/bupt-typst)
 - **上海交通大学**（Shanghai Jiaotong University）: [dyweb/SJTUThesis-Markdown](https://github.com/dyweb/SJTUThesis-Markdown)
   - 🔒️ `（实验性项目）上海交通大学学位论文 R Markdown (bookdown) 模板`
   - 🎉`2018-06-07` ![stars=39](https://flat.badgen.net/github/stars/dyweb/SJTUThesis-Markdown) ![forks=5](https://flat.badgen.net/github/forks/dyweb/SJTUThesis-Markdown) ![last-commit=2018-06-07](https://flat.badgen.net/github/last-commit/dyweb/SJTUThesis-Markdown) ![license=BSD-3-Clause](https://flat.badgen.net/github/license/dyweb/SJTUThesis-Markdown)
@@ -221,7 +221,7 @@
   - 🎉`2011-05-06` ![stars=200](https://flat.badgen.net/github/stars/cambridge/thesis) ![forks=90](https://flat.badgen.net/github/forks/cambridge/thesis) ![last-commit=2022-04-23](https://flat.badgen.net/github/last-commit/cambridge/thesis) ![license=NOASSERTION](https://flat.badgen.net/github/license/cambridge/thesis)
 - **（英国）伦敦大学学院**（University College London (UCL)）: [UCL/ucl-latex-thesis-templates](https://github.com/UCL/ucl-latex-thesis-templates)
   - `UCL LaTeX thesis templates.`
-  - 🎉`2014-06-16` ![stars=146](https://flat.badgen.net/github/stars/UCL/ucl-latex-thesis-templates) ![forks=104](https://flat.badgen.net/github/forks/UCL/ucl-latex-thesis-templates) ![last-commit=2022-07-06](https://flat.badgen.net/github/last-commit/UCL/ucl-latex-thesis-templates) ![license=NOASSERTION](https://flat.badgen.net/github/license/UCL/ucl-latex-thesis-templates)
+  - 🎉`2014-06-16` ![stars=147](https://flat.badgen.net/github/stars/UCL/ucl-latex-thesis-templates) ![forks=104](https://flat.badgen.net/github/forks/UCL/ucl-latex-thesis-templates) ![last-commit=2022-07-06](https://flat.badgen.net/github/last-commit/UCL/ucl-latex-thesis-templates) ![license=NOASSERTION](https://flat.badgen.net/github/license/UCL/ucl-latex-thesis-templates)
 - **（英国）牛津大学**（University of Oxford）: [mcmanigle/OxThesis](https://github.com/mcmanigle/OxThesis)
   - `LaTeX template for an Oxford University thesis`
   - 🎉`2017-08-13` ![stars=166](https://flat.badgen.net/github/stars/mcmanigle/OxThesis) ![forks=90](https://flat.badgen.net/github/forks/mcmanigle/OxThesis) ![last-commit=2023-12-13](https://flat.badgen.net/github/last-commit/mcmanigle/OxThesis) ![license=NOASSERTION](https://flat.badgen.net/github/license/mcmanigle/OxThesis)
@@ -270,12 +270,12 @@
 - **（英国）牛津大学**（University of Oxford）: [aesadde/ox-thesis](https://github.com/aesadde/ox-thesis)
   - 🔒️ `A set of templates to render a thesis in the Oxford University format using pandoc markdown`
   - 🎉`2016-07-06` ![stars=5](https://flat.badgen.net/github/stars/aesadde/ox-thesis) ![forks=0](https://flat.badgen.net/github/forks/aesadde/ox-thesis) ![last-commit=2016-07-20](https://flat.badgen.net/github/last-commit/aesadde/ox-thesis) ![license=MIT](https://flat.badgen.net/github/license/aesadde/ox-thesis)
+- **（立陶宛）维尔纽斯大学**（Vilnius University (Vilniaus universitetas)）: [ramojus/typst-template-VU-thesis](https://github.com/ramojus/typst-template-VU-thesis)
+  - `typst template for Vilnius University thesis`
+  - 🎉`2023-11-01` ![stars=1](https://flat.badgen.net/github/stars/ramojus/typst-template-VU-thesis) ![forks=1](https://flat.badgen.net/github/forks/ramojus/typst-template-VU-thesis) ![last-commit=2024-02-18](https://flat.badgen.net/github/last-commit/ramojus/typst-template-VU-thesis) ![license=None](https://flat.badgen.net/github/license/ramojus/typst-template-VU-thesis)
 - **（德国）马格德堡大学**（Otto von Guericke University Magdeburg (Otto-von-Guericke-Universität Magdeburg, OvGU)）: [v411e/ovgu-typst-thesis-template](https://github.com/v411e/ovgu-typst-thesis-template)
   - `Otto von Guericke University Magdeburg typst thesis template`
   - 🎉`2023-09-15` ![stars=2](https://flat.badgen.net/github/stars/v411e/ovgu-typst-thesis-template) ![forks=0](https://flat.badgen.net/github/forks/v411e/ovgu-typst-thesis-template) ![last-commit=2024-02-07](https://flat.badgen.net/github/last-commit/v411e/ovgu-typst-thesis-template) ![license=None](https://flat.badgen.net/github/license/v411e/ovgu-typst-thesis-template)
-- **（立陶宛）维尔纽斯大学**（Vilnius University (Vilniaus universitetas)）: [ramojus/typst-template-VU-thesis](https://github.com/ramojus/typst-template-VU-thesis)
-  - `typst template for Vilnius University thesis`
-  - 🎉`2023-11-01` ![stars=0](https://flat.badgen.net/github/stars/ramojus/typst-template-VU-thesis) ![forks=1](https://flat.badgen.net/github/forks/ramojus/typst-template-VU-thesis) ![last-commit=2024-01-21](https://flat.badgen.net/github/last-commit/ramojus/typst-template-VU-thesis) ![license=None](https://flat.badgen.net/github/license/ramojus/typst-template-VU-thesis)
 - **（南非）斯坦陵布什大学**（Stellenbosch University (Universiteit Stellenbosch)）: [WihanZA/su_thesis_template](https://github.com/WihanZA/su_thesis_template)
   - `R Markdown framework for producing theses and dissertations that meet the formatting requirements of Stellenbosch University. Derived from Danie Els's Latex package "usthesis" which is available on CTAN.`
   - 🎉`2022-11-17` ![stars=0](https://flat.badgen.net/github/stars/WihanZA/su_thesis_template) ![forks=1](https://flat.badgen.net/github/forks/WihanZA/su_thesis_template) ![last-commit=2023-04-06](https://flat.badgen.net/github/last-commit/WihanZA/su_thesis_template) ![license=None](https://flat.badgen.net/github/license/WihanZA/su_thesis_template)
@@ -301,7 +301,7 @@
 
 - [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
   - `LaTeX-template for russian Phd thesis`
-  - 🎉`2012-10-29` ![stars=1245](https://flat.badgen.net/github/stars/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![forks=628](https://flat.badgen.net/github/forks/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![last-commit=2024-02-08](https://flat.badgen.net/github/last-commit/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![license=CC-BY-4.0](https://flat.badgen.net/github/license/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
+  - 🎉`2012-10-29` ![stars=1246](https://flat.badgen.net/github/stars/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![forks=628](https://flat.badgen.net/github/forks/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![last-commit=2024-02-08](https://flat.badgen.net/github/last-commit/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template) ![license=CC-BY-4.0](https://flat.badgen.net/github/license/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
 - [Pseudomanifold/latex-mimosis](https://github.com/Pseudomanifold/latex-mimosis)
   - `A minimal & modern LaTeX template for your (bachelor's | master's | doctoral) thesis`
   - 🎉`2017-05-18` ![stars=1107](https://flat.badgen.net/github/stars/Pseudomanifold/latex-mimosis) ![forks=120](https://flat.badgen.net/github/forks/Pseudomanifold/latex-mimosis) ![last-commit=2023-11-16](https://flat.badgen.net/github/last-commit/Pseudomanifold/latex-mimosis) ![license=MIT](https://flat.badgen.net/github/license/Pseudomanifold/latex-mimosis)
@@ -310,10 +310,10 @@
   - 🎉`2011-06-09` ![stars=890](https://flat.badgen.net/github/stars/derric/cleanthesis) ![forks=116](https://flat.badgen.net/github/forks/derric/cleanthesis) ![last-commit=2024-02-15](https://flat.badgen.net/github/last-commit/derric/cleanthesis) ![license=None](https://flat.badgen.net/github/license/derric/cleanthesis)
 - [suchow/Dissertate](https://github.com/suchow/Dissertate)
   - `Beautiful LaTeX dissertation templates.`
-  - 🎉`2011-04-06` ![stars=686](https://flat.badgen.net/github/stars/suchow/Dissertate) ![forks=167](https://flat.badgen.net/github/forks/suchow/Dissertate) ![last-commit=2023-02-18](https://flat.badgen.net/github/last-commit/suchow/Dissertate) ![license=AGPL-3.0](https://flat.badgen.net/github/license/suchow/Dissertate)
+  - 🎉`2011-04-06` ![stars=687](https://flat.badgen.net/github/stars/suchow/Dissertate) ![forks=167](https://flat.badgen.net/github/forks/suchow/Dissertate) ![last-commit=2023-02-18](https://flat.badgen.net/github/last-commit/suchow/Dissertate) ![license=AGPL-3.0](https://flat.badgen.net/github/license/suchow/Dissertate)
 - [latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template)
   - `LaTeX template for Master, Bachelor, Diploma, and Student Theses`
-  - 🎉`2012-07-09` ![stars=340](https://flat.badgen.net/github/stars/latextemplates/scientific-thesis-template) ![forks=116](https://flat.badgen.net/github/forks/latextemplates/scientific-thesis-template) ![last-commit=2023-12-11](https://flat.badgen.net/github/last-commit/latextemplates/scientific-thesis-template) ![license=0BSD](https://flat.badgen.net/github/license/latextemplates/scientific-thesis-template)
+  - 🎉`2012-07-09` ![stars=341](https://flat.badgen.net/github/stars/latextemplates/scientific-thesis-template) ![forks=116](https://flat.badgen.net/github/forks/latextemplates/scientific-thesis-template) ![last-commit=2023-12-11](https://flat.badgen.net/github/last-commit/latextemplates/scientific-thesis-template) ![license=0BSD](https://flat.badgen.net/github/license/latextemplates/scientific-thesis-template)
 - ...
 
 </details>
@@ -325,19 +325,19 @@
 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
   - `:page_facing_up: Awesome CV is LaTeX template for your outstanding job application`
-  - 🎉`2015-01-18` ![stars=21205](https://flat.badgen.net/github/stars/posquit0/Awesome-CV) ![forks=4646](https://flat.badgen.net/github/forks/posquit0/Awesome-CV) ![last-commit=2024-02-12](https://flat.badgen.net/github/last-commit/posquit0/Awesome-CV) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/posquit0/Awesome-CV)
+  - 🎉`2015-01-18` ![stars=21240](https://flat.badgen.net/github/stars/posquit0/Awesome-CV) ![forks=4650](https://flat.badgen.net/github/forks/posquit0/Awesome-CV) ![last-commit=2024-02-12](https://flat.badgen.net/github/last-commit/posquit0/Awesome-CV) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/posquit0/Awesome-CV)
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)
   - `:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
-  - 🎉`2017-01-30` ![stars=16185](https://flat.badgen.net/github/stars/salomonelli/best-resume-ever) ![forks=2301](https://flat.badgen.net/github/forks/salomonelli/best-resume-ever) ![last-commit=2023-12-13](https://flat.badgen.net/github/last-commit/salomonelli/best-resume-ever) ![license=MIT](https://flat.badgen.net/github/license/salomonelli/best-resume-ever)
+  - 🎉`2017-01-30` ![stars=16184](https://flat.badgen.net/github/stars/salomonelli/best-resume-ever) ![forks=2302](https://flat.badgen.net/github/forks/salomonelli/best-resume-ever) ![last-commit=2023-12-13](https://flat.badgen.net/github/last-commit/salomonelli/best-resume-ever) ![license=MIT](https://flat.badgen.net/github/license/salomonelli/best-resume-ever)
 - [billryan/resume](https://github.com/billryan/resume)
   - `An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git`
-  - 🎉`2015-05-30` ![stars=8337](https://flat.badgen.net/github/stars/billryan/resume) ![forks=2450](https://flat.badgen.net/github/forks/billryan/resume) ![last-commit=2023-04-30](https://flat.badgen.net/github/last-commit/billryan/resume) ![license=MIT](https://flat.badgen.net/github/license/billryan/resume)
+  - 🎉`2015-05-30` ![stars=8352](https://flat.badgen.net/github/stars/billryan/resume) ![forks=2451](https://flat.badgen.net/github/forks/billryan/resume) ![last-commit=2023-04-30](https://flat.badgen.net/github/last-commit/billryan/resume) ![license=MIT](https://flat.badgen.net/github/license/billryan/resume)
 - [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)
   - `A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student`
   - 🎉`2014-04-30` ![stars=4672](https://flat.badgen.net/github/stars/deedy/Deedy-Resume) ![forks=1234](https://flat.badgen.net/github/forks/deedy/Deedy-Resume) ![last-commit=2022-09-18](https://flat.badgen.net/github/last-commit/deedy/Deedy-Resume) ![license=Apache-2.0](https://flat.badgen.net/github/license/deedy/Deedy-Resume)
 - [sb2nov/resume](https://github.com/sb2nov/resume)
   - `Software developer resume in Latex`
-  - 🎉`2015-10-11` ![stars=4468](https://flat.badgen.net/github/stars/sb2nov/resume) ![forks=1289](https://flat.badgen.net/github/forks/sb2nov/resume) ![last-commit=2024-01-27](https://flat.badgen.net/github/last-commit/sb2nov/resume) ![license=MIT](https://flat.badgen.net/github/license/sb2nov/resume)
+  - 🎉`2015-10-11` ![stars=4473](https://flat.badgen.net/github/stars/sb2nov/resume) ![forks=1290](https://flat.badgen.net/github/forks/sb2nov/resume) ![last-commit=2024-01-27](https://flat.badgen.net/github/last-commit/sb2nov/resume) ![license=MIT](https://flat.badgen.net/github/license/sb2nov/resume)
 - ...
 
 </details>
@@ -349,7 +349,7 @@
 
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
   - `Elegant LaTeX Template for Books`
-  - 🎉`2019-01-15` ![stars=1877](https://flat.badgen.net/github/stars/ElegantLaTeX/ElegantBook) ![forks=377](https://flat.badgen.net/github/forks/ElegantLaTeX/ElegantBook) ![last-commit=2022-12-31](https://flat.badgen.net/github/last-commit/ElegantLaTeX/ElegantBook) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/ElegantLaTeX/ElegantBook)
+  - 🎉`2019-01-15` ![stars=1879](https://flat.badgen.net/github/stars/ElegantLaTeX/ElegantBook) ![forks=377](https://flat.badgen.net/github/forks/ElegantLaTeX/ElegantBook) ![last-commit=2022-12-31](https://flat.badgen.net/github/last-commit/ElegantLaTeX/ElegantBook) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/ElegantLaTeX/ElegantBook)
 - [fmarotta/kaobook](https://github.com/fmarotta/kaobook)
   - `A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.`
   - 🎉`2019-01-07` ![stars=741](https://flat.badgen.net/github/stars/fmarotta/kaobook) ![forks=155](https://flat.badgen.net/github/forks/fmarotta/kaobook) ![last-commit=2023-09-27](https://flat.badgen.net/github/last-commit/fmarotta/kaobook) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/fmarotta/kaobook)
@@ -373,13 +373,13 @@
 
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
   - `Examples of how to create colorful, annotated equations in Latex using Tikz.`
-  - 🎉`2022-01-10` ![stars=3674](https://flat.badgen.net/github/stars/synercys/annotated_latex_equations) ![forks=209](https://flat.badgen.net/github/forks/synercys/annotated_latex_equations) ![last-commit=2022-07-12](https://flat.badgen.net/github/last-commit/synercys/annotated_latex_equations) ![license=MIT](https://flat.badgen.net/github/license/synercys/annotated_latex_equations)
+  - 🎉`2022-01-10` ![stars=3677](https://flat.badgen.net/github/stars/synercys/annotated_latex_equations) ![forks=209](https://flat.badgen.net/github/forks/synercys/annotated_latex_equations) ![last-commit=2022-07-12](https://flat.badgen.net/github/last-commit/synercys/annotated_latex_equations) ![license=MIT](https://flat.badgen.net/github/license/synercys/annotated_latex_equations)
 - [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
   - `Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.`
-  - 🎉`2019-01-11` ![stars=1204](https://flat.badgen.net/github/stars/xinychen/awesome-latex-drawing) ![forks=154](https://flat.badgen.net/github/forks/xinychen/awesome-latex-drawing) ![last-commit=2023-03-31](https://flat.badgen.net/github/last-commit/xinychen/awesome-latex-drawing) ![license=MIT](https://flat.badgen.net/github/license/xinychen/awesome-latex-drawing)
+  - 🎉`2019-01-11` ![stars=1203](https://flat.badgen.net/github/stars/xinychen/awesome-latex-drawing) ![forks=154](https://flat.badgen.net/github/forks/xinychen/awesome-latex-drawing) ![last-commit=2023-03-31](https://flat.badgen.net/github/last-commit/xinychen/awesome-latex-drawing) ![license=MIT](https://flat.badgen.net/github/license/xinychen/awesome-latex-drawing)
 - [MLNLP-World/Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
   - `MLNLP: Paper Picture Writing Code`
-  - 🎉`2022-07-25` ![stars=935](https://flat.badgen.net/github/stars/MLNLP-World/Paper-Picture-Writing-Code) ![forks=167](https://flat.badgen.net/github/forks/MLNLP-World/Paper-Picture-Writing-Code) ![last-commit=2022-11-05](https://flat.badgen.net/github/last-commit/MLNLP-World/Paper-Picture-Writing-Code) ![license=None](https://flat.badgen.net/github/license/MLNLP-World/Paper-Picture-Writing-Code)
+  - 🎉`2022-07-25` ![stars=937](https://flat.badgen.net/github/stars/MLNLP-World/Paper-Picture-Writing-Code) ![forks=168](https://flat.badgen.net/github/forks/MLNLP-World/Paper-Picture-Writing-Code) ![last-commit=2022-11-05](https://flat.badgen.net/github/last-commit/MLNLP-World/Paper-Picture-Writing-Code) ![license=None](https://flat.badgen.net/github/license/MLNLP-World/Paper-Picture-Writing-Code)
 - [xinychen/academic-drawing](https://github.com/xinychen/academic-drawing)
   - 🔒️ `Providing codes (including Matlab and Python) for visualizing numerical experiment results.`
   - 🎉`2018-06-14` ![stars=185](https://flat.badgen.net/github/stars/xinychen/academic-drawing) ![forks=40](https://flat.badgen.net/github/forks/xinychen/academic-drawing) ![last-commit=2019-09-27](https://flat.badgen.net/github/last-commit/xinychen/academic-drawing) ![license=None](https://flat.badgen.net/github/license/xinychen/academic-drawing)
@@ -393,7 +393,7 @@
 
 - [typst/templates](https://github.com/typst/templates)
   - `The templates that ship with the Typst web app.`
-  - 🎉`2023-03-27` ![stars=139](https://flat.badgen.net/github/stars/typst/templates) ![forks=10](https://flat.badgen.net/github/forks/typst/templates) ![last-commit=2024-01-30](https://flat.badgen.net/github/last-commit/typst/templates) ![license=Unlicense](https://flat.badgen.net/github/license/typst/templates)
+  - 🎉`2023-03-27` ![stars=140](https://flat.badgen.net/github/stars/typst/templates) ![forks=11](https://flat.badgen.net/github/forks/typst/templates) ![last-commit=2024-01-30](https://flat.badgen.net/github/last-commit/typst/templates) ![license=Unlicense](https://flat.badgen.net/github/license/typst/templates)
 
 </details>
 
@@ -407,7 +407,7 @@
   - 🎉`2015-02-10` ![stars=1181](https://flat.badgen.net/github/stars/tompollard/phd_thesis_markdown) ![forks=542](https://flat.badgen.net/github/forks/tompollard/phd_thesis_markdown) ![last-commit=2023-05-23](https://flat.badgen.net/github/last-commit/tompollard/phd_thesis_markdown) ![license=MIT](https://flat.badgen.net/github/license/tompollard/phd_thesis_markdown)
 - [ismayc/thesisdown](https://github.com/ismayc/thesisdown)
   - `An updated R Markdown thesis template using the bookdown package`
-  - 🎉`2016-08-16` ![stars=784](https://flat.badgen.net/github/stars/ismayc/thesisdown) ![forks=352](https://flat.badgen.net/github/forks/ismayc/thesisdown) ![last-commit=2024-02-07](https://flat.badgen.net/github/last-commit/ismayc/thesisdown) ![license=NOASSERTION](https://flat.badgen.net/github/license/ismayc/thesisdown)
+  - 🎉`2016-08-16` ![stars=784](https://flat.badgen.net/github/stars/ismayc/thesisdown) ![forks=353](https://flat.badgen.net/github/forks/ismayc/thesisdown) ![last-commit=2024-02-07](https://flat.badgen.net/github/last-commit/ismayc/thesisdown) ![license=NOASSERTION](https://flat.badgen.net/github/license/ismayc/thesisdown)
 - [pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus)
   - `The easiest way to use R package bookdown for writing varied types of books and documents`
   - 🎉`2017-05-15` ![stars=248](https://flat.badgen.net/github/stars/pzhaonet/bookdownplus) ![forks=31](https://flat.badgen.net/github/forks/pzhaonet/bookdownplus) ![last-commit=2021-12-31](https://flat.badgen.net/github/last-commit/pzhaonet/bookdownplus) ![license=MIT](https://flat.badgen.net/github/license/pzhaonet/bookdownplus)
@@ -452,10 +452,10 @@
 
 - [typst/typst](https://github.com/typst/typst)
   - `A new markup-based typesetting system that is powerful and easy to learn.`
-  - 🎉`2019-09-24` ![stars=26228](https://flat.badgen.net/github/stars/typst/typst) ![forks=680](https://flat.badgen.net/github/forks/typst/typst) ![last-commit=2024-02-17](https://flat.badgen.net/github/last-commit/typst/typst) ![license=Apache-2.0](https://flat.badgen.net/github/license/typst/typst)
+  - 🎉`2019-09-24` ![stars=26299](https://flat.badgen.net/github/stars/typst/typst) ![forks=684](https://flat.badgen.net/github/forks/typst/typst) ![last-commit=2024-02-19](https://flat.badgen.net/github/last-commit/typst/typst) ![license=Apache-2.0](https://flat.badgen.net/github/license/typst/typst)
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst)
   - `Awesome Typst Links`
-  - 🎉`2023-03-23` ![stars=1487](https://flat.badgen.net/github/stars/qjcg/awesome-typst) ![forks=93](https://flat.badgen.net/github/forks/qjcg/awesome-typst) ![last-commit=2024-02-14](https://flat.badgen.net/github/last-commit/qjcg/awesome-typst) ![license=CC0-1.0](https://flat.badgen.net/github/license/qjcg/awesome-typst)
+  - 🎉`2023-03-23` ![stars=1492](https://flat.badgen.net/github/stars/qjcg/awesome-typst) ![forks=93](https://flat.badgen.net/github/forks/qjcg/awesome-typst) ![last-commit=2024-02-14](https://flat.badgen.net/github/last-commit/qjcg/awesome-typst) ![license=CC0-1.0](https://flat.badgen.net/github/license/qjcg/awesome-typst)
 
 </details>
 
@@ -466,10 +466,10 @@
 
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)
   - `A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)`
-  - 🎉`2015-05-03` ![stars=1344](https://flat.badgen.net/github/stars/mundimark/awesome-markdown) ![forks=229](https://flat.badgen.net/github/forks/mundimark/awesome-markdown) ![last-commit=2024-02-04](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown)
+  - 🎉`2015-05-03` ![stars=1345](https://flat.badgen.net/github/stars/mundimark/awesome-markdown) ![forks=229](https://flat.badgen.net/github/forks/mundimark/awesome-markdown) ![last-commit=2024-02-04](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown)
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
   - `A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more`
-  - 🎉`2016-03-15` ![stars=867](https://flat.badgen.net/github/stars/mundimark/awesome-markdown-editors) ![forks=104](https://flat.badgen.net/github/forks/mundimark/awesome-markdown-editors) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown-editors) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown-editors)
+  - 🎉`2016-03-15` ![stars=868](https://flat.badgen.net/github/stars/mundimark/awesome-markdown-editors) ![forks=104](https://flat.badgen.net/github/forks/mundimark/awesome-markdown-editors) ![last-commit=2024-02-13](https://flat.badgen.net/github/last-commit/mundimark/awesome-markdown-editors) ![license=None](https://flat.badgen.net/github/license/mundimark/awesome-markdown-editors)
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
   - `:memo: Delightful Markdown stuff.`
   - 🎉`2016-07-26` ![stars=735](https://flat.badgen.net/github/stars/BubuAnabelas/awesome-markdown) ![forks=69](https://flat.badgen.net/github/forks/BubuAnabelas/awesome-markdown) ![last-commit=2024-01-17](https://flat.badgen.net/github/last-commit/BubuAnabelas/awesome-markdown) ![license=CC0-1.0](https://flat.badgen.net/github/license/BubuAnabelas/awesome-markdown)
@@ -483,10 +483,10 @@
 
 - [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)
   - `GB/T 7714相关的csl以及Zotero使用技巧及教程。`
-  - 🎉`2020-12-16` ![stars=3905](https://flat.badgen.net/github/stars/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![forks=740](https://flat.badgen.net/github/forks/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![last-commit=2024-02-16](https://flat.badgen.net/github/last-commit/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![license=NOASSERTION](https://flat.badgen.net/github/license/redleafnew/Chinese-STD-GB-T-7714-related-csl)
+  - 🎉`2020-12-16` ![stars=3920](https://flat.badgen.net/github/stars/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![forks=742](https://flat.badgen.net/github/forks/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![last-commit=2024-02-16](https://flat.badgen.net/github/last-commit/redleafnew/Chinese-STD-GB-T-7714-related-csl) ![license=NOASSERTION](https://flat.badgen.net/github/license/redleafnew/Chinese-STD-GB-T-7714-related-csl)
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
   - `GB/T 7714-2015 BibTeX Style`
-  - 🎉`2016-03-19` ![stars=1025](https://flat.badgen.net/github/stars/zepinglee/gbt7714-bibtex-style) ![forks=193](https://flat.badgen.net/github/forks/zepinglee/gbt7714-bibtex-style) ![last-commit=2023-11-09](https://flat.badgen.net/github/last-commit/zepinglee/gbt7714-bibtex-style) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/zepinglee/gbt7714-bibtex-style)
+  - 🎉`2016-03-19` ![stars=1027](https://flat.badgen.net/github/stars/zepinglee/gbt7714-bibtex-style) ![forks=193](https://flat.badgen.net/github/forks/zepinglee/gbt7714-bibtex-style) ![last-commit=2023-11-09](https://flat.badgen.net/github/last-commit/zepinglee/gbt7714-bibtex-style) ![license=LPPL-1.3c](https://flat.badgen.net/github/license/zepinglee/gbt7714-bibtex-style)
 - [hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)
   - `A biblatex implementation of the GB/T7714-2015 bibliography style || GB/T 7714-2015 参考文献著录和标注的biblatex样式包`
   - 🎉`2016-10-12` ![stars=682](https://flat.badgen.net/github/stars/hushidong/biblatex-gb7714-2015) ![forks=77](https://flat.badgen.net/github/forks/hushidong/biblatex-gb7714-2015) ![last-commit=2024-02-09](https://flat.badgen.net/github/last-commit/hushidong/biblatex-gb7714-2015) ![license=None](https://flat.badgen.net/github/license/hushidong/biblatex-gb7714-2015)
@@ -500,7 +500,7 @@
 
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
   - `Chinese copywriting guidelines for better written communication／中文文案排版指北`
-  - 🎉`2014-03-17` ![stars=13532](https://flat.badgen.net/github/stars/sparanoid/chinese-copywriting-guidelines) ![forks=1806](https://flat.badgen.net/github/forks/sparanoid/chinese-copywriting-guidelines) ![last-commit=2024-01-17](https://flat.badgen.net/github/last-commit/sparanoid/chinese-copywriting-guidelines) ![license=MIT](https://flat.badgen.net/github/license/sparanoid/chinese-copywriting-guidelines)
+  - 🎉`2014-03-17` ![stars=13539](https://flat.badgen.net/github/stars/sparanoid/chinese-copywriting-guidelines) ![forks=1807](https://flat.badgen.net/github/forks/sparanoid/chinese-copywriting-guidelines) ![last-commit=2024-01-17](https://flat.badgen.net/github/last-commit/sparanoid/chinese-copywriting-guidelines) ![license=MIT](https://flat.badgen.net/github/license/sparanoid/chinese-copywriting-guidelines)
 - [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
   - `中文排版所需遵循的标准和规范`
   - 🎉`2013-09-15` ![stars=645](https://flat.badgen.net/github/stars/Haixing-Hu/typesetting-standard) ![forks=106](https://flat.badgen.net/github/forks/Haixing-Hu/typesetting-standard) ![last-commit=2020-06-16](https://flat.badgen.net/github/last-commit/Haixing-Hu/typesetting-standard) ![license=None](https://flat.badgen.net/github/license/Haixing-Hu/typesetting-standard)
