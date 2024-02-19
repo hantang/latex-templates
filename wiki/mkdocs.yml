@@ -1,15 +1,9 @@
 # Site information
 site_name: Beyond LaTeX Templates
 site_url: https://hantang.github.io/latex-templates
-site_author: hantang
 site_description: "Collect awesome latex* templates (mainly thesis)..."
 copyright: Copyright &copy; 2023-2024 Hantang
-# docs_dir: docs/
-
-# Repository
-repo_name: hantang/latex-templates
 repo_url: https://github.com/hantang/latex-templates
-# edit_uri: tree/main
 
 # Theme
 theme:
@@ -34,9 +28,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.footer
     - navigation.path
     - navigation.tabs
     - navigation.top
+    - navigation.sections
     - search.highlight
     - search.suggest
     - toc.follow
@@ -49,21 +45,14 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - toc:
+      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - toc:
-      permalink: true
-      toc_depth: 4
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-          percent_encode: true
+  # more
   - mdx_truly_sane_lists
   - tables
 
@@ -72,9 +61,6 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
   - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.date.min.js
   - assets/js/tablesort.js
-
-# extra_css:
-  # - assets/css/extra.css
 
 extra:
   social:
@@ -90,15 +76,15 @@ plugins:
 
 nav:
   - 主页 | <i>Home</i>:
-    - 说明: index.md
+      - 说明: index.md
   - 论文模板 | <i>Thesis</i>:
-    - 中国内地（大陆）高校: region-zhs.md
-    - 中国港澳台地区高校: region-zht.md
-    - 美国地区高校: region-usa.md
-    - 其他国家（地区）高校: region-else.md
+      - 中国内地（大陆）高校: region-zhs.md
+      - 中国港澳台地区高校: region-zht.md
+      - 美国地区高校: region-usa.md
+      - 其他国家（地区）高校: region-else.md
   - 更多模版 | <i>More</i>:
-    - 其他LaTeX模板: more-latex.md
-    - 非LaTeX模板: more-stuff.md
+      - 其他LaTeX模板: more-latex.md
+      - 非LaTeX模板: more-stuff.md
   - 更多资源 | <i>Resources</i>:
-    - 补充资料: supplement.md
-    - LaTeX资源: resource.md
+      - 补充资料: supplement.md
+      - LaTeX资源: resource.md
