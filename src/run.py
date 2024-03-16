@@ -8,8 +8,11 @@ def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
     links = repolist.get_links()
 
     repostats = RepoStats(stats_file)
-    if repostats.process(links, token):
+    result = repostats.process(links, token)
+
+    if result:
         repostats.save()
+        repolist.rebulid(repostats)
         repolist.update_wiki(repostats)
         repolist.update_readme(repostats)
 
