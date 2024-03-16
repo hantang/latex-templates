@@ -771,7 +771,6 @@
         "zh": "南开大学",
         "en": "Nankai University",
         "links": [
-          "https://github.com/Gptao/nku_thesis",
           "https://github.com/JH-Wei/NKUThesis",
           "https://github.com/JerryMouseZ/NKUOverleafTemplate2021",
           "https://github.com/MaZhengg/NKUthesis",
@@ -779,6 +778,7 @@
           "https://github.com/Tr0py/NKU-thesis-template-2020",
           "https://github.com/benhaotang/NKThesis",
           "https://github.com/bianbian1234/NKU_latex_template",
+          "https://github.com/guangpintao/nku_thesis",
           "https://github.com/hhhhhscott/NKU_Bachelor_Thesis_EO_College_LaTeX_Template",
           "https://github.com/kongxiao0532/NKU_Bachelor_Thesis_Template",
           "https://github.com/tensor-matrix/NKUThesis",
@@ -879,7 +879,7 @@
         "links": [
           "https://github.com/SHU-CES-1008/SHU-Thesis",
           "https://github.com/ahhylau/shuthesis",
-          "https://github.com/bowenbfeng/SHU-Bachelor-Thesis-Template",
+          "https://github.com/bowenfoxtrot/SHU-Bachelor-Thesis-Template",
           "https://github.com/shuosc/SHU-Bachelor-Thesis-OSC",
           "https://github.com/zeakey/shu-thesis"
         ]

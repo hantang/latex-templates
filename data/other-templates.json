@@ -44,11 +44,11 @@
         "links": [
           "https://github.com/ElegantLaTeX/ElegantBook",
           "https://github.com/alexpovel/latex-cookbook",
+          "https://github.com/anishathalye/gemini",
           "https://github.com/annProg/PanBook",
           "https://github.com/fmarotta/kaobook",
           "https://github.com/rorygregson/OSCOLA-LaTeX-Template",
-          "https://github.com/thesfinox/latex-commons",
-          "https://github.com/anishathalye/gemini"
+          "https://github.com/thesfinox/latex-commons"
         ]
       }
     ],
