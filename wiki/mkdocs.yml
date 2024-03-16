@@ -8,28 +8,33 @@ repo_url: https://github.com/hantang/latex-templates
 # Theme
 theme:
   name: material
-  language: zh
+  # custom_dir: overrides
+  language: "zh"
   # favicon: assets/favicon.ico
   icon:
-    logo: material/notebook
-    repo: fontawesome/brands/github-alt
+    logo: simple/latex
+    repo: fontawesome/brands/square-github
   font:
     text: Open Sans, Helvetica Neue, Roboto, sans-serif, serif
     code: Fira Mono, Fira Code, Roboto Mono, monospace
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-auto
+        icon: material/link
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: blue
+      accent: blue
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to system preference
   features:
     - navigation.footer
@@ -75,23 +80,27 @@ extra:
       link: https://github.com/hantang
 
 plugins:
-  - search
+  - search:
+      lang:
+        - en
+        - zh
+      separator: '[\s\-,:!=\[\]()"/\u200b]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - table-reader
   - git-revision-date-localized
   - minify:
       minify_html: true
 
 nav:
-  - 主页 | <i>Home</i>:
+  - 🖋主页 | <i>Home</i>:
       - 说明: index.md
-  - 论文模板 | <i>Thesis</i>:
+  - 📑论文模板 | <i>Thesis</i>:
       - 中国内地（大陆）高校: region-zhs.md
       - 中国港澳台地区高校: region-zht.md
       - 美国地区高校: region-usa.md
       - 其他国家（地区）高校: region-else.md
-  - 更多模版 | <i>More</i>:
+  - 📦更多模版 | <i>More</i>:
       - 其他LaTeX模板: more-latex.md
       - 非LaTeX模板: more-stuff.md
-  - 更多资源 | <i>Resources</i>:
+  - 🌋更多资源 | <i>Resources</i>:
       - 补充资料: supplement.md
       - LaTeX资源: resource.md
