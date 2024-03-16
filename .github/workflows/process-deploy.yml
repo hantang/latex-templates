@@ -1,4 +1,4 @@
-name: Update data and deploy MkDocs Pages
+name: Update & Deploy
 
 on:
   push:

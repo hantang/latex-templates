@@ -9,24 +9,28 @@ repo_url: https://github.com/hantang/latex-templates
 theme:
   name: material
   language: zh
+  # favicon: assets/favicon.ico
   icon:
     logo: material/notebook
+    repo: fontawesome/brands/github-alt
   font:
-    text: Helvetica Neue, Roboto
-    code: Fira Mono, Fira Code, Roboto Mono
+    text: Open Sans, Helvetica Neue, Roboto, sans-serif, serif
+    code: Fira Mono, Fira Code, Roboto Mono, monospace
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
-      primary: black
-      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
   features:
     - navigation.footer
     - navigation.path
