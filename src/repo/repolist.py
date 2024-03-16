@@ -1,4 +1,5 @@
 from datetime import datetime
+from math import log
 from pathlib import Path
 import json
 import logging
@@ -64,12 +65,16 @@ def _get_title(zh_name, en_name, repository):
 
 
 def to_df(entries, repo_dict, date_now=None):
+    logging.info(f"to df: entries={len(entries)}, repo_dict={len(repo_dict)}, date_now={date_now}")
     out = []
     for entry in entries:
         out_entries = []
         archived_cnt = 0
         obsolete_cnt = 0
         for link in entry["links"]:
+            if link not in repo_dict:
+                logging.warning(f"Missing link = {link}")
+                continue
             repo_info = repo_dict[link]
             archived = _get_status_archive(repo_info)
             obsolete = _get_status_obsolete(repo_info, date_now)
@@ -247,6 +252,7 @@ class RepoList:
         groups = self.groups
         date_now = stats.now
         repo_dict = stats.get_repos_dict()
+        logging.info(f"stats repo dict = {len(repo_dict)}")
 
         df_list = []
         for group, categories in groups:
