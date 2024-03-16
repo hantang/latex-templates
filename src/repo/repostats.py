@@ -1,3 +1,5 @@
+from math import log
+from os import link
 from pathlib import Path
 import json
 import logging
@@ -115,7 +117,7 @@ class RepoStats:
                 logging.info(f"No update, last update at {self._lasttime}, now = {self._nowtime}.")
                 return False
             else:
-                logging.info("Only update new links!")
+                logging.info(f"Only update new links!: {len(delta_links)}")
                 links = delta_links
                 is_update_all = False
         else:
@@ -192,8 +194,15 @@ class RepoStats:
     def get_repos_dict(self):
         return {repo[REPO_KEY_URL]: repo for repo in self.repos} if self.repos else {}
 
-    def get_repos_links(self):
-        return [repo[REPO_KEY_URL] for repo in self.repos] if self.repos else []
+    def get_repos_links(self, include_renamed=True):
+        links = [repo[REPO_KEY_URL] for repo in self.repos] if self.repos else []
+        logging.info(f"links = {len(links)}")
+        if include_renamed:
+            renamed_dict = self.get_renamed_repos()
+            renamed_links = [li for li in  renamed_dict.keys() if li not in links]
+            links += renamed_links
+            logging.info(f"renamed_links = {len(renamed_links)}")
+        return links
 
     def get_error_repos(self):
         return self.error_repos
