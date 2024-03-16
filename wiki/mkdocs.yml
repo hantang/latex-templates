@@ -12,7 +12,7 @@ theme:
   name: material
   # custom_dir: overrides
   language: "zh"
-  # favicon: assets/favicon.ico
+  favicon: assets/favicon.ico
   icon:
     logo: simple/latex
     repo: fontawesome/brands/square-github
