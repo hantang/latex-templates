@@ -71,10 +71,13 @@ markdown_extensions:
   - tables
 
 extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
-  - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.date.min.js
-  - assets/js/tablesort.js
+  - https://code.jquery.com/jquery-3.7.1.min.js
+  - https://cdn.datatables.net/2.0.2/js/dataTables.min.js
+  - https://cdn.datatables.net/plug-ins/2.0.2/i18n/zh.json
+  - assets/js/datatables.js
+
+extra_css:
+  - https://cdn.datatables.net/2.0.2/css/dataTables.dataTables.min.css
 
 extra:
   social:
