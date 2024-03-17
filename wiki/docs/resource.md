@@ -1,23 +1,24 @@
 # LaTeX 资源
 
-- [LaTeX 资源](#latex-资源)
-  - [写作环境](#写作环境)
-    - [TeX 发行套装](#tex-发行套装)
-    - [专用编辑器](#专用编辑器)
-    - [通用编辑器](#通用编辑器)
-    - [在线平台](#在线平台)
-    - [在线工具](#在线工具)
-  - [LaTeX 相关资源](#latex-相关资源)
-    - [社区和问答](#社区和问答)
-    - [学习资料](#学习资料)
-      - [在线资料](#在线资料)
-      - [出版书籍](#出版书籍)
-    - [示例和模板](#示例和模板)
-  - [其他资料](#其他资料)
-    - [中文文献引用](#中文文献引用)
-    - [公式渲染](#公式渲染)
-    - [许可证](#许可证)
-    - [参考资料](#参考资料)
+??? abstract "参考目录"
+
+    - [写作环境](#写作环境)
+      - [TeX 发行套装](#tex-发行套装)
+      - [专用编辑器](#专用编辑器)
+      - [通用编辑器](#通用编辑器)
+      - [在线平台](#在线平台)
+      - [在线工具](#在线工具)
+    - [LaTeX 相关资源](#latex-相关资源)
+      - [社区和问答](#社区和问答)
+      - [学习资料](#学习资料)
+        - [在线资料](#在线资料)
+        - [出版书籍](#出版书籍)
+      - [示例和模板](#示例和模板)
+    - [其他资料](#其他资料)
+      - [中文文献引用](#中文文献引用)
+      - [公式渲染](#公式渲染)
+      - [许可证](#许可证)
+      - [参考资料](#参考资料)
 
 ## 写作环境
 
@@ -65,12 +66,12 @@ sudo tlmgr update --self --all
 
 ### 在线工具
 
-- LaTeX 表格生成：https://www.tablesgenerator.com/
-- LaTeX 数学公式编辑: https://www.latexlive.com/
-- LaTeX 数学公式可视化编辑和函数图像（在线版本免费，离线版本收费）：https://www.mathcha.io/
-- LaTex 数学符号查询（仅限英文）：https://latex.guide/
-- 手写字符（特殊符号）识别： http://detexify.kirelabs.org/classify.html
-- 速查表（LaTeX cheat sheet）：https://quickref.me/latex
+- LaTeX 表格生成：<https://www.tablesgenerator.com/>
+- LaTeX 数学公式编辑: <https://www.latexlive.com/>
+- LaTeX 数学公式可视化编辑和函数图像（在线版本免费，离线版本收费）：<https://www.mathcha.io/>
+- LaTex 数学符号查询（仅限英文）：<https://latex.guide/>
+- 手写字符（特殊符号）识别： <http://detexify.kirelabs.org/classify.html>
+- 速查表（LaTeX cheat sheet）：<https://quickref.me/latex>
 
 ---
 
@@ -115,10 +116,10 @@ sudo tlmgr update --self --all
 
 **中文文档**
 
-- Liam Huang - 博客 [一份其实很短的 LaTeX 入门文档 ](https://liam.page/2014/09/08/latex-introduction/)
+- Liam Huang - 博客 [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
 - 包太雷（黄新刚） - 《LATEX NOTES 雷太赫排版系统简介》， [Github](https://github.com/huangxg/lnotes/)
 - Xinyu Chen（陈新宇） - 《LaTeX 论文写作教程 (中文版)》[Github](https://github.com/xinychen/latex-cookbook)
-- 视频：[Bilibili - 刘海洋 · LaTeX 不快速的入门 ](https://www.bilibili.com/video/BV1s7411U7Pr/)
+- 视频：[Bilibili - 刘海洋 · LaTeX 不快速的入门](https://www.bilibili.com/video/BV1s7411U7Pr/)
 
 #### 出版书籍
 
@@ -142,17 +143,17 @@ sudo tlmgr update --self --all
 ### 示例和模板
 
 - LaTeX 模板：
-  - https://www.latextemplates.com/
-  - https://www.overleaf.com/latex/templates/
-  - https://github.com/dustinvtran/latex-templates
+  - <https://www.latextemplates.com/>
+  - <https://www.overleaf.com/latex/templates/>
+  - <https://github.com/dustinvtran/latex-templates>
 - LaTeX 绘图:
-  - TikZ: https://texample.net/tikz/examples/
-  - Asymptote: https://asymptote.sourceforge.io/gallery/
+  - TikZ: <https://texample.net/tikz/examples/>
+  - Asymptote: <https://asymptote.sourceforge.io/gallery/>
 - Beamer 主题：
-  - https://deic.uab.cat/~iblanes/beamer_gallery/
-  - https://hartwork.org/beamer-theme-matrix/
-  - https://github.com/martinbjeldbak/ultimate-beamer-theme-list
-  - https://github.com/XiangyunHuang/awesome-beamers
+  - <https://deic.uab.cat/~iblanes/beamer_gallery/>
+  - <https://hartwork.org/beamer-theme-matrix/>
+  - <https://github.com/martinbjeldbak/ultimate-beamer-theme-list>
+  - <https://github.com/XiangyunHuang/awesome-beamers>
 
 ---
 
