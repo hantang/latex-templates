@@ -40,6 +40,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
       - name: Latest git log
         run: git log -1 --pretty=format:"%h %s (%an, %ar)"
       - uses: actions/setup-python@v5
