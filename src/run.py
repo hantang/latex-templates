@@ -13,8 +13,10 @@ def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
     if result:
         repostats.save()
         repolist.rebulid(repostats)
-        repolist.update_wiki(repostats)
-        repolist.update_readme(repostats)
+
+    update_time = repostats.now
+    repolist.update_wiki(repostats)
+    repolist.update_readme(repostats)
 
 
 if __name__ == "__main__":

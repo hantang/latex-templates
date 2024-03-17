@@ -1,5 +1,4 @@
 from datetime import datetime
-from math import log
 from pathlib import Path
 import json
 import logging
@@ -7,7 +6,7 @@ import pandas as pd
 import re
 
 from .config import COLUMN_RENAME, NAME_MAP, REPO_STRUCTS, COLUMNS2, COLUMNS
-from .utils import nowtime, strftime, strip_url, strip, get_pinyin_key, strptime
+from .utils import strftime, strip_url, strip, get_pinyin_key, strptime
 from .repostats import RepoStats
 
 
@@ -18,11 +17,9 @@ REPO_STATS_URL = "https://flat.badgen.net/github"
 REPO_STATS_KEYS = ["stars", "forks", "last-commit", "license"]
 
 
-def _get_status_obsolete(repo_info, date_now=None, date_gap=1461):
+def _get_status_obsolete(repo_info, date_now, date_gap=1461):
     date_update = max([repo_info[key] for key in ["pushed_at", "created_at"]])
     date_update = strptime(date_update)
-    if not date_now:
-        date_now = nowtime()
     if (date_now - date_update).days > date_gap:
         return TAG_OBSOLETE
     return None
@@ -64,7 +61,7 @@ def _get_title(zh_name, en_name, repository):
     return f"**{zh_name}**（{en_name}）: {repository}" if zh_name else repository
 
 
-def to_df(entries, repo_dict, date_now=None):
+def to_df(entries, repo_dict, date_now):
     logging.info(f"to df: entries={len(entries)}, repo_dict={len(repo_dict)}, date_now={date_now}")
     out = []
     for entry in entries:
@@ -367,7 +364,7 @@ class RepoLists:
         links = sorted(set(links1 + links2))
         return links
 
-    def rebulid(self, stats):
+    def rebulid(self, stats: RepoStats):
         dup_links = []
         dup_links = self.thesis_repo_list.update_data(stats, dup_links)
         dup_links = self.other_repo_list.update_data(stats, dup_links)
@@ -375,11 +372,11 @@ class RepoLists:
         self.thesis_repo_list.save()
         self.other_repo_list.save()
 
-    def update_wiki(self, stats):
+    def update_wiki(self, stats: RepoStats):
         self.thesis_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
         self.other_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
 
-    def update_readme(self, stats):
+    def update_readme(self, stats: RepoStats):
         toc = ["## 说明"]
         head_list = [
             "## 最受欢迎的LaTeX学位论文模板（中文）",
@@ -390,7 +387,7 @@ class RepoLists:
             "# Beyond LaTeX Templates",
             "**Welcome to awesome latex-templates wiki!**",
         ]
-        update_date = strftime(nowtime(), fmt="%Y-%m-%d")
+        update_date = strftime(stats.now, fmt="%Y-%m-%d")
         readme_file = self.readme_file
         if not Path(readme_file).exists():
             logging.warning(f"Readme file {readme_file} does not exist")

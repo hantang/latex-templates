@@ -115,6 +115,7 @@ class RepoStats:
         if not self._update:
             if len(delta_links) == 0:
                 logging.info(f"No update, last update at {self._lasttime}, now = {self._nowtime}.")
+                self._nowtime = self._lasttime
                 return False
             else:
                 logging.info(f"Only update new links!: {len(delta_links)}")
