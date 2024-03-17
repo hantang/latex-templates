@@ -6,7 +6,7 @@ import logging
 import pandas as pd
 import re
 
-from .config import NAME_MAP, REPO_STRUCTS, COLUMNS2, COLUMNS
+from .config import COLUMN_RENAME, NAME_MAP, REPO_STRUCTS, COLUMNS2, COLUMNS
 from .utils import nowtime, strftime, strip_url, strip, get_pinyin_key, strptime
 from .repostats import RepoStats
 
@@ -284,7 +284,8 @@ class RepoList:
             cate_name = NAME_MAP[cate]
             savefile = Path(csv_dir, f"{group_name}-{cate_name}.csv")
             logging.info(f"Save to csv to {savefile}")
-            df[["index"] + columns].to_csv(savefile, index=False)
+            df2 = df[["index"] + columns].rename(columns=COLUMN_RENAME)
+            df2.to_csv(savefile, index=False)
             if group not in md_texts:
                 md_texts[group] = [f"# {group}"]
             md_texts[group].extend(
