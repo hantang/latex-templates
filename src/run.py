@@ -14,7 +14,6 @@ def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
         repostats.save()
         repolist.rebulid(repostats)
 
-    update_time = repostats.now
     repolist.update_wiki(repostats)
     repolist.update_readme(repostats)
 
@@ -30,7 +29,7 @@ if __name__ == "__main__":
 
     token = args.token
     basedir = args.base
-    
+
     data_dir = f"{basedir}/data"
     doc_dir = f"{basedir}/wiki/docs"
     csv_dir = f"{basedir}/wiki/csv"

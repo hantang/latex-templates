@@ -1,12 +1,10 @@
-from math import log
-from os import link
-from pathlib import Path
 import json
 import logging
+from pathlib import Path
 
 from .config import REPO_KEY_URL
-from .utils import random_sleep, strftime, strptime, nowtime
 from .repo import Repo
+from .utils import random_sleep, strftime, strptime, nowtime
 
 
 class RepoStats:
@@ -73,7 +71,7 @@ class RepoStats:
             if repo_url in queried_links:
                 continue
             if (idx + 1) % 5 == 0 or idx == 0:
-                logging.info(f"Query repo api: round = {idx+1:03d}/{total:03d}")
+                logging.info(f"Query repo api: round = {idx + 1:03d}/{total:03d}")
 
             random_sleep(idx + 1, step=29, second=29)
             repo = Repo(repo_url)
@@ -129,15 +127,17 @@ class RepoStats:
         if token:
             logging.info(f"Setting headers token={token[:2]}...{token[-1]}")
 
+        temp_repo_data = {}
         # query repo stats
         for i in range(retry):
-            logging.info(f">> Retry ... {i+1}/{retry}")
+            logging.info(f">> Retry ... {i + 1}/{retry}")
             temp_repo_data = self.query(links, token)
             if len(temp_repo_data[key_repos]) == len(links):
                 break
             else:
                 random_sleep(1, 1, 180)
-        if len(temp_repo_data[key_repos]) != len(links):
+
+        if key_repos not in temp_repo_data or (len(temp_repo_data[key_repos]) != len(links)):
             logging.warning("Error repo links count")
             return False
         logging.info(f"Process repo: temp data = {len(temp_repo_data[key_repos])}")
@@ -200,7 +200,7 @@ class RepoStats:
         logging.info(f"links = {len(links)}")
         if include_renamed:
             renamed_dict = self.get_renamed_repos()
-            renamed_links = [li for li in  renamed_dict.keys() if li not in links]
+            renamed_links = [li for li in renamed_dict.keys() if li not in links]
             links += renamed_links
             logging.info(f"renamed_links = {len(renamed_links)}")
         return links

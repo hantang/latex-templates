@@ -11,8 +11,8 @@ def _get_repo_topics(data):
 
 
 def _get_repo_license(data):
-    license = data["license"]
-    return {"license_name": license.get("spdx_id") if license else None}  # name
+    license_name = data["license"]
+    return {"license_name": license_name.get("spdx_id") if license else None}  # name
 
 
 def _get_repo_owner(data):

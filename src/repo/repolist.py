@@ -1,23 +1,23 @@
-from datetime import datetime
-from pathlib import Path
 import json
 import logging
-import pandas as pd
 import re
+from pathlib import Path
+
+import pandas as pd
 
 from .config import COLUMN_RENAME, NAME_MAP, REPO_STRUCTS, COLUMNS2, COLUMNS
-from .utils import strftime, strip_url, strip, get_pinyin_key, strptime
 from .repostats import RepoStats
+from .utils import strftime, strip_url, strip, strptime, get_pinyin_key
 
-
-TAG_ARCHIVED = "📦"  # :package: 已归档
-TAG_OBSOLETE = "🔒️"  # :lock: 长久未更新
+TAG_ARCHIVED = "📦"  # :package:
+TAG_OBSOLETE = "🔒️"  # :lock:
 TAG_REMOVED = "🗑️"  # :wastebasket:
 REPO_STATS_URL = "https://flat.badgen.net/github"
 REPO_STATS_KEYS = ["stars", "forks", "last-commit", "license"]
 
 
 def _get_status_obsolete(repo_info, date_now, date_gap=1461):
+    """4 years = 365*4 + 1 = 1461"""
     date_update = max([repo_info[key] for key in ["pushed_at", "created_at"]])
     date_update = strptime(date_update)
     if (date_now - date_update).days > date_gap:
@@ -33,11 +33,11 @@ def _get_score(stargazers, fork):
     return stargazers + fork * 2
 
 
-def _get_badges(repo, pushed_at, created_at, stargazers, forks, license):
-    REPO_STATS_VALS = [stargazers, forks, pushed_at, license]
+def _get_badges(repo, pushed_at, created_at, stargazers, forks, license_name):
+    values = [stargazers, forks, pushed_at, license_name]
 
     badges = []
-    for key, val in zip(REPO_STATS_KEYS, REPO_STATS_VALS):
+    for key, val in zip(REPO_STATS_KEYS, values):
         badges.append(f"![{key}={val}]({REPO_STATS_URL}/{key}/{repo})")
     badges = " ".join(badges)
     return f"🎉`{created_at}` {badges}".rstrip()
@@ -80,6 +80,7 @@ def to_df(entries, repo_dict, date_now):
             if obsolete:
                 obsolete_cnt += 1
             full_name, url = repo_info["full_name"], repo_info["html_url"]
+            # TODO COLUMNS
             result = {
                 "zh": entry.get("zh"),
                 "en": entry.get("en"),
@@ -255,7 +256,6 @@ class RepoList:
         for group, categories in groups:
             for cate in categories:
                 entries = repo_data[group][cate]
-                entries = repo_data[group][cate]
                 df = to_df(entries, repo_dict, date_now)
                 df_list.append((group, cate, df))
         return df_list
@@ -368,6 +368,7 @@ class RepoLists:
         dup_links = []
         dup_links = self.thesis_repo_list.update_data(stats, dup_links)
         dup_links = self.other_repo_list.update_data(stats, dup_links)
+        logging.info(f"dup links = {len(dup_links)}")
 
         self.thesis_repo_list.save()
         self.other_repo_list.save()
@@ -388,6 +389,8 @@ class RepoLists:
             "**Welcome to awesome latex-templates wiki!**",
         ]
         update_date = strftime(stats.now, fmt="%Y-%m-%d")
+        logging.info(f"Update time={update_date}")
+
         readme_file = self.readme_file
         if not Path(readme_file).exists():
             logging.warning(f"Readme file {readme_file} does not exist")
@@ -413,7 +416,7 @@ class RepoLists:
             title2 = title.lower().replace(" ", "-")
             title2 = re.sub("[（）()]", "", title2)
             toc_list.append("{}- [{}](#{})".format(" " * hash_len, title, title2))
-        
+
         # sections        
         sections = ["lastmod", "toc", "toplist0", "toplist1", "toplist2"]
         paragraphs = [
@@ -442,7 +445,7 @@ class RepoLists:
 
         # update wiki/index.md
         wiki_file = Path(self.doc_dir, "index.md")
-        wiki =  wiki + paragraphs[2:4]
+        wiki = wiki + paragraphs[2:4]
         logging.info(f"Save to wiki: {wiki_file}")
         with open(wiki_file, "w") as fw:
             fw.write("\n\n".join(wiki) + "\n")
