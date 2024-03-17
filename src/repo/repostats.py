@@ -149,12 +149,13 @@ class RepoStats:
         error_repos = self.error_repos
         logging.info(f"Before process repo: error = {len(error_repos)}")
 
-        repos = {} if is_update_all else self.repos
+        repos = {} if is_update_all else {str(repo["id"]): repo for repo in self.repos}
+        logging.info(f"repos = {len(repos)}")
         for repo in temp_repo_data[key_repos]:
             repo_id = repo.get_id()
             raw_repo_url = repo.get_url_raw()
             new_repo_url = repo.get_url()
-            repos[repo_id] = repo.get_stats()
+            repos[str(repo_id)] = repo.get_stats()
 
             if new_repo_url != raw_repo_url:
                 if repo_id in renamed_repos:
