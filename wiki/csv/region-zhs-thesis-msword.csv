@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,北京大学,Peking University,1/0/0,[xelmirage/pku_thesis_docx](https://github.com/xelmirage/pku_thesis_docx), , ,94,16,2024-01-17,2020-11-24, ,docx版本的北京大学毕业论文模板
 1,北京航空航天大学,Beijing University of Aeronautics and Astronautics (Beihang University),1/0/0,[ixzhao/BUAA_Dissertation_Template](https://github.com/ixzhao/BUAA_Dissertation_Template), , ,46,11,2023-03-25,2021-12-16,MIT,北航硕博研究生毕业设计论文模板（Word）
 2,北京邮电大学,Beijing University of Posts and Telecommunications,1/1/0,[sigmarising/BUPTMasterThesisWord](https://github.com/sigmarising/BUPTMasterThesisWord),📦, ,209,29,2024-01-24,2022-02-08,MIT,The Microsoft Office Word template of BUPT Thesis for Master Degree.

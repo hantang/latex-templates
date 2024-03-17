@@ -1,4 +1,4 @@
-index,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,7/0/0,[ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook), , ,1889,378,2022-12-31,2019-01-15,LPPL-1.3c,Elegant LaTeX Template for Books
 1,7/0/0,[alexpovel/latex-cookbook](https://github.com/alexpovel/latex-cookbook), , ,197,18,2023-08-26,2019-05-02,MIT,"A comprehensive LaTeX template with examples for theses, books and more, employing the 'latest and greatest' (UTF8, glossaries, fonts, ...). The PDF artifact is built using CI/CD, with a Python testing framework."
 2,7/0/0,[anishathalye/gemini](https://github.com/anishathalye/gemini), , ,900,201,2023-10-14,2018-07-07,MIT,Gemini is a modern LaTex beamerposter theme 🖼

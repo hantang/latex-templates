@@ -1,4 +1,4 @@
-index,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,12/0/2,[bamos/cv](https://github.com/bamos/cv), , ,393,137,2024-02-21,2013-12-29,MIT, 
 1,12/0/2,[billryan/resume](https://github.com/billryan/resume), , ,8521,2478,2024-03-15,2015-05-30,MIT,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 2,12/0/2,[cies/resume](https://github.com/cies/resume), ,🔒️,391,67,2018-06-04,2011-02-25, ,My resume as a PDF including the well commented LaTeX source and build instructions.

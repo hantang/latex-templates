@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,（美国）北卡罗来纳大学夏洛特分校,University of North Carolina at Charlotte,1/0/1,[cci-grads/uncc-thesis-latex](https://github.com/cci-grads/uncc-thesis-latex), ,🔒️,14,10,2019-02-27,2013-02-18, ,LaTeX template for UNC-Charlotte dissertations
 1,（美国）北卡罗来纳州立大学,North Carolina State University,1/0/1,[jhykes/ncsuthesis](https://github.com/jhykes/ncsuthesis), ,🔒️,13,6,2019-07-08,2011-04-12, ,A LaTeX thesis class conforming to NC State ETD guidelines
 2,（美国）德克萨斯州大学奥斯汀分校,University of Texas at Austin,1/0/1,[OttoStruve/UT-thesis](https://github.com/OttoStruve/UT-thesis), ,🔒️,0,5,2018-06-27,2016-03-08,MIT,"UT thesis template, so we can stop passing it around via email like animals"

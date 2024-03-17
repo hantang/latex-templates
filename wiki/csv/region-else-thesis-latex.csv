@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,（澳大利亚）昆士兰科技大学,Queensland University of Technology,1/0/1,[hbristow/quthesis](https://github.com/hbristow/quthesis), ,🔒️,19,10,2017-06-09,2014-01-10,BSD-3-Clause,A LaTeX thesis template for PhD students at the Queensland University of Technology (QUT)
 1,（澳大利亚）悉尼大学,University of Sydney,1/0/0,[danhey/thesis](https://github.com/danhey/thesis), , ,16,15,2022-09-25,2018-06-22, ,Latex thesis template for the University of Sydney honours/masters/PhD
 2,（澳大利亚）新南威尔士大学,University of New South Wales,1/0/1,[andrewletten/LettenPhDThesis2015](https://github.com/andrewletten/LettenPhDThesis2015), ,🔒️,2,1,2017-06-10,2017-06-10,MIT,PhD thesis 2015 (includes all LaTeX source files)

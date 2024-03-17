@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,北京师范大学,Beijing Normal University,1/0/1,[94wgfk/BNUThesisPandoc](https://github.com/94wgfk/BNUThesisPandoc), ,🔒️,6,1,2016-06-14,2016-06-14,GPL-3.0,使用Pandoc Markdown和LaTeX写北师大毕业论文。
 1,重庆大学,Chongqing University,1/0/0,[ilcpm/cqu-thesis-markdown](https://github.com/ilcpm/cqu-thesis-markdown), , ,23,3,2023-07-19,2020-12-05,MIT,重庆大学毕业论文 Markdown 转 Word (docx) 方案
 2,南方科技大学,Southern University of Science and Technology,1/0/0,[fecet/sustechthesis-markdown](https://github.com/fecet/sustechthesis-markdown), , ,8,0,2022-09-26,2022-04-16,LPPL-1.3c,南方科技大学毕业论文markdown模板

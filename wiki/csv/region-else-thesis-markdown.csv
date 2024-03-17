@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,（德国）柏林洪堡大学,"Humboldt University of Berlin (Humboldt-Universität zu Berlin, HU Berlin)",1/0/0,[napiontek/huphydown](https://github.com/napiontek/huphydown), , ,0,0,2022-07-11,2020-12-11,MIT,An updated R Markdown thesis template for physics students at Humboldt-University of Berlin using the bookdown package
 1,（芬兰）拉彭兰塔-拉赫蒂工业大学,"Lappeenranta University of Technology, LUT",1/0/1,[paulihuhtiniemi/lut-thesis-markdown](https://github.com/paulihuhtiniemi/lut-thesis-markdown), ,🔒️,3,2,2019-07-02,2019-06-25, ,Master's Thesis template in Markdown for Lappeenranta-Lahti University of Technology LUT.
 2,（南非）金山大学（威特沃特斯兰大学）,"University of the Witwatersrand, Wits University",1/0/1,[Keniajin/Wits_SPH_Thesis](https://github.com/Keniajin/Wits_SPH_Thesis), ,🔒️,0,0,2017-11-22,2017-11-22, ,Writing you thesis with R Markdown using Wits University School of Public Health Structure

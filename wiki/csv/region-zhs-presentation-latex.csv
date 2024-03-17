@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,大连理工大学,Dalian University of Technology,1/0/0,[fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2), , ,64,17,2021-02-04,2020-06-27,LPPL-1.3c,✨新版大连理工Beamer主题 ✨一份简约现代的beamer模板 / PPT杀手 / 学术范入门
 1,东南大学,Southeast University,1/0/0,[GuanxingLu/SEU-beamer-latex-slide](https://github.com/GuanxingLu/SEU-beamer-latex-slide), , ,3,0,2023-06-08,2023-06-03, ,"This is my own graduation thesis defense slide, you can think of it as a Southeast University beamer template."
 2,河北工业大学,Hebei University of Technology,1/0/0,[lime-j/HEBUT-Beamer-Theme](https://github.com/lime-j/HEBUT-Beamer-Theme), , ,7,2,2021-04-16,2021-04-14,LPPL-1.3c,A LaTeX beamer theme template for HEBUT students.

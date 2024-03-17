@@ -1,4 +1,4 @@
-index,zh,en,count,repository,archived,obsolete,stargazers,forks,pushed_at,created_at,license,description
+序号,中文名,英文名,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
 0,安徽大学,Anhui University,1/0/1,[qxx/AHU_Thesis](https://github.com/qxx/AHU_Thesis), ,🔒️,5,1,2014-03-11,2014-03-11,GPL-2.0,Anhui University Thesis Template for Undergraduate Students
 1,北方民族大学,Northern Minzu University,1/0/1,[WizenZhang/NMUThesis](https://github.com/WizenZhang/NMUThesis), ,🔒️,6,8,2019-06-12,2018-08-02,MIT,北方民族大学学位论文LaTeX模板
 2,北京大学,Peking University,8/0/1,[AllanChain/pkuthss-lyx](https://github.com/AllanChain/pkuthss-lyx), , ,0,0,2023-04-03,2023-04-03,MIT,Write PKU thesis with LyX is very easy.
