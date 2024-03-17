@@ -8,7 +8,7 @@ from .utils import random_sleep, strftime, strptime, nowtime
 
 
 class RepoStats:
-    def __init__(self, filename) -> None:
+    def __init__(self, filename, update_gap=5) -> None:
         self.filename = filename
         self.repos = []
         self.error_repos = []
@@ -17,7 +17,8 @@ class RepoStats:
 
         self._nowtime = nowtime()
         self._lasttime = None
-        self._update = False
+        self._need_update = False
+        self._update_gap = update_gap
 
         self.temp_file = "temp/temp.json"
         self.key_repos = "repositories"
@@ -44,8 +45,8 @@ class RepoStats:
 
             self._lasttime = strptime(data[self.key_update])
             logging.info(f"Delta days = {self.now - self._lasttime}, may need update")
-            if (self.now - self._lasttime).days >= 1:
-                self._update = True
+            if (self.now - self._lasttime).days >= self._update_gap:
+                self._need_update = True
 
     def query(self, links, tokens):
         temp_file = Path(self.temp_file)
@@ -110,7 +111,7 @@ class RepoStats:
         delta_links = [link for link in links_todo if link not in self.links_exists]
 
         # omit same update
-        if not self._update:
+        if not self._need_update:
             if len(delta_links) == 0:
                 logging.info(f"No update, last update at {self._lasttime}, now = {self._nowtime}.")
                 self._nowtime = self._lasttime
@@ -183,7 +184,7 @@ class RepoStats:
 
     def output(self):
         return {
-            self.key_time: strftime(self._nowtime if self._update else self._lasttime),
+            self.key_time: strftime(self._nowtime if self._need_update else self._lasttime),
             self.key_repos: self.repos,
             self.key_error: self.error_repos,
             self.key_renamed: self.renamed_repos,
