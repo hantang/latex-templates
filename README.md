@@ -4,6 +4,7 @@
 [![Process & Deploy](https://github.com/hantang/latex-templates/actions/workflows/process-deploy.yml/badge.svg)](https://github.com/hantang/latex-templates/actions/workflows/process-deploy.yml)
 ![GitHub Commit Badge](https://img.shields.io/github/last-commit/hantang/latex-templates.svg)
 ![GitHub License Badge](https://img.shields.io/github/license/hantang/latex-templates.svg)
+
 ![GitHub Stars Badge](https://img.shields.io/github/stars/hantang/latex-templates.svg)
 ![GitHub Forks Badge](https://img.shields.io/github/forks/hantang/latex-templates.svg)
 
