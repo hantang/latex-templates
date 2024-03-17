@@ -26,7 +26,7 @@ jobs:
         with:
           commit_message: Automated Update repo stats
           commit_options: '--no-verify --signoff'
-          file_pattern: 'data/*.json resource/*.json wiki/csv/*.csv wiki/docs/**/*.md'
+          file_pattern: 'data/*.json resource/*.json wiki/'
 
   deploy:
     needs: process
