@@ -62,7 +62,7 @@ def _get_title(zh_name, en_name, repository):
 
 
 def to_df(entries, repo_dict, date_now):
-    logging.info(f"to df: entries={len(entries)}, repo_dict={len(repo_dict)}, date_now={date_now}")
+    logging.debug(f"to df: entries={len(entries)}, repo_dict={len(repo_dict)}, date_now={date_now}")
     out = []
     for entry in entries:
         out_entries = []
@@ -378,6 +378,7 @@ class RepoLists:
         self.other_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
 
     def update_readme(self, stats: RepoStats):
+        logging.info("Update README file")
         toc = ["## 说明"]
         head_list = [
             "## 最受欢迎的LaTeX学位论文模板（中文）",
