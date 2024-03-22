@@ -86,7 +86,10 @@
     ],
     "Typst简历模板": [
       {
-        "links": ["https://github.com/OrangeX4/Chinese-Resume-in-Typst"]
+        "links": [
+          "https://github.com/OrangeX4/Chinese-Resume-in-Typst",
+          "https://github.com/bamboovir/typst-resume-template"
+        ]
       }
     ],
     "Markdown简历模板": [
