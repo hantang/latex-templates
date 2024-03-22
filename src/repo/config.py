@@ -55,7 +55,7 @@ NAME_MAP = {
     "LaTeX通用模板": "commons",
     "Microsoft Word写作模板": "msword",
     "Markdown写作模板": "markdown",
-    "Markdown简历模板": "markdown-resume"
+    "Markdown简历模板": "markdown-resume",
     "Typst写作模板": "typst",
     "Typst简历模板": "typst-resume",
     "其他写作模板": "others",
