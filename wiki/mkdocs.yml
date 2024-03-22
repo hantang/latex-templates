@@ -111,16 +111,13 @@ plugins:
       minify_html: true
 
 nav:
-  - 🖋主页 | <i>Home</i>:
-      - 说明: index.md
-  - 📑论文模板 | <i>Thesis</i>:
+  - 🖋主页: index.md
+  - 📑论文模板（地区划分）:
       - 中国内地（大陆）高校: region-zhs.md
       - 中国港澳台地区高校: region-zht.md
       - 美国地区高校: region-usa.md
       - 其他国家（地区）高校: region-else.md
-  - 📦更多模版 | <i>More</i>:
-      - 其他LaTeX模板: more-latex.md
-      - 非LaTeX模板: more-stuff.md
-  - 🌋更多资源 | <i>Resources</i>:
-      - 补充资料: supplement.md
-      - LaTeX资源: resource.md
+  - 📦其他LaTeX模板: more-latex.md
+  - 📦非LaTeX模板: more-stuff.md
+  - 🌋更多模板资源: supplement.md
+  - 🌋更多LaTeX资源: resource.md
