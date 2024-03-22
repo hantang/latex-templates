@@ -35,7 +35,12 @@
           "https://github.com/salomonelli/best-resume-ever",
           "https://github.com/sb2nov/resume",
           "https://github.com/sc932/resume",
-          "https://github.com/zachscrivena/simple-resume-cv"
+          "https://github.com/zachscrivena/simple-resume-cv",
+          "https://github.com/dyweb/Deedy-Resume-for-Chinese",
+          "https://github.com/geekplux/cv_resume",
+          "https://github.com/hijiangtao/resume",
+          "https://github.com/fky2015/resume-ng",
+          "https://github.com/liweitianux/resume"
         ]
       }
     ],
@@ -66,9 +71,7 @@
   "更多非LaTeX模板": {
     "Typst写作模板": [
       {
-        "links": [
-          "https://github.com/typst/templates"
-        ]
+        "links": ["https://github.com/typst/templates"]
       }
     ],
     "Markdown写作模板": [
@@ -81,11 +84,22 @@
         ]
       }
     ],
-    "其他写作模板": [
+    "Typst简历模板": [
+      {
+        "links": ["https://github.com/OrangeX4/Chinese-Resume-in-Typst"]
+      }
+    ],
+    "Markdown简历模板": [
       {
         "links": [
-          "https://github.com/dangom/org-thesis"
+          "https://github.com/mszep/pandoc_resume",
+          "https://github.com/CyC2018/Markdown-Resume"
         ]
+      }
+    ],
+    "其他写作模板": [
+      {
+        "links": ["https://github.com/dangom/org-thesis"]
       }
     ]
   },
@@ -131,6 +145,11 @@
           "https://github.com/Haixing-Hu/typesetting-standard",
           "https://github.com/sparanoid/chinese-copywriting-guidelines"
         ]
+      }
+    ],
+    "简历模板": [
+      {
+        "links": ["https://github.com/dyweb/awesome-resume-for-chinese"]
       }
     ]
   }
