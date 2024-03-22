@@ -348,11 +348,11 @@ class RepoList:
 
 
 class RepoLists:
-    def __init__(self, data_dir, doc_dir, csv_dir, readme_file) -> None:
+    def __init__(self, data_dir, doc_dir, csv_dir) -> None:
         self.data_dir = data_dir
         self.doc_dir = doc_dir
         self.csv_dir = csv_dir
-        self.readme_file = readme_file
+        # self.readme_file = readme_file
 
         self.thesis_repo_list = RepoList(data_dir, REPO_STRUCTS[0], is_thesis=True)
         self.other_repo_list = RepoList(data_dir, REPO_STRUCTS[1], is_thesis=False)
@@ -377,7 +377,7 @@ class RepoLists:
         self.thesis_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
         self.other_repo_list.save_wiki(self.doc_dir, self.csv_dir, stats)
 
-    def update_readme(self, stats: RepoStats):
+    def update_readme(self, readme_file, stats: RepoStats):
         logging.info("Update README file")
         toc = ["## 说明"]
         head_list = [
@@ -392,7 +392,7 @@ class RepoLists:
         update_date = strftime(stats.now, fmt="%Y-%m-%d")
         logging.info(f"Update time={update_date}")
 
-        readme_file = self.readme_file
+        # readme_file = self.readme_file
         if not Path(readme_file).exists():
             logging.warning(f"Readme file {readme_file} does not exist")
             return

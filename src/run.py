@@ -4,7 +4,7 @@ from repo import RepoLists, RepoStats
 
 
 def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
-    repolist = RepoLists(data_dir, doc_dir, csv_dir, readme_file)
+    repolist = RepoLists(data_dir, doc_dir, csv_dir)
     links = repolist.get_links()
 
     repostats = RepoStats(stats_file)
@@ -15,7 +15,8 @@ def run(data_dir, doc_dir, csv_dir, readme_file, stats_file, token):
         repolist.rebulid(repostats)
 
     repolist.update_wiki(repostats)
-    repolist.update_readme(repostats)
+    # no more auto update
+    # repolist.update_readme(repostats, readme_file)
 
 
 if __name__ == "__main__":
