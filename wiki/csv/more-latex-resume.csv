@@ -1,18 +1,19 @@
 序号,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
-0,17/0/3,[bamos/cv](https://github.com/bamos/cv), , ,393,137,2024-02-21,2013-12-29,MIT, 
-1,17/0/3,[billryan/resume](https://github.com/billryan/resume), , ,8563,2489,2024-03-15,2015-05-30,MIT,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
-2,17/0/3,[cies/resume](https://github.com/cies/resume), ,🔒️,391,68,2018-06-04,2011-02-25, ,My resume as a PDF including the well commented LaTeX source and build instructions.
-3,17/0/3,[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume), , ,4686,1235,2022-09-18,2014-04-30,Apache-2.0,"A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student"
-4,17/0/3,[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv), , ,1919,719,2024-03-20,2015-12-14,MIT,A Nice-looking CV template made into LaTeX
-5,17/0/3,[dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese), ,🔒️,410,112,2017-10-07,2017-09-28,Apache-2.0,适合应届毕业生的 LaTeX 简历模板
-6,17/0/3,[fky2015/resume-ng](https://github.com/fky2015/resume-ng), , ,180,28,2024-03-17,2022-12-31,LPPL-1.3c,A LaTeX resume template designed for optimal information density and aesthetic appeal.
-7,17/0/3,[geekplux/cv_resume](https://github.com/geekplux/cv_resume), , ,276,94,2022-04-19,2017-12-29,MIT,A latex cv/resume template.
-8,17/0/3,[hijiangtao/resume](https://github.com/hijiangtao/resume), , ,1570,494,2021-03-07,2017-03-09,MIT,个人中文简历 Latex 源码 https://hijiangtao.github.io/
-9,17/0/3,[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv), , ,2616,545,2023-08-22,2014-06-15,MIT,:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
-10,17/0/3,[liweitianux/resume](https://github.com/liweitianux/resume), , ,438,118,2024-03-13,2018-04-17, ,My resume in LaTeX (template suited for new graduates; 应届生简历模板)
-11,17/0/3,[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume), , ,1560,743,2024-02-28,2014-07-09,MIT,The Markdown Resume
-12,17/0/3,[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV), , ,21531,4658,2024-02-12,2015-01-18,LPPL-1.3c,:page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-13,17/0/3,[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever), , ,16191,2264,2023-12-13,2017-01-30,MIT,:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-14,17/0/3,[sb2nov/resume](https://github.com/sb2nov/resume), , ,4579,1308,2024-03-12,2015-10-11,MIT,Software developer resume in Latex
-15,17/0/3,[sc932/resume](https://github.com/sc932/resume), ,🔒️,499,131,2016-10-09,2011-09-19,MIT,My CV/resume in LaTeX.
-16,17/0/3,[zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv), , ,471,148,2024-02-11,2014-11-09,Unlicense,"Template for a simple resume or curriculum vitae (CV), in XeLaTeX."
+0,18/0/3,[bamos/cv](https://github.com/bamos/cv), , ,393,137,2024-02-21,2013-12-29,MIT, 
+1,18/0/3,[billryan/resume](https://github.com/billryan/resume), , ,8563,2489,2024-03-15,2015-05-30,MIT,An elegant LaTeX résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+2,18/0/3,[cies/resume](https://github.com/cies/resume), ,🔒️,391,68,2018-06-04,2011-02-25, ,My resume as a PDF including the well commented LaTeX source and build instructions.
+3,18/0/3,[deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume), , ,4686,1235,2022-09-18,2014-04-30,Apache-2.0,"A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student"
+4,18/0/3,[dnl-blkv/mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv), , ,1919,719,2024-03-20,2015-12-14,MIT,A Nice-looking CV template made into LaTeX
+5,18/0/3,[dyinnz/uniquecv](https://github.com/dyinnz/uniquecv), , ,164,45,2020-07-25,2017-03-11, ,A simple resume template written in LaTeX
+6,18/0/3,[dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese), ,🔒️,410,112,2017-10-07,2017-09-28,Apache-2.0,适合应届毕业生的 LaTeX 简历模板
+7,18/0/3,[fky2015/resume-ng](https://github.com/fky2015/resume-ng), , ,180,28,2024-03-17,2022-12-31,LPPL-1.3c,A LaTeX resume template designed for optimal information density and aesthetic appeal.
+8,18/0/3,[geekplux/cv_resume](https://github.com/geekplux/cv_resume), , ,276,94,2022-04-19,2017-12-29,MIT,A latex cv/resume template.
+9,18/0/3,[hijiangtao/resume](https://github.com/hijiangtao/resume), , ,1570,494,2021-03-07,2017-03-09,MIT,个人中文简历 Latex 源码 https://hijiangtao.github.io/
+10,18/0/3,[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv), , ,2616,545,2023-08-22,2014-06-15,MIT,:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+11,18/0/3,[liweitianux/resume](https://github.com/liweitianux/resume), , ,438,118,2024-03-13,2018-04-17, ,My resume in LaTeX (template suited for new graduates; 应届生简历模板)
+12,18/0/3,[mszep/pandoc_resume](https://github.com/mszep/pandoc_resume), , ,1560,743,2024-02-28,2014-07-09,MIT,The Markdown Resume
+13,18/0/3,[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV), , ,21531,4658,2024-02-12,2015-01-18,LPPL-1.3c,:page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+14,18/0/3,[salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever), , ,16191,2264,2023-12-13,2017-01-30,MIT,:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+15,18/0/3,[sb2nov/resume](https://github.com/sb2nov/resume), , ,4579,1308,2024-03-12,2015-10-11,MIT,Software developer resume in Latex
+16,18/0/3,[sc932/resume](https://github.com/sc932/resume), ,🔒️,499,131,2016-10-09,2011-09-19,MIT,My CV/resume in LaTeX.
+17,18/0/3,[zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv), , ,471,148,2024-02-11,2014-11-09,Unlicense,"Template for a simple resume or curriculum vitae (CV), in XeLaTeX."
