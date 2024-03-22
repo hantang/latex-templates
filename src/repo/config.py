@@ -23,10 +23,13 @@ REPO_STRUCTS = [
                 "更多LaTeX/Lyx模板",
                 ["LaTeX论文模板", "LaTeX简历模板", "LaTeX通用模板", "LaTeX绘图示例"],
             ],
-            ["更多非LaTeX模板", ["Typst写作模板", "Markdown写作模板", "其他写作模板"]],
+            [
+                "更多非LaTeX模板", 
+                ["Typst写作模板","Typst简历模板", "Markdown写作模板" "Markdown简历模板", "其他写作模板"]
+            ],
             [
                 "补充资料",
-                ["LaTeX资源", "Typst资源", "Markdown资源", "文献引用", "排版相关"],
+                ["LaTeX资源", "Typst资源", "Markdown资源", "文献引用", "排版相关", "简历相关"],
             ],
         ],
     },
@@ -52,13 +55,16 @@ NAME_MAP = {
     "LaTeX通用模板": "commons",
     "Microsoft Word写作模板": "msword",
     "Markdown写作模板": "markdown",
+    "Markdown简历模板": "markdown-resume"
     "Typst写作模板": "typst",
+    "Typst简历模板": "typst-resume",
     "其他写作模板": "others",
     "LaTeX资源": "latex",
     "Markdown资源": "markdown",
     "Typst资源": "typst",
     "排版相关": "typography",
     "文献引用": "reference",
+    "简历相关": "resume"
 }
 
 REPO_KEYS = [

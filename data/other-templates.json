@@ -93,6 +93,47 @@
           "https://github.com/dangom/org-thesis"
         ]
       }
+    ],
+    "Typst简历模板": [
+      {
+        "links": [
+          "https://github.com/DawnEver/typst-academic-cv",
+          "https://github.com/GeorgeHoneywood/alta-typst",
+          "https://github.com/Harkunwar/attractive-typst-resume",
+          "https://github.com/JCGoran/typst-cv-template",
+          "https://github.com/LaurenzV/simplecv",
+          "https://github.com/OrangeX4/Chinese-Resume-in-Typst",
+          "https://github.com/UntimelyCreation97/typst-neat-cv",
+          "https://github.com/bamboovir/typst-resume-template",
+          "https://github.com/caffeinatedgaze/bare-bones-cv",
+          "https://github.com/daxartio/cv",
+          "https://github.com/elegaanz/vercanard",
+          "https://github.com/giovanniberti/moderncv.typst",
+          "https://github.com/gvariable/billryan-typst",
+          "https://github.com/hexWars/resume",
+          "https://github.com/ice-kylin/typst-cv-miku",
+          "https://github.com/jskherman/cv.typ",
+          "https://github.com/jxpeng98/Typst-CV-Resume",
+          "https://github.com/kznr02/neet-cv",
+          "https://github.com/mintyfrankie/awesomeCV-Typst",
+          "https://github.com/mizlan/typst-resume-sans",
+          "https://github.com/peterpf/modern-typst-resume",
+          "https://github.com/skyzh/typst-cv-template",
+          "https://github.com/titaneric/typst-mixed-resume",
+          "https://github.com/tomowang/typst-twentysecondcv",
+          "https://github.com/tzx/NNJR",
+          "https://github.com/vaibhavjhawar/typst-cv-template1",
+          "https://github.com/wusyong/resume.typ"
+        ]
+      }
+    ],
+    "Markdown简历模板": [
+      {
+        "links": [
+          "https://github.com/mszep/pandoc_resume",
+          "https://github.com/CyC2018/Markdown-Resume"
+        ]
+      }
     ]
   },
   "补充资料": {
@@ -136,6 +177,15 @@
         "links": [
           "https://github.com/Haixing-Hu/typesetting-standard",
           "https://github.com/sparanoid/chinese-copywriting-guidelines"
+        ]
+      }
+    ],
+    "简历相关": [
+      {
+        "links": [
+          "https://github.com/dyweb/awesome-resume-for-chinese",
+          "https://github.com/ManiMozaffar/awesome-resumes",
+          "https://github.com/posquit0/Awesome-CV"
         ]
       }
     ]
