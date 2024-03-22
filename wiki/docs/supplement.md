@@ -19,3 +19,7 @@
 ## 排版相关
 
 {{ read_csv("../csv/supplement-typography.csv") }}
+
+## 简历相关
+
+{{ read_csv("../csv/supplement-resume.csv") }}

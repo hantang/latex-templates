@@ -1,0 +1,28 @@
+序号,合计,GitHub仓库,已归档,已荒废,Star数,Fork数,最新推送,创建时间,许可证,说明
+0,27/0/0,[DawnEver/typst-academic-cv](https://github.com/DawnEver/typst-academic-cv), , ,3,0,2024-03-10,2024-01-17, ,Typst Template for Academic CV
+1,27/0/0,[GeorgeHoneywood/alta-typst](https://github.com/GeorgeHoneywood/alta-typst), , ,120,17,2023-08-26,2023-01-28,MIT,"A simple Typst CV template, inspired by AltaCV by LianTze Lim."
+2,27/0/0,[Harkunwar/attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume), , ,49,1,2023-05-01,2023-03-07,MIT,Attractive Typst Resume Template
+3,27/0/0,[JCGoran/typst-cv-template](https://github.com/JCGoran/typst-cv-template), , ,6,0,2023-10-24,2023-10-10, ,Template for a CV using typst
+4,27/0/0,[LaurenzV/simplecv](https://github.com/LaurenzV/simplecv), , ,45,5,2023-03-21,2022-12-29,MIT,SimpleCV is a simple and elegant CV template written in Typst.
+5,27/0/0,[OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst), , ,114,8,2024-03-21,2023-05-13, ,"使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片"
+6,27/0/0,[UntimelyCreation/typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv), , ,16,0,2024-01-03,2023-11-04,MIT,"A set of templates to produce modern, minimal and elegant CVs and cover letters using Typst."
+7,27/0/0,[bamboovir/typst-resume-template](https://github.com/bamboovir/typst-resume-template), , ,87,8,2024-03-18,2023-03-25,MIT,typst-resume-template
+8,27/0/0,[caffeinatedgaze/bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv), , ,36,2,2023-11-04,2023-11-04, ,A minimalistic CV comprising essentials only
+9,27/0/0,[daxartio/cv](https://github.com/daxartio/cv), , ,15,0,2024-01-25,2022-05-09,MIT,Programmatic generation of high-quality CVs
+10,27/0/0,[elegaanz/vercanard](https://github.com/elegaanz/vercanard), , ,55,3,2024-03-19,2023-04-04,GPL-3.0,A colorful resume template for Typst
+11,27/0/0,[giovanniberti/moderncv.typst](https://github.com/giovanniberti/moderncv.typst), , ,39,7,2023-03-30,2023-03-30,Apache-2.0,A typst template inspired by LaTeX moderncv
+12,27/0/0,[gvariable/billryan-typst](https://github.com/gvariable/billryan-typst), , ,14,0,2023-07-28,2023-04-28, ,"A simple and minimalist resume template, inspired by Resume by Billryan."
+13,27/0/0,[hexWars/resume](https://github.com/hexWars/resume), , ,11,0,2023-11-16,2023-03-08,MIT,A pretty resume template in Typst | 一个美观的typst简历模板
+14,27/0/0,[ice-kylin/typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku), , ,43,1,2023-04-09,2023-04-09,WTFPL,"A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)."
+15,27/0/0,[jskherman/cv.typ](https://github.com/jskherman/cv.typ), , ,241,29,2024-03-01,2023-06-20,Apache-2.0,A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+16,27/0/0,[jxpeng98/Typst-CV-Resume](https://github.com/jxpeng98/Typst-CV-Resume), , ,12,1,2024-02-16,2023-04-05,MIT,A CV template inspired by Deedy-Resume
+17,27/0/0,[kznr02/neet-cv](https://github.com/kznr02/neet-cv), , ,4,0,2023-08-29,2023-07-28,MIT,基于typst排版系统编写的简历模板
+18,27/0/0,[mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV), , ,288,13,2024-02-05,2023-04-28,Apache-2.0,"💼 another CV template for your job application, yet powered by Typst and more"
+19,27/0/0,[mizlan/typst-resume-sans](https://github.com/mizlan/typst-resume-sans), , ,21,1,2023-10-25,2023-10-25, ,✨ Pretty resume template written in Typst
+20,27/0/0,[peterpf/modern-typst-resume](https://github.com/peterpf/modern-typst-resume), , ,18,3,2023-12-04,2023-12-01,Unlicense,A modern typst resume template
+21,27/0/0,[skyzh/chicv](https://github.com/skyzh/chicv), , ,512,34,2024-03-11,2023-03-25,CC0-1.0,Chi CV Template (For Typst)
+22,27/0/0,[titaneric/typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume), , ,10,0,2023-07-25,2023-04-07,MIT, 
+23,27/0/0,[tomowang/typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv), , ,16,1,2023-11-20,2023-08-04,MIT,Twenty Seconds CV/Resume in Typst
+24,27/0/0,[tzx/NNJR](https://github.com/tzx/NNJR), , ,23,3,2023-12-31,2023-12-30,MIT,"NNJR: NNJR is Not Jake's Resume. However, it is similar and is written in Typst!"
+25,27/0/0,[vaibhavjhawar/typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1), , ,10,1,2024-03-19,2023-08-25,MIT,"A Typst Resume/CV template, inspired by Alessandro Plasmati's Graduate CV LaTex template"
+26,27/0/0,[wusyong/resume.typ](https://github.com/wusyong/resume.typ), , ,125,12,2023-04-07,2021-02-26,AGPL-3.0,Resume template for Typst. Mirror to https://typst.app/project/rVVa3y9vXemUKyvNKnabKV

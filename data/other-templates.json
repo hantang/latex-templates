@@ -77,23 +77,6 @@
         ]
       }
     ],
-    "Markdown写作模板": [
-      {
-        "links": [
-          "https://github.com/cagix/pandoc-thesis",
-          "https://github.com/ismayc/thesisdown",
-          "https://github.com/pzhaonet/bookdownplus",
-          "https://github.com/tompollard/phd_thesis_markdown"
-        ]
-      }
-    ],
-    "其他写作模板": [
-      {
-        "links": [
-          "https://github.com/dangom/org-thesis"
-        ]
-      }
-    ],
     "Typst简历模板": [
       {
         "links": [
@@ -103,7 +86,7 @@
           "https://github.com/JCGoran/typst-cv-template",
           "https://github.com/LaurenzV/simplecv",
           "https://github.com/OrangeX4/Chinese-Resume-in-Typst",
-          "https://github.com/UntimelyCreation97/typst-neat-cv",
+          "https://github.com/UntimelyCreation/typst-neat-cv",
           "https://github.com/bamboovir/typst-resume-template",
           "https://github.com/caffeinatedgaze/bare-bones-cv",
           "https://github.com/daxartio/cv",
@@ -115,10 +98,10 @@
           "https://github.com/jskherman/cv.typ",
           "https://github.com/jxpeng98/Typst-CV-Resume",
           "https://github.com/kznr02/neet-cv",
-          "https://github.com/mintyfrankie/awesomeCV-Typst",
+          "https://github.com/mintyfrankie/brilliant-CV",
           "https://github.com/mizlan/typst-resume-sans",
           "https://github.com/peterpf/modern-typst-resume",
-          "https://github.com/skyzh/typst-cv-template",
+          "https://github.com/skyzh/chicv",
           "https://github.com/titaneric/typst-mixed-resume",
           "https://github.com/tomowang/typst-twentysecondcv",
           "https://github.com/tzx/NNJR",
@@ -127,11 +110,27 @@
         ]
       }
     ],
+    "Markdown写作模板": [
+      {
+        "links": [
+          "https://github.com/cagix/pandoc-thesis",
+          "https://github.com/ismayc/thesisdown",
+          "https://github.com/pzhaonet/bookdownplus",
+          "https://github.com/tompollard/phd_thesis_markdown"
+        ]
+      }
+    ],
     "Markdown简历模板": [
       {
         "links": [
-          "https://github.com/mszep/pandoc_resume",
           "https://github.com/CyC2018/Markdown-Resume"
+        ]
+      }
+    ],
+    "其他写作模板": [
+      {
+        "links": [
+          "https://github.com/dangom/org-thesis"
         ]
       }
     ]
@@ -183,9 +182,8 @@
     "简历相关": [
       {
         "links": [
-          "https://github.com/dyweb/awesome-resume-for-chinese",
           "https://github.com/ManiMozaffar/awesome-resumes",
-          "https://github.com/posquit0/Awesome-CV"
+          "https://github.com/dyweb/awesome-resume-for-chinese"
         ]
       }
     ]
