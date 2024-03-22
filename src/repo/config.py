@@ -25,7 +25,7 @@ REPO_STRUCTS = [
             ],
             [
                 "更多非LaTeX模板", 
-                ["Typst写作模板","Typst简历模板", "Markdown写作模板" "Markdown简历模板", "其他写作模板"]
+                ["Typst写作模板", "Typst简历模板", "Markdown写作模板", "Markdown简历模板", "其他写作模板"],
             ],
             [
                 "补充资料",
