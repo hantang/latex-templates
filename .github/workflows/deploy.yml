@@ -1,0 +1,51 @@
+name: Deploy Wiki
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: "0 10 5,20 * *"
+
+env:
+  PYTHON_VERSION: 3.x
+
+jobs:
+  deploy:
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+      - name: Checkout data
+        uses: actions/checkout@v4
+        with:
+          repository: hantang/latex-data
+          token: ${{ secrets.GH_TOKEN }}
+          path: latex-data
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Build site
+        run: bash ./deploy.sh
+      - name: Setup pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: wiki/site
+      - name: Deploy to GitHub pages
+        id: deployment
+        uses: actions/deploy-pages@v4
