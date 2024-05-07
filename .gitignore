@@ -1,10 +1,17 @@
-# VisualStudioCode
-.vscode/*
-
-# os
-*~
-[Dd]esktop.ini
-$RECYCLE.BIN/
+# macos
 .DS_Store
-.AppleDouble
-.LSOverride
+
+# linux
+*~
+
+# ide
+.vscode/
+.idea/
+
+# mkdocs
+site/
+
+# python
+__pycache__/
+__pypackages__/
+*.py[cod]
