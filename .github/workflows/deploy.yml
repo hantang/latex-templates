@@ -10,9 +10,6 @@ on:
   schedule:
     - cron: "0 10 5,20 * *"
 
-env:
-  PYTHON_VERSION: 3.x
-
 jobs:
   deploy:
     permissions:
@@ -21,6 +18,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      PYTHON_VERSION: 3.x
+      SRC_DIR: latex-data
 
     runs-on: ubuntu-latest
     steps:
@@ -31,8 +31,9 @@ jobs:
         with:
           repository: hantang/latex-data
           token: ${{ secrets.GH_TOKEN }}
-          path: latex-data
+          path: ${{ env.SRC_DIR }}
           fetch-depth: 1
+          ref: ${{ github.ref }}
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}

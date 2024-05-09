@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 set -eu
 
-SRC_DIR="latex-data"
+# SRC_DIR="latex-data"
 WIKI_DIR="wiki"
+echo "SRC_DIR = ${SRC_DIR}"
 
 echo "Update doc"
 pushd ${SRC_DIR}
@@ -14,8 +15,8 @@ pushd ${WIKI_DIR}
 mkdocs build
 popd
 
-echo "Doc structs"
-echo "PWD: $(pwd)"
-ls -l ${WIKI_DIR}/
-ls -l ${WIKI_DIR}/**/*.md
-tail ${WIKI_DIR}/mkdocs.yml
+# echo "Doc structs"
+# echo "PWD: $(pwd)"
+# ls -l ${WIKI_DIR}/
+# ls -l ${WIKI_DIR}/**/*.md
+# tail ${WIKI_DIR}/mkdocs.yml
