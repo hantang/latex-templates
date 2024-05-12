@@ -120,7 +120,7 @@ nav:
   - 主页: index.md
 # START-NAV
 # END-NAV
-  - 补充资料: 
-    - resource/writing.md
-    - resource/tutorial.md
-    - resource/tools.md
+  # - 补充资料: 
+  #   - resource/writing.md
+  #   - resource/tutorial.md
+  #   - resource/tools.md
