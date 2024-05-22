@@ -5,7 +5,7 @@
 ![GitHub Commit Badge](https://img.shields.io/github/last-commit/hantang/latex-templates.svg)
 ![GitHub License Badge](https://img.shields.io/github/license/hantang/latex-templates.svg)
 
-[English README](./README.en.md) | [简体中文 README](./README.md)
+[English README](README-en.md) | [简体中文 README](README.md)
 
 ## Introduction
 

@@ -1,6 +1,5 @@
-mkdocs
 mkdocs-material
 mkdocs-minify-plugin
 mkdocs-table-reader-plugin
-#mkdocs-git-revision-date-localized-plugin
+mkdocs-static-i18n
 mdx_truly_sane_lists
