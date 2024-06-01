@@ -4,11 +4,8 @@ on:
   push:
     branches:
       - main
-  # pull_request:
-  #   branches:
-  #     - main
   schedule:
-    - cron: "0 10 5,20 * *"
+    - cron: "0 10 5,15,25 * *"
 
 jobs:
   deploy:
