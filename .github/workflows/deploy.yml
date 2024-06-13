@@ -1,25 +1,29 @@
 name: Deploy Wiki
 
 on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 10 5,15,25 * *"
+  # push:
+  #   branches:
+  #     - main
+  # schedule:
+  #   - cron: "0 10 5,15,25 * *"
+  repository_dispatch:
+    types: [deploy-event]
 
 jobs:
   deploy:
     permissions:
       pages: write
       id-token: write
+      contents: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
     env:
       PYTHON_VERSION: 3.x
       SRC_DIR: latex-data
 
-    runs-on: ubuntu-latest
     steps:
       - name: Checkout site
         uses: actions/checkout@v4
@@ -36,14 +40,26 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: Install Python dependencies
         run: pip install -r requirements.txt
-      - name: Build site
-        run: bash ./deploy.sh
+      - name: Build
+        run: bash ${{ env.SRC_DIR }}/deploy.sh
+
+      - name: Git auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_message: Automated update by github action
+          # commit_options: '--no-verify --signoff'
+          push_options: '--force'
+          file_pattern: "README*.md"
+
       - name: Setup pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: wiki/site
+          path: site
       - name: Deploy to GitHub pages
         id: deployment
         uses: actions/deploy-pages@v4

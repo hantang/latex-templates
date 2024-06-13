@@ -15,3 +15,5 @@ site/
 __pycache__/
 __pypackages__/
 *.py[cod]
+
+/latex-data

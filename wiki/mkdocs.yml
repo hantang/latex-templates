@@ -12,7 +12,7 @@ theme:
   name: material
   # custom_dir: overrides
   language: "zh"
-  favicon: assets/favicon.ico
+  # favicon: assets/favicon.ico
   icon:
     logo: simple/latex
     repo: fontawesome/brands/square-github
@@ -56,7 +56,6 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
-  - mdx_truly_sane_lists
   - tables
   - toc:
       permalink: true
@@ -85,20 +84,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/tablesort@5.3.0/src/tablesort.min.js
-  - https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/sorts/tablesort.date.min.js
-  - https://cdn.jsdelivr.net/npm/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
-  - assets/js/tablesort.js
-
-  # - https://code.jquery.com/jquery-3.7.1.min.js
-  # - https://cdn.datatables.net/2.0.2/js/dataTables.min.js
-  # - https://cdn.datatables.net/plug-ins/2.0.2/i18n/zh.json
-  # - assets/js/datatables.js
-
-extra_css:
-  # - https://cdn.datatables.net/2.0.2/css/dataTables.dataTables.min.css
-  - assets/css/extra.css
+# extra_javascript:
+# extra_css:
 
 extra:
   social:
@@ -111,16 +98,8 @@ plugins:
         - en
         - zh
       separator: '[\s\-,:!=\[\]()"/\u200b]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-  - table-reader
-  # - git-revision-date-localized
-  - minify:
-      minify_html: true
 
 nav:
   - 主页: index.md
 # START-NAV
 # END-NAV
-  # - 补充资料: 
-  #   - resource/writing.md
-  #   - resource/tutorial.md
-  #   - resource/tools.md
