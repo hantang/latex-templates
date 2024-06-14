@@ -9,16 +9,20 @@
 
 ## 说明
 
-最近更新: <!-- START-DATE -->*2024-06-13*<!-- END-DATE -->
+最近更新: <!-- START-DATE -->*2024-06-14*<!-- END-DATE -->
 
 主要收录LaTeX学位论文模板、演示文稿（Beamer），也包括Microsoft Word、Typst和Markdown等格式的论文、演示文稿和简历模板等。
 
-全部模板列表见本仓库网站：
+> [!IMPORTANT]  
+> 全部模板列表见本仓库网站：
+>
+> - 网站链接: [:link: latex-templates][link-site] **推荐**
+> - 文件(JSON格式): [:card_index_dividers: templates.json][link-data]
 
-- 网站链接: [🔗 latex-templates](https://hantang.github.io/latex-templates/) **推荐**
-- 文件(JSON格式): [🗂️ templates.json](https://hantang.github.io/latex-templates/templates.json)
+[link-site]: https://hantang.github.io/latex-templates/
+[link-data]: https://hantang.github.io/latex-templates/templates.json
 
-<!-- **[🔝 回到顶部](#beyond-latex-templates)** -->
+<!-- **[:top: 回到顶部](#beyond-latex-templates)** -->
 
 ---
 
@@ -208,6 +212,8 @@
 | **东华大学**<br>*Donghua University*                                                                                               | [godshen/<br>dhu_thesis](https://github.com/godshen/dhu_thesis)                                                                                           | ![0](https://img.shields.io/github/stars/godshen/dhu_thesis?style=flat-square)<br/>![0](https://img.shields.io/github/forks/godshen/dhu_thesis?style=flat-square)<br/>![2023-09-02](https://img.shields.io/github/last-commit/godshen/dhu_thesis?style=flat-square)                                                                                                                                           | <small>my last thing in dhu</small>                                                                                                                                                                                                             |
 | **华南理工大学**<br>*South China University of Technology*                                                                           | [mengchaoheng/<br>SCUT_course](https://github.com/mengchaoheng/SCUT_course)                                                                               | ![0](https://img.shields.io/github/stars/mengchaoheng/SCUT_course?style=flat-square)<br/>![0](https://img.shields.io/github/forks/mengchaoheng/SCUT_course?style=flat-square)<br/>![2023-11-03](https://img.shields.io/github/last-commit/mengchaoheng/SCUT_course?style=flat-square)                                                                                                                         | <small></small>                                                                                                                                                                                                                                 |
 
+**[:top: Back to Top](#beyond-latex-templates)**
+
 ### 演示文稿
 
 | 高校名称                                                                                      | GitHub仓库                                                                                                          | GitHub统计                                                                                                                                                                                                                                                                                                                                        | 说明                                                                                                                           |
@@ -271,6 +277,8 @@
 | **浙江农林大学**<br>*Zhejiang A&F University*                                                   | [favefan/<br>ZAFUBeamer-Latex](https://github.com/favefan/ZAFUBeamer-Latex)                                       | ![0](https://img.shields.io/github/stars/favefan/ZAFUBeamer-Latex?style=flat-square)<br/>![0](https://img.shields.io/github/forks/favefan/ZAFUBeamer-Latex?style=flat-square)<br/>![2024-03-31](https://img.shields.io/github/last-commit/favefan/ZAFUBeamer-Latex?style=flat-square)                                                           | <small>浙江农林大学 (非官方) Beamer Latex 模板 / Zhejiang A & F University (Unofficial) Beamer Latex Template</small>                   |
 | **上海对外经贸大学**<br>*Shanghai University of Foreign Trade and Economic Cooperation*           | [jason51108/<br>SUIBEthesis](https://github.com/jason51108/SUIBEthesis)                                           | ![0](https://img.shields.io/github/stars/jason51108/SUIBEthesis?style=flat-square)<br/>![0](https://img.shields.io/github/forks/jason51108/SUIBEthesis?style=flat-square)<br/>![2024-01-05](https://img.shields.io/github/last-commit/jason51108/SUIBEthesis?style=flat-square)                                                                 | <small>上海对外经贸大学毕业论文以及Beamer模板</small>                                                                                        |
 
+**[:top: Back to Top](#beyond-latex-templates)**
+
 ### 其他
 
 | 高校名称                                                            | GitHub仓库                                                                                                                | GitHub统计                                                                                                                                                                                                                                                                                                                                                  | 说明                                                                                                                                                                                                                      |
@@ -320,6 +328,8 @@
 | **东北师范大学**<br>*Northeast Normal University*                     | [leungll/<br>NENU-Letter-Template](https://github.com/leungll/NENU-Letter-Template)                                     | ![4](https://img.shields.io/github/stars/leungll/NENU-Letter-Template?style=flat-square)<br/>![0](https://img.shields.io/github/forks/leungll/NENU-Letter-Template?style=flat-square)<br/>![2024-05-26](https://img.shields.io/github/last-commit/leungll/NENU-Letter-Template?style=flat-square)                                                         | <small>Made with LaTex. NENU's recommendation letter template.</small>                                                                                                                                                  |
 | **通用模板**<br>*Common Templates*                                  | [thesfinox/<br>latex-commons](https://github.com/thesfinox/latex-commons)                                               | ![1](https://img.shields.io/github/stars/thesfinox/latex-commons?style=flat-square)<br/>![0](https://img.shields.io/github/forks/thesfinox/latex-commons?style=flat-square)<br/>![2023-11-28](https://img.shields.io/github/last-commit/thesfinox/latex-commons?style=flat-square)                                                                        | <small>Common custom commands and classes in LaTeX</small>                                                                                                                                                              |
 
+**[:top: Back to Top](#beyond-latex-templates)**
+
 ## 热门和新增的非LaTeX类型模板
 
 ### 学位论文
@@ -368,6 +378,8 @@
 | **（英国）剑桥大学**<br>*University of Cambridge*                                                                               | [jeffa5/<br>typst-cambridge](https://github.com/jeffa5/typst-cambridge)                                 | ![0](https://img.shields.io/github/stars/jeffa5/typst-cambridge?style=flat-square)<br/>![0](https://img.shields.io/github/forks/jeffa5/typst-cambridge?style=flat-square)<br/>![2024-04-11](https://img.shields.io/github/last-commit/jeffa5/typst-cambridge?style=flat-square)                                                   | <small>Typst templates for the University of Cambridge</small>                                                                                                                                  |
 | **（美国）博伊西州立大学**<br>*Boise State University*                                                                             | [lorrainegaudio/<br>BSU_Graduate_Thesis](https://github.com/lorrainegaudio/BSU_Graduate_Thesis)         | ![0](https://img.shields.io/github/stars/lorrainegaudio/BSU_Graduate_Thesis?style=flat-square)<br/>![0](https://img.shields.io/github/forks/lorrainegaudio/BSU_Graduate_Thesis?style=flat-square)<br/>![2024-03-10](https://img.shields.io/github/last-commit/lorrainegaudio/BSU_Graduate_Thesis?style=flat-square)               | <small>This repository contains all writing documents used in the creation of my thesis for a Master of Arts in Anthropology at Boise State University. I will be using Microsoft Word.</small> |
 
+**[:top: Back to Top](#beyond-latex-templates)**
+
 ### 其他
 
 | 高校名称                                 | GitHub仓库                                                                                        | GitHub统计                                                                                                                                                                                                                                                                                                                 | 说明                                                                                                                                                                                                          |
@@ -411,6 +423,8 @@
 | **通用模板**<br>*Common Templates*       | [DawnEver/<br>typst-academic-cv](https://github.com/DawnEver/typst-academic-cv)                 | ![8](https://img.shields.io/github/stars/DawnEver/typst-academic-cv?style=flat-square)<br/>![0](https://img.shields.io/github/forks/DawnEver/typst-academic-cv?style=flat-square)<br/>![2024-05-20](https://img.shields.io/github/last-commit/DawnEver/typst-academic-cv?style=flat-square)                              | <small>Typst Template for Academic CV</small>                                                                                                                                                               |
 | **通用模板**<br>*Common Templates*       | [kznr02/<br>neet-cv](https://github.com/kznr02/neet-cv)                                         | ![8](https://img.shields.io/github/stars/kznr02/neet-cv?style=flat-square)<br/>![0](https://img.shields.io/github/forks/kznr02/neet-cv?style=flat-square)<br/>![2023-08-29](https://img.shields.io/github/last-commit/kznr02/neet-cv?style=flat-square)                                                                  | <small>基于typst排版系统编写的简历模板</small>                                                                                                                                                                           |
 
+**[:top: Back to Top](#beyond-latex-templates)**
+
 <!-- END-TABLE -->
 
 ## 贡献
@@ -421,4 +435,4 @@ Copyright &copy; 2018-2024 Hantang
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**[🔝 回到顶部](#beyond-latex-templates)**
+**[:top: 回到顶部](#beyond-latex-templates)**
