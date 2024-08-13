@@ -17,3 +17,4 @@ __pypackages__/
 *.py[cod]
 
 /latex-data
+/temp

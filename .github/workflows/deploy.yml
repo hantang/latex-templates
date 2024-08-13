@@ -52,7 +52,7 @@ jobs:
           commit_message: Automated update by github action
           # commit_options: '--no-verify --signoff'
           push_options: '--force'
-          file_pattern: "README*.md"
+          file_pattern: "README*.md,data/*.csv"
 
       - name: Setup pages
         uses: actions/configure-pages@v4
