@@ -22,7 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PYTHON_VERSION: 3.x
-      SRC_DIR: latex-data
+      USER: hantang
+      REPO: latex-data
 
     steps:
       - name: Checkout site
@@ -30,9 +31,9 @@ jobs:
       - name: Checkout data
         uses: actions/checkout@v4
         with:
-          repository: hantang/latex-data
+          repository: ${{ env.USER }}/${{ env.REPO }}
           token: ${{ secrets.GH_TOKEN }}
-          path: ${{ env.SRC_DIR }}
+          path: ${{ env.REPO }}
           fetch-depth: 1
           ref: ${{ github.ref }}
       - uses: actions/setup-python@v5
@@ -41,7 +42,7 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: Build
-        run: bash ${{ env.SRC_DIR }}/deploy.sh
+        run: bash ${{ env.REPO }}/deploy.sh
 
       - name: Git auto commit
         uses: stefanzweifel/git-auto-commit-action@v5
