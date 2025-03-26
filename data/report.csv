@@ -1,42 +1,42 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,**通用模板**,*Common Templates*,[:simple-github: kourgeorge/<br>arxiv-style](https://github.com/kourgeorge/arxiv-style),:unlock:,1231,327,:material-update: `2024-01-02`,:material-license: `MIT`
+0,**通用模板**,*Common Templates*,[:simple-github: kourgeorge/<br>arxiv-style](https://github.com/kourgeorge/arxiv-style),:unlock:,1233,327,:material-update: `2024-01-02`,:material-license: `MIT`
 1,**国家自然科学基金**,*National Natural Science Foundation of China*,[:simple-github: Ruzim/<br>NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex),:unlock:,953,242,:material-update: `2025-03-06`,:material-license: `MIT`
-2,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: mohuangrui/<br>ucasproposal](https://github.com/mohuangrui/ucasproposal),:unlock:,642,146,:material-update: `2021-10-29`, 
+2,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: mohuangrui/<br>ucasproposal](https://github.com/mohuangrui/ucasproposal),:unlock:,643,146,:material-update: `2021-10-29`, 
 3,**通用模板**,*Common Templates*,[:simple-github: apoorvkh/<br>cvpr-latex-template](https://github.com/apoorvkh/cvpr-latex-template),:unlock:,575,181,:material-update: `2025-02-10`, 
-4,**国家自然科学基金**,*National Natural Science Foundation of China*,[:simple-github: huangwb8/<br>ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX),:unlock:,493,67,:material-update: `2025-03-11`,:material-license: `MIT`
+4,**国家自然科学基金**,*National Natural Science Foundation of China*,[:simple-github: huangwb8/<br>ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX),:unlock:,494,67,:material-update: `2025-03-11`,:material-license: `MIT`
 5,**国家自然科学基金**,*National Natural Science Foundation of China*,[:simple-github: fylimas/<br>nsfc](https://github.com/fylimas/nsfc),:unlock:,471,129,:material-update: `2025-03-15`, 
 6,**国家自然科学基金**,*National Natural Science Foundation of China*,[:simple-github: YimianDai/<br>iNSFC](https://github.com/YimianDai/iNSFC),:unlock:,442,192,:material-update: `2024-01-09`,:material-license: `MIT`
-7,**通用模板**,*Common Templates*,[:simple-github: jpeisenbarth/<br>SRS-Tex](https://github.com/jpeisenbarth/SRS-Tex),:unlock:,151,71,:material-update: `2022-09-14`,:material-license: `GPL-3.0`
+7,**通用模板**,*Common Templates*,[:simple-github: jpeisenbarth/<br>SRS-Tex](https://github.com/jpeisenbarth/SRS-Tex),:unlock:,152,71,:material-update: `2022-09-14`,:material-license: `GPL-3.0`
 8,**西安电子科技大学**,*Xidian University*,[:simple-github: note286/<br>xdupgtp](https://github.com/note286/xdupgtp),:unlock:,106,8,:material-update: `2022-03-18`,:material-license: `LPPL-1.3c`
 9,**通用模板**,*Common Templates*,[:simple-github: latextemplates/<br>ieee-enhanced](https://github.com/latextemplates/ieee-enhanced),:unlock:,101,36,:material-update: `2025-03-04`,:material-license: `0BSD`
 10,**浙江大学**,*Zhejiang University*,[:simple-github: megrxu/<br>zjureport](https://github.com/megrxu/zjureport),:unlock:,100,35,:material-update: `2023-03-08`,:material-license: `LPPL-1.3c`
 11,**国防科技大学**,*National Defense University of Science and Technology*,[:simple-github: TomHeaven/<br>nudtproposal](https://github.com/TomHeaven/nudtproposal),:unlock:,94,33,:material-update: `2024-04-18`, 
-12,**通用模板**,*Common Templates*,[:simple-github: ruohoruotsi/<br>latex-template-arxiv-preprint](https://github.com/ruohoruotsi/latex-template-arxiv-preprint),:unlock:,91,22,:material-update: `2017-11-29`,:material-license: `MIT`
+12,**通用模板**,*Common Templates*,[:simple-github: ruohoruotsi/<br>latex-template-arxiv-preprint](https://github.com/ruohoruotsi/latex-template-arxiv-preprint),:unlock:,92,22,:material-update: `2017-11-29`,:material-license: `MIT`
 13,**上海交通大学**,*Shanghai Jiaotong University*,[:simple-github: NemoYuan2008/<br>SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal),:unlock:,91,4,:material-update: `2024-11-15`,:material-license: `MIT`
 14,**通用模板**,*Common Templates*,[:simple-github: quarto-journals/<br>article-format-template](https://github.com/quarto-journals/article-format-template),:unlock:,74,18,:material-update: `2024-07-03`,:material-license: `MIT`
-15,**同济大学**,*Tongji University*,[:simple-github: TJ-CSCCG/<br>tongji-recommendation-template](https://github.com/TJ-CSCCG/tongji-recommendation-template),:unlock:,70,4,:material-update: `2023-11-15`,:material-license: `LPPL-1.3c`
-16,**通用模板**,*Common Templates*,[:simple-github: cdc08x/<br>letter-2-reviewers-LaTeX-template](https://github.com/cdc08x/letter-2-reviewers-LaTeX-template),:unlock:,65,23,:material-update: `2022-05-24`,:material-license: `GPL-3.0`
+15,**同济大学**,*Tongji University*,[:simple-github: TJ-CSCCG/<br>tongji-recommendation-template](https://github.com/TJ-CSCCG/tongji-recommendation-template),:unlock:,72,4,:material-update: `2023-11-15`,:material-license: `LPPL-1.3c`
+16,**通用模板**,*Common Templates*,[:simple-github: cdc08x/<br>letter-2-reviewers-LaTeX-template](https://github.com/cdc08x/letter-2-reviewers-LaTeX-template),:unlock:,65,23,:material-update: `2025-03-07`,:material-license: `GPL-3.0`
 17,**华北理工大学**,*North China University of Science and Technology*,[:simple-github: muyuuuu/<br>A-customized-MCM-LaTeX-template-based-on-ctexart](https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart),:unlock:,56,18,:material-update: `2021-02-07`,:material-license: `GPL-3.0`
-18,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: jweihe/<br>UCAS_Latex_Template](https://github.com/jweihe/UCAS_Latex_Template),:unlock:,54,4,:material-update: `2023-06-07`, 
-19,**通用模板**,*Common Templates*,[:simple-github: stoufa/<br>ISI-LaTeX-Template](https://github.com/stoufa/ISI-LaTeX-Template),:unlock:,53,30,:material-update: `2020-06-14`, 
+18,**通用模板**,*Common Templates*,[:simple-github: stoufa/<br>ISI-LaTeX-Template](https://github.com/stoufa/ISI-LaTeX-Template),:unlock:,55,30,:material-update: `2020-06-14`, 
+19,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: jweihe/<br>UCAS_Latex_Template](https://github.com/jweihe/UCAS_Latex_Template),:unlock:,54,4,:material-update: `2023-06-07`, 
 20,**北京航空航天大学**,"*Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)*",[:simple-github: Htallone/<br>JBUAA](https://github.com/Htallone/JBUAA),:unlock:,53,20,:material-update: `2018-08-21`, 
-21,**（美国）麻省理工学院**,*Massachusetts Institute of Technology (MIT)*,[:simple-github: mit-eecs-gsa/<br>mit-eecs-thesis-proposal-template](https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template),:unlock:,50,36,:material-update: `2024-01-30`,:material-license: `MIT`
-22,**通用模板**,*Common Templates*,[:simple-github: AASJournals/<br>AASTeX60](https://github.com/AASJournals/AASTeX60),:unlock:,50,27,:material-update: `2025-01-29`,:material-license: `LPPL-1.3c`
-23,**武汉理工大学**,*Wuhan University of Technology*,[:simple-github: huangyxi/<br>whutmod](https://github.com/huangyxi/whutmod),:unlock:,50,17,:material-update: `2024-03-14`, 
-24,**西安电子科技大学**,*Xidian University*,[:simple-github: note286/<br>xduugtp](https://github.com/note286/xduugtp),:unlock:,48,4,:material-update: `2022-03-09`,:material-license: `LPPL-1.3c`
+21,**（美国）麻省理工学院**,*Massachusetts Institute of Technology (MIT)*,[:simple-github: mit-eecs-gsa/<br>mit-eecs-thesis-proposal-template](https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template),:unlock:,51,36,:material-update: `2024-01-30`,:material-license: `MIT`
+22,**武汉理工大学**,*Wuhan University of Technology*,[:simple-github: huangyxi/<br>whutmod](https://github.com/huangyxi/whutmod),:unlock:,51,17,:material-update: `2024-03-14`, 
+23,**通用模板**,*Common Templates*,[:simple-github: AASJournals/<br>AASTeX60](https://github.com/AASJournals/AASTeX60),:unlock:,50,27,:material-update: `2025-01-29`,:material-license: `LPPL-1.3c`
+24,**西安电子科技大学**,*Xidian University*,[:simple-github: note286/<br>xduugtp](https://github.com/note286/xduugtp),:unlock:,49,4,:material-update: `2022-03-09`,:material-license: `LPPL-1.3c`
 25,**通用模板**,*Common Templates*,[:simple-github: AravindVasudev/<br>Statement-of-Purpose](https://github.com/AravindVasudev/Statement-of-Purpose),:unlock:,46,14,:material-update: `2018-12-25`,:material-license: `MIT`
 26,**通用模板**,*Common Templates*,[:simple-github: zshufan/<br>UESTC_Lab_Report_LaTeX_Template](https://github.com/zshufan/UESTC_Lab_Report_LaTeX_Template),:unlock:,46,6,:material-update: `2019-08-02`,:material-license: `LPPL-1.3c`
 27,**通用模板**,*Common Templates*,[:simple-github: Korogodin/<br>NSLReport](https://github.com/Korogodin/NSLReport),:unlock:,43,7,:material-update: `2024-07-11`,:material-license: `GPL-3.0`
 28,**浙江大学**,*Zhejiang University*,[:simple-github: longqianh/<br>ZJU-experiment-report-template](https://github.com/longqianh/ZJU-experiment-report-template),:unlock:,33,6,:material-update: `2023-02-10`,:material-license: `Apache-2.0`
 29,**通用模板**,*Common Templates*,[:simple-github: Chen-Jialin/<br>Assignment-Template](https://github.com/Chen-Jialin/Assignment-Template),:unlock:,31,5,:material-update: `2024-10-06`,:material-license: `MIT`
 30,**东南大学**,*Southeast University*,[:simple-github: Teddy-van-Jerry/<br>SEU-ML-Assign_LaTeX_Template](https://github.com/Teddy-van-Jerry/SEU-ML-Assign_LaTeX_Template),:unlock:,29,3,:material-update: `2022-04-15`,:material-license: `MIT`
-31,**通用模板**,*Common Templates*,[:simple-github: MBerkayHamurcu/<br>VSCTeX](https://github.com/MBerkayHamurcu/VSCTeX),:unlock:,27,4,:material-update: `2025-03-09`,:material-license: `CC0-1.0`
+31,**通用模板**,*Common Templates*,[:simple-github: MBerkayHamurcu/<br>VSCTeX](https://github.com/MBerkayHamurcu/VSCTeX),:unlock:,28,4,:material-update: `2025-03-09`,:material-license: `CC0-1.0`
 32,**（挪威）奥斯陆大学**,*University of Oslo*<br>(Universitetet i Oslo),[:simple-github: uio-latex/<br>mnfrontpage](https://github.com/uio-latex/mnfrontpage),:unlock:,25,3,:material-update: `2020-09-01`,:material-license: `MIT`
 33,**合肥工业大学**,*HeFei University of Technology*,[:simple-github: HFUTTUG/<br>HFUT_Course_Report](https://github.com/HFUTTUG/HFUT_Course_Report),:unlock:,23,4,:material-update: `2022-12-29`,:material-license: `LPPL-1.3c`
 34,**通用模板**,*Common Templates*,[:simple-github: Htallone/<br>AAAS](https://github.com/Htallone/AAAS),:unlock:,23,3,:material-update: `2019-01-09`, 
 35,**通用模板**,*Common Templates*,[:simple-github: dpmj/<br>alcazar](https://github.com/dpmj/alcazar),:unlock:,22,7,:material-update: `2025-02-09`,:material-license: `NOASSERTION`
-36,**通用模板**,*Common Templates*,[:simple-github: NN708/<br>SimpleLabReport](https://github.com/NN708/SimpleLabReport),:unlock:,21,3,:material-update: `2023-04-24`,:material-license: `MIT`
-37,**通用模板**,*Common Templates*,[:simple-github: ddddavid-he/<br>LaTeXTemplate_ActaPhysicaSinica](https://github.com/ddddavid-he/LaTeXTemplate_ActaPhysicaSinica),:unlock:,21,3,:material-update: `2023-01-21`,:material-license: `MIT`
+36,**通用模板**,*Common Templates*,[:simple-github: ddddavid-he/<br>LaTeXTemplate_ActaPhysicaSinica](https://github.com/ddddavid-he/LaTeXTemplate_ActaPhysicaSinica),:unlock:,21,3,:material-update: `2023-01-21`,:material-license: `MIT`
+37,**通用模板**,*Common Templates*,[:simple-github: NN708/<br>SimpleLabReport](https://github.com/NN708/SimpleLabReport),:unlock:,20,3,:material-update: `2023-04-24`,:material-license: `MIT`
 38,**南京大学**,*Nanjing University*,[:simple-github: nju-lug/<br>NJURepo](https://github.com/nju-lug/NJURepo),:unlock:,19,7,:material-update: `2021-12-18`, 
 39,**中山大学**,*Sun Yat-sen University*,[:simple-github: huanyushi/<br>SYSU-SPA-Labreport-Template](https://github.com/huanyushi/SYSU-SPA-Labreport-Template),:unlock:,19,3,:material-update: `2024-10-27`,:material-license: `MIT`
 40,**电子科技大学**,*University of Electronic Science and Technology of China*,[:simple-github: 404-NOTFOUND-Coder/<br>UESTC--report--template](https://github.com/404-NOTFOUND-Coder/UESTC--report--template),:unlock:,19,0,:material-update: `2024-10-06`, 
@@ -46,7 +46,7 @@
 44,**衡阳师范大学**,*Heng Yang Normal University*,[:simple-github: wvqusrai/<br>hnu_exam](https://github.com/wvqusrai/hnu_exam),:unlock:,16,9,:material-update: `2024-12-26`, 
 45,**中南大学**,*Central South University*,[:simple-github: zhong-yy/<br>CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal),:unlock:,14,4,:material-update: `2021-11-19`, 
 46,**湖南大学**,*Hunan University*,[:simple-github: zcyeee/<br>HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template),:unlock:,14,0,:material-update: `2024-07-14`,:material-license: `LPPL-1.3c`
-47,**（新西兰）奥克兰大学**,*University of Auckland*,[:simple-github: jennafin/<br>work-report-latex-sample](https://github.com/jennafin/work-report-latex-sample),:unlock:,10,2,:material-update: `2015-07-01`, 
+47,**（新西兰）奥克兰大学**,*University of Auckland*,[:simple-github: jennafin/<br>work-report-latex-sample](https://github.com/jennafin/work-report-latex-sample),:unlock:,11,2,:material-update: `2015-07-01`, 
 48,**西北工业大学**,*Northwestern Polytechnical University*,[:simple-github: NPUSCG/<br>npu-dissertation-proposal](https://github.com/NPUSCG/npu-dissertation-proposal),:unlock:,9,7,:material-update: `2022-06-04`, 
 49,**西北工业大学**,*Northwestern Polytechnical University*,[:simple-github: zzhang1987/<br>NPUResearchProposal](https://github.com/zzhang1987/NPUResearchProposal),:unlock:,9,6,:material-update: `2015-07-23`, 
 50,**东北林业大学**,*Northeast Forestry University*,[:simple-github: dustincys/<br>NEFUThesis](https://github.com/dustincys/NEFUThesis),:unlock:,9,2,:material-update: `2017-10-30`, 
