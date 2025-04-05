@@ -1,10 +1,10 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,**通用模板**,*Common Templates*,[:simple-github: matze/<br>mtheme](https://github.com/matze/mtheme),:unlock:,6514,848,:material-update: `2022-11-23`, 
-1,**通用模板**,*Common Templates*,[:simple-github: josephwright/<br>beamer](https://github.com/josephwright/beamer),:unlock:,1493,147,:material-update: `2025-03-12`,:material-license: `NOASSERTION`
-2,**通用模板**,*Common Templates*,[:simple-github: martinbjeldbak/<br>ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list),:unlock:,1440,123,:material-update: `2025-02-09`, 
-3,**上海交通大学**,*Shanghai Jiaotong University*,[:simple-github: sjtug/<br>SJTUBeamer](https://github.com/sjtug/SJTUBeamer),:unlock:,628,63,:material-update: `2025-01-19`,:material-license: `Apache-2.0`
-4,**通用模板**,*Common Templates*,[:simple-github: pcafrica/<br>focus-beamertheme](https://github.com/pcafrica/focus-beamertheme),:unlock:,511,44,:material-update: `2024-02-07`,:material-license: `GPL-3.0`
-5,**通用模板**,*Common Templates*,[:simple-github: Urinx/<br>LaTeX-PPT-Template](https://github.com/Urinx/LaTeX-PPT-Template),:unlock:,386,120,:material-update: `2017-06-30`,:material-license: `Apache-2.0`
+0,**通用模板**,*Common Templates*,[:simple-github: matze/<br>mtheme](https://github.com/matze/mtheme),:unlock:,6524,849,:material-update: `2022-11-23`, 
+1,**通用模板**,*Common Templates*,[:simple-github: josephwright/<br>beamer](https://github.com/josephwright/beamer),:unlock:,1498,147,:material-update: `2025-03-31`,:material-license: `NOASSERTION`
+2,**通用模板**,*Common Templates*,[:simple-github: martinbjeldbak/<br>ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list),:unlock:,1469,123,:material-update: `2025-02-09`, 
+3,**上海交通大学**,*Shanghai Jiaotong University*,[:simple-github: sjtug/<br>SJTUBeamer](https://github.com/sjtug/SJTUBeamer),:unlock:,628,64,:material-update: `2025-01-19`,:material-license: `Apache-2.0`
+4,**通用模板**,*Common Templates*,[:simple-github: pcafrica/<br>focus-beamertheme](https://github.com/pcafrica/focus-beamertheme),:unlock:,512,44,:material-update: `2024-02-07`,:material-license: `GPL-3.0`
+5,**通用模板**,*Common Templates*,[:simple-github: Urinx/<br>LaTeX-PPT-Template](https://github.com/Urinx/LaTeX-PPT-Template),:unlock:,387,120,:material-update: `2017-06-30`,:material-license: `Apache-2.0`
 6,**清华大学**,*Tsinghua University*,[:simple-github: tuna/<br>THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme),:unlock:,386,73,:material-update: `2020-12-11`,:material-license: `LPPL-1.3c`
 7,**东南大学**,*Southeast University*,[:simple-github: TouchFishPioneer/<br>SEU-Beamer-Slide](https://github.com/TouchFishPioneer/SEU-Beamer-Slide),:unlock:,335,89,:material-update: `2021-10-15`,:material-license: `GPL-3.0`
 8,**通用模板**,*Common Templates*,[:simple-github: rafaelbailo/<br>betterposter-latex-template](https://github.com/rafaelbailo/betterposter-latex-template),:unlock:,302,46,:material-update: `2019-09-02`,:material-license: `GPL-3.0`
@@ -12,15 +12,15 @@
 10,**通用模板**,*Common Templates*,[:simple-github: XiangyunHuang/<br>awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers),:unlock:,260,80,:material-update: `2023-09-01`, 
 11,**通用模板**,*Common Templates*,[:simple-github: SunYanCN/<br>Latex-Beamer-Template](https://github.com/SunYanCN/Latex-Beamer-Template),:unlock:,260,60,:material-update: `2022-11-29`,:material-license: `MIT`
 12,**（德国）莱茵曼应用技术大学**,*RheinMain University of Applied Sciences*<br>(Hochschule RheinMain),[:simple-github: benjamin-weiss/<br>hsrmbeamertheme](https://github.com/benjamin-weiss/hsrmbeamertheme),:unlock:,226,63,:material-update: `2024-03-09`, 
-13,**通用模板**,*Common Templates*,[:simple-github: piazzai/<br>arguelles](https://github.com/piazzai/arguelles),:unlock:,223,19,:material-update: `2025-01-08`,:material-license: `MIT`
-14,**通用模板**,*Common Templates*,[:simple-github: pmichaillat/<br>latex-presentation](https://github.com/pmichaillat/latex-presentation),:unlock:,192,53,:material-update: `2024-10-27`,:material-license: `MIT`
-15,**通用模板**,*Common Templates*,[:simple-github: PM25/<br>SimplePlus-BeamerTheme](https://github.com/PM25/SimplePlus-BeamerTheme),:unlock:,189,23,:material-update: `2025-01-12`,:material-license: `Unlicense`
+13,**通用模板**,*Common Templates*,[:simple-github: piazzai/<br>arguelles](https://github.com/piazzai/arguelles),:unlock:,225,19,:material-update: `2025-01-08`,:material-license: `MIT`
+14,**通用模板**,*Common Templates*,[:simple-github: pmichaillat/<br>latex-presentation](https://github.com/pmichaillat/latex-presentation),:unlock:,193,54,:material-update: `2024-10-27`,:material-license: `MIT`
+15,**通用模板**,*Common Templates*,[:simple-github: PM25/<br>SimplePlus-BeamerTheme](https://github.com/PM25/SimplePlus-BeamerTheme),:unlock:,193,23,:material-update: `2025-01-12`,:material-license: `Unlicense`
 16,**（美国）斯坦福大学**,*Stanford University*,[:simple-github: RylanSchaeffer/<br>Stanford-LaTeX-Poster-Template](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template),:unlock:,181,66,:material-update: `2024-01-01`, 
-17,**四川大学**,*Sichuan University*,[:simple-github: FvNCCR228/<br>SCU-Beamer-Theme](https://github.com/FvNCCR228/SCU-Beamer-Theme),:unlock:,124,18,:material-update: `2024-11-07`,:material-license: `LPPL-1.3c`
+17,**四川大学**,*Sichuan University*,[:simple-github: FvNCCR228/<br>SCU-Beamer-Theme](https://github.com/FvNCCR228/SCU-Beamer-Theme),:unlock:,126,18,:material-update: `2024-11-07`,:material-license: `LPPL-1.3c`
 18,**大连理工大学**,*Dalian University of Technology*,[:simple-github: fuujiro/<br>DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2),:unlock:,80,22,:material-update: `2021-02-04`,:material-license: `LPPL-1.3c`
 19,**清华大学**,*Tsinghua University*,[:simple-github: YangLaTeX/<br>thubeamer](https://github.com/YangLaTeX/thubeamer),:unlock:,80,18,:material-update: `2023-11-27`,:material-license: `LPPL-1.3c`
 20,**（比利时）安特卫普大学**,*University of Antwerp*<br>(Universiteit Antwerpen),[:simple-github: nschloe/<br>ua-beamer](https://github.com/nschloe/ua-beamer),:unlock:,75,22,:material-update: `2016-07-31`,:material-license: `MIT`
-21,**通用模板**,*Common Templates*,[:simple-github: PM25/<br>SimpleDarkBlue-BeamerTheme](https://github.com/PM25/SimpleDarkBlue-BeamerTheme),:unlock:,69,11,:material-update: `2025-01-14`,:material-license: `Unlicense`
+21,**通用模板**,*Common Templates*,[:simple-github: PM25/<br>SimpleDarkBlue-BeamerTheme](https://github.com/PM25/SimpleDarkBlue-BeamerTheme),:unlock:,72,11,:material-update: `2025-01-14`,:material-license: `Unlicense`
 22,**（英国）牛津大学**,*University of Oxford*,[:simple-github: gbaydin/<br>oxford-poster](https://github.com/gbaydin/oxford-poster),:unlock:,67,43,:material-update: `2023-03-31`,:material-license: `MIT`
 23,**通用模板**,*Common Templates*,[:simple-github: gshstexsociety/<br>gshs-format](https://github.com/gshstexsociety/gshs-format),:unlock:,65,14,:material-update: `2025-03-11`,:material-license: `LPPL-1.3c`
 24,**武汉大学**,*Wuhan University*,[:simple-github: hrtan99/<br>WHU-Beamer](https://github.com/hrtan99/WHU-Beamer),:unlock:,64,5,:material-update: `2023-11-01`,:material-license: `LPPL-1.3c`
@@ -31,9 +31,9 @@
 29,**大连理工大学**,*Dalian University of Technology*,[:simple-github: fuujiro/<br>DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1),:unlock:,48,20,:material-update: `2021-03-18`,:material-license: `GPL-3.0`
 30,**通用模板**,*Common Templates*,[:simple-github: makokal/<br>beamer-themes](https://github.com/makokal/beamer-themes),:unlock:,48,17,:material-update: `2018-04-27`, 
 31,**中山大学**,*Sun Yat-sen University*,[:simple-github: yxnchen/<br>sysu-beamer-template](https://github.com/yxnchen/sysu-beamer-template),:unlock:,47,9,:material-update: `2023-10-10`,:material-license: `CC0-1.0`
-32,**（瑞典）查尔姆斯理工大学**,*Chalmers University of Technology*<br>(Chalmers tekniska högskola),[:simple-github: Micket/<br>chalmers](https://github.com/Micket/chalmers),:unlock:,45,22,:material-update: `2018-02-27`, 
-33,**武汉大学**,*Wuhan University*,[:simple-github: hamsterwk/<br>whucs-beamer](https://github.com/hamsterwk/whucs-beamer),:unlock:,45,8,:material-update: `2022-05-11`, 
-34,**浙江大学**,*Zhejiang University*,[:simple-github: qychen2001/<br>ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template),:unlock:,44,3,:material-update: `2024-10-17`, 
+32,**浙江大学**,*Zhejiang University*,[:simple-github: qychen2001/<br>ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template),:unlock:,47,3,:material-update: `2024-10-17`, 
+33,**（瑞典）查尔姆斯理工大学**,*Chalmers University of Technology*<br>(Chalmers tekniska högskola),[:simple-github: Micket/<br>chalmers](https://github.com/Micket/chalmers),:unlock:,45,22,:material-update: `2018-02-27`, 
+34,**武汉大学**,*Wuhan University*,[:simple-github: hamsterwk/<br>whucs-beamer](https://github.com/hamsterwk/whucs-beamer),:unlock:,45,8,:material-update: `2022-05-11`, 
 35,**南开大学**,*Nankai University*,[:simple-github: zshicode/<br>LaTeX-Beamer-Nankai](https://github.com/zshicode/LaTeX-Beamer-Nankai),:unlock:,43,18,:material-update: `2022-01-21`, 
 36,**（意大利）米兰理工大学**,"*Polytechnic University of Milan*<br>(Politecnico di Milano, PoliMi)",[:simple-github: pcafrica/<br>beamerthemepolimi](https://github.com/pcafrica/beamerthemepolimi),:unlock:,42,4,:material-update: `2019-06-17`, 
 37,**通用模板**,*Common Templates*,[:simple-github: klingtnet/<br>beamer-template](https://github.com/klingtnet/beamer-template),:unlock:,40,16,:material-update: `2015-01-28`,:material-license: `MIT`
@@ -50,8 +50,8 @@
 48,**（瑞士）巴塞尔大学**,*University of Basel*<br>(Universität Basel),[:simple-github: ivangiangreco/<br>basilea-beamer](https://github.com/ivangiangreco/basilea-beamer),:unlock:,28,15,:material-update: `2024-02-16`,:material-license: `MIT`
 49,**兰州大学**,*Lanzhou University*,[:simple-github: yuhldr/<br>SimpleBeamerLZU](https://github.com/yuhldr/SimpleBeamerLZU),:unlock:,28,7,:material-update: `2022-04-22`, 
 50,**（奥地利）约翰内斯·开普勒大学**,"*Johannes Kepler University Linz, JKU*<br>(Johannes Kepler Universität Linz)",[:simple-github: michaelroland/<br>jku-templates-presentation-latex](https://github.com/michaelroland/jku-templates-presentation-latex),:unlock:,28,6,:material-update: `2025-01-16`,:material-license: `MPL-2.0`
-51,**（挪威）卑尔根大学**,*University of Bergen*<br>(Universitetet i Bergen),[:simple-github: martinhelso/<br>UiB](https://github.com/martinhelso/UiB),:unlock:,27,24,:material-update: `2020-09-01`,:material-license: `MIT`
-52,**北京航空航天大学**,"*Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)*",[:simple-github: Thysrael/<br>GreenParkBeamerTheme](https://github.com/Thysrael/GreenParkBeamerTheme),:unlock:,27,2,:material-update: `2025-02-18`,:material-license: `CC-BY-4.0`
+51,**北京航空航天大学**,"*Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)*",[:simple-github: Thysrael/<br>GreenParkBeamerTheme](https://github.com/Thysrael/GreenParkBeamerTheme),:unlock:,28,2,:material-update: `2025-03-31`,:material-license: `CC-BY-4.0`
+52,**（挪威）卑尔根大学**,*University of Bergen*<br>(Universitetet i Bergen),[:simple-github: martinhelso/<br>UiB](https://github.com/martinhelso/UiB),:unlock:,27,24,:material-update: `2020-09-01`,:material-license: `MIT`
 53,**（美国）康涅狄格大学**,*University of Connecticut*,[:simple-github: corybrunson/<br>beamerthemeuconn](https://github.com/corybrunson/beamerthemeuconn),:unlock:,26,13,:material-update: `2023-10-11`, 
 54,**北京大学**,*Peking University*,[:simple-github: huxuan/<br>pkuthss-slide](https://github.com/huxuan/pkuthss-slide),:card_box:,26,13,:material-update: `2016-06-05`,:material-license: `GPL-3.0`
 55,**（德国）波鸿鲁尔大学**,*Ruhr-University Bochum*<br>(Ruhr-Universität Bochum),[:simple-github: sjewo/<br>rub-beamer](https://github.com/sjewo/rub-beamer),:unlock:,26,13,:material-update: `2023-02-24`, 
@@ -80,9 +80,9 @@
 78,**通用模板**,*Common Templates*,[:simple-github: jasonbian97/<br>Academic-Report-Beamer-Template](https://github.com/jasonbian97/Academic-Report-Beamer-Template),:unlock:,16,2,:material-update: `2019-06-14`, 
 79,**复旦大学**,*Fudan University*,[:simple-github: GuangLun2000/<br>FZU-latex-template](https://github.com/GuangLun2000/FZU-latex-template),:unlock:,15,4,:material-update: `2023-04-05`, 
 80,**重庆大学**,*Chongqing University*,[:simple-github: CQUtug/<br>CQUBeamer](https://github.com/CQUtug/CQUBeamer),:unlock:,15,3,:material-update: `2018-05-07`,:material-license: `MIT`
-81,**天津大学**,*Tianjin University*,[:simple-github: EurasianEagleOwl/<br>TJU-LaTeX-Beamer-Template](https://github.com/EurasianEagleOwl/TJU-LaTeX-Beamer-Template),:unlock:,15,1,:material-update: `2022-05-29`,:material-license: `MIT`
-82,**（美国）休斯敦大学**,*University of Houston*<br>(University of Houston),[:simple-github: cainmagi/<br>UH-beamer-templates](https://github.com/cainmagi/UH-beamer-templates),:unlock:,14,6,:material-update: `2022-12-07`,:material-license: `GPL-3.0`
-83,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: peng-yq/<br>UCAS-Beamer-Theme](https://github.com/peng-yq/UCAS-Beamer-Theme),:unlock:,14,2,:material-update: `2024-10-12`,:material-license: `MIT`
+81,**中国科学院大学**,*University of Chinese Academy of Sciences*,[:simple-github: peng-yq/<br>UCAS-Beamer-Theme](https://github.com/peng-yq/UCAS-Beamer-Theme),:unlock:,15,2,:material-update: `2024-10-12`,:material-license: `MIT`
+82,**天津大学**,*Tianjin University*,[:simple-github: EurasianEagleOwl/<br>TJU-LaTeX-Beamer-Template](https://github.com/EurasianEagleOwl/TJU-LaTeX-Beamer-Template),:unlock:,15,1,:material-update: `2022-05-29`,:material-license: `MIT`
+83,**（美国）休斯敦大学**,*University of Houston*<br>(University of Houston),[:simple-github: cainmagi/<br>UH-beamer-templates](https://github.com/cainmagi/UH-beamer-templates),:unlock:,14,6,:material-update: `2022-12-07`,:material-license: `GPL-3.0`
 84,**浙江大学**,*Zhejiang University*,[:simple-github: pan2013e/<br>ZJU-beamer-template](https://github.com/pan2013e/ZJU-beamer-template),:unlock:,14,0,:material-update: `2022-05-19`, 
 85,**（美国）威斯康星大学麦迪逊分校**,*University of Wisconsin-Madison*,[:simple-github: travitch/<br>uw-beamer-template](https://github.com/travitch/uw-beamer-template),:unlock:,13,14,:material-update: `2013-01-18`, 
 86,**（美国）芝加哥大学**,*University of Chicago*,[:simple-github: jacksonllee/<br>uchicago-beamer](https://github.com/jacksonllee/uchicago-beamer),:unlock:,13,13,:material-update: `2018-02-02`,:material-license: `MIT`
