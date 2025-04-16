@@ -16,11 +16,19 @@
 > [!IMPORTANT]  
 > 全部模板列表见本仓库网站：
 >
-> - 网站链接: [:link: latex-templates][link-site] **推荐**
+> - 网站链接: 
+>   - [:link: templates][link-site-new] **推荐：新版**
+>   - [:link: latex-templates][link-site] **旧版**
 > - 文件(JSON格式): [:card_index_dividers: templates.json][link-data]
 
 [link-site]: https://hantang.github.io/latex-templates/
-[link-data]: https://hantang.github.io/latex-templates/templates.json
+[link-site-new]: https://hantang.github.io/templates/
+[link-data]: ./data/templates.json
+
+---
+
+![](./snapshot.png)
+(新版网站截图)
 
 <!-- **[:top: 回到顶部](#beyond-latex-templates)** -->
 

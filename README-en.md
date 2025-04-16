@@ -17,11 +17,19 @@ as well as other format, include  Microsoft Word, Typst, Markdown ...
 > [!IMPORTANT]  
 > All templates click this site: 
 >
-> - site link: [🔗 latex-templates][link-site] **Recommend**
-> - file(JSON format): [🗂️ templates.json][link-data]
+> - site link: 
+>   - [:link: templates][link-site-new] **Recommend: New**
+>   - [:link: latex-templates][link-site] **Old**
+> - file(JSON format): [:card_index_dividers: templates.json][link-data]
 
 [link-site]: https://hantang.github.io/latex-templates/
-[link-data]: https://hantang.github.io/latex-templates/templates.json
+[link-site-new]: https://hantang.github.io/templates/
+[link-data]: ./data/templates.json
+
+---
+
+![](./snapshot.png)
+(New site snaphot)
 
 <!-- **[:top: Back to Top](#beyond-latex-templates)** -->
 
