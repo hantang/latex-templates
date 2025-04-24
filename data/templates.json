@@ -2,7 +2,7 @@
   {
     "region": "zhs",
     "topic": "template",
-    "count": 872,
+    "count": 873,
     "templates": [
       {
         "name": {
@@ -3203,6 +3203,7 @@
               "https://github.com/a171232886/TJUThesis_master_2021",
               "https://github.com/ChrisVicky/TJU-Thesis-LaTeX-Template",
               "https://github.com/haimingz/tjuthesis",
+              "https://github.com/hanwang-15/TJUthesis_xelatex-phd-2020",
               "https://github.com/HeliosZhao/TJU-Thesis-2020",
               "https://github.com/jiangqideng/tjuthesis_master_2016",
               "https://github.com/jinyu121/tju-thesis-simple",
@@ -3212,7 +3213,6 @@
               "https://github.com/oak619/TJUthesis_xelatex-phd-2020",
               "https://github.com/pingyuer/TJUThesis",
               "https://github.com/Rien190/TJU-Paper-template",
-              "https://github.com/serendipitaet/TJUthesis_xelatex-phd-2020",
               "https://github.com/songxiaolin2009/tjuthesis_xelatex_template",
               "https://github.com/twtstudio/TJUThesisLatexTemplate"
             ]
@@ -3291,7 +3291,7 @@
           "en": "Wuhan University",
           "default": ""
         },
-        "count": 24,
+        "count": 25,
         "repositories": [
           {
             "genre": "thesis",
@@ -3327,8 +3327,9 @@
           {
             "genre": "presentation",
             "language": "latex",
-            "count": 4,
+            "count": 5,
             "links": [
+              "https://github.com/FlorianTseng/WHU-Beamer",
               "https://github.com/fyqqyf/WHU-Beamer-Theme",
               "https://github.com/hamsterwk/whucs-beamer",
               "https://github.com/hrtan99/WHU-Beamer",
