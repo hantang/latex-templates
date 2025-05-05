@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Update at: <!-- START-DATE -->*2025-04-25*<!-- END-DATE -->
+Update at: <!-- START-DATE -->*2025-05-05*<!-- END-DATE -->
 
 An awesome list to collect all kinds of Latex thesis/dissertation, representation(beamer/slides), resume etc.,
 as well as other format, include  Microsoft Word, Typst, Markdown ...

@@ -1,21 +1,21 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1251,329,2024-01-02,MIT
-1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,961,244,2025-03-06,MIT
-2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,651,147,2021-10-29, 
-3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,576,180,2025-02-10, 
-4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,503,67,2025-03-11,MIT
-5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,472,129,2025-03-15, 
-6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,442,192,2024-01-09,MIT
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1261,333,2024-01-02,MIT
+1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,965,244,2025-03-06,MIT
+2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,653,147,2021-10-29, 
+3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,576,181,2025-02-10, 
+4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,507,67,2025-03-11,MIT
+5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,473,129,2025-03-15, 
+6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,444,192,2024-01-09,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,154,70,2022-09-14,GPL-3.0
 8,西安电子科技大学,Xidian University,https://github.com/note286/xdupgtp,0,106,8,2022-03-18,LPPL-1.3c
-9,浙江大学,Zhejiang University,https://github.com/megrxu/zjureport,0,102,36,2023-03-08,LPPL-1.3c
-10,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,101,36,2025-04-12,0BSD
+9,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,103,36,2025-04-24,0BSD
+10,浙江大学,Zhejiang University,https://github.com/megrxu/zjureport,0,102,36,2023-03-08,LPPL-1.3c
 11,国防科技大学,National Defense University of Science and Technology,https://github.com/TomHeaven/nudtproposal,0,95,33,2024-04-18, 
 12,通用模板,Common Templates,https://github.com/ruohoruotsi/latex-template-arxiv-preprint,0,92,22,2017-11-29,MIT
 13,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,92,4,2024-11-15,MIT
 14,通用模板,Common Templates,https://github.com/quarto-journals/article-format-template,0,74,18,2025-04-17,MIT
 15,同济大学,Tongji University,https://github.com/TJ-CSCCG/tongji-recommendation-template,0,72,4,2023-11-15,LPPL-1.3c
-16,通用模板,Common Templates,https://github.com/cdc08x/letter-2-reviewers-LaTeX-template,0,67,23,2025-03-07,GPL-3.0
+16,通用模板,Common Templates,https://github.com/cdc08x/letter-2-reviewers-LaTeX-template,0,68,23,2025-03-07,GPL-3.0
 17,华北理工大学,North China University of Science and Technology,https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart,0,56,18,2021-02-07,GPL-3.0
 18,通用模板,Common Templates,https://github.com/stoufa/ISI-LaTeX-Template,0,55,30,2020-06-14, 
 19,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/jweihe/UCAS_Latex_Template,0,55,4,2023-06-07, 
@@ -34,12 +34,12 @@
 32,（挪威）奥斯陆大学,University of Oslo*<br>(Universitetet i Oslo),https://github.com/uio-latex/mnfrontpage,0,25,3,2020-09-01,MIT
 33,合肥工业大学,HeFei University of Technology,https://github.com/HFUTTUG/HFUT_Course_Report,0,24,4,2022-12-29,LPPL-1.3c
 34,通用模板,Common Templates,https://github.com/Htallone/AAAS,0,24,3,2019-01-09, 
-35,通用模板,Common Templates,https://github.com/dpmj/alcazar,0,22,7,2025-02-09,NOASSERTION
+35,通用模板,Common Templates,https://github.com/dpmj/alcazar,0,23,7,2025-02-09,NOASSERTION
 36,通用模板,Common Templates,https://github.com/ddddavid-he/LaTeXTemplate_ActaPhysicaSinica,0,21,3,2023-01-21,MIT
-37,通用模板,Common Templates,https://github.com/NN708/SimpleLabReport,0,20,3,2023-04-24,MIT
-38,南京大学,Nanjing University,https://github.com/nju-lug/NJURepo,0,19,7,2021-12-18, 
-39,中山大学,Sun Yat-sen University,https://github.com/huanyushi/SYSU-SPA-Labreport-Template,0,19,3,2024-10-27,MIT
-40,中山大学,Sun Yat-sen University,https://github.com/NorthSecond/SYSU_Latex_Template,0,19,2,2024-09-26,NOASSERTION
+37,中山大学,Sun Yat-sen University,https://github.com/huanyushi/SYSU-SPA-Labreport-Template,0,21,3,2024-10-27,MIT
+38,通用模板,Common Templates,https://github.com/NN708/SimpleLabReport,0,20,3,2023-04-24,MIT
+39,中山大学,Sun Yat-sen University,https://github.com/NorthSecond/SYSU_Latex_Template,0,20,2,2024-09-26,NOASSERTION
+40,南京大学,Nanjing University,https://github.com/nju-lug/NJURepo,0,19,7,2021-12-18, 
 41,电子科技大学,University of Electronic Science and Technology of China,https://github.com/404-NOTFOUND-Coder/UESTC--report--template,0,19,0,2025-04-19, 
 42,浙江大学,Zhejiang University,https://github.com/corenel/ZJUProposal,0,18,6,2017-06-29,GPL-3.0
 43,武汉大学,Wuhan University,https://github.com/whutug/whu-proposal,0,17,1,2024-12-04,LPPL-1.3c
