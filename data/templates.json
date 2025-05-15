@@ -2730,7 +2730,7 @@
             "links": [
               "https://github.com/ahhylau/shuthesis",
               "https://github.com/BlueFisher/shuthesis",
-              "https://github.com/bowenfoxtrot/SHU-Bachelor-Thesis-Template",
+              "https://github.com/bowenthefeng/SHU-Bachelor-Thesis-Template",
               "https://github.com/SHU-CES-1008/SHU-Thesis",
               "https://github.com/shuosc/SHU-Bachelor-Thesis-OSC",
               "https://github.com/zeakey/shu-thesis"
@@ -3223,7 +3223,7 @@
             "count": 3,
             "links": [
               "https://github.com/EurasianEagleOwl/TJU-LaTeX-Beamer-Template",
-              "https://github.com/JinfanChris/TJU-Beamer-Template",
+              "https://github.com/jinfanchris/TJU-Beamer-Template",
               "https://github.com/tevenfeng/tju-beamer-blue"
             ]
           }
@@ -6055,7 +6055,7 @@
             "language": "latex",
             "count": 1,
             "links": [
-              "https://github.com/drakeasberry/UA_Dissertation_Template"
+              "https://github.com/dafnidrake/UA_Dissertation_Template"
             ]
           }
         ]
@@ -9051,8 +9051,8 @@
               "https://github.com/matze/mtheme",
               "https://github.com/pcafrica/focus-beamertheme",
               "https://github.com/piazzai/arguelles",
-              "https://github.com/PM25/SimpleDarkBlue-BeamerTheme",
-              "https://github.com/PM25/SimplePlus-BeamerTheme",
+              "https://github.com/pm25/SimpleDarkBlue-BeamerTheme",
+              "https://github.com/pm25/SimplePlus-BeamerTheme",
               "https://github.com/pmichaillat/latex-presentation",
               "https://github.com/rafaelbailo/betterposter-latex-template",
               "https://github.com/SunYanCN/Latex-Beamer-Template",
@@ -9252,6 +9252,7 @@
             "language": "latex",
             "count": 57,
             "links": [
+              "https://github.com/alexeyabel/latex-briefvorlage-din-5008",
               "https://github.com/alexmingzhang/amznotes",
               "https://github.com/alexpovel/latex-cookbook",
               "https://github.com/alfredholmes/TeXNotes",
@@ -9288,7 +9289,6 @@
               "https://github.com/nrennie/PrettyPDF",
               "https://github.com/olegrgv/ml-msc-template",
               "https://github.com/opieters/business-card",
-              "https://github.com/PanCakeConnaisseur/latex-briefvorlage-din-5008",
               "https://github.com/personqianduixue/Math_Model",
               "https://github.com/quantum-journal/quantum-journal",
               "https://github.com/rorygregson/OSCOLA-LaTeX-Template",
