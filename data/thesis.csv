@@ -213,733 +213,738 @@
 211,（德国）IU国际应用科学大学,IU International University of Applied Sciences,https://github.com/markushaug/iu-latex-template,0,51,14,2025-05-08,MIT
 212,（波兰）华沙工业大学,Warsaw University of Technology*<br>(Politechnika Warszawska),https://github.com/SP5LMA/EE-dyplom,0,51,13,2025-04-07,CC-BY-4.0
 213,华南理工大学,South China University of Technology,https://github.com/OChicken/SCUT-Bachelor-Thesis-Template,0,51,12,2024-04-13, 
-214,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/myhsia/hduthesis,0,51,1,2025-03-24, 
-215,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/onlytailei/HKUST_latex_thesis_2019,0,50,16,2023-01-02, 
-216,湖南大学,Hunan University,https://github.com/leaf-hsiao/HNUThesisTemplate,0,50,12,2019-12-11, 
-217,南京大学,Nanjing University,https://github.com/ZLCao/NJUBachelor,0,49,21,2019-06-25, 
-218,北京科技大学,Beijing University of Science and Technology,https://github.com/Jeff-Hugh/USTBThesis,0,49,13,2022-12-01, 
-219,江南大学,Jiangnan University,https://github.com/xen0n/JNUthesis,0,49,12,2019-06-16,GPL-2.0
-220,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/houluy/bupTemplate,0,49,9,2019-09-19,GPL-3.0
-221,（美国）科罗拉多州立大学,Colorado State University,https://github.com/idfah/csuthesis,0,48,37,2020-05-08,NOASSERTION
-222,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/HW-Lee/nthu-thesis-template,0,48,29,2016-07-26, 
-223,天津大学,Tianjin University,https://github.com/liangzhenduo/TJU-thesis-template,0,48,16,2020-03-14, 
-224,浙江工业大学,Zhejiang University of Technology,https://github.com/zjutjh/zjutthesis,0,47,31,2023-01-30, 
-225,中国海洋大学,Ocean University of China,https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate,0,47,9,2022-05-01,MIT
-226,北京师范大学,Beijing Normal University,https://github.com/jinyiliu/bnu-thesis-template,1,47,9,2025-03-03, 
-227,（挪威）特罗姆瑟大学- 挪威北极圈大学,UiT The Arctic University of Norway*<br>(Universitetet i Tromsø – Norges arktiske universitet),https://github.com/egraff/uit-thesis,0,46,46,2025-05-31,NOASSERTION
-228,天津大学,Tianjin University,https://github.com/jiangqideng/tjuthesis_master_2016,0,46,19,2021-10-02, 
-229,西南财经大学,Southwestern University of Finance and Economics,https://github.com/sierxue/ThesisSWUFE,0,46,10,2023-01-01, 
-230,华东师范大学,East China Normal University,https://github.com/DeepTrial/ECNU-Dissertations-Latex-Template,0,45,16,2021-11-15,NOASSERTION
-231,西南交通大学,Southwest Jiaotong University,https://github.com/Sophie10001b/swjtuThesisV3.0,0,45,9,2025-05-30, 
-232,西北工业大学,Northwestern Polytechnical University,https://github.com/lihanshu/NWPU-Thesis-Template,0,45,7,2025-05-26,MIT
-233,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/coding-tan/CQUPTtex,0,45,3,2022-07-21, 
-234,暨南大学,Jinan University,https://github.com/ytZhou/JNUMasterThesis,0,43,15,2023-06-16, 
-235,武汉理工大学,Wuhan University of Technology,https://github.com/Jiayin-Gu/WUTthesis,0,43,12,2020-11-01, 
-236,中国海洋大学,Ocean University of China,https://github.com/ouc-ocean-group/oucthesis,1,43,12,2022-12-13, 
-237,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/yzd-v/BUAA_thesis_overleaf,0,43,5,2021-12-04,NOASSERTION
-238,（新加坡）南洋理工大学,Nanyang Technological University (NTU),https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template,0,43,4,2022-07-15, 
-239,苏州大学,Soochow University,https://github.com/shadowofgost/sudathesis-soochow-university-latex-template,0,43,3,2025-03-03,LPPL-1.3c
-240,北京化工大学,Beijing University of Chemical Technology,https://github.com/the-ccsn/BUCTthesis,0,43,2,2024-07-10,LPPL-1.3c
-241,河海大学,Hohai University,https://github.com/davyxx3/hhu-thesis-bachelor,0,43,1,2024-06-21,MIT
-242,东北大学,Northeastern University,https://github.com/mervin0502/neuthesis,0,42,20,2020-09-08,Apache-2.0
-243,西交利物浦大学,Xi'an Jiaotong-Liverpool University,https://github.com/feimax/latex_template_for_xjtlu_eee,0,42,17,2017-11-27,GPL-3.0
-244,上海大学,Shanghai University,https://github.com/ahhylau/shuthesis,0,42,16,2024-01-17, 
-245,（英国）爱丁堡大学,University of Edinburgh*<br>(Oilthigh Dhùn Èideann),https://github.com/james-d-h/quarto-phd-thesis,0,42,16,2023-05-03,MIT
-246,（日本）庆应义塾大学,Keio University*<br>(慶應義塾),https://github.com/ymrl/thesis-template,0,42,16,2012-12-20, 
-247,（德国）达姆施塔特工业大学,"Industrial University of Darmstadt*<br>(Technische Universität Darmstadt, TU Darmstadt)",https://github.com/zemirco/tu-darmstadt-latex-thesis,0,41,19,2013-03-03, 
-248,东北大学,Northeastern University,https://github.com/NEUAI/neuthesis-enhanced,0,41,11,2021-04-24,Apache-2.0
-249,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/Zeta611/snu-ece-bsc-thesis,0,41,7,2024-07-02,MIT
-250,上海交通大学,Shanghai Jiaotong University,https://github.com/zhangzhanluo/SJTU-thesis-template,0,41,4,2021-06-01, 
-251,（德国）斯图加特大学,University of Stuttgart*<br>(Universität Stuttgart),https://github.com/latextemplates/uni-stuttgart-dissertation-template,0,40,21,2025-04-24,MIT
-252,中国科学院自动化研究所,"Institute of Automation, Chinese Academy of Sciences",https://github.com/phoenix1917/CASIA-Thesis,0,40,12,2018-03-06, 
-253,苏州大学,Soochow University,https://github.com/hinesboy/SUDA-Latex,0,40,10,2022-05-24, 
-254,通用模板,Common Templates,https://github.com/PKief/latex-thesis-template,0,40,9,2025-02-07, 
-255,（希腊）雅典大学,"National and Kapodistrian University of Athens, NKUA*<br>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)",https://github.com/errikos/dithesis,0,40,4,2023-08-15,LPPL-1.3c
-256,南昌大学,Nanchang University,https://github.com/Jin-bao/NCU-thesis,0,40,3,2025-05-14,LPPL-1.3c
-257,西南交通大学,Southwest Jiaotong University,https://github.com/Studio513/swjtuThesis,0,39,18,2015-12-08, 
-258,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/signxer/nthu-thesis-template-mod,0,39,18,2018-11-11, 
-259,澳门科技大学<br>（澳門科技大學）,Macau University of Science and Technology (MUST),https://github.com/iihciyekub/MUST-Thesis,0,39,13,2024-04-25, 
-260,哈尔滨工程大学,Harbin Engineering University,https://github.com/Benyjuice/hrbeuthesis,0,39,9,2016-03-18, 
-261,深圳技术大学,Shenzhen University of Technology,https://github.com/SZTU-ACM/SZTU-Thesis-Latex-Template,0,39,9,2024-05-20,GPL-3.0
-262,西南交通大学,Southwest Jiaotong University,https://github.com/swjtutug/swjtuthesis,0,39,9,2019-12-09, 
-263,四川大学,Sichuan University,https://github.com/dahakawang/scu_thesis_template,0,39,8,2021-01-08, 
-264,上海交通大学,Shanghai Jiaotong University,https://github.com/ZepengW/Latex-PG-SJTU,0,39,0,2023-01-04, 
-265,北京师范大学,Beijing Normal University,https://github.com/xysmlx/BNUBachelorThesis,0,38,20,2018-03-19, 
-266,华东师范大学,East China Normal University,https://github.com/c834606877/ECNU-Paper-Template,0,38,8,2021-12-05, 
-267,武汉理工大学,Wuhan University of Technology,https://github.com/mengyuqianxun/WHUT--LaTeX-bachelor-thesis,0,38,5,2020-07-16, 
-268,（美国）约翰斯·霍普金斯大学,Johns Hopkins University,https://github.com/weitzner/jhu-thesis-template,0,37,87,2018-07-18, 
-269,（加拿大）阿尔伯塔大学,University of Alberta,https://github.com/draldric/uAlberta-Thesis-LaTeX-Template,0,37,9,2025-05-08,MIT
-270,北京工业大学,Beijing University of Technology,https://github.com/xiaoyaoE/bjutThesis,0,37,8,2021-01-14, 
-271,西安电子科技大学,Xidian University,https://github.com/Faust-Wang/XDUthesis_xelatex-master-2019,0,37,5,2020-04-24,GPL-3.0
-272,通用模板,Common Templates,https://github.com/Pinzauti/LaTeX-thesis-template,0,37,4,2024-06-26,MIT
-273,暨南大学,Jinan University,https://github.com/Latiyas/JNUThesis,0,37,3,2025-03-31, 
-274,（日本）北陆先端科学技术大学院大学,"Japan Advanced Institute of Science and Technology*<br>(北陸先端科学技術大学院大学, JAIST)",https://github.com/linwest/JAISTthesisLaTeX,0,36,24,2019-03-31, 
-275,华中科技大学,Huazhong University of Science,https://github.com/pyrocat101/hust-thesis-pandoc,0,36,12,2018-11-13, 
-276,兰州大学,Lanzhou University,https://github.com/mosesnow/LZUthesis,0,36,11,2022-04-14, 
-277,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-thesis,0,36,8,2025-03-17,MIT
-278,（波兰）西里西亚理工大学,Silesian University of Technology*<br>(Politechnika Śląska),https://github.com/ksiminski/polsl-aei-theses,0,36,5,2025-05-27, 
-279,上海理工大学,Shanghai University of Technology,https://github.com/FrankSFLYS/usstthesis,0,36,3,2022-03-07,Apache-2.0
-280,（美国）密歇根州立大学,Michigan State University,https://github.com/amunn/msu-thesis,0,35,13,2024-07-08, 
-281,（德国）柏林工业大学,Technical University of Berlin*<br>(Technische Universität Berlin),https://github.com/holgern/TUB_PhDThesisTemplate,0,35,13,2017-11-10,MIT
-282,南京大学,Nanjing University,https://github.com/anyirao/NJUThesis2018,0,34,43,2018-06-24, 
-283,西安交通大学,Xi'an Jiaotong University,https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template,0,34,16,2017-10-05, 
-284,中山大学,Sun Yat-sen University,https://github.com/guanyingc/SYSU-LaTex-Thesis,0,34,6,2017-04-03, 
-285,北京大学,Peking University,https://github.com/Thesharing/pkuthss,0,33,13,2020-04-16, 
-286,台湾科技大学<br>（國立臺灣科技大學）,National Taiwan University of Science and Technology (NTUST),https://github.com/hadziq/ntust-thesis,0,33,13,2022-07-30,Apache-2.0
-287,浙江大学,Zhejiang University,https://github.com/DelightRun/ZJUThesis-MPhil,0,33,12,2019-01-14,MIT
-288,（瑞士）西部应用科学与艺术大学,"University of Applied Sciences and Arts of Western Switzerland*<br>(Haute École spécialisée de Suisse occidentale, HES-SO)",https://github.com/mdemierre/hesso-latextemplate-thesis,0,32,10,2023-09-26,Apache-2.0
-289,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzthesis,0,32,9,2025-05-25, 
-290,北京工业大学,Beijing University of Technology,https://github.com/bjut-swift/BJUTLATEX,0,32,5,2024-03-25,Apache-2.0
-291,中国科学技术大学,University of Science and Technology of China,https://github.com/acgotaku/USTC-SSE-THESIS,0,32,4,2017-03-04, 
-292,桂林电子科技大学,Guilin University of Electronic Science and Technology,https://github.com/wrm244/GUEThesis,0,32,4,2024-05-23,LPPL-1.3c
-293,云南大学,Yunnan University,https://github.com/Astro-Lee/YNU-thesis-bachelor,0,32,2,2025-03-07,MIT
-294,复旦大学,Fudan University,https://github.com/FHDWPB/latex-thesis-template,0,31,26,2023-12-08,Apache-2.0
-295,北京大学,Peking University,https://github.com/doubleZ0108/pkuthss-mac,0,31,4,2021-12-18, 
-296,香港理工大学<br>（香港理工大學）,Hong Kong Polytechnic University (PolyU),https://github.com/quxiaofeng/PolyU_thesis_template,0,30,15,2018-09-07, 
-297,（奥地利）约翰内斯·开普勒大学,"Johannes Kepler University Linz, JKU*<br>(Johannes Kepler Universität Linz)",https://github.com/michaelroland/jku-templates-report-latex,0,30,10,2025-01-16,MPL-2.0
-298,台湾中正大学<br>（國立中正大學）,National Chung Cheng University (CCU),https://github.com/anlit75/CCU-Thesis-LaTeX-Template,0,30,7,2025-05-05,MIT
-299,苏州大学,Soochow University,https://github.com/huhamhire/sudathesis,0,30,7,2014-06-25,GPL-3.0
-300,上海对外经贸大学,Shanghai University of Foreign Trade and Economic Cooperation,https://github.com/Yangruipis/SUIBEthesis,0,30,5,2023-12-05,MIT
-301,湖南大学,Hunan University,https://github.com/ljmdzyx1985/HNUthesis_master,0,30,5,2019-05-29, 
-302,吉林大学,Jilin University,https://github.com/jlshen025/JLUThesis,0,30,2,2024-04-24,MIT
-303,深圳大学,Shenzhen University,https://github.com/yichengsu/szuthesis,0,30,2,2021-02-23, 
-304,（瑞士）苏黎世应用科技大学,Zurich University of Applied Sciences (ZHAW)*<br>(ZHAW Zürcher Hochschule für Angewandte Wissenschaften),https://github.com/matteodelucchi/ZHAW_thesis-template,0,29,77,2024-10-28, 
-305,北京大学,Peking University,https://github.com/qu-tan-um/PKU_EECS_UGR_THSS,0,29,24,2020-07-04, 
-306,（美国）乔治·华盛顿大学,George Washington University (GWU),https://github.com/skulumani/thesis-gwu,0,29,16,2022-07-27,GPL-3.0
-307,华中师范大学,Central China Normal University,https://github.com/xkwxdyy/CCNUthesis,0,29,4,2025-04-11,LPPL-1.3c
-308,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/hy5468/NUIST-LaTeX,0,29,2,2021-04-10,MIT
-309,通用模板,Common Templates,https://github.com/viafanasyev/bachelor-thesis-template,0,29,2,2023-01-15,MIT
-310,武汉大学,Wuhan University,https://github.com/yaochenzhu/whu-rsie-master-thesis,0,29,2,2022-05-19,MIT
-311,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/LeoAlex0/LaTeX-HDU-Bachelor-Thesis,0,29,1,2021-05-17,MIT
-312,（美国）印第安纳大学,Indiana University,https://github.com/liang-chen/IU-PhD-Thesis-Template,0,28,28,2018-05-01,MIT
-313,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/iphyer/UCASThesisTemplete,0,28,12,2021-01-16,MIT
-314,天津大学,Tianjin University,https://github.com/HeliosZhao/TJU-Thesis-2020,0,28,9,2020-05-12, 
-315,浙江大学,Zhejiang University,https://github.com/eclipselu/zjuthesis-mphil,0,28,9,2017-01-16, 
-316,长安大学,Chang'an University,https://github.com/xiaoleeza/chdthesis,0,28,9,2021-05-24,LPPL-1.3c
-317,（新加坡）新加坡国立大学,National University of Singapore (NUS),https://github.com/saurabhg17/SPhdThesis,0,28,7,2014-06-20,NOASSERTION
-318,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/Cysu/phd-thesis,0,28,6,2017-08-29, 
-319,北京林业大学,Beijing Forestry University,https://github.com/DeeDive/BJFUThesis,0,28,6,2022-06-21, 
-320,西南石油大学,Southwest Petroleum University,https://github.com/jinggqu/swputhesis,0,28,6,2023-09-07,GPL-3.0
-321,通用模板,Common Templates,https://github.com/pddg/latex-template-ja,0,28,6,2023-04-01,CC0-1.0
-322,（伊朗）哈杰·纳西尔丁·图西理工大学,Khajeh Nasir Toosi University of Technology*<br>(دانشگاه صنعتی خواجه نصيرالدين طوسی),https://github.com/msinamsina/kntu-thesis,0,28,4,2024-03-30,GPL-3.0
-323,华南理工大学,South China University of Technology,https://github.com/yecfly/scut-thesis,0,28,4,2021-03-15, 
-324,中国传媒大学,Communication University of China,https://github.com/YunYouJun/cucthesis,0,28,2,2024-06-14,LPPL-1.3c
-325,厦门大学,Xiamen University,https://github.com/kirainmoe/xmu-thesis-latex-template,0,28,2,2022-05-10,MIT
-326,中国农业大学,China Agricultural University,https://github.com/Cdmium/CAUTemplate,0,27,13,2020-08-06, 
-327,上海财经大学,Shanghai University of Finance and Economics,https://github.com/sijichun/sufethesis,0,27,9,2017-12-10, 
-328,华东师范大学,East China Normal University,https://github.com/ddusen/ecnu-master-thesis-template,0,27,3,2023-02-23,Apache-2.0
-329,南京林业大学,Nanjing Forestry University,https://github.com/iamty/thesis-NJFU,0,27,2,2023-01-09,LPPL-1.3c
-330,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/wuzhouhui/ucas_ict_thesis,0,26,12,2017-04-26, 
-331,华东师范大学,East China Normal University,https://github.com/Baileyswu/ECNU-thesis-template,0,26,10,2023-07-16,NOASSERTION
-332,华东师范大学,East China Normal University,https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022,0,26,8,2022-04-22,BSD-2-Clause
-333,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/themiguelamador/ThesisIST,0,26,8,2023-06-16, 
-334,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/MichaelGrupp/TTT,0,26,7,2017-11-26,WTFPL
-335,上海师范大学,Shanghai Normal University,https://github.com/andy123t/shnuthesis,0,26,7,2025-05-08,MIT
-336,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/m13253/LaTeX-HDU-Bachelor-Thesis,0,26,7,2020-01-06,MIT
-337,华北电力大学,North China Electric Power University,https://github.com/obster-y/NCEPU-thesis,0,26,6,2021-11-20,LPPL-1.3c
-338,（德国）达姆施塔特工业大学,"Industrial University of Darmstadt*<br>(Technische Universität Darmstadt, TU Darmstadt)",https://github.com/JeyRunner/tuda-typst-templates,0,26,5,2025-05-09,MIT
-339,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/garrettj403/ThesisPlots,0,26,5,2019-02-18, 
-340,浙江大学,Zhejiang University,https://github.com/denil1111/ZJU-Thesis-Template-for-Mac,0,26,4,2017-03-27,MIT
-341,北京大学,Peking University,https://github.com/wongsingfo/pku-grad-thesis,0,26,4,2022-05-15, 
-342,中山大学,Sun Yat-sen University,https://github.com/irenier/sysuthesis,0,26,2,2025-04-30,BSD-3-Clause
-343,西北工业大学,Northwestern Polytechnical University,https://github.com/jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis,0,26,2,2025-05-13,MIT
-344,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/lusccc/cqupt-thesis,0,26,0,2021-02-08, 
-345,中山大学,Sun Yat-sen University,https://github.com/zhibo/sysuthesis,0,25,19,2013-04-15, 
-346,通用模板,Common Templates,https://github.com/davidptclark/phd-thesis-template,0,25,12,2022-02-19,LPPL-1.3c
-347,台湾台北科技大学<br>（國立臺北科技大學）,National Taipei University of Technology,https://github.com/ntut-xuan/NTUT-Thesis-Template,0,25,11,2025-05-31,MIT
-348,南京大学,Nanjing University,https://github.com/GFrankenstein/NJU-Thesis-LaTeX-Template,0,25,9,2015-01-13, 
-349,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/walkman-z/upc-thesis-2020,0,25,5,2020-08-16,MIT
-350,湖南大学,Hunan University,https://github.com/XayahSuSuSu/Latex-HNUThesisTemplate,0,25,4,2024-05-05,Apache-2.0
-351,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/ToryDeng/ZUEL-Thesis,0,25,2,2023-01-04,GPL-3.0
-352,河海大学,Hohai University,https://github.com/Vitzron/HHU-thesis,0,25,2,2021-08-16,GPL-3.0
-353,中国地质大学（武汉）,China University of Geosciences,https://github.com/zguoch/cugthesis,0,25,2,2021-05-13,MIT
-354,（智利）费德里科圣玛利亚理工大学,"Federico Santa María Technical University*<br>(Universidad Técnica Federico Santa María, UTFSM)",https://github.com/autopawn/tex-thesis-template,0,24,26,2023-04-06, 
-355,南京大学,Nanjing University,https://github.com/solrex/njuthesis,0,24,10,2018-06-23, 
-356,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/shaform/ntu-thesis,0,24,6,2016-04-08, 
-357,香港大学<br>（香港大學）,University of Hong Kong (UHK),https://github.com/guanyingc/HKU-PhD-Thesis-LaTex,0,24,4,2022-03-16, 
-358,湖南大学,Hunan University,https://github.com/Jeffrey28/HNU_DoctoralThesis_Latex,0,24,3,2024-02-26, 
-359,上海科技大学,ShanghaiTech University,https://github.com/Kexin-Zhang-UCAS/ShanghaiTechThesis,0,24,2,2018-07-24, 
-360,（美国）罗格斯大学,Rutgers University,https://github.com/rucsgss/thesis,0,23,16,2019-11-10, 
-361,清华大学,Tsinghua University,https://github.com/xueruini/thuthesis,0,23,11,2020-05-29, 
-362,中山大学,Sun Yat-sen University,https://github.com/chungkwong/sysu_thesis,0,23,7,2018-02-23, 
-363,电子科技大学,University of Electronic Science and Technology of China,https://github.com/JosephChenHub/UESTC_thesis_XeLaTeX,0,23,6,2018-03-06, 
-364,（埃及）艾因夏姆斯大学,Ain Shams University*<br>(جامعة عين شمس),https://github.com/MohamedAliRashad/Graduation-Project-Book-Template,0,23,5,2022-05-28, 
-365,天津大学,Tianjin University,https://github.com/songxiaolin2009/tjuthesis_xelatex_template,0,23,4,2021-12-10, 
-366,西北大学,Northwestern University,https://github.com/Nat-Sci/NWU-dissertation-template,0,23,3,2022-01-06, 
-367,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/dcpnonstop/HDUthesis,0,23,3,2018-10-19, 
-368,深圳大学,Shenzhen University,https://github.com/clinyong/latex-szu,0,22,14,2018-11-13, 
-369,（孟加拉国）布拉克大学,"BRAC University, BracU*<br>(ব্র্যাক ইউনিভার্সিটি)",https://github.com/kastnerp/ElegantThesisLaTeX,0,22,9,2024-09-08,MIT
-370,西安交通大学,Xi'an Jiaotong University,https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021,0,22,7,2021-09-29, 
-371,吉林大学,Jilin University,https://github.com/geekifan/jluthesis,0,22,5,2025-05-15,MIT
-372,南京理工大学,Nanjing University of Science and Technology,https://github.com/pasteller/njusttt,0,22,4,2025-04-16,MIT
-373,山东大学,Shandong University,https://github.com/Sing-How/sduthesis,0,22,2,2024-03-11,GPL-3.0
-374,浙江工业大学,Zhejiang University of Technology,https://github.com/yyz98799/zjutthesis,1,21,14,2022-08-09, 
-375,（英国）格拉斯哥大学,University of Glasgow,https://github.com/sdstrowes/Glasgow-Thesis-Template,0,21,13,2015-11-20, 
-376,（澳大利亚）昆士兰科技大学,Queensland University of Technology,https://github.com/hbristow/quthesis,0,21,12,2017-06-09,BSD-3-Clause
-377,兰州大学,Lanzhou University,https://github.com/JChrysanthemum/LZUThesis2020-PgD-PhD,0,21,11,2021-05-11,AGPL-3.0
-378,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/hduffddybz/HDU-thesis,0,21,11,2016-10-29, 
-379,（美国）俄亥俄州立大学,The Ohio State University*<br>(The Ohio State University),https://github.com/swarnendubiswas/ohio-state-coe-dissertation-template,0,21,10,2020-03-20, 
-380,大连理工大学,Dalian University of Technology,https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste,0,21,10,2022-07-22, 
-381,湘潭大学,Xiangtan University,https://github.com/MrDongdongLin/xtuthesis,0,21,9,2018-07-17, 
-382,华东师范大学,East China Normal University,https://github.com/programokey/ECNUUndergraduateDissertationTemplate,0,21,7,2018-04-17, 
-383,（俄罗斯）莫斯科罗蒙诺索夫国立大学,"Lomonosov Moscow State University*<br>(Московский государственный университет имени М.В.Ломоносова, MSU)",https://github.com/SweetVishnya/msu-thesis,0,21,6,2021-07-05, 
-384,武汉大学,Wuhan University,https://github.com/csarron/bsThesisWHU,0,21,6,2015-05-16,MIT
-385,山东大学,Shandong University,https://github.com/arisukawa/SDU-Latex-Template-for-dissertations,0,21,5,2021-09-07, 
-386,上海大学,Shanghai University,https://github.com/bowenthefeng/SHU-Bachelor-Thesis-Template,0,21,4,2019-04-16, 
-387,南京理工大学,Nanjing University of Science and Technology,https://github.com/packyan/NJUST_Master_Thesis_Latex_Template,0,21,4,2020-08-21, 
-388,同济大学,Tongji University,https://github.com/NotoOotori/tjuthesis,0,21,3,2023-04-16,LPPL-1.3c
-389,浙江大学,Zhejiang University,https://github.com/Wangqsooooo/Latex_template,0,21,3,2019-04-09, 
-390,长沙理工大学,Changsha University of Technology,https://github.com/csust-latex-sig/CSUSTBachelorThesis,0,21,3,2023-07-24, 
-391,武汉大学,Wuhan University,https://github.com/iamywang/whu-thesis-latex-template,0,21,3,2025-02-18,MIT
-392,（希腊）帕特雷大学,University of Patras*<br>(Πανεπιστήμιο Πατρών),https://github.com/tsikup/ece-upatras-thesis-template,0,21,3,2018-10-30,MIT
-393,西安交通大学,Xi'an Jiaotong University,https://github.com/DylanXie123/Thesis-Template-for-XJTU,1,20,5,2020-11-02,GPL-3.0
-394,中南大学,Central South University,https://github.com/BlurryLight/CSU-Thesis-LaTeX-Template,1,20,3,2021-05-11, 
-395,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/HIT-UOI-SR/hithesis-template,0,20,2,2021-06-17,NOASSERTION
-396,广东工业大学,Guangdong University of Technology,https://github.com/Gnomeek/GDUT-UndergraduateThesis,0,20,1,2022-04-16,LPPL-1.3c
-397,东南大学,Southeast University,https://github.com/Dcwjh/SEUThesis-Latex,0,20,0,2022-03-09, 
-398,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/UCASthesis/The-LaTeX-thesis-template-of-UCAS,0,19,13,2018-05-24, 
-399,（英国）纽卡斯尔大学,Newcastle University,https://github.com/AndreGuerra123/NUTT,0,19,10,2019-01-16,NOASSERTION
-400,（美国）芝加哥大学,University of Chicago,https://github.com/k4rtik/uchicago-dissertation,0,19,8,2025-04-22,MIT
-401,中南大学,Central South University,https://github.com/heyzbw/CSU_Thesis_Template,0,19,6,2025-04-01,Apache-2.0
-402,浙江财经大学,Zhejiang University Of Finance & Economics,https://github.com/sqsssq/ZUFE-Thesis,0,19,4,2022-12-07,MIT
-403,清华大学,Tsinghua University,https://github.com/LUKE-ZZ/thuthesis-biomedical,0,19,3,2023-09-14, 
-404,（德国）慕尼黑应用科技大学,Munich University of Applied Sciences*<br>(Hochschule für angewandte Wissenschaften München),https://github.com/Simon-Hi5/Hochschule-Muenchen-LaTeX-Template,0,19,3,2021-10-05, 
-405,中国地质大学（武汉）,China University of Geosciences,https://github.com/benmyb/CUGThesis,0,19,3,2019-05-08, 
-406,西安电子科技大学,Xidian University,https://github.com/103yiran/XDUthesis_xelatex,0,19,2,2017-06-13,GPL-3.0
-407,（德国）斯图加特大学,University of Stuttgart*<br>(Universität Stuttgart),https://github.com/valentjn/uni-stuttgart-phdthesis-template,0,19,2,2019-08-23,CC-BY-SA-4.0
-408,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/wenbinf/hkust-mphil-thesis,0,18,60,2012-08-29, 
-409,（英国）牛津大学,University of Oxford,https://github.com/maurovm/thesis_template,0,18,28,2023-11-28,NOASSERTION
-410,（俄罗斯）南方联邦大学,Southern Federal University (SFedU)*<br>(Южный федеральный университет (ЮФУ)),https://github.com/mmcs-sfedu/mmcs_sfedu_thesis,0,18,23,2019-06-03, 
-411,大连理工大学,Dalian University of Technology,https://github.com/Khaos/DLUTThesis,0,18,11,2019-04-24,Apache-2.0
-412,（美国）密歇根大学,University of Michigan,https://github.com/pettni/um-thesis,0,18,10,2022-05-28, 
-413,北京工业大学,Beijing University of Technology,https://github.com/fisherxt/bjutthesis,0,18,9,2024-03-31,MIT
-414,华东理工大学,East China University of Science and Technology,https://github.com/dagnaf/ecust-bachelor-thesis-template,0,18,8,2022-03-03,GPL-2.0
-415,通用模板,Common Templates,https://github.com/phretor/cs-phd-dissertation-latex-template,0,18,8,2012-05-14,NOASSERTION
-416,复旦大学,Fudan University,https://github.com/eurekayuan/fduthesis2022,0,18,7,2024-07-28, 
-417,同济大学,Tongji University,https://github.com/linxdcn/TongjiThesis,0,18,7,2018-07-28,MIT
-418,（德国）巴登-符腾堡州合作州立大学,"Baden-Württemberg Cooperative State University*<br>(Duale Hochschule Baden-Württemberg, DHBW)",https://github.com/faltfe/iodhbwm,0,18,5,2023-01-02,LPPL-1.3c
-419,北京理工大学,Beijing Institute of Technology,https://github.com/BITNP/BIThesis-scaffold,1,18,4,2022-04-07,LPPL-1.3c
-420,（韩国）高丽大学,Korea University*<br>(고려대학교),https://github.com/shlee-lab/KUThesis2022,0,18,4,2024-01-02, 
-421,江西财经大学,Jiangxi University of Finance and Economics,https://github.com/zipzou/jufe-thesis-tex,0,18,4,2020-04-01,MIT
-422,上海科技大学,ShanghaiTech University,https://github.com/Haoxiaoling/shtuthesis,0,18,3,2020-01-06, 
-423,西安电子科技大学,Xidian University,https://github.com/Linxius/XDUBachelorThesis,1,18,2,2019-10-17, 
-424,西安交通大学,Xi'an Jiaotong University,https://github.com/kohillyang/XJTUthesis-master-2020,0,18,2,2020-06-07, 
-425,西安交通大学,Xi'an Jiaotong University,https://github.com/ChenjieGump/XJTU-BSThesis_latex_2022,0,18,1,2023-05-04,MIT
-426,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/ylemkimon/SNU-ECE-BSc-thesis-LaTeX-template,0,18,0,2021-06-21,Unlicense
-427,大连理工大学,Dalian University of Technology,https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Doctor,0,17,18,2012-05-07, 
-428,（澳大利亚）悉尼大学,University of Sydney,https://github.com/danhey/thesis,0,17,16,2022-09-25, 
-429,（加拿大）不列颠哥伦比亚大学,University of British Columbia,https://github.com/oganm/ThesisProposal,0,17,15,2016-06-09, 
-430,（美国）加利福尼亚大学洛杉矶分校,"University of California, Los Angeles (UCLA)",https://github.com/louis925/uclathes,0,17,10,2017-06-13, 
-431,（意大利）帕多瓦大学,"University of Padua*<br>(Università degli Studi di Padova, UNIPD)",https://github.com/mamio1994/template-latex-unipd,0,17,7,2020-03-24,GPL-3.0
-432,西安交通大学,Xi'an Jiaotong University,https://github.com/1989Ryan/XJTU-Bachelor-Thesis-LaTeX-Template,0,17,5,2022-06-11,GPL-3.0
-433,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/LeoJhonSong/UCAS-Dissertation,0,17,5,2025-04-01,GPL-3.0
-434,湖南大学,Hunan University,https://github.com/Gwinel/hnuthesis,0,17,4,2023-03-28, 
-435,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/NTU-NCS-lab/NTU-Thesis-Writing-Template,0,17,4,2025-02-09,MIT
-436,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/wennboo/HDU-latex-template-for-master,0,17,4,2025-01-08,MIT
-437,云南大学,Yunnan University,https://github.com/Astro-Lee/YNUthesis,0,17,3,2025-03-07,LPPL-1.3c
-438,（荷兰）乌得勒支大学,Utrecht University*<br>(Universiteit Utrecht),https://github.com/UtrechtUniversity/UU-dissertation-template,0,17,3,2025-01-14,MIT
-439,中山大学,Sun Yat-sen University,https://github.com/DapengFeng/sysuthesis,0,17,2,2024-12-15,LPPL-1.3c
-440,（英国）利物浦大学,University Of Liverpool,https://github.com/GiacomoPope/thesis-template,0,17,2,2022-07-08, 
-441,江苏大学,Jiangsu University,https://github.com/xtc-chen/UJS_Phdthesis,0,17,1,2025-05-09, 
-442,广州大学,Guangzhou University,https://github.com/WeiViming/gzhu-thesis,0,17,0,2025-03-19,MIT
-443,台湾政治大学<br>（國立政治大學）,"National Chengchi University, NCCU",https://github.com/Walker088/nccu-thesis,0,16,12,2018-07-04, 
-444,兰州大学,Lanzhou University,https://github.com/suchot/LZUThesis2017,0,16,11,2024-12-01, 
-445,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/nnedkov/tum-thesis-latex,0,16,8,2018-11-11, 
-446,（英国）埃克塞特大学,University of Exeter,https://github.com/georgedeath/University_of_Exeter_Thesis_Template,0,16,7,2019-12-11, 
-447,大连海事大学,Dalian Maritime University,https://github.com/aurora1625/dmuthesis-latex,0,16,6,2013-05-27, 
-448,南方科技大学,Southern University of Science and Technology,https://github.com/Spacebody/sustcthesis,0,16,5,2019-05-31,MIT
-449,（意大利）帕多瓦大学,"University of Padua*<br>(Università degli Studi di Padova, UNIPD)",https://github.com/mychele/unipd-latex-template,0,16,4,2017-03-11,AGPL-3.0
-450,华南理工大学,South China University of Technology,https://github.com/phreer/scutthesis,0,16,3,2019-06-04,Apache-2.0
-451,（印度）印度理工学院（贝拿勒斯印度教大学）瓦拉纳西分校,"Indian Institute of Technology (BHU) Varanasi, IIT-BHU*<br>(भारतीय प्रौद्योगिकी संस्थान (का.हि.वि.) वाराणसी)",https://github.com/sdasrc/thesis-template-iitbhu,0,16,3,2019-09-06,MIT
-452,江苏大学,Jiangsu University,https://github.com/xtc-chen/UJS_Masterthesis,0,16,2,2025-05-09, 
-453,深圳大学,Shenzhen University,https://github.com/Jev0987/SZUThesis-2024,0,16,1,2024-02-19, 
-454,电子科技大学,University of Electronic Science and Technology of China,https://github.com/LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template,0,16,1,2025-01-17,GPL-3.0
-455,上海大学,Shanghai University,https://github.com/SHU-CES-1008/SHU-Thesis,0,16,1,2024-09-23, 
-456,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/guoxiaowhu/UCAS_Thesis,0,16,0,2023-04-19, 
-457,（挪威）挪威科技大学,"Norwegian University of Science and Technology*<br>(Norges teknisk-naturvitenskapelige universitet, NTNU)",https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU,0,15,52,2020-01-10, 
-458,（美国）加利福尼亚大学圣克鲁斯分校,"University Of California, Santa Cruz (UCSC)",https://github.com/adamnovak/ucscthesis,0,15,26,2020-12-05,NOASSERTION
-459,（印度尼西亚）加查马达大学,"University of Gadjah Mada*<br>(Universitas Gadjah Mada, UGM)",https://github.com/canggihpw/thesisdtetiugm,0,15,24,2023-03-08,MIT
-460,青岛大学,Qingdao University,https://github.com/paralevi/QDUthesis,0,15,10,2020-03-28, 
-461,北京交通大学,Beijing Jiaotong University,https://github.com/chenzewei01/bjtuThesis,0,15,9,2014-11-07, 
-462,通用模板,Common Templates,https://github.com/Cinofix/latex-scientific-templates,0,15,7,2020-03-05,MIT
-463,西南科技大学,Southwest University of Science and Technology,https://github.com/japinli/swust-thesis,0,15,7,2022-02-28, 
-464,大连理工大学,Dalian University of Technology,https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor,0,15,6,2018-05-31,MIT
-465,天津大学,Tianjin University,https://github.com/6gbluewind/Tjuthesis_phd_1.2-,0,15,4,2022-08-05,GPL-3.0
-466,华南理工大学,South China University of Technology,https://github.com/h-hg/latex-scut-bachelor-thesis,0,15,4,2023-05-29,MIT
-467,（加拿大）卡尔加里大学,"University of Calgary, UCalgary",https://github.com/rzach/ucalgmthesis,0,15,4,2023-04-13,MIT
-468,山东大学,Shandong University,https://github.com/bearshng/sduthesis,0,15,3,2015-03-27, 
-469,东北师范大学,Northeast Normal University,https://github.com/tiankonguse/NENUCSThesis,0,15,3,2014-06-20, 
-470,重庆大学,Chongqing University,https://github.com/yinguoweiOvO/CQU_Thesis2024,0,15,3,2024-05-20,NOASSERTION
-471,新疆大学,Xinjiang University,https://github.com/LeoLQF/xjuthesis,0,15,2,2019-01-12, 
-472,西南交通大学,Southwest Jiaotong University,https://github.com/Pungjay/swjtuThesis,0,15,2,2024-10-25, 
-473,华东师范大学,East China Normal University,https://github.com/jtchen2k/modern-ecnu-thesis,0,15,2,2025-04-07,MIT
-474,广西大学,Guangxi University,https://github.com/KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates,0,15,1,2025-03-03, 
-475,云南大学,Yunnan University,https://github.com/ZhenfengLei/Yunnan-University-Thesis-Latex,0,15,1,2018-07-26, 
-476,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/baggiorio18/BUPTGraduateThesis,0,15,0,2015-01-03, 
-477,厦门大学,Xiamen University,https://github.com/xiamenwcy/LaTeXFileforXMUThesis,0,14,11,2018-11-22, 
-478,（美国）北卡罗来纳大学夏洛特分校,University of North Carolina at Charlotte,https://github.com/cci-grads/uncc-thesis-latex,0,14,10,2019-02-27, 
-479,浙江大学,Zhejiang University,https://github.com/5kg/zju-bachelor-thesis,0,14,8,2012-05-07, 
-480,华南师范大学,South China Normal University,https://github.com/wzpan/scnuthesis,1,14,7,2015-01-22, 
-481,（德国）美因茨应用科技大学,Mainz University of Applied Sciences*<br>(Hochschule Mainz),https://github.com/JonasBingel/HSMZ-Thesis-Template,0,14,6,2024-11-16, 
-482,郑州大学,Zhengzhou University,https://github.com/RonTs/zzuthesis,0,14,6,2021-03-05, 
-483,（德国）慕尼黑大学,"Ludwig Maximilian University of Munich, LMU*<br>(Ludwig-Maximilians-Universität München)",https://github.com/changkun/lmu-thesis-latex,0,14,5,2019-05-22,MIT
-484,西安石油大学,Xi'an University of Petroleum,https://github.com/h2y/xsyu-latex,0,14,5,2021-06-30, 
-485,中国人民大学,Renmin University of China,https://github.com/HughYau/RUCthesis-for-Bachelor,0,14,4,2022-03-23, 
-486,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/cughmy/hduthesis,0,14,4,2019-02-19,MIT
-487,四川大学,Sichuan University,https://github.com/kevinleeex/scu_thesis_template,0,14,4,2022-03-23,AGPL-3.0
-488,南京邮电大学,Nanjing University of Posts and Telecommunications,https://github.com/li199-code/njupt_master_thesis_latex_template,0,14,4,2024-07-18, 
-489,武汉大学,Wuhan University,https://github.com/beanyoung/whu-master-thesis-template,1,14,3,2012-06-19, 
-490,香港城市大学<br>（香港城市大學）,City University of Hong Kong (CityU),https://github.com/huwan/CityU_Thesis,0,14,3,2021-12-01,MIT
-491,（意大利）贝加莫大学,University of Bergamo*<br>(Università degli studi di Bergamo),https://github.com/micheleberetta98/unibg-thesis-template,0,14,3,2025-05-30,NOASSERTION
-492,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/ekspek/ist-thesis,0,14,2,2020-09-22,LPPL-1.3c
-493,南京工业大学,Nanjing University of Technology,https://github.com/faimerth/NJUT-Thesis-Template,0,14,2,2019-06-30,GPL-3.0
-494,华南理工大学,South China University of Technology,https://github.com/sherrycattt/ScutThesis,0,14,2,2022-06-19, 
-495,武汉大学,Wuhan University,https://github.com/BenjaminHb/whu-thesis,0,14,1,2022-06-21,MIT
-496,四川大学,Sichuan University,https://github.com/bennyji/SCUthesis,0,14,1,2020-04-04, 
-497,西北工业大学,Northwestern Polytechnical University,https://github.com/zyk1999/LaTeX-Template-For-NPU-Thesis-CTex,0,14,1,2022-03-12,GPL-3.0
-498,西安交通大学,Xi'an Jiaotong University,https://github.com/Radiance-nt/XJTU_BachelorThesis_DagRank,0,14,0,2024-06-01,GPL-3.0
-499,浙江大学,Zhejiang University,https://github.com/Yirui-Wang/ZJU-CSE-Latex,0,14,0,2019-01-11, 
-500,通用模板,Common Templates,https://github.com/jankapunkt/master-thesis,0,13,10,2021-03-09, 
-501,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/HawkTom/sustech-hithesis,0,13,6,2019-07-01, 
-502,山东大学,Shandong University,https://github.com/Luosid0/2024sdu-latex-undergraduate,0,13,6,2024-04-06,AGPL-3.0
-503,东南大学,Southeast University,https://github.com/cmuCoppelia/seuthesis2020,0,13,6,2020-05-07,MIT
-504,（美国）北卡罗来纳州立大学,North Carolina State University,https://github.com/jhykes/ncsuthesis,0,13,6,2019-07-08, 
-505,中南大学,Central South University,https://github.com/zhongjingjogy/thesisthemeCSU,1,13,6,2017-12-26, 
-506,（瑞典）卡罗林斯卡学院,"Karolinska Institute, KI*<br>(Karolinska Institutet)",https://github.com/bcschiffler/phdthesis_ki,0,13,4,2017-12-06,MIT
-507,（波兰）弗罗茨瓦夫理工大学,Wrocław University of Science and Technology*<br>(Politechnika Wrocławska),https://github.com/rkubosz/dyplompwr,0,13,4,2020-12-03,MIT
-508,华东理工大学,East China University of Science and Technology,https://github.com/wjsong365/ECUST_Thesis_LaTeX,0,13,4,2023-01-15, 
-509,重庆大学,Chongqing University,https://github.com/cqu-bdsc/CQUThesis,0,13,3,2023-05-10,NOASSERTION
-510,南京大学,Nanjing University,https://github.com/zhangchuheng123/NJUThesis,0,13,3,2016-06-01, 
-511,西南财经大学,Southwestern University of Finance and Economics,https://github.com/OopsYao/swufethesis,0,13,2,2024-04-25,LPPL-1.3c
-512,福州大学,Fuzhou University,https://github.com/chenzl23/FZUThesis,0,13,2,2024-05-27, 
-513,北京林业大学,Beijing Forestry University,https://github.com/ufo5260987423/BjfuLatexTemplate,0,13,2,2018-02-18, 
-514,山东师范大学,Shandong Normal University,https://github.com/RuYunW/SDNU-LaTeX-bachelor-2021,0,13,1,2022-05-16,GPL-3.0
-515,南方科技大学,Southern University of Science and Technology,https://github.com/SUSTC/sustcthesis,0,13,1,2015-04-06,MIT
-516,华东理工大学,East China University of Science and Technology,https://github.com/fireflylyn/Ecust_Bachelor_LaTeX_Template,0,13,1,2017-06-05, 
-517,郑州大学,Zhengzhou University,https://github.com/fylimas/zzuthesis,0,13,1,2024-03-20, 
-518,长沙理工大学,Changsha University of Technology,https://github.com/kangxiatao/CSUSTthesis,0,13,1,2024-03-04, 
-519,南开大学,Nankai University,https://github.com/MaZhengg/NKUthesis,0,13,0,2019-03-04, 
-520,（波兰）罗兹理工大学,Łódź University of Technology*<br>(Politechnika Łódzka),https://github.com/jlokiec/FTIMS-thesis-template,0,13,0,2020-01-28,GPL-3.0
-521,台湾高雄科技大学<br>（國立高雄科技大學）,National Kaohsiung First University of Science and Technology (NKFUST),https://github.com/yuhao-kuo/NKUST-thesis-template,0,12,16,2024-09-13, 
-522,（印度）印度理工学院海得拉巴分校,"Indian Institute of Technology Hyderabad*<br>(ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ, హైదరాబాద్)",https://github.com/utpalbora/IITHThesis,0,12,12,2023-05-09,MIT
-523,上海交通大学,Shanghai Jiaotong University,https://github.com/dyweb/SJTUThesis,1,12,9,2017-12-26,Apache-2.0
-524,（德国）波恩-莱茵-锡格应用技术大学,Hochschule Bonn-Rhein-Sieg University of Applied Sciences*<br>(Hochschule Bonn-Rhein-Sieg),https://github.com/MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit,0,12,8,2024-11-13,AGPL-3.0
-525,北京理工大学,Beijing Institute of Technology,https://github.com/zhang-datou/BIT_Thesis,0,12,8,2020-05-03, 
-526,（美国）斯坦福大学,Stanford University,https://github.com/twhughes/PhD_Thesis,0,12,7,2019-08-22,MIT
-527,（意大利）萨莱诺大学,University of Salerno*<br>(Università degli Studi di Salerno),https://github.com/CiccioTecchio/Unisa-LaTeX,0,12,6,2020-04-14,GPL-3.0
-528,（英国）考文垂大学,Coventry University,https://github.com/GR8DAN/coventry-thesis,0,12,6,2022-10-30,MIT
-529,浙江大学,Zhejiang University,https://github.com/huoyao/ZJUThesis,0,12,6,2016-03-15,GPL-3.0
-530,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/yulijia/LaTeX_UCASthesis,0,12,6,2017-11-07, 
-531,厦门大学,Xiamen University,https://github.com/naseeihity/xmu-latex-temple,0,12,5,2017-05-04, 
-532,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/skywalker023/thesis-template-snu-cse,0,12,4,2023-04-05,MIT
-533,西南交通大学,Southwest Jiaotong University,https://github.com/cshaowang/swjtuThesisV2.0,0,12,3,2024-06-27, 
-534,天津大学,Tianjin University,https://github.com/haimingz/tjuthesis,0,12,3,2025-03-27, 
-535,中国矿业大学,China University of Mining and Technology,https://github.com/jiandong4388/CUMTB-Latex,0,12,3,2018-05-11, 
-536,广州大学,Guangzhou University,https://github.com/whitelok/GZHU_Latex_Template,0,12,3,2017-09-13,MIT
-537,（奥地利）维也纳大学,University of Vienna*<br>(Universität Wien),https://github.com/ppatrzyk/UniWien-LaTeX-Thesis,0,12,2,2017-11-05,MIT
-538,东华大学,Donghua University,https://github.com/3000ye/dhuBachelor,0,12,1,2024-06-16, 
-539,中央财经大学,Central University of Finance and Economics,https://github.com/Nanqiang01/CUFE_Graduate_Thesis_Template,0,12,1,2024-04-14, 
-540,江苏大学,Jiangsu University,https://github.com/TYZQ/ujsthesis,0,12,1,2020-08-21, 
-541,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/ZhuGongpu/BUAA-Graduate-Dissertation-Template,0,12,1,2018-09-28,MIT
-542,东北大学,Northeastern University,https://github.com/neuljh/NEU-undergraduate-thesis-LaTeX-template,0,12,0,2024-02-12,MIT
-543,（加拿大）康考迪亚大学,Concordia University,https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students,0,11,13,2021-03-08, 
-544,（法国）巴黎第十一大学,Paris-Sud University*<br>(Université Paris-Sud),https://github.com/stellasia/thesis-template,0,11,10,2015-06-23, 
-545,（意大利）特伦托大学,University of Trento*<br>(Università degli Studi di Trento),https://github.com/unitn-drive/thesis,0,11,8,2025-05-26,MIT
-546,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/LirenW/NUIST_thesis_template_V2.0,0,11,6,2021-06-14, 
-547,兰州理工大学,Lanzhou University of Technology,https://github.com/estivalinp/LuThesis,0,11,4,2018-06-05, 
-548,北京交通大学,Beijing Jiaotong University,https://github.com/labusi/bjtu-thesis,0,11,4,2018-04-30,Apache-2.0
-549,（加拿大）滑铁卢大学,University of Waterloo,https://github.com/mohuangrui/uwaterloothesis,0,11,4,2021-10-29, 
-550,兰州大学,Lanzhou University,https://github.com/szsdk/LZUthesis,0,11,4,2022-11-16, 
-551,通用模板,Common Templates,https://github.com/thesis-toolbox/template,0,11,4,2023-09-25,Unlicense
-552,东北电力大学,Northeast Electric Power University,https://github.com/jycnb-666/NEEPUTHESIS,0,11,3,2023-02-05, 
-553,郑州大学,Zhengzhou University,https://github.com/lusongno1/-latex-,0,11,2,2019-04-19, 
-554,电子科技大学,University of Electronic Science and Technology of China,https://github.com/savicsw/ThesisUESTC,0,11,2,2021-03-30, 
-555,（印度尼西亚）印度尼西亚大学,University of Indonesia*<br>(Universitas Indonesia),https://github.com/rkkautsar/ui-thesis-template,0,11,1,2019-03-06,NOASSERTION
-556,同济大学,Tongji University,https://github.com/HarlanHW/TongjiThesis,0,11,0,2019-05-19, 
-557,（美国）威斯康星大学麦迪逊分校,University of Wisconsin-Madison,https://github.com/Lodour/wisc-thesis-template,0,11,0,2024-05-04,MIT
-558,中国传媒大学,Communication University of China,https://github.com/TheoCUC/CUC-LaTeX-Templates,0,11,0,2025-04-21,MIT
-559,西安电子科技大学,Xidian University,https://github.com/oopsno/XDUThesis,0,11,0,2016-06-07, 
-560,（新加坡）新加坡国立大学,National University of Singapore (NUS),https://github.com/ramananbalakrishnan/nus-thesis-latex-template,0,10,14,2015-11-14,MIT
-561,湖南大学,Hunan University,https://github.com/ljmdzyx1985/HNUthesis_doctor,0,10,7,2019-05-29, 
-562,（孟加拉国）吉大港Premier大学,"Premier University, CHATTOGRAM*<br>(প্রিমিয়ার ইউনিভার্সিটি)",https://github.com/ascuet/puc-report-template,0,10,4,2022-05-09, 
-563,南京师范大学,Nanjing Normal University,https://github.com/jordanzhouda/nnuthesis,0,10,3,2018-08-10, 
-564,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/Alrash/NUIST_Master_Thesis,0,10,2,2020-06-10,MIT
-565,同济大学,Tongji University,https://github.com/C-zzZZ/TongjiThesis,0,10,2,2018-11-25, 
-566,武汉大学,Wuhan University,https://github.com/jwwangchn/WHU-Thesis-LaTeX,0,10,2,2021-04-14, 
-567,电子科技大学,University of Electronic Science and Technology of China,https://github.com/richardkwo/UESTC-bachelor-thesis-xelatex,0,10,2,2014-01-20, 
-568,中国矿业大学,China University of Mining and Technology,https://github.com/senli1073/cumtthesis,0,10,2,2025-04-06,LPPL-1.3c
-569,北京交通大学,Beijing Jiaotong University,https://github.com/GhostCai/bjtu-thesis-dlc,0,10,1,2024-05-07, 
-570,中国传媒大学,Communication University of China,https://github.com/cucJ2014/CUC_Template-of-thesis_Latex,0,10,1,2021-11-09, 
-571,北京师范大学,Beijing Normal University,https://github.com/gebrilliant/BNU-Latex-Thesis,0,10,1,2020-02-07, 
-572,大连理工大学,Dalian University of Technology,https://github.com/hanqing0521/thesis-dut,0,10,1,2022-05-16, 
-573,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/jtzhpf/NUIST-Bachelor-Thesis-LaTeX-Template-v2022.4,0,10,1,2022-04-21, 
-574,（匈牙利）罗兰大学,"Eötvös Loránd University*<br>(Eötvös Loránd Tudományegyetem, ELTE)",https://github.com/mcserep/elteiktdk,0,10,1,2024-04-26,MIT
-575,通用模板,Common Templates,https://github.com/v97ug/Aizu-Graduation-Thesis-Template,0,10,1,2017-02-14, 
-576,仲恺农业工程学院,Zhongkai University of Agriculture and Engineering,https://github.com/Jin-Cheng-Ming/ZHKU_Thesis,0,10,0,2025-04-12,NOASSERTION
-577,同济大学,Tongji University,https://github.com/hang-qi/tongji-thesis,0,10,0,2013-04-15, 
-578,华东理工大学,East China University of Science and Technology,https://github.com/lavandejoey/ECUSTThesisLatex,0,10,0,2024-01-21,MIT
-579,西北农林科技大学,Northwest A&F University,https://github.com/latexstudio/nwafuthesis,0,9,18,2019-03-08, 
-580,中山大学,Sun Yat-sen University,https://github.com/ShevaXu/LatexThesis4SYSU,0,9,10,2014-05-27, 
-581,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/cllu/CUHK-Thesis-Template,0,9,10,2016-05-18, 
-582,广东工业大学,Guangdong University of Technology,https://github.com/jokerdawn/GDUTThesis,1,9,10,2019-02-19, 
-583,中国人民大学,Renmin University of China,https://github.com/MelodyRen1998/ruc-thesis-template-via-bookdown,0,9,7,2020-03-17, 
-584,通用模板,Common Templates,https://github.com/tdehaeze/clean-latex-template,0,9,6,2018-04-29, 
-585,青岛大学,Qingdao University,https://github.com/chardoncs/qdubachelor-tex,0,9,5,2025-01-01,MIT
-586,中国地质大学（武汉）,China University of Geosciences,https://github.com/xujinlai/CUGThesis,0,9,5,2015-06-05,GPL-2.0
-587,（越南）芹苴大学,Can Tho University*<br>(Trường Đại học Cần Thơ),https://github.com/duongludien/thesis-template,0,9,4,2018-05-14,GPL-3.0
-588,天津大学,Tianjin University,https://github.com/lebronyxm/TJU-master-Latex,0,9,4,2017-08-09, 
-589,南昌航空大学,Nanchang Aviation University,https://github.com/NCHUSC/NCHU_Bachelor_Thesis_Template,0,9,3,2025-02-15,MIT
-590,（西班牙）马拉加大学,"University of Malaga*<br>(Universidad de Málaga, UMA)",https://github.com/benhid/TFG-UMA,0,9,3,2020-01-08,MIT
-591,北京科技大学,Beijing University of Science and Technology,https://github.com/qin-nz/USTB-latex,0,9,3,2015-06-02,MIT
-592,南京大学,Nanjing University,https://github.com/EdwardSaidZhou/NJU-thesis-esz,0,9,2,2022-03-25, 
-593,（英国）爱丁堡大学,University of Edinburgh*<br>(Oilthigh Dhùn Èideann),https://github.com/H0R5E/edengths,0,9,2,2024-11-18,GPL-3.0
-594,苏州大学,Soochow University,https://github.com/absop/LaTeX-Template,0,9,2,2020-05-27, 
-595,（英国）纽卡斯尔大学,Newcastle University,https://github.com/philipdarke/simple-thesis,0,9,2,2024-10-15,MIT
-596,山东大学,Shandong University,https://github.com/wangzhukang/sduthesis,0,9,2,2025-05-01, 
-597,大连理工大学,Dalian University of Technology,https://github.com/01xz/dlut-thesis,0,9,1,2025-03-14,LPPL-1.3c
-598,国防科技大学,National Defense University of Science and Technology,https://github.com/kelvin0207/NUDT-Template,0,9,1,2024-05-16, 
-599,国防科技大学,National Defense University of Science and Technology,https://github.com/nonsense-j/NUDT_FinalPaper,0,9,1,2023-08-09,MIT
-600,（伊朗）阿米尔·卡比尔理工大学,"University of Technology, AUT*<br>(دانشگاه صنعتی امیرکبیر)",https://github.com/aminrashidbeigi/BS-thesis,0,9,0,2020-10-28, 
-601,华东理工大学,East China University of Science and Technology,https://github.com/blanche07/ecust-master-thesis-latex,0,9,0,2024-06-04, 
-602,通用模板,Common Templates,https://github.com/jorgepiloto/escriba,0,9,0,2021-09-16,NOASSERTION
-603,苏州大学,Soochow University,https://github.com/rgwt123/sudathesis,0,9,0,2021-03-28, 
-604,陕西师范大学,Shaanxi Normal University,https://github.com/yykphy/yk-snnu-thesis,0,9,0,2024-06-13, 
-605,（加拿大）康考迪亚大学,Concordia University*<br>(Université Concordia),https://github.com/raxityo/concordia-latex-template,0,8,8,2018-02-02, 
-606,西北农林科技大学,Northwest A&F University,https://github.com/Jeromezp/NorthWestThesis,0,8,3,2017-05-31,MIT
-607,（西班牙）马德里理工大学,"Technical University of Madrid*<br>(Universidad Politécnica de Madrid, UPM)",https://github.com/eduayme/UPM-thesis-template-latex,0,8,3,2020-11-01, 
-608,华中科技大学,Huazhong University of Science,https://github.com/Qinnn/LaTeX-ThesisTemplatesForHUSTer,0,8,2,2015-04-22, 
-609,（印度）印度理工学院克勒格布尔分校,"Indian Institute of Technology Kharagpur, IIT Kharagpur*<br>(ਆਈ.ਆਈ.ਟੀ. ਖੜਗਪੁਰ)",https://github.com/c-i-p-h-e-r/PhinisheD,0,8,2,2018-01-04,MIT
-610,同济大学,Tongji University,https://github.com/Ginufet/tongji-dissertation-master-template,0,8,1,2022-03-11, 
-611,复旦大学,Fudan University,https://github.com/fduxiao/format_for_fdu_math,0,8,1,2019-05-09, 
-612,（英国）南安普顿大学,University of Southampton,https://github.com/hlwhl/ECS_Thesis_Template_LaTex,0,8,1,2018-08-19,Apache-2.0
-613,中国石油大学（北京）,China University of Petroleum (Beijing),https://github.com/linyuantiaohe/cupb-phd-thesis,0,8,1,2022-05-12, 
-614,武汉大学,Wuhan University,https://github.com/liuyijiang1994/WHU-PhD-Latex,0,8,1,2024-02-17, 
-615,（印度）蒂鲁吉拉伯利国立理工学院,"National Institute of Technology Tiruchirappalli, NIT Trichy*<br>(தேசிய தொழில்நுட்பக் கழகம், திருச்சிராப்பள்ளி)",https://github.com/niki864/ThesisTemplate,0,8,1,2018-03-19,MIT
-616,（日本）东京大学,University of Tokyo*<br>(東京大学),https://github.com/utlis/llls_depp-thesis_template,0,8,1,2024-03-26, 
-617,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/DotWang/UPCThesis_advanced,0,8,0,2019-02-14, 
-618,北京理工大学,Beijing Institute of Technology,https://github.com/FDUZS/BIThesis,1,8,0,2022-11-25,LPPL-1.3c
-619,深圳大学,Shenzhen University,https://github.com/Yulv-git/Master-Thesis-LaTeX-Template-of-SZU,0,8,0,2022-08-08,MIT
-620,（美国）爱荷华大学,University of Iowa,https://github.com/uiowa-mgb/uiowa-thesis,0,8,0,2024-05-22,ISC
-621,华南农业大学,South China Agricultural University,https://github.com/wuenzhe/SCAUThesis,0,8,0,2023-03-29, 
-622,（美国）威廉与玛丽学院,College of William and Mary,https://github.com/yishanhe/WM-AS-thesis-latex-template,0,7,12,2024-07-17,MIT
-623,山东大学,Shandong University,https://github.com/ChenMeng0518/sduthesis,0,7,7,2015-01-03, 
-624,（美国）伍斯特学院,The College of Wooster,https://github.com/jbreitenbucher/exampleis,0,7,6,2025-04-30, 
-625,中山大学,Sun Yat-sen University,https://github.com/guoyl6/thesis-dev,0,7,5,2018-10-16,GPL-3.0
-626,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/xmlu/hduthesis,0,7,5,2025-03-15,MIT
-627,中国传媒大学,Communication University of China,https://github.com/AmnesiaBeing/CUC-Thesis-Template,0,7,4,2021-06-09, 
-628,湘潭大学,Xiangtan University,https://github.com/ruiminshen/ThesisXTU,0,7,4,2015-05-22,GPL-2.0
-629,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/AndyYangjd/SUES-Paper,0,7,3,2020-03-09,MIT
-630,通用模板,Common Templates,https://github.com/danielvartan/abnt,0,7,3,2024-08-12,MIT
-631,（意大利）那不勒斯腓特烈二世大学,University of Naples Federico II*<br>(Università degli Studi di Napoli Federico II),https://github.com/luistar/unina-thesis-template,0,7,3,2024-10-21,LGPL-3.0
-632,南京工业大学,Nanjing University of Technology,https://github.com/AstralHope/NJTECHMasterThesis,0,7,2,2022-08-07,GPL-3.0
-633,浙江工业大学,Zhejiang University of Technology,https://github.com/AsukaEva2/ZJUTbachelor,0,7,2,2022-09-15,GPL-3.0
-634,浙江大学,Zhejiang University,https://github.com/corenel/zju-thesis,0,7,2,2020-12-06,MIT
-635,通用模板,Common Templates,https://github.com/farshadrasuli/parsa,0,7,2,2021-08-09, 
-636,（印度）德里理工大学,"Delhi Technological University, DTU",https://github.com/gandalfsaxe/laursens-xelatex-thesis-template,0,7,2,2019-02-26, 
-637,通用模板,Common Templates,https://github.com/openHPI/modernthesis,0,7,2,2017-06-30, 
-638,厦门大学,Xiamen University,https://github.com/DiggerWang/-Latex-,0,7,1,2019-01-30, 
-639,青海大学,Qinghai University,https://github.com/coffeelize/QHUthesis,0,7,1,2025-03-26, 
-640,（英国）赫瑞瓦特大学,Heriot-Watt University*<br>(Oilthigh Heriot-Watt),https://github.com/jackred/Heriot_Watt_Thesis_Template,0,7,1,2024-03-11,MIT
-641,东南大学,Southeast University,https://github.com/jasonbian97/Southeast-University-Paper-Latex-Template,0,7,1,2019-06-14, 
-642,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/liao961120/ntuthesis2,0,7,1,2022-11-01, 
-643,（加拿大）约克大学,York University*<br>(Université York),https://github.com/philchalmers/York_Thesis_LyX,0,7,1,2017-06-10, 
-644,吉林大学,Jilin University,https://github.com/OceanPresentChao/JLU-SE-Thesis-Template,0,7,0,2024-10-13,MIT
-645,（希腊）雅典大学,"National and Kapodistrian University of Athens, NKUA*<br>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)",https://github.com/cnasikas/di-thesis-template,0,7,0,2018-06-27,MIT
-646,武汉大学,Wuhan University,https://github.com/lh9171338/WHU-Thesis,0,7,0,2020-04-05,MIT
-647,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/mequanwei/CQUPTThesis,0,7,0,2019-11-05, 
-648,华东师范大学,East China Normal University,https://github.com/myzmh/ECNU-MASTER-S-DISSERTATION-,0,7,0,2022-05-01, 
-649,吉林大学,Jilin University,https://github.com/quanfan-zi/Latex-Paper-Templates,0,7,0,2024-03-14, 
-650,合肥工业大学,HeFei University of Technology,https://github.com/shinyypig/HFUT-Thesis,0,7,0,2024-07-05,MIT
-651,南方科技大学,Southern University of Science and Technology,https://github.com/syw-robotics/SUSTechThesis2024MEE,0,7,0,2024-12-09,LPPL-1.3c
-652,南方科技大学,Southern University of Science and Technology,https://github.com/whzecomjm/sustcthesis,0,6,14,2017-07-31,MIT
-653,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/wugh/bupt-thesis-bachelor,0,6,9,2014-06-09, 
-654,（印度）印度理工学院马德拉斯分校,"Indian Institute of Technology Madras, IIT Madras",https://github.com/j-jith/iitm-thesis,0,6,8,2019-06-03, 
-655,北方民族大学,Northern Minzu University,https://github.com/WizenZhang/NMUThesis,0,6,7,2019-06-12,MIT
-656,大连理工大学,Dalian University of Technology,https://github.com/li-xin-yi/DLUTLaTeXTemplate,0,6,7,2016-03-29, 
-657,东北大学,Northeastern University,https://github.com/PlayerAI/NEU_PHD_Template,0,6,6,2013-06-05, 
-658,北京科技大学,Beijing University of Science and Technology,https://github.com/liuzhaoboatenficomcn/Latex-template-for-University-of-Science-and-Technology-Beijing,0,6,6,2018-10-10, 
-659,中国人民大学,Renmin University of China,https://github.com/liuqi6777/ructhesis,0,6,5,2024-04-17,MIT
-660,海南大学,Hainan University,https://github.com/zoltarsun/hainuthesis,0,6,5,2017-06-25, 
-661,（秘鲁）国立工程大学,"National University of Engineering*<br>(Universidad Nacional de Ingeniería, UNI)",https://github.com/ErickChacon/uni-thesis,0,6,4,2017-04-08,MIT
-662,山东师范大学,Shandong Normal University,https://github.com/SmartHelium/sdnubachelor,0,6,4,2023-03-15,GPL-3.0
-663,（美国）亚利桑那州立大学,Arizona State University,https://github.com/juliantao/quarto-asu-thesis,0,6,4,2023-06-27,MIT
-664,西北工业大学,Northwestern Polytechnical University,https://github.com/lrtfm/nputhesis,0,6,4,2024-01-17, 
-665,西安交通大学,Xi'an Jiaotong University,https://github.com/haoyun/xjtu-thesis-BSc,1,6,3,2014-03-29,LPPL-1.3c
-666,华东师范大学,East China Normal University,https://github.com/Jarvis-K/ECNU_Latex_Template,0,6,2,2019-05-08, 
-667,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/Zeta611/snu-cse-bsc-thesis,0,6,2,2024-06-27,MIT
-668,中南大学,Central South University,https://github.com/hezhujun/CSU-Thesis-LaTeX,0,6,2,2021-06-07, 
-669,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/Jingxuan-Yang/YangThesis.HITSZ.Dissertation,0,6,1,2019-10-30, 
-670,湖南大学,Hunan University,https://github.com/LASER-Yi/HNU-Thesis-LaTeX-Template,0,6,1,2019-05-22,GPL-3.0
-671,（印度）马尼帕尔理工学院,Manipal Institute of Technology,https://github.com/avnishsachar/manipal_thesis_template,0,6,1,2020-05-05, 
-672,贵州大学,Guizhou University,https://github.com/francisol/GZUthesis-template,0,6,1,2025-01-02, 
-673,（德国）哥廷根大学,University of Göttingen*<br>(Georg-August-Universität Göttingen),https://github.com/mhellmeier/LaTeX-Thesis-Template,0,6,1,2021-03-30,MIT
-674,安徽大学,Anhui University,https://github.com/qxx/AHU_Thesis,0,6,1,2014-03-11,GPL-2.0
-675,华南理工大学,South China University of Technology,https://github.com/Droliven/scut-thesis-template,0,6,0,2023-04-07,GPL-3.0
-676,福州大学,Fuzhou University,https://github.com/FzuerStudio/fzu-thesis-template,0,6,0,2013-05-14, 
-677,上海第二工业大学,Shanghai Second University of Technology,https://github.com/JouderMin/SSPUThesis,0,6,0,2024-04-17,MIT
-678,（韩国）国立釜庆大学,"Pukyong National University, PKNU*<br>(국립부경대학교)",https://github.com/Luminebear/PKNU-thesis-template,0,6,0,2024-05-21, 
-679,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/aofenghanyue/PhDThesisWordTemplate,0,6,0,2021-11-27,MIT
-680,通用模板,Common Templates,https://github.com/ccauet/thesis-template,0,6,0,2016-06-07,MIT
-681,大连理工大学,Dalian University of Technology,https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master,0,6,0,2017-03-13, 
-682,西北工业大学,Northwestern Polytechnical University,https://github.com/jingchangshi/NPU_PhD_Thesis_LaTeXTemplate,0,6,0,2022-01-07, 
-683,（德国）德根多夫理工学院,Deggendorf Institute of Technology*<br>(Technische Hochschule Deggendorf),https://github.com/playduck/thd-thesis,0,6,0,2023-02-23,BSD-3-Clause
-684,西南石油大学,Southwest Petroleum University,https://github.com/qingbyin/swputhesis,0,6,0,2022-05-15, 
-685,山东大学,Shandong University,https://github.com/wangkerui/sduthesis,0,6,0,2014-05-27,WTFPL
-686,（英国）牛津大学,University of Oxford,https://github.com/Tinyblack/Oxford-EngSci-Thesis-Template,0,5,8,2025-02-19,MIT
-687,浙江大学,Zhejiang University,https://github.com/jzhugithub/zju_thesis_latex,0,5,7,2018-04-03, 
-688,通用模板,Common Templates,https://github.com/Aloft-Lab/CTEX-Templates,0,5,6,2022-11-04, 
-689,东南大学,Southeast University,https://github.com/SouthEastUniversityofChina/seuthesis,0,5,5,2014-07-18, 
-690,（墨西哥）国立自治大学,"National Autonomous University of Mexico*<br>(Universidad Nacional Autónoma de México, UNAM)",https://github.com/jafPrudente/Tesis,0,5,5,2025-05-28, 
-691,同济大学,Tongji University,https://github.com/CharlieZi/TJU-Post-Graduate-Latex-Template,0,5,4,2015-03-19, 
-692,西南民族大学,Southwest University for Nationalities,https://github.com/changkun/SWUNThesis,0,5,4,2016-05-09,LGPL-3.0
-693,吉林大学,Jilin University,https://github.com/dartall/jluthesis,0,5,4,2016-02-29, 
-694,通用模板,Common Templates,https://github.com/goorkamateusz/praca-dyplomowa-szablon,0,5,3,2021-12-21, 
-695,澳门大学<br>（澳門大學）,University of Macau (UM),https://github.com/williamwuzeyi/UM-FST-MSc-Thesis-LaTeX-TMPL,0,5,3,2018-10-04, 
-696,东北大学,Northeastern University,https://github.com/NEUAI/neuthesis-en,0,5,2,2020-05-27,Apache-2.0
-697,华东理工大学,East China University of Science and Technology,https://github.com/hgkdzbf6/EcustThesis,0,5,2,2019-03-05,Apache-2.0
-698,华东理工大学,East China University of Science and Technology,https://github.com/liuqipei/ecust-template-latex,0,5,2,2022-03-12,GPL-2.0
-699,北京林业大学,Beijing Forestry University,https://github.com/quaeast/BjfuLatexTemplate,0,5,2,2021-06-03, 
-700,（马来西亚）玛拉理工大学,"MARA Technological University*<br>(Universiti Teknologi MARA, UiTM)",https://github.com/rizauddin/uitmthesis,0,5,2,2023-04-18,LPPL-1.3c
-701,（法国）巴黎第八大学「万塞讷-圣但尼大学」,Paris 8 University Vincennes-Saint-Denis*<br>(Université Paris 8 Vincennes-Saint-Denis),https://github.com/yzrobot/LIASD_LaTeX_Thesis_Template,0,5,2,2020-03-17,GPL-3.0
-702,浙江理工大学,Zhejiang Sci-Tech University,https://github.com/Casta-mere/LaTeX-GraduationTemplate,0,5,1,2024-09-29, 
-703,北京大学,Peking University,https://github.com/GXIU/Easy-Templates,0,5,1,2020-07-18, 
-704,中山大学,Sun Yat-sen University,https://github.com/Lovely-XPP/SYSU-thesis,0,5,1,2023-05-19,GPL-3.0
-705,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-mm,0,5,1,2024-05-02,MIT
-706,台湾阳明交通大学<br>（國立陽明交通大學）,National Yang Ming Chiao Tung University (NYCU),https://github.com/alex81527/latex-nctu-thesis,0,5,1,2018-02-19,GPL-3.0
-707,重庆交通大学,Chongqing Jiaotong University,https://github.com/cyanray/ThesisCQJTU,0,5,1,2022-10-10, 
-708,山东大学,Shandong University,https://github.com/luxun59/latex_Template,0,5,1,2023-01-17, 
-709,（美国）科罗拉多矿业学院,Colorado School of Mines,https://github.com/miligithub/MinesThesisTemplate,0,5,1,2021-01-28, 
-710,上海科技大学,ShanghaiTech University,https://github.com/sslchi/SISTThesis,0,5,1,2020-09-23, 
-711,（挪威）奥斯陆大学,University of Oslo*<br>(Universitetet i Oslo),https://github.com/uio-latex/phduio-monograph,0,5,1,2023-07-23,MIT
-712,中南大学,Central South University,https://github.com/ChaoYan/CSUThesis,0,5,0,2025-02-21,Apache-2.0
-713,通用模板,Common Templates,https://github.com/WetenSchaap/latex-imitatie,0,5,0,2022-06-17,AGPL-3.0
-714,深圳大学,Shenzhen University,https://github.com/bearcatat/SZUThesis,0,5,0,2022-01-09, 
-715,（意大利）罗马大学,Sapienza University of Rome*<br>(Sapienza - Università di Roma),https://github.com/edoardottt/sapienza-latex-thesis,0,5,0,2024-11-10,GPL-3.0
-716,（越南）芽庄大学,Nha Trang University*<br>(Trường Đại học Nha Trang),https://github.com/nd-hung/thesis-template,0,5,0,2024-07-04, 
-717,（日本）九州工业大学,Kyushu Institute of Technology*<br>(九州工業大学),https://github.com/ravijo/kyutech-thesis-template,0,5,0,2020-06-09,MIT
-718,（美国）宾夕法尼亚大学,"University of Pennsylvania, UPenn",https://github.com/shyamupa/upenn-cis-thesis-template,0,4,7,2021-02-28, 
-719,（美国）耶鲁大学,Yale University*<br>(Yale University),https://github.com/jopetty/yale-thesis,0,4,5,2017-08-13,MIT
-720,南京农业大学,Nanjing Agricultural University,https://github.com/Qsion/NJAU_Thesis,0,4,4,2023-12-04,GPL-3.0
-721,（美国）田纳西大学诺克斯维尔分校,"University of Tennessee, Knoxville (UTK)",https://github.com/edponce/thesis_template,0,4,3,2023-01-25,MIT
-722,南开大学,Nankai University,https://github.com/bianbian1234/NKU_latex_template,0,4,2,2022-09-28, 
-723,湖南师范大学,Hunan Normal University,https://github.com/ljmdzyx1985/HUNNU_Thesis,0,4,2,2021-03-23, 
-724,南开大学,Nankai University,https://github.com/vicky66/nkuthesis-master-mac,0,4,2,2019-01-02, 
-725,厦门大学,Xiamen University,https://github.com/wwwxmu/-Latex-,0,4,2,2015-05-07, 
-726,（印度尼西亚）印度尼西亚大学,University of Indonesia*<br>(Universitas Indonesia),https://github.com/yohanesgultom/ui_style,0,4,2,2017-05-03,NOASSERTION
-727,中山大学,Sun Yat-sen University,https://github.com/1FCENdoge/sysuthesis,0,4,1,2025-05-30,LPPL-1.3c
-728,中国科学技术大学,University of Science and Technology of China,https://github.com/GaZ3ll3/ustcthesis,0,4,1,2014-02-07,GPL-2.0
-729,四川大学,Sichuan University,https://github.com/MrGodfrey/SCU-Thesis-LaTeX-Template,0,4,1,2025-03-04,Apache-2.0
-730,成都理工大学,Chengdu University of Technology,https://github.com/cs-whh/CDUT_thesis,0,4,1,2022-01-13, 
-731,四川大学,Sichuan University,https://github.com/myfox1997/SCU_Thesis,0,4,1,2019-04-26, 
-732,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/ydar95/HDU-Master-Thesis-Latex,0,4,1,2022-04-14, 
-733,东北大学,Northeastern University,https://github.com/yeqibin/neuthesis,0,4,1,2016-08-07, 
-734,（美国）爱荷华大学,University of Iowa,https://github.com/zhiyzuo/uiowa-thesis-dissertation,0,4,1,2019-07-10,NOASSERTION
-735,北京师范大学,Beijing Normal University,https://github.com/Hggg/BNU-Bachelor-Template,0,4,0,2020-04-24, 
-736,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/JunyiHua/latex-mould-for-BUAA-bachelor-thesis-2021,0,4,0,2021-01-12, 
-737,大连理工大学,Dalian University of Technology,https://github.com/Saltsmart/DUT-master-thesis,0,4,0,2023-05-06,LPPL-1.3c
-738,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/YihanCao123/zuel_thesis,0,4,0,2020-05-18,MIT
-739,上海师范大学,Shanghai Normal University,https://github.com/andy123t/shnubachelor,0,4,0,2024-08-22,MIT
-740,南开大学,Nankai University,https://github.com/hhhhhscott/NKU_Bachelor_Thesis_EO_College_LaTeX_Template,0,4,0,2024-02-13, 
-741,（马来西亚）马来西亚工艺大学,"University of Technology Malaysia, UTM*<br>(Universiti Teknologi Malaysia)",https://github.com/kianmeng/utmthesis-context,0,4,0,2022-09-07, 
-742,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/labenbmic1/git-BachelorThesis,0,4,0,2020-10-10, 
-743,（瑞士）瑞士西北应用科学与艺术大学,"University of Applied Sciences and Arts Northwestern Switzerland*<br>(Fachhochschule Nordwestschweiz, FHNW)",https://github.com/maechler/latex-thesis-template,0,4,0,2020-04-22, 
-744,天津大学,Tianjin University,https://github.com/oak619/TJUthesis_xelatex-phd-2020,0,4,0,2021-05-29,GPL-3.0
-745,电子科技大学,University of Electronic Science and Technology of China,https://github.com/raja21068/UESTC-THESIS,0,4,0,2019-01-25, 
-746,山东大学,Shandong University,https://github.com/sailist/Refined-Version-of-SDU-Thesis-Template,0,4,0,2023-02-16,MIT
-747,河海大学,Hohai University,https://github.com/schochastics/hhu_thesis,0,4,0,2023-07-12, 
-748,重庆大学,Chongqing University,https://github.com/yinguoweiOvO/CQUThesis_20242024,0,4,0,2024-03-31,NOASSERTION
-749,浙江工商大学,Zhejiang Gongshang University,https://github.com/zewei-Zhang/zjgsuthesis,0,4,0,2022-04-26,MIT
-750,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/latexstudio/PhD-Thesis--LaTeX-Template-for-BUPT,0,3,10,2016-07-18, 
-751,（沙特阿拉伯）卡西姆大学,Qassim University*<br>(جامعة_القصيم),https://github.com/coc-it/qu-thesis-template,0,3,6,2023-03-06,MIT
-752,台湾南台科技大学<br>（南臺科技大學）,Southern Taiwan University of Science and Technology (STUST),https://github.com/yingchaotw/STUST-thesis-template,0,3,4,2024-08-24, 
-753,首都师范大学,Capital Normal University,https://github.com/huwan/cnuthesis,0,3,3,2021-02-09, 
-754,（英国）兰卡斯特大学,Lancaster University*<br>(Lancaster University),https://github.com/ErickChacon/lancs-thesis,0,3,2,2019-02-04,GPL-3.0
-755,北京林业大学,Beijing Forestry University,https://github.com/bjfu-projects/bjfuthesis,0,3,2,2021-07-02,GPL-3.0
-756,北京语言大学,Beijing Language and Culture University,https://github.com/cunliangkong/BLCU-Thesis,1,3,2,2023-05-15, 
-757,成都理工大学,Chengdu University of Technology,https://github.com/fumeng6/CDUT-Undergraduate-Thesis-Template,0,3,2,2022-09-11, 
-758,（德国）帕德博恩大学,Paderborn University*<br>(Universität Paderborn),https://github.com/patrickrobrecht/latex-templates-upb,0,3,2,2017-12-17,GPL-3.0
-759,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/FilipeMar/DoctoralThesisIST,0,3,1,2019-04-04,GPL-3.0
-760,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/FilipeMar/Phd-Thesis-Tecnico,0,3,1,2019-04-05,GPL-3.0
-761,大连理工大学,Dalian University of Technology,https://github.com/GoBigorGoHome/dutthesis,0,3,1,2017-06-09, 
-762,同济大学,Tongji University,https://github.com/Hl-W/TongjiThesis_modified,0,3,1,2024-05-21, 
-763,华南理工大学,South China University of Technology,https://github.com/KaitlynZeng/SCUT-THESIS,0,3,1,2020-05-29, 
-764,（伊朗）哈杰·纳西尔丁·图西理工大学,Khajeh Nasir Toosi University of Technology*<br>(دانشگاه صنعتی خواجه نصيرالدين طوسی),https://github.com/MJAHMADEE/KNTUThesis,0,3,1,2024-08-19,MIT
-765,复旦大学,Fudan University,https://github.com/ShupeiLi/fudan-thesis-template,0,3,1,2022-04-11, 
-766,（新加坡）南洋理工大学,Nanyang Technological University (NTU),https://github.com/alxiong/ntu-thesis-latex,0,3,1,2025-03-27,Apache-2.0
-767,对外经济贸易大学,University of International Business and Economics,https://github.com/caibengbu/uibethesis,0,3,1,2024-07-10, 
-768,湖南大学,Hunan University,https://github.com/gannerfreer/Hnu_master_thesis,0,3,1,2025-05-14, 
-769,浙江大学,Zhejiang University,https://github.com/junpeiz/ZJU-CS-Undergrad-Thesis-Latex-Template,0,3,1,2019-03-24, 
-770,（西班牙）马德里理工大学,"Technical University of Madrid*<br>(Universidad Politécnica de Madrid, UPM)",https://github.com/ricardolopezgr/TFG-TFM-template,0,3,1,2018-11-25,MIT
-771,东北师范大学,Northeast Normal University,https://github.com/BENZJ/NNU_Latex_temple,0,3,0,2021-05-03, 
-772,（法国）布列塔尼-卢瓦尔大学,Brittany and Loire University*<br>(Université Bretagne-Loire),https://github.com/Callidon/template-thesis-ubl-mathstic,0,3,0,2020-02-14,MIT
-773,厦门大学,Xiamen University,https://github.com/CamuseCao/XMU-Thesis-Overleaf,1,3,0,2020-08-11, 
-774,厦门大学,Xiamen University,https://github.com/CoolTowel/XMU_ThesisTemplate,0,3,0,2020-02-23,GPL-3.0
-775,中国海洋大学,Ocean University of China,https://github.com/Duola-li/OUC-Latex-Thesis-master,0,3,0,2023-05-29, 
-776,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template,0,3,0,2023-03-12,MIT
-777,中国海洋大学,Ocean University of China,https://github.com/SunYufei/oucthesis,1,3,0,2021-05-24, 
-778,中国人民大学,Renmin University of China,https://github.com/abuccts/ructhesis,0,3,0,2017-10-31,LPPL-1.3c
-779,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/donk3yzz/zuel_zh,0,3,0,2019-04-06, 
-780,湖南工商大学,Hunan Industrial and Commercial University,https://github.com/ethan-phu/hutb_master_thesis_latex,0,3,0,2022-03-12, 
-781,（美国）西密歇根大学,Western Michigan University*<br>(Western Michigan University),https://github.com/jonlighthall/wmu,0,3,0,2021-01-27,MIT
-782,北京电影学院,Beijing Film Academy,https://github.com/juneleung/BFA_Master_Thesis_Template,0,3,0,2024-01-29, 
-783,北京电影学院,Beijing Film Academy,https://github.com/juneleung/BFA_Undergraduate_Thesis_Template,0,3,0,2024-01-29, 
-784,（荷兰）阿姆斯特丹大学,University of Amsterdam*<br>(Universiteit van Amsterdam),https://github.com/m4lvin/illc-phd-thesis-template,0,3,0,2025-02-17, 
-785,华南理工大学,South China University of Technology,https://github.com/mengchaoheng/SCUT_course,0,3,0,2023-11-03, 
-786,（美国）亚利桑那州立大学,Arizona State University,https://github.com/nicole-brewer/asu-thesis,0,3,0,2023-12-21,GPL-3.0
-787,（俄罗斯）南方联邦大学,Southern Federal University (SFedU)*<br>(Южный федеральный университет (ЮФУ)),https://github.com/sanyarnd/sfedu-mmcs-latex-thesis-template,0,3,0,2019-06-21,CC0-1.0
-788,中国人民大学,Renmin University of China,https://github.com/tnoa77/RUC_Thesis_2019,0,3,0,2020-02-06, 
-789,清华大学,Tsinghua University,https://github.com/xavieryao/thu-ell-bachelor-thesis,0,3,0,2019-10-04, 
-790,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/yszheda/nthu-master-thesis,0,3,0,2014-06-12,MIT
-791,兰州大学,Lanzhou University,https://github.com/zmx0142857/lzuthesis,0,3,0,2020-05-31, 
-792,厦门大学,Xiamen University,https://github.com/liulizhi1996/XMU-Bachelor-Thesis-Templete,0,2,3,2018-05-08, 
-793,华东理工大学,East China University of Science and Technology,https://github.com/scottoasis/ecustthesis,0,2,3,2013-06-16, 
-794,哈尔滨医科大学,Harbin Medical University,https://github.com/a67878813/HMUThesis-master,0,2,2,2017-05-30,Apache-2.0
-795,厦门大学,Xiamen University,https://github.com/faying/XMU-LaTeX-Template,0,2,2,2012-11-23, 
-796,香港城市大学<br>（香港城市大學）,City University of Hong Kong (CityU),https://github.com/huwan/cleanthesis-cityu,0,2,2,2020-07-29, 
-797,（美国）马凯特大学,Marquette University,https://github.com/pdgessler/mugsthesis,1,2,2,2022-09-01, 
-798,复旦大学,Fudan University,https://github.com/yhyi15/FDU_PhD_Thesis_Template,0,2,2,2017-04-04, 
-799,西安电子科技大学,Xidian University,https://github.com/ztcxdu/xdu_MS_thesis_template,0,2,2,2020-12-22,GPL-3.0
-800,（澳大利亚）新南威尔士大学,University of New South Wales,https://github.com/andrewletten/LettenPhDThesis2015,0,2,1,2017-06-10,MIT
-801,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/chujay/NTU_latex,0,2,1,2017-07-27, 
-802,山西农业大学,Shanxi Agricultural University,https://github.com/dubuqingfeng/sxau-document,1,2,1,2016-12-13, 
-803,天津大学,Tianjin University,https://github.com/jinyu121/tju-thesis-simple,0,2,1,2021-05-29, 
-804,山东财经大学,Shandong University of Finance and Economics,https://github.com/mslxl/sdufe-thesis,0,2,1,2024-05-20,LPPL-1.3c
-805,三峡大学,China Three Gorges University,https://github.com/sxdxyxy/smartmedical,0,2,1,2017-04-15, 
-806,东北大学,Northeastern University,https://github.com/w-mj/neu_cse_bachelor_thesis,0,2,1,2020-05-27, 
-807,通用模板,Common Templates,https://github.com/CRAG666/tectonic-latex-template,0,2,0,2024-06-14,GPL-3.0
-808,天津大学,Tianjin University,https://github.com/ChrisVicky/TJU-Thesis-LaTeX-Template,0,2,0,2023-03-05,GPL-3.0
-809,兰州大学,Lanzhou University,https://github.com/CosmosLiang/LZUthesis,0,2,0,2018-12-18, 
-810,武汉大学,Wuhan University,https://github.com/HarborYuan/whucs-thesis,0,2,0,2023-06-01, 
-811,吉林大学,Jilin University,https://github.com/Herbert-Gao/JLU_Graduation_Model_Bachelor,0,2,0,2022-01-10, 
-812,湖南大学,Hunan University,https://github.com/MaFuyan/HNU_Thesis_LaTeX_MacOS,0,2,0,2022-01-04, 
-813,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-thesis-bachelor,0,2,0,2024-02-21,MIT
-814,大连交通大学,Dalian Jiaotong University,https://github.com/MrLQQ/DJTU-latex-thesis,0,2,0,2021-10-07,AGPL-3.0
-815,江苏大学,Jiangsu University,https://github.com/NTrabbit5/UJS-thesis,0,2,0,2020-11-02, 
-816,苏州大学,Soochow University,https://github.com/NatureGeorge/sudathesis-bachelor,0,2,0,2021-06-03,MIT
-817,北京理工大学,Beijing Institute of Technology,https://github.com/PolarLion/BIT-thesis-template,0,2,0,2022-10-03, 
-818,华南理工大学,South China University of Technology,https://github.com/VicoZhang/SCUT_Latex_template,0,2,0,2023-02-26,MIT
-819,大连理工大学,Dalian University of Technology,https://github.com/Youxuan1/dut_essay_model,0,2,0,2022-12-11, 
-820,浙江理工大学,Zhejiang Sci-Tech University,https://github.com/YvonZhou/ZSTUThesis,0,2,0,2019-04-14,Apache-2.0
-821,（英国）帝国理工学院,Imperial College London (IC),https://github.com/blaahhrrgg/icldiss,0,2,0,2015-07-28,MIT
-822,（罗马尼亚）雅西“亚历山德鲁·杨·库扎”大学,"Alexandru Ioan Cuza University of Iasi*<br>(„Alexandru Ioan Cuza” University of Iași, UAIC)",https://github.com/blankdots/LatexThesisTemplate,0,2,0,2023-12-18,MIT
-823,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/cnMuggle/BuptThesisBachelor_1.1,0,2,0,2015-07-18, 
-824,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/dustincys/hithesis,0,2,0,2025-03-19, 
-825,兰州大学,Lanzhou University,https://github.com/latexstudio/LZUthesis,0,2,0,2021-05-28, 
-826,武汉大学,Wuhan University,https://github.com/lvZic/latex,0,2,0,2018-08-16, 
-827,武汉大学,Wuhan University,https://github.com/prejudice666/whu-thesis-latex-template,0,2,0,2023-05-25, 
-828,江苏科技大学,Jiangsu University of Science and Technology,https://github.com/sheeplib/JustThesis,0,2,0,2018-06-23, 
-829,湖北经济学院,Hubei School of Economics,https://github.com/snyh/hbue_thesis,0,2,0,2019-03-19, 
-830,四川大学,Sichuan University,https://github.com/wonderland-dsg/scuthesis,0,2,0,2020-03-07, 
-831,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/yangze01/BUPT-Master-Graduation-Thesis,0,2,0,2020-01-10, 
-832,西北师范大学,Northwest Normal University,https://github.com/yxli8023/Graduate-Thesis-Module,0,2,0,2018-02-15, 
-833,（印度）印度理工学院马德拉斯分校,"Indian Institute of Technology Madras, IIT Madras",https://github.com/amitanilkulkarni/iitm-thesis-template,0,1,5,2016-04-24,MIT
-834,华东理工大学,East China University of Science and Technology,https://github.com/clyce/ecust_thesis_template,0,1,2,2013-03-31, 
-835,天津大学,Tianjin University,https://github.com/latexstudio/tjuThesis,0,1,2,2016-01-11, 
-836,武汉大学,Wuhan University,https://github.com/paul-wu/whuthesis,0,1,2,2014-12-30, 
-837,北京化工大学,Beijing University of Chemical Technology,https://github.com/qianqianjun/UnetFCNDAE,0,1,2,2020-06-19, 
-838,西安交通大学,Xi'an Jiaotong University,https://github.com/4712635/xjtu_thesis_template,0,1,1,2016-10-08,GPL-3.0
-839,电子科技大学,University of Electronic Science and Technology of China,https://github.com/Alan5279/UESTC_Doc_Thesis,0,1,1,2020-05-29, 
-840,南开大学,Nankai University,https://github.com/JerryMouseZ/NKUOverleafTemplate2021,0,1,1,2021-04-30, 
-841,东南大学,Southeast University,https://github.com/LingYeAI/SEUthesis2019,0,1,1,2019-05-13,MIT
-842,四川大学,Sichuan University,https://github.com/QWQ-intro/SCU-Thesis-latex,0,1,1,2022-03-16,MIT
-843,东南大学,Southeast University,https://github.com/RayDia/SEU-LaTeX-Thesis-Template-,0,1,1,2019-03-09, 
-844,郑州大学,Zhengzhou University,https://github.com/ZZUTUG/ZZU_Thesis,0,1,1,2022-02-28,LPPL-1.3c
-845,宁夏大学,Ningxia University,https://github.com/baoxianyuan/NXUThesis,0,1,1,2025-03-28, 
-846,香港理工大学<br>（香港理工大學）,Hong Kong Polytechnic University (PolyU),https://github.com/edwardtoday/hkputhesis,0,1,1,2013-08-07,MIT
-847,淮北师范大学,Huaibei Normal University,https://github.com/everyx/HNUthesis,0,1,1,2015-06-02, 
-848,清华大学,Tsinghua University,https://github.com/iso9/thuthesis,0,1,1,2013-03-13, 
-849,华东师范大学,East China Normal University,https://github.com/rachlegend/ECNU-Template,0,1,1,2024-01-25, 
-850,西北工业大学,Northwestern Polytechnical University,https://github.com/tianhangnpu/npu_thesis_template,0,1,1,2020-07-05, 
-851,武汉大学,Wuhan University,https://github.com/Achhhe/WHUMaster-Latex-2021,0,1,0,2022-03-26, 
-852,中南大学,Central South University,https://github.com/BingBLL/CSUThesis,0,1,0,2021-12-24,Apache-2.0
-853,北京林业大学,Beijing Forestry University,https://github.com/Bloomberg2000/bjfuthesis_old,0,1,0,2021-06-17, 
-854,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/FirstPotato/IUE-Thesis,0,1,0,2020-07-01, 
-855,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/FutureForMe/HIT_thesis,0,1,0,2022-08-28, 
-856,（捷克）捷克生命科学大学,"Czech University of Life Sciences Prague*<br>(Česká zemědělská univerzita v Praze, ČZU/CULS)",https://github.com/Harvie/CULS-Thesis,0,1,0,2021-07-11,MIT
-857,南开大学,Nankai University,https://github.com/JH-Wei/NKUThesis,0,1,0,2016-04-26, 
-858,吉林大学,Jilin University,https://github.com/Katzen-D/JLUThesis_D,0,1,0,2021-02-01, 
-859,天津大学,Tianjin University,https://github.com/Rien190/TJU-Paper-template,0,1,0,2022-05-17, 
-860,北京外国语大学,Beijing Foreign Studies University,https://github.com/Ryan-the-hito/BFSU-paper,0,1,0,2023-11-02,MIT
-861,南京审计大学,Nanjing University of Audit,https://github.com/SuperposedWave/NauThesis,0,1,0,2023-03-23, 
-862,武汉科技大学,Wuhan University of Science and Technology,https://github.com/YuanXinCherry/wust-thesis,0,1,0,2021-12-12,MIT
-863,南开大学,Nankai University,https://github.com/benhaotang/NKThesis,0,1,0,2023-04-30,MPL-2.0
-864,华东师范大学,East China Normal University,https://github.com/chguw/ecnuphd,0,1,0,2023-04-11,BSD-3-Clause
-865,上海第二工业大学,Shanghai Second University of Technology,https://github.com/chuxubank/ssputhesis,0,1,0,2019-05-17,Apache-2.0
-866,湖南大学,Hunan University,https://github.com/davendw49/HNUbFinalThesis_template,0,1,0,2019-05-21, 
-867,（阿根廷）托尔夸托迪特利亚大学,Torcuato di Tella University*<br>(Universidad Torcuato Di Tella),https://github.com/federicoduca/latex-templates,0,1,0,2024-02-23, 
-868,山东大学,Shandong University,https://github.com/lichuanxiang/SDUGradThesis,0,1,0,2022-01-27,MIT
-869,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/liyuwang2016/NUIST_Latex,0,1,0,2019-01-07, 
-870,吉林大学,Jilin University,https://github.com/lyjslay/JLU-EE-template,0,1,0,2021-12-12, 
-871,浙江师范大学,Zhejiang Normal University,https://github.com/minqimao/zjnu_thesis,0,1,0,2017-01-27,GPL-2.0
-872,（白俄罗斯）国立信息和无线电电子大学,"Belarusian State University of Informatics and Radioelectronics, BSUIR*<br>(Беларускі дзяржаўны ўніверсітэт інфарматыкі і радыёэлектронікі)",https://github.com/nadevko/bsuir-TeX-1,0,1,0,2025-05-04,GPL-3.0
-873,西安交通大学,Xi'an Jiaotong University,https://github.com/smartsrh/xjtubachelor,0,1,0,2016-06-12,MIT
-874,南开大学,Nankai University,https://github.com/tensor-matrix/NKUThesis,0,1,0,2023-05-06, 
-875,大连理工大学,Dalian University of Technology,https://github.com/wendy2003888/DLUT_XeLatex_TemplateForBachelor,0,1,0,2017-06-29, 
-876,东北师范大学,Northeast Normal University,https://github.com/wuyanglee/LaTeX_template_for_Thesis_NENU,0,1,0,2022-04-13, 
-877,西安交通大学,Xi'an Jiaotong University,https://github.com/zzjjzzgggg/xjtuthesis,0,1,0,2016-09-18, 
-878,（美国）德克萨斯州大学奥斯汀分校,University of Texas at Austin,https://github.com/OttoStruve/UT-thesis,0,0,5,2018-06-27,MIT
-879,（德国）康斯坦茨应用科技大学,Konstanz University of Applied Sciences*<br>(Hochschule Konstanz HTWG),https://github.com/AihamAbusaleh/thesis-template-latex,0,0,3,2018-07-19, 
-880,（美国）斯坦福大学,Stanford University,https://github.com/jbau/thesis,0,0,2,2013-05-21, 
-881,东华大学,Donghua University,https://github.com/DCMMC/DHU-Paper-Template,0,0,1,2020-12-14, 
-882,上海交通大学,Shanghai Jiaotong University,https://github.com/GreenTeaHua/sjtu_latex,0,0,1,2022-01-11, 
-883,华东师范大学,East China Normal University,https://github.com/Haskely/ECNUMasterThesisLatexTemplate,0,0,1,2022-10-01, 
-884,上海交通大学,Shanghai Jiaotong University,https://github.com/JingruiYu/SJTU_Thesis_21,0,0,1,2021-09-13,Unlicense
-885,华东师范大学,East China Normal University,https://github.com/SmartPangzi/ECNU-Graduation-Thesis-Template,0,0,1,2020-07-04, 
-886,澳门大学<br>（澳門大學）,University of Macau (UM),https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL,0,0,1,2018-11-09, 
-887,四川师范大学,Sichuan Normal University,https://github.com/yiyuezhuo/sicnu-thesis,0,0,1,2018-04-25, 
-888,武汉大学,Wuhan University,https://github.com/0xf4vul/whuBSthesis,0,0,0,2015-04-20, 
-889,湖南大学,Hunan University,https://github.com/AaronDavis2020/HNU-thesis,0,0,0,2022-01-27,MIT
-890,北京林业大学,Beijing Forestry University,https://github.com/Bloomberg2000/BJFUThesis,0,0,0,2021-06-25, 
-891,中国科学技术大学,University of Science and Technology of China,https://github.com/DingyunZhang/ustc_thesis_bachelor,0,0,0,2022-04-01,LPPL-1.3c
-892,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/ForeverDavid/nuaa-thesis,0,0,0,2016-05-24,GPL-3.0
-893,南京理工大学,Nanjing University of Science and Technology,https://github.com/Hobr/njust_thesis_latex_template,0,0,0,2024-05-09,LPPL-1.3c
-894,山东大学,Shandong University,https://github.com/IIIIntx/-sdu-latex-,0,0,0,2023-05-19,GPL-3.0
-895,山东大学,Shandong University,https://github.com/Ice0cean/sdumt,0,0,0,2015-07-26, 
-896,吉林大学,Jilin University,https://github.com/JLUqiankun/JLU_Graduate_Thesis_Template,0,0,0,2020-05-21, 
-897,中央民族大学,Minzu University of China,https://github.com/MUCVIP/mucthesis,0,0,0,2023-05-19,LPPL-1.3c
-898,清华大学,Tsinghua University,https://github.com/Markshilong/THU_Thesis_Bachelor,0,0,0,2022-05-30,LPPL-1.3c
-899,（奥地利）格拉茨技术大学,"Graz University of Technology*<br>(Technische Universität Graz, TU Graz)",https://github.com/MarkusPic/master_thesis_template,0,0,0,2019-04-02,MIT
-900,（俄罗斯）莫斯科国立航空学院,"Moscow Aviation Institute*<br>(Московский авиационный институт, МАИ)",https://github.com/NetherQuartz/BachelorThesis,0,0,0,2022-06-05,GPL-3.0
-901,山东大学,Shandong University,https://github.com/OpenMandrivaAssociation/texlive-sduthesis,0,0,0,2025-03-02, 
-902,上海科技大学,ShanghaiTech University,https://github.com/OpenMandrivaAssociation/texlive-shtthesis,0,0,0,2025-03-02, 
-903,西安电子科技大学,Xidian University,https://github.com/OpenMandrivaAssociation/texlive-xduthesis,0,0,0,2025-03-02, 
-904,西安电子科技大学,Xidian University,https://github.com/Qinka/xdu-ug-thesis,0,0,0,2017-08-24,LGPL-3.0
-905,大连理工大学,Dalian University of Technology,https://github.com/QuYue/The-XeLaTex-Template-of-Master-Degree-Thesis-of-DUT,0,0,0,2023-02-21, 
-906,澳门科技大学<br>（澳門科技大學）,Macau University of Science and Technology (MUST),https://github.com/Tim-eyes/MUST_Thesis_Template,0,0,0,2022-04-25,NOASSERTION
-907,浙江大学,Zhejiang University,https://github.com/Zhejiang-University-GKC/cs-zju-thesis,0,0,0,2022-07-16,BSD-2-Clause
-908,浙江大学,Zhejiang University,https://github.com/ankwinters/ZJUthesis_template,0,0,0,2019-01-02, 
-909,西安交通大学,Xi'an Jiaotong University,https://github.com/bys17778885154/xjtu_thesis,0,0,0,2023-02-20,LPPL-1.3c
-910,东北师范大学,Northeast Normal University,https://github.com/chenpx976/nenuthesis,0,0,0,2016-02-02, 
-911,海南师范大学,Hainan Normal University,https://github.com/cliffigor/hainnu-thesis,0,0,0,2022-10-19,MIT
-912,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/cr0wchen/upc-thesis-2020,0,0,0,2020-06-29, 
-913,通用模板,Common Templates,https://github.com/dimkirt/latex-thesis-template,0,0,0,2018-08-06, 
-914,中国传媒大学,Communication University of China,https://github.com/felicia-tung/My-CUC-Thesis,0,0,0,2023-11-28,LPPL-1.3c
-915,兰州大学,Lanzhou University,https://github.com/fengyongkang/PgD-PHD-Thesis-Latex-template-for-Lanzhou-University,0,0,0,2021-01-26, 
-916,湖南师范大学,Hunan Normal University,https://github.com/gkm0120/hunnu,0,0,0,2022-09-04, 
-917,东华大学,Donghua University,https://github.com/godshen/dhu_thesis,0,0,0,2023-09-02, 
-918,南开大学,Nankai University,https://github.com/guangpintao/nku_thesis,0,0,0,2019-06-05, 
-919,（美国）西北大学,Northwestern University,https://github.com/h-havenga/The-unofficial-NWU-LaTeX-template,0,0,0,2018-04-05, 
-920,天津大学,Tianjin University,https://github.com/hanwang-15/TJUthesis_xelatex-phd-2020,0,0,0,2020-07-05,GPL-3.0
-921,吉林大学,Jilin University,https://github.com/jhyutian/jlu-thesis,0,0,0,2016-02-07, 
-922,中国科学技术大学,University of Science and Technology of China,https://github.com/jiaopjie/ustcthesis,0,0,0,2019-02-12, 
-923,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/junxue-zhang/hkust-latex-thesis,0,0,0,2018-01-09, 
-924,中山大学,Sun Yat-sen University,https://github.com/kuiqx/biyelunwen,0,0,0,2023-04-09,GPL-3.0
-925,西北农林科技大学,Northwest A&F University,https://github.com/latexstudio/nwsuaf_thesis_template,0,0,0,2019-01-22, 
-926,东南大学,Southeast University,https://github.com/liuying1905/seu_thesis,0,0,0,2021-06-03, 
-927,电子科技大学,University of Electronic Science and Technology of China,https://github.com/lzcn/uestcthesis,0,0,0,2023-01-12,LPPL-1.3c
-928,青岛工学院,Qingdao Institute of Technology,https://github.com/monburan/oucqdc-LaTeX-document,0,0,0,2016-12-18, 
-929,（英国）伦敦艺术大学,"University of the Arts London, UAL",https://github.com/natuk/ual-thesis-template,0,0,0,2015-07-08, 
-930,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/nmykhan/NUAA-Thesis-Template-NASR,0,0,0,2022-12-22, 
-931,西安电子科技大学,Xidian University,https://github.com/oopsno/yabasky,0,0,0,2016-05-26,LGPL-3.0
-932,天津大学,Tianjin University,https://github.com/pingyuer/TJUThesis,0,0,0,2022-03-21, 
-933,电子科技大学,University of Electronic Science and Technology of China,https://github.com/raja21068/UESTC-LATEX-THESIS-FORMAT,0,0,0,2021-03-04, 
-934,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/shansicheng/sues-thesis,0,0,0,2023-05-11,MIT
-935,华东师范大学,East China Normal University,https://github.com/tangyc8866/ECNU-Undergraduate-TeX-Template,0,0,0,2020-04-17, 
-936,东北大学,Northeastern University,https://github.com/ttimasdf/neuthesis,0,0,0,2018-03-23, 
-937,电子科技大学,University of Electronic Science and Technology of China,https://github.com/tzz1996/ThesisUESTC,0,0,0,2018-08-06, 
-938,厦门大学,Xiamen University,https://github.com/uhomelee/xmu-undergraduate-thesis,0,0,0,2019-05-27, 
-939,华中师范大学,Central China Normal University,https://github.com/wasphin/latex-ccnu-thesis,0,0,0,2020-01-30,GPL-3.0
-940,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/way-zer/BUPTBachelorThesis,0,0,0,2023-04-21, 
-941,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/wfxyjx/nuaathesis,0,0,0,2014-03-10, 
-942,桂林电子科技大学,Guilin University of Electronic Science and Technology,https://github.com/wrm244/Guet_LATEX_Thesis_Template,0,0,0,2023-06-05,LPPL-1.3c
-943,南开大学,Nankai University,https://github.com/zihaodong/NKU_thesis,0,0,0,2020-07-18, 
+214,（智利）智利天主教大学,Pontifical Catholic University of Chile*<br>(Pontificia Universidad Católica de Chile),https://github.com/open-source-uc/latex-templates,0,51,10,2025-06-05,MIT
+215,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/myhsia/hduthesis,0,51,1,2025-03-24, 
+216,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/onlytailei/HKUST_latex_thesis_2019,0,50,16,2023-01-02, 
+217,湖南大学,Hunan University,https://github.com/leaf-hsiao/HNUThesisTemplate,0,50,12,2019-12-11, 
+218,南京大学,Nanjing University,https://github.com/ZLCao/NJUBachelor,0,49,21,2019-06-25, 
+219,北京科技大学,Beijing University of Science and Technology,https://github.com/Jeff-Hugh/USTBThesis,0,49,13,2022-12-01, 
+220,江南大学,Jiangnan University,https://github.com/xen0n/JNUthesis,0,49,12,2019-06-16,GPL-2.0
+221,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/houluy/bupTemplate,0,49,9,2019-09-19,GPL-3.0
+222,（美国）科罗拉多州立大学,Colorado State University,https://github.com/idfah/csuthesis,0,48,37,2020-05-08,NOASSERTION
+223,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/HW-Lee/nthu-thesis-template,0,48,29,2016-07-26, 
+224,天津大学,Tianjin University,https://github.com/liangzhenduo/TJU-thesis-template,0,48,16,2020-03-14, 
+225,浙江工业大学,Zhejiang University of Technology,https://github.com/zjutjh/zjutthesis,0,47,31,2023-01-30, 
+226,中国海洋大学,Ocean University of China,https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate,0,47,9,2022-05-01,MIT
+227,北京师范大学,Beijing Normal University,https://github.com/jinyiliu/bnu-thesis-template,1,47,9,2025-03-03, 
+228,（挪威）特罗姆瑟大学- 挪威北极圈大学,UiT The Arctic University of Norway*<br>(Universitetet i Tromsø – Norges arktiske universitet),https://github.com/egraff/uit-thesis,0,46,46,2025-05-31,NOASSERTION
+229,天津大学,Tianjin University,https://github.com/jiangqideng/tjuthesis_master_2016,0,46,19,2021-10-02, 
+230,西南财经大学,Southwestern University of Finance and Economics,https://github.com/sierxue/ThesisSWUFE,0,46,10,2023-01-01, 
+231,华东师范大学,East China Normal University,https://github.com/DeepTrial/ECNU-Dissertations-Latex-Template,0,45,16,2021-11-15,NOASSERTION
+232,西南交通大学,Southwest Jiaotong University,https://github.com/Sophie10001b/swjtuThesisV3.0,0,45,9,2025-05-30, 
+233,西北工业大学,Northwestern Polytechnical University,https://github.com/lihanshu/NWPU-Thesis-Template,0,45,7,2025-05-26,MIT
+234,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/coding-tan/CQUPTtex,0,45,3,2022-07-21, 
+235,暨南大学,Jinan University,https://github.com/ytZhou/JNUMasterThesis,0,43,15,2023-06-16, 
+236,武汉理工大学,Wuhan University of Technology,https://github.com/Jiayin-Gu/WUTthesis,0,43,12,2020-11-01, 
+237,中国海洋大学,Ocean University of China,https://github.com/ouc-ocean-group/oucthesis,1,43,12,2022-12-13, 
+238,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/yzd-v/BUAA_thesis_overleaf,0,43,5,2021-12-04,NOASSERTION
+239,（新加坡）南洋理工大学,Nanyang Technological University (NTU),https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template,0,43,4,2022-07-15, 
+240,苏州大学,Soochow University,https://github.com/shadowofgost/sudathesis-soochow-university-latex-template,0,43,3,2025-03-03,LPPL-1.3c
+241,北京化工大学,Beijing University of Chemical Technology,https://github.com/the-ccsn/BUCTthesis,0,43,2,2024-07-10,LPPL-1.3c
+242,河海大学,Hohai University,https://github.com/davyxx3/hhu-thesis-bachelor,0,43,1,2024-06-21,MIT
+243,东北大学,Northeastern University,https://github.com/mervin0502/neuthesis,0,42,20,2020-09-08,Apache-2.0
+244,西交利物浦大学,Xi'an Jiaotong-Liverpool University,https://github.com/feimax/latex_template_for_xjtlu_eee,0,42,17,2017-11-27,GPL-3.0
+245,上海大学,Shanghai University,https://github.com/ahhylau/shuthesis,0,42,16,2024-01-17, 
+246,（英国）爱丁堡大学,University of Edinburgh*<br>(Oilthigh Dhùn Èideann),https://github.com/james-d-h/quarto-phd-thesis,0,42,16,2023-05-03,MIT
+247,（日本）庆应义塾大学,Keio University*<br>(慶應義塾),https://github.com/ymrl/thesis-template,0,42,16,2012-12-20, 
+248,（德国）达姆施塔特工业大学,"Industrial University of Darmstadt*<br>(Technische Universität Darmstadt, TU Darmstadt)",https://github.com/zemirco/tu-darmstadt-latex-thesis,0,41,19,2013-03-03, 
+249,东北大学,Northeastern University,https://github.com/NEUAI/neuthesis-enhanced,0,41,11,2021-04-24,Apache-2.0
+250,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/Zeta611/snu-ece-bsc-thesis,0,41,7,2024-07-02,MIT
+251,上海交通大学,Shanghai Jiaotong University,https://github.com/zhangzhanluo/SJTU-thesis-template,0,41,4,2021-06-01, 
+252,（德国）斯图加特大学,University of Stuttgart*<br>(Universität Stuttgart),https://github.com/latextemplates/uni-stuttgart-dissertation-template,0,40,21,2025-04-24,MIT
+253,中国科学院自动化研究所,"Institute of Automation, Chinese Academy of Sciences",https://github.com/phoenix1917/CASIA-Thesis,0,40,12,2018-03-06, 
+254,苏州大学,Soochow University,https://github.com/hinesboy/SUDA-Latex,0,40,10,2022-05-24, 
+255,通用模板,Common Templates,https://github.com/PKief/latex-thesis-template,0,40,9,2025-02-07, 
+256,（希腊）雅典大学,"National and Kapodistrian University of Athens, NKUA*<br>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)",https://github.com/errikos/dithesis,0,40,4,2023-08-15,LPPL-1.3c
+257,南昌大学,Nanchang University,https://github.com/Jin-bao/NCU-thesis,0,40,3,2025-05-14,LPPL-1.3c
+258,西南交通大学,Southwest Jiaotong University,https://github.com/Studio513/swjtuThesis,0,39,18,2015-12-08, 
+259,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/signxer/nthu-thesis-template-mod,0,39,18,2018-11-11, 
+260,澳门科技大学<br>（澳門科技大學）,Macau University of Science and Technology (MUST),https://github.com/iihciyekub/MUST-Thesis,0,39,13,2024-04-25, 
+261,哈尔滨工程大学,Harbin Engineering University,https://github.com/Benyjuice/hrbeuthesis,0,39,9,2016-03-18, 
+262,深圳技术大学,Shenzhen University of Technology,https://github.com/SZTU-ACM/SZTU-Thesis-Latex-Template,0,39,9,2024-05-20,GPL-3.0
+263,西南交通大学,Southwest Jiaotong University,https://github.com/swjtutug/swjtuthesis,0,39,9,2019-12-09, 
+264,四川大学,Sichuan University,https://github.com/dahakawang/scu_thesis_template,0,39,8,2021-01-08, 
+265,上海交通大学,Shanghai Jiaotong University,https://github.com/ZepengW/Latex-PG-SJTU,0,39,0,2023-01-04, 
+266,北京师范大学,Beijing Normal University,https://github.com/xysmlx/BNUBachelorThesis,0,38,20,2018-03-19, 
+267,华东师范大学,East China Normal University,https://github.com/c834606877/ECNU-Paper-Template,0,38,8,2021-12-05, 
+268,武汉理工大学,Wuhan University of Technology,https://github.com/mengyuqianxun/WHUT--LaTeX-bachelor-thesis,0,38,5,2020-07-16, 
+269,（美国）约翰斯·霍普金斯大学,Johns Hopkins University,https://github.com/weitzner/jhu-thesis-template,0,37,87,2018-07-18, 
+270,（加拿大）阿尔伯塔大学,University of Alberta,https://github.com/draldric/uAlberta-Thesis-LaTeX-Template,0,37,9,2025-05-08,MIT
+271,北京工业大学,Beijing University of Technology,https://github.com/xiaoyaoE/bjutThesis,0,37,8,2021-01-14, 
+272,西安电子科技大学,Xidian University,https://github.com/Faust-Wang/XDUthesis_xelatex-master-2019,0,37,5,2020-04-24,GPL-3.0
+273,通用模板,Common Templates,https://github.com/Pinzauti/LaTeX-thesis-template,0,37,4,2024-06-26,MIT
+274,暨南大学,Jinan University,https://github.com/Latiyas/JNUThesis,0,37,3,2025-03-31, 
+275,（日本）北陆先端科学技术大学院大学,"Japan Advanced Institute of Science and Technology*<br>(北陸先端科学技術大学院大学, JAIST)",https://github.com/linwest/JAISTthesisLaTeX,0,36,24,2019-03-31, 
+276,华中科技大学,Huazhong University of Science,https://github.com/pyrocat101/hust-thesis-pandoc,0,36,12,2018-11-13, 
+277,兰州大学,Lanzhou University,https://github.com/mosesnow/LZUthesis,0,36,11,2022-04-14, 
+278,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-thesis,0,36,8,2025-03-17,MIT
+279,（波兰）西里西亚理工大学,Silesian University of Technology*<br>(Politechnika Śląska),https://github.com/ksiminski/polsl-aei-theses,0,36,5,2025-05-27, 
+280,上海理工大学,Shanghai University of Technology,https://github.com/FrankSFLYS/usstthesis,0,36,3,2022-03-07,Apache-2.0
+281,（美国）密歇根州立大学,Michigan State University,https://github.com/amunn/msu-thesis,0,35,13,2024-07-08, 
+282,（德国）柏林工业大学,Technical University of Berlin*<br>(Technische Universität Berlin),https://github.com/holgern/TUB_PhDThesisTemplate,0,35,13,2017-11-10,MIT
+283,南京大学,Nanjing University,https://github.com/anyirao/NJUThesis2018,0,34,43,2018-06-24, 
+284,西安交通大学,Xi'an Jiaotong University,https://github.com/Ming-Zhang-XJTU/XJTU-Thesis-Template,0,34,16,2017-10-05, 
+285,中山大学,Sun Yat-sen University,https://github.com/guanyingc/SYSU-LaTex-Thesis,0,34,6,2017-04-03, 
+286,北京大学,Peking University,https://github.com/Thesharing/pkuthss,0,33,13,2020-04-16, 
+287,台湾科技大学<br>（國立臺灣科技大學）,National Taiwan University of Science and Technology (NTUST),https://github.com/hadziq/ntust-thesis,0,33,13,2022-07-30,Apache-2.0
+288,浙江大学,Zhejiang University,https://github.com/DelightRun/ZJUThesis-MPhil,0,33,12,2019-01-14,MIT
+289,（瑞士）西部应用科学与艺术大学,"University of Applied Sciences and Arts of Western Switzerland*<br>(Haute École spécialisée de Suisse occidentale, HES-SO)",https://github.com/mdemierre/hesso-latextemplate-thesis,0,32,10,2023-09-26,Apache-2.0
+290,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzthesis,0,32,9,2025-05-25, 
+291,北京工业大学,Beijing University of Technology,https://github.com/bjut-swift/BJUTLATEX,0,32,5,2024-03-25,Apache-2.0
+292,中国科学技术大学,University of Science and Technology of China,https://github.com/acgotaku/USTC-SSE-THESIS,0,32,4,2017-03-04, 
+293,桂林电子科技大学,Guilin University of Electronic Science and Technology,https://github.com/wrm244/GUEThesis,0,32,4,2024-05-23,LPPL-1.3c
+294,云南大学,Yunnan University,https://github.com/Astro-Lee/YNU-thesis-bachelor,0,32,2,2025-03-07,MIT
+295,复旦大学,Fudan University,https://github.com/FHDWPB/latex-thesis-template,0,31,26,2023-12-08,Apache-2.0
+296,北京大学,Peking University,https://github.com/doubleZ0108/pkuthss-mac,0,31,4,2021-12-18, 
+297,香港理工大学<br>（香港理工大學）,Hong Kong Polytechnic University (PolyU),https://github.com/quxiaofeng/PolyU_thesis_template,0,30,15,2018-09-07, 
+298,（奥地利）约翰内斯·开普勒大学,"Johannes Kepler University Linz, JKU*<br>(Johannes Kepler Universität Linz)",https://github.com/michaelroland/jku-templates-report-latex,0,30,10,2025-01-16,MPL-2.0
+299,台湾中正大学<br>（國立中正大學）,National Chung Cheng University (CCU),https://github.com/anlit75/CCU-Thesis-LaTeX-Template,0,30,7,2025-05-05,MIT
+300,苏州大学,Soochow University,https://github.com/huhamhire/sudathesis,0,30,7,2014-06-25,GPL-3.0
+301,上海对外经贸大学,Shanghai University of Foreign Trade and Economic Cooperation,https://github.com/Yangruipis/SUIBEthesis,0,30,5,2023-12-05,MIT
+302,湖南大学,Hunan University,https://github.com/ljmdzyx1985/HNUthesis_master,0,30,5,2019-05-29, 
+303,吉林大学,Jilin University,https://github.com/jlshen025/JLUThesis,0,30,2,2024-04-24,MIT
+304,深圳大学,Shenzhen University,https://github.com/yichengsu/szuthesis,0,30,2,2021-02-23, 
+305,（瑞士）苏黎世应用科技大学,Zurich University of Applied Sciences (ZHAW)*<br>(ZHAW Zürcher Hochschule für Angewandte Wissenschaften),https://github.com/matteodelucchi/ZHAW_thesis-template,0,29,77,2024-10-28, 
+306,北京大学,Peking University,https://github.com/qu-tan-um/PKU_EECS_UGR_THSS,0,29,24,2020-07-04, 
+307,（美国）乔治·华盛顿大学,George Washington University (GWU),https://github.com/skulumani/thesis-gwu,0,29,16,2022-07-27,GPL-3.0
+308,武汉大学,Wuhan University,https://github.com/AaronComo/WHU-Bachelor-Thesis-Template,0,29,4,2025-05-07,MIT
+309,华中师范大学,Central China Normal University,https://github.com/xkwxdyy/CCNUthesis,0,29,4,2025-04-11,LPPL-1.3c
+310,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/hy5468/NUIST-LaTeX,0,29,2,2021-04-10,MIT
+311,通用模板,Common Templates,https://github.com/viafanasyev/bachelor-thesis-template,0,29,2,2023-01-15,MIT
+312,武汉大学,Wuhan University,https://github.com/yaochenzhu/whu-rsie-master-thesis,0,29,2,2022-05-19,MIT
+313,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/LeoAlex0/LaTeX-HDU-Bachelor-Thesis,0,29,1,2021-05-17,MIT
+314,（美国）南加州大学,University of Southern California,https://github.com/cardi/USCthesis,0,28,29,2023-05-11, 
+315,（美国）印第安纳大学,Indiana University,https://github.com/liang-chen/IU-PhD-Thesis-Template,0,28,28,2018-05-01,MIT
+316,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/iphyer/UCASThesisTemplete,0,28,12,2021-01-16,MIT
+317,天津大学,Tianjin University,https://github.com/HeliosZhao/TJU-Thesis-2020,0,28,9,2020-05-12, 
+318,浙江大学,Zhejiang University,https://github.com/eclipselu/zjuthesis-mphil,0,28,9,2017-01-16, 
+319,长安大学,Chang'an University,https://github.com/xiaoleeza/chdthesis,0,28,9,2021-05-24,LPPL-1.3c
+320,（新加坡）新加坡国立大学,National University of Singapore (NUS),https://github.com/saurabhg17/SPhdThesis,0,28,7,2014-06-20,NOASSERTION
+321,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/Cysu/phd-thesis,0,28,6,2017-08-29, 
+322,北京林业大学,Beijing Forestry University,https://github.com/DeeDive/BJFUThesis,0,28,6,2022-06-21, 
+323,西南石油大学,Southwest Petroleum University,https://github.com/jinggqu/swputhesis,0,28,6,2023-09-07,GPL-3.0
+324,通用模板,Common Templates,https://github.com/pddg/latex-template-ja,0,28,6,2023-04-01,CC0-1.0
+325,（伊朗）哈杰·纳西尔丁·图西理工大学,Khajeh Nasir Toosi University of Technology*<br>(دانشگاه صنعتی خواجه نصيرالدين طوسی),https://github.com/msinamsina/kntu-thesis,0,28,4,2024-03-30,GPL-3.0
+326,华南理工大学,South China University of Technology,https://github.com/yecfly/scut-thesis,0,28,4,2021-03-15, 
+327,中国传媒大学,Communication University of China,https://github.com/YunYouJun/cucthesis,0,28,2,2024-06-14,LPPL-1.3c
+328,厦门大学,Xiamen University,https://github.com/kirainmoe/xmu-thesis-latex-template,0,28,2,2022-05-10,MIT
+329,中国农业大学,China Agricultural University,https://github.com/Cdmium/CAUTemplate,0,27,13,2020-08-06, 
+330,上海财经大学,Shanghai University of Finance and Economics,https://github.com/sijichun/sufethesis,0,27,9,2017-12-10, 
+331,华东师范大学,East China Normal University,https://github.com/ddusen/ecnu-master-thesis-template,0,27,3,2023-02-23,Apache-2.0
+332,南京林业大学,Nanjing Forestry University,https://github.com/iamty/thesis-NJFU,0,27,2,2023-01-09,LPPL-1.3c
+333,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/wuzhouhui/ucas_ict_thesis,0,26,12,2017-04-26, 
+334,华东师范大学,East China Normal University,https://github.com/Baileyswu/ECNU-thesis-template,0,26,10,2023-07-16,NOASSERTION
+335,华东师范大学,East China Normal University,https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022,0,26,8,2022-04-22,BSD-2-Clause
+336,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/themiguelamador/ThesisIST,0,26,8,2023-06-16, 
+337,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/MichaelGrupp/TTT,0,26,7,2017-11-26,WTFPL
+338,上海师范大学,Shanghai Normal University,https://github.com/andy123t/shnuthesis,0,26,7,2025-05-08,MIT
+339,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/m13253/LaTeX-HDU-Bachelor-Thesis,0,26,7,2020-01-06,MIT
+340,华北电力大学,North China Electric Power University,https://github.com/obster-y/NCEPU-thesis,0,26,6,2021-11-20,LPPL-1.3c
+341,（德国）达姆施塔特工业大学,"Industrial University of Darmstadt*<br>(Technische Universität Darmstadt, TU Darmstadt)",https://github.com/JeyRunner/tuda-typst-templates,0,26,5,2025-05-09,MIT
+342,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/garrettj403/ThesisPlots,0,26,5,2019-02-18, 
+343,浙江大学,Zhejiang University,https://github.com/denil1111/ZJU-Thesis-Template-for-Mac,0,26,4,2017-03-27,MIT
+344,北京大学,Peking University,https://github.com/wongsingfo/pku-grad-thesis,0,26,4,2022-05-15, 
+345,中山大学,Sun Yat-sen University,https://github.com/irenier/sysuthesis,0,26,2,2025-04-30,BSD-3-Clause
+346,西北工业大学,Northwestern Polytechnical University,https://github.com/jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis,0,26,2,2025-05-13,MIT
+347,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/lusccc/cqupt-thesis,0,26,0,2021-02-08, 
+348,中山大学,Sun Yat-sen University,https://github.com/zhibo/sysuthesis,0,25,19,2013-04-15, 
+349,通用模板,Common Templates,https://github.com/davidptclark/phd-thesis-template,0,25,12,2022-02-19,LPPL-1.3c
+350,台湾台北科技大学<br>（國立臺北科技大學）,National Taipei University of Technology,https://github.com/ntut-xuan/NTUT-Thesis-Template,0,25,11,2025-05-31,MIT
+351,南京大学,Nanjing University,https://github.com/GFrankenstein/NJU-Thesis-LaTeX-Template,0,25,9,2015-01-13, 
+352,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/walkman-z/upc-thesis-2020,0,25,5,2020-08-16,MIT
+353,湖南大学,Hunan University,https://github.com/XayahSuSuSu/Latex-HNUThesisTemplate,0,25,4,2024-05-05,Apache-2.0
+354,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/ToryDeng/ZUEL-Thesis,0,25,2,2023-01-04,GPL-3.0
+355,河海大学,Hohai University,https://github.com/Vitzron/HHU-thesis,0,25,2,2021-08-16,GPL-3.0
+356,中国地质大学（武汉）,China University of Geosciences,https://github.com/zguoch/cugthesis,0,25,2,2021-05-13,MIT
+357,（智利）费德里科圣玛利亚理工大学,"Federico Santa María Technical University*<br>(Universidad Técnica Federico Santa María, UTFSM)",https://github.com/autopawn/tex-thesis-template,0,24,26,2023-04-06, 
+358,南京大学,Nanjing University,https://github.com/solrex/njuthesis,0,24,10,2018-06-23, 
+359,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/shaform/ntu-thesis,0,24,6,2016-04-08, 
+360,香港大学<br>（香港大學）,University of Hong Kong (UHK),https://github.com/guanyingc/HKU-PhD-Thesis-LaTex,0,24,4,2022-03-16, 
+361,湖南大学,Hunan University,https://github.com/Jeffrey28/HNU_DoctoralThesis_Latex,0,24,3,2024-02-26, 
+362,上海科技大学,ShanghaiTech University,https://github.com/Kexin-Zhang-UCAS/ShanghaiTechThesis,0,24,2,2018-07-24, 
+363,（美国）罗格斯大学,Rutgers University,https://github.com/rucsgss/thesis,0,23,16,2019-11-10, 
+364,清华大学,Tsinghua University,https://github.com/xueruini/thuthesis,0,23,11,2020-05-29, 
+365,中山大学,Sun Yat-sen University,https://github.com/chungkwong/sysu_thesis,0,23,7,2018-02-23, 
+366,电子科技大学,University of Electronic Science and Technology of China,https://github.com/JosephChenHub/UESTC_thesis_XeLaTeX,0,23,6,2018-03-06, 
+367,（埃及）艾因夏姆斯大学,Ain Shams University*<br>(جامعة عين شمس),https://github.com/MohamedAliRashad/Graduation-Project-Book-Template,0,23,5,2022-05-28, 
+368,天津大学,Tianjin University,https://github.com/songxiaolin2009/tjuthesis_xelatex_template,0,23,4,2021-12-10, 
+369,西北大学,Northwestern University,https://github.com/Nat-Sci/NWU-dissertation-template,0,23,3,2022-01-06, 
+370,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/dcpnonstop/HDUthesis,0,23,3,2018-10-19, 
+371,深圳大学,Shenzhen University,https://github.com/clinyong/latex-szu,0,22,14,2018-11-13, 
+372,（孟加拉国）布拉克大学,"BRAC University, BracU*<br>(ব্র্যাক ইউনিভার্সিটি)",https://github.com/kastnerp/ElegantThesisLaTeX,0,22,9,2024-09-08,MIT
+373,西安交通大学,Xi'an Jiaotong University,https://github.com/leekunhwee/XJTU_Thesis_LaTeX_2021,0,22,7,2021-09-29, 
+374,吉林大学,Jilin University,https://github.com/geekifan/jluthesis,0,22,5,2025-05-15,MIT
+375,南京理工大学,Nanjing University of Science and Technology,https://github.com/pasteller/njusttt,0,22,4,2025-04-16,MIT
+376,山东大学,Shandong University,https://github.com/Sing-How/sduthesis,0,22,2,2024-03-11,GPL-3.0
+377,浙江工业大学,Zhejiang University of Technology,https://github.com/yyz98799/zjutthesis,1,21,14,2022-08-09, 
+378,（英国）格拉斯哥大学,University of Glasgow,https://github.com/sdstrowes/Glasgow-Thesis-Template,0,21,13,2015-11-20, 
+379,（澳大利亚）昆士兰科技大学,Queensland University of Technology,https://github.com/hbristow/quthesis,0,21,12,2017-06-09,BSD-3-Clause
+380,兰州大学,Lanzhou University,https://github.com/JChrysanthemum/LZUThesis2020-PgD-PhD,0,21,11,2021-05-11,AGPL-3.0
+381,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/hduffddybz/HDU-thesis,0,21,11,2016-10-29, 
+382,（美国）俄亥俄州立大学,The Ohio State University*<br>(The Ohio State University),https://github.com/swarnendubiswas/ohio-state-coe-dissertation-template,0,21,10,2020-03-20, 
+383,大连理工大学,Dalian University of Technology,https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste,0,21,10,2022-07-22, 
+384,湘潭大学,Xiangtan University,https://github.com/MrDongdongLin/xtuthesis,0,21,9,2018-07-17, 
+385,华东师范大学,East China Normal University,https://github.com/programokey/ECNUUndergraduateDissertationTemplate,0,21,7,2018-04-17, 
+386,（俄罗斯）莫斯科罗蒙诺索夫国立大学,"Lomonosov Moscow State University*<br>(Московский государственный университет имени М.В.Ломоносова, MSU)",https://github.com/SweetVishnya/msu-thesis,0,21,6,2021-07-05, 
+387,武汉大学,Wuhan University,https://github.com/csarron/bsThesisWHU,0,21,6,2015-05-16,MIT
+388,山东大学,Shandong University,https://github.com/arisukawa/SDU-Latex-Template-for-dissertations,0,21,5,2021-09-07, 
+389,上海大学,Shanghai University,https://github.com/bowenthefeng/SHU-Bachelor-Thesis-Template,0,21,4,2019-04-16, 
+390,南京理工大学,Nanjing University of Science and Technology,https://github.com/packyan/NJUST_Master_Thesis_Latex_Template,0,21,4,2020-08-21, 
+391,同济大学,Tongji University,https://github.com/NotoOotori/tjuthesis,0,21,3,2023-04-16,LPPL-1.3c
+392,浙江大学,Zhejiang University,https://github.com/Wangqsooooo/Latex_template,0,21,3,2019-04-09, 
+393,长沙理工大学,Changsha University of Technology,https://github.com/csust-latex-sig/CSUSTBachelorThesis,0,21,3,2023-07-24, 
+394,武汉大学,Wuhan University,https://github.com/iamywang/whu-thesis-latex-template,0,21,3,2025-02-18,MIT
+395,（希腊）帕特雷大学,University of Patras*<br>(Πανεπιστήμιο Πατρών),https://github.com/tsikup/ece-upatras-thesis-template,0,21,3,2018-10-30,MIT
+396,西安交通大学,Xi'an Jiaotong University,https://github.com/DylanXie123/Thesis-Template-for-XJTU,1,20,5,2020-11-02,GPL-3.0
+397,中南大学,Central South University,https://github.com/BlurryLight/CSU-Thesis-LaTeX-Template,1,20,3,2021-05-11, 
+398,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/HIT-UOI-SR/hithesis-template,0,20,2,2021-06-17,NOASSERTION
+399,广东工业大学,Guangdong University of Technology,https://github.com/Gnomeek/GDUT-UndergraduateThesis,0,20,1,2022-04-16,LPPL-1.3c
+400,东南大学,Southeast University,https://github.com/Dcwjh/SEUThesis-Latex,0,20,0,2022-03-09, 
+401,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/UCASthesis/The-LaTeX-thesis-template-of-UCAS,0,19,13,2018-05-24, 
+402,（英国）纽卡斯尔大学,Newcastle University,https://github.com/AndreGuerra123/NUTT,0,19,10,2019-01-16,NOASSERTION
+403,（美国）芝加哥大学,University of Chicago,https://github.com/k4rtik/uchicago-dissertation,0,19,8,2025-04-22,MIT
+404,中南大学,Central South University,https://github.com/heyzbw/CSU_Thesis_Template,0,19,6,2025-04-01,Apache-2.0
+405,浙江财经大学,Zhejiang University Of Finance & Economics,https://github.com/sqsssq/ZUFE-Thesis,0,19,4,2022-12-07,MIT
+406,清华大学,Tsinghua University,https://github.com/LUKE-ZZ/thuthesis-biomedical,0,19,3,2023-09-14, 
+407,（德国）慕尼黑应用科技大学,Munich University of Applied Sciences*<br>(Hochschule für angewandte Wissenschaften München),https://github.com/Simon-Hi5/Hochschule-Muenchen-LaTeX-Template,0,19,3,2021-10-05, 
+408,中国地质大学（武汉）,China University of Geosciences,https://github.com/benmyb/CUGThesis,0,19,3,2019-05-08, 
+409,西安电子科技大学,Xidian University,https://github.com/103yiran/XDUthesis_xelatex,0,19,2,2017-06-13,GPL-3.0
+410,（德国）斯图加特大学,University of Stuttgart*<br>(Universität Stuttgart),https://github.com/valentjn/uni-stuttgart-phdthesis-template,0,19,2,2019-08-23,CC-BY-SA-4.0
+411,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/wenbinf/hkust-mphil-thesis,0,18,60,2012-08-29, 
+412,（英国）牛津大学,University of Oxford,https://github.com/maurovm/thesis_template,0,18,28,2023-11-28,NOASSERTION
+413,（俄罗斯）南方联邦大学,Southern Federal University (SFedU)*<br>(Южный федеральный университет (ЮФУ)),https://github.com/mmcs-sfedu/mmcs_sfedu_thesis,0,18,23,2019-06-03, 
+414,大连理工大学,Dalian University of Technology,https://github.com/Khaos/DLUTThesis,0,18,11,2019-04-24,Apache-2.0
+415,（美国）密歇根大学,University of Michigan,https://github.com/pettni/um-thesis,0,18,10,2022-05-28, 
+416,北京工业大学,Beijing University of Technology,https://github.com/fisherxt/bjutthesis,0,18,9,2024-03-31,MIT
+417,华东理工大学,East China University of Science and Technology,https://github.com/dagnaf/ecust-bachelor-thesis-template,0,18,8,2022-03-03,GPL-2.0
+418,通用模板,Common Templates,https://github.com/phretor/cs-phd-dissertation-latex-template,0,18,8,2012-05-14,NOASSERTION
+419,复旦大学,Fudan University,https://github.com/eurekayuan/fduthesis2022,0,18,7,2024-07-28, 
+420,同济大学,Tongji University,https://github.com/linxdcn/TongjiThesis,0,18,7,2018-07-28,MIT
+421,（德国）巴登-符腾堡州合作州立大学,"Baden-Württemberg Cooperative State University*<br>(Duale Hochschule Baden-Württemberg, DHBW)",https://github.com/faltfe/iodhbwm,0,18,5,2023-01-02,LPPL-1.3c
+422,北京理工大学,Beijing Institute of Technology,https://github.com/BITNP/BIThesis-scaffold,1,18,4,2022-04-07,LPPL-1.3c
+423,（韩国）高丽大学,Korea University*<br>(고려대학교),https://github.com/shlee-lab/KUThesis2022,0,18,4,2024-01-02, 
+424,江西财经大学,Jiangxi University of Finance and Economics,https://github.com/zipzou/jufe-thesis-tex,0,18,4,2020-04-01,MIT
+425,上海科技大学,ShanghaiTech University,https://github.com/Haoxiaoling/shtuthesis,0,18,3,2020-01-06, 
+426,西安电子科技大学,Xidian University,https://github.com/Linxius/XDUBachelorThesis,1,18,2,2019-10-17, 
+427,西安交通大学,Xi'an Jiaotong University,https://github.com/kohillyang/XJTUthesis-master-2020,0,18,2,2020-06-07, 
+428,西安交通大学,Xi'an Jiaotong University,https://github.com/ChenjieGump/XJTU-BSThesis_latex_2022,0,18,1,2023-05-04,MIT
+429,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/ylemkimon/SNU-ECE-BSc-thesis-LaTeX-template,0,18,0,2021-06-21,Unlicense
+430,大连理工大学,Dalian University of Technology,https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Doctor,0,17,18,2012-05-07, 
+431,（澳大利亚）悉尼大学,University of Sydney,https://github.com/danhey/thesis,0,17,16,2022-09-25, 
+432,（加拿大）不列颠哥伦比亚大学,University of British Columbia,https://github.com/oganm/ThesisProposal,0,17,15,2016-06-09, 
+433,（美国）加利福尼亚大学洛杉矶分校,"University of California, Los Angeles (UCLA)",https://github.com/louis925/uclathes,0,17,10,2017-06-13, 
+434,（意大利）帕多瓦大学,"University of Padua*<br>(Università degli Studi di Padova, UNIPD)",https://github.com/mamio1994/template-latex-unipd,0,17,7,2020-03-24,GPL-3.0
+435,西安交通大学,Xi'an Jiaotong University,https://github.com/1989Ryan/XJTU-Bachelor-Thesis-LaTeX-Template,0,17,5,2022-06-11,GPL-3.0
+436,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/LeoJhonSong/UCAS-Dissertation,0,17,5,2025-04-01,GPL-3.0
+437,湖南大学,Hunan University,https://github.com/Gwinel/hnuthesis,0,17,4,2023-03-28, 
+438,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/NTU-NCS-lab/NTU-Thesis-Writing-Template,0,17,4,2025-02-09,MIT
+439,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/wennboo/HDU-latex-template-for-master,0,17,4,2025-01-08,MIT
+440,云南大学,Yunnan University,https://github.com/Astro-Lee/YNUthesis,0,17,3,2025-03-07,LPPL-1.3c
+441,（荷兰）乌得勒支大学,Utrecht University*<br>(Universiteit Utrecht),https://github.com/UtrechtUniversity/UU-dissertation-template,0,17,3,2025-01-14,MIT
+442,中山大学,Sun Yat-sen University,https://github.com/DapengFeng/sysuthesis,0,17,2,2024-12-15,LPPL-1.3c
+443,（英国）利物浦大学,University Of Liverpool,https://github.com/GiacomoPope/thesis-template,0,17,2,2022-07-08, 
+444,江苏大学,Jiangsu University,https://github.com/xtc-chen/UJS_Phdthesis,0,17,1,2025-05-09, 
+445,广州大学,Guangzhou University,https://github.com/WeiViming/gzhu-thesis,0,17,0,2025-03-19,MIT
+446,台湾政治大学<br>（國立政治大學）,"National Chengchi University, NCCU",https://github.com/Walker088/nccu-thesis,0,16,12,2018-07-04, 
+447,兰州大学,Lanzhou University,https://github.com/suchot/LZUThesis2017,0,16,11,2024-12-01, 
+448,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/nnedkov/tum-thesis-latex,0,16,8,2018-11-11, 
+449,（英国）埃克塞特大学,University of Exeter,https://github.com/georgedeath/University_of_Exeter_Thesis_Template,0,16,7,2019-12-11, 
+450,大连海事大学,Dalian Maritime University,https://github.com/aurora1625/dmuthesis-latex,0,16,6,2013-05-27, 
+451,南方科技大学,Southern University of Science and Technology,https://github.com/Spacebody/sustcthesis,0,16,5,2019-05-31,MIT
+452,（意大利）帕多瓦大学,"University of Padua*<br>(Università degli Studi di Padova, UNIPD)",https://github.com/mychele/unipd-latex-template,0,16,4,2017-03-11,AGPL-3.0
+453,华南理工大学,South China University of Technology,https://github.com/phreer/scutthesis,0,16,3,2019-06-04,Apache-2.0
+454,（印度）印度理工学院（贝拿勒斯印度教大学）瓦拉纳西分校,"Indian Institute of Technology (BHU) Varanasi, IIT-BHU*<br>(भारतीय प्रौद्योगिकी संस्थान (का.हि.वि.) वाराणसी)",https://github.com/sdasrc/thesis-template-iitbhu,0,16,3,2019-09-06,MIT
+455,江苏大学,Jiangsu University,https://github.com/xtc-chen/UJS_Masterthesis,0,16,2,2025-05-09, 
+456,深圳大学,Shenzhen University,https://github.com/Jev0987/SZUThesis-2024,0,16,1,2024-02-19, 
+457,电子科技大学,University of Electronic Science and Technology of China,https://github.com/LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template,0,16,1,2025-01-17,GPL-3.0
+458,上海大学,Shanghai University,https://github.com/SHU-CES-1008/SHU-Thesis,0,16,1,2024-09-23, 
+459,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/guoxiaowhu/UCAS_Thesis,0,16,0,2023-04-19, 
+460,（挪威）挪威科技大学,"Norwegian University of Science and Technology*<br>(Norges teknisk-naturvitenskapelige universitet, NTNU)",https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU,0,15,52,2020-01-10, 
+461,（美国）加利福尼亚大学圣克鲁斯分校,"University Of California, Santa Cruz (UCSC)",https://github.com/adamnovak/ucscthesis,0,15,26,2020-12-05,NOASSERTION
+462,（印度尼西亚）加查马达大学,"University of Gadjah Mada*<br>(Universitas Gadjah Mada, UGM)",https://github.com/canggihpw/thesisdtetiugm,0,15,24,2023-03-08,MIT
+463,青岛大学,Qingdao University,https://github.com/paralevi/QDUthesis,0,15,10,2020-03-28, 
+464,北京交通大学,Beijing Jiaotong University,https://github.com/chenzewei01/bjtuThesis,0,15,9,2014-11-07, 
+465,通用模板,Common Templates,https://github.com/Cinofix/latex-scientific-templates,0,15,7,2020-03-05,MIT
+466,西南科技大学,Southwest University of Science and Technology,https://github.com/japinli/swust-thesis,0,15,7,2022-02-28, 
+467,大连理工大学,Dalian University of Technology,https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor,0,15,6,2018-05-31,MIT
+468,天津大学,Tianjin University,https://github.com/6gbluewind/Tjuthesis_phd_1.2-,0,15,4,2022-08-05,GPL-3.0
+469,华南理工大学,South China University of Technology,https://github.com/h-hg/latex-scut-bachelor-thesis,0,15,4,2023-05-29,MIT
+470,（加拿大）卡尔加里大学,"University of Calgary, UCalgary",https://github.com/rzach/ucalgmthesis,0,15,4,2023-04-13,MIT
+471,山东大学,Shandong University,https://github.com/bearshng/sduthesis,0,15,3,2015-03-27, 
+472,东北师范大学,Northeast Normal University,https://github.com/tiankonguse/NENUCSThesis,0,15,3,2014-06-20, 
+473,重庆大学,Chongqing University,https://github.com/yinguoweiOvO/CQU_Thesis2024,0,15,3,2024-05-20,NOASSERTION
+474,新疆大学,Xinjiang University,https://github.com/LeoLQF/xjuthesis,0,15,2,2019-01-12, 
+475,西南交通大学,Southwest Jiaotong University,https://github.com/Pungjay/swjtuThesis,0,15,2,2024-10-25, 
+476,华东师范大学,East China Normal University,https://github.com/jtchen2k/modern-ecnu-thesis,0,15,2,2025-04-07,MIT
+477,广西大学,Guangxi University,https://github.com/KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates,0,15,1,2025-03-03, 
+478,云南大学,Yunnan University,https://github.com/ZhenfengLei/Yunnan-University-Thesis-Latex,0,15,1,2018-07-26, 
+479,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/baggiorio18/BUPTGraduateThesis,0,15,0,2015-01-03, 
+480,厦门大学,Xiamen University,https://github.com/xiamenwcy/LaTeXFileforXMUThesis,0,14,11,2018-11-22, 
+481,（美国）北卡罗来纳大学夏洛特分校,University of North Carolina at Charlotte,https://github.com/cci-grads/uncc-thesis-latex,0,14,10,2019-02-27, 
+482,浙江大学,Zhejiang University,https://github.com/5kg/zju-bachelor-thesis,0,14,8,2012-05-07, 
+483,华南师范大学,South China Normal University,https://github.com/wzpan/scnuthesis,1,14,7,2015-01-22, 
+484,（德国）美因茨应用科技大学,Mainz University of Applied Sciences*<br>(Hochschule Mainz),https://github.com/JonasBingel/HSMZ-Thesis-Template,0,14,6,2024-11-16, 
+485,郑州大学,Zhengzhou University,https://github.com/RonTs/zzuthesis,0,14,6,2021-03-05, 
+486,（德国）慕尼黑大学,"Ludwig Maximilian University of Munich, LMU*<br>(Ludwig-Maximilians-Universität München)",https://github.com/changkun/lmu-thesis-latex,0,14,5,2019-05-22,MIT
+487,西安石油大学,Xi'an University of Petroleum,https://github.com/h2y/xsyu-latex,0,14,5,2021-06-30, 
+488,中国人民大学,Renmin University of China,https://github.com/HughYau/RUCthesis-for-Bachelor,0,14,4,2022-03-23, 
+489,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/cughmy/hduthesis,0,14,4,2019-02-19,MIT
+490,四川大学,Sichuan University,https://github.com/kevinleeex/scu_thesis_template,0,14,4,2022-03-23,AGPL-3.0
+491,南京邮电大学,Nanjing University of Posts and Telecommunications,https://github.com/li199-code/njupt_master_thesis_latex_template,0,14,4,2024-07-18, 
+492,武汉大学,Wuhan University,https://github.com/beanyoung/whu-master-thesis-template,1,14,3,2012-06-19, 
+493,香港城市大学<br>（香港城市大學）,City University of Hong Kong (CityU),https://github.com/huwan/CityU_Thesis,0,14,3,2021-12-01,MIT
+494,（意大利）贝加莫大学,University of Bergamo*<br>(Università degli studi di Bergamo),https://github.com/micheleberetta98/unibg-thesis-template,0,14,3,2025-05-30,NOASSERTION
+495,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/ekspek/ist-thesis,0,14,2,2020-09-22,LPPL-1.3c
+496,南京工业大学,Nanjing University of Technology,https://github.com/faimerth/NJUT-Thesis-Template,0,14,2,2019-06-30,GPL-3.0
+497,华南理工大学,South China University of Technology,https://github.com/sherrycattt/ScutThesis,0,14,2,2022-06-19, 
+498,武汉大学,Wuhan University,https://github.com/BenjaminHb/whu-thesis,0,14,1,2022-06-21,MIT
+499,四川大学,Sichuan University,https://github.com/bennyji/SCUthesis,0,14,1,2020-04-04, 
+500,西北工业大学,Northwestern Polytechnical University,https://github.com/zyk1999/LaTeX-Template-For-NPU-Thesis-CTex,0,14,1,2022-03-12,GPL-3.0
+501,西安交通大学,Xi'an Jiaotong University,https://github.com/Radiance-nt/XJTU_BachelorThesis_DagRank,0,14,0,2024-06-01,GPL-3.0
+502,浙江大学,Zhejiang University,https://github.com/Yirui-Wang/ZJU-CSE-Latex,0,14,0,2019-01-11, 
+503,通用模板,Common Templates,https://github.com/jankapunkt/master-thesis,0,13,10,2021-03-09, 
+504,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/HawkTom/sustech-hithesis,0,13,6,2019-07-01, 
+505,山东大学,Shandong University,https://github.com/Luosid0/2024sdu-latex-undergraduate,0,13,6,2024-04-06,AGPL-3.0
+506,东南大学,Southeast University,https://github.com/cmuCoppelia/seuthesis2020,0,13,6,2020-05-07,MIT
+507,（美国）北卡罗来纳州立大学,North Carolina State University,https://github.com/jhykes/ncsuthesis,0,13,6,2019-07-08, 
+508,中南大学,Central South University,https://github.com/zhongjingjogy/thesisthemeCSU,1,13,6,2017-12-26, 
+509,（瑞典）卡罗林斯卡学院,"Karolinska Institute, KI*<br>(Karolinska Institutet)",https://github.com/bcschiffler/phdthesis_ki,0,13,4,2017-12-06,MIT
+510,（波兰）弗罗茨瓦夫理工大学,Wrocław University of Science and Technology*<br>(Politechnika Wrocławska),https://github.com/rkubosz/dyplompwr,0,13,4,2020-12-03,MIT
+511,华东理工大学,East China University of Science and Technology,https://github.com/wjsong365/ECUST_Thesis_LaTeX,0,13,4,2023-01-15, 
+512,重庆大学,Chongqing University,https://github.com/cqu-bdsc/CQUThesis,0,13,3,2023-05-10,NOASSERTION
+513,南京大学,Nanjing University,https://github.com/zhangchuheng123/NJUThesis,0,13,3,2016-06-01, 
+514,西南财经大学,Southwestern University of Finance and Economics,https://github.com/OopsYao/swufethesis,0,13,2,2024-04-25,LPPL-1.3c
+515,福州大学,Fuzhou University,https://github.com/chenzl23/FZUThesis,0,13,2,2024-05-27, 
+516,北京林业大学,Beijing Forestry University,https://github.com/ufo5260987423/BjfuLatexTemplate,0,13,2,2018-02-18, 
+517,山东师范大学,Shandong Normal University,https://github.com/RuYunW/SDNU-LaTeX-bachelor-2021,0,13,1,2022-05-16,GPL-3.0
+518,南方科技大学,Southern University of Science and Technology,https://github.com/SUSTC/sustcthesis,0,13,1,2015-04-06,MIT
+519,华东理工大学,East China University of Science and Technology,https://github.com/fireflylyn/Ecust_Bachelor_LaTeX_Template,0,13,1,2017-06-05, 
+520,郑州大学,Zhengzhou University,https://github.com/fylimas/zzuthesis,0,13,1,2024-03-20, 
+521,长沙理工大学,Changsha University of Technology,https://github.com/kangxiatao/CSUSTthesis,0,13,1,2024-03-04, 
+522,南开大学,Nankai University,https://github.com/MaZhengg/NKUthesis,0,13,0,2019-03-04, 
+523,（波兰）罗兹理工大学,Łódź University of Technology*<br>(Politechnika Łódzka),https://github.com/jlokiec/FTIMS-thesis-template,0,13,0,2020-01-28,GPL-3.0
+524,台湾高雄科技大学<br>（國立高雄科技大學）,National Kaohsiung First University of Science and Technology (NKFUST),https://github.com/yuhao-kuo/NKUST-thesis-template,0,12,16,2024-09-13, 
+525,（印度）印度理工学院海得拉巴分校,"Indian Institute of Technology Hyderabad*<br>(ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ, హైదరాబాద్)",https://github.com/utpalbora/IITHThesis,0,12,12,2023-05-09,MIT
+526,上海交通大学,Shanghai Jiaotong University,https://github.com/dyweb/SJTUThesis,1,12,9,2017-12-26,Apache-2.0
+527,（德国）波恩-莱茵-锡格应用技术大学,Hochschule Bonn-Rhein-Sieg University of Applied Sciences*<br>(Hochschule Bonn-Rhein-Sieg),https://github.com/MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit,0,12,8,2024-11-13,AGPL-3.0
+528,北京理工大学,Beijing Institute of Technology,https://github.com/zhang-datou/BIT_Thesis,0,12,8,2020-05-03, 
+529,（美国）斯坦福大学,Stanford University,https://github.com/twhughes/PhD_Thesis,0,12,7,2019-08-22,MIT
+530,（意大利）萨莱诺大学,University of Salerno*<br>(Università degli Studi di Salerno),https://github.com/CiccioTecchio/Unisa-LaTeX,0,12,6,2020-04-14,GPL-3.0
+531,（英国）考文垂大学,Coventry University,https://github.com/GR8DAN/coventry-thesis,0,12,6,2022-10-30,MIT
+532,浙江大学,Zhejiang University,https://github.com/huoyao/ZJUThesis,0,12,6,2016-03-15,GPL-3.0
+533,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/yulijia/LaTeX_UCASthesis,0,12,6,2017-11-07, 
+534,厦门大学,Xiamen University,https://github.com/naseeihity/xmu-latex-temple,0,12,5,2017-05-04, 
+535,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/skywalker023/thesis-template-snu-cse,0,12,4,2023-04-05,MIT
+536,西南交通大学,Southwest Jiaotong University,https://github.com/cshaowang/swjtuThesisV2.0,0,12,3,2024-06-27, 
+537,天津大学,Tianjin University,https://github.com/haimingz/tjuthesis,0,12,3,2025-03-27, 
+538,中国矿业大学,China University of Mining and Technology,https://github.com/jiandong4388/CUMTB-Latex,0,12,3,2018-05-11, 
+539,广州大学,Guangzhou University,https://github.com/whitelok/GZHU_Latex_Template,0,12,3,2017-09-13,MIT
+540,（奥地利）维也纳大学,University of Vienna*<br>(Universität Wien),https://github.com/ppatrzyk/UniWien-LaTeX-Thesis,0,12,2,2017-11-05,MIT
+541,东华大学,Donghua University,https://github.com/3000ye/dhuBachelor,0,12,1,2024-06-16, 
+542,中央财经大学,Central University of Finance and Economics,https://github.com/Nanqiang01/CUFE_Graduate_Thesis_Template,0,12,1,2024-04-14, 
+543,江苏大学,Jiangsu University,https://github.com/TYZQ/ujsthesis,0,12,1,2020-08-21, 
+544,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/ZhuGongpu/BUAA-Graduate-Dissertation-Template,0,12,1,2018-09-28,MIT
+545,东北大学,Northeastern University,https://github.com/neuljh/NEU-undergraduate-thesis-LaTeX-template,0,12,0,2024-02-12,MIT
+546,（加拿大）康考迪亚大学,Concordia University,https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students,0,11,13,2021-03-08, 
+547,（法国）巴黎第十一大学,Paris-Sud University*<br>(Université Paris-Sud),https://github.com/stellasia/thesis-template,0,11,10,2015-06-23, 
+548,（意大利）特伦托大学,University of Trento*<br>(Università degli Studi di Trento),https://github.com/unitn-drive/thesis,0,11,8,2025-05-26,MIT
+549,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/LirenW/NUIST_thesis_template_V2.0,0,11,6,2021-06-14, 
+550,兰州理工大学,Lanzhou University of Technology,https://github.com/estivalinp/LuThesis,0,11,4,2018-06-05, 
+551,北京交通大学,Beijing Jiaotong University,https://github.com/labusi/bjtu-thesis,0,11,4,2018-04-30,Apache-2.0
+552,（加拿大）滑铁卢大学,University of Waterloo,https://github.com/mohuangrui/uwaterloothesis,0,11,4,2021-10-29, 
+553,兰州大学,Lanzhou University,https://github.com/szsdk/LZUthesis,0,11,4,2022-11-16, 
+554,通用模板,Common Templates,https://github.com/thesis-toolbox/template,0,11,4,2023-09-25,Unlicense
+555,东北电力大学,Northeast Electric Power University,https://github.com/jycnb-666/NEEPUTHESIS,0,11,3,2023-02-05, 
+556,郑州大学,Zhengzhou University,https://github.com/lusongno1/-latex-,0,11,2,2019-04-19, 
+557,电子科技大学,University of Electronic Science and Technology of China,https://github.com/savicsw/ThesisUESTC,0,11,2,2021-03-30, 
+558,（印度尼西亚）印度尼西亚大学,University of Indonesia*<br>(Universitas Indonesia),https://github.com/rkkautsar/ui-thesis-template,0,11,1,2019-03-06,NOASSERTION
+559,同济大学,Tongji University,https://github.com/HarlanHW/TongjiThesis,0,11,0,2019-05-19, 
+560,（美国）威斯康星大学麦迪逊分校,University of Wisconsin-Madison,https://github.com/Lodour/wisc-thesis-template,0,11,0,2024-05-04,MIT
+561,中国传媒大学,Communication University of China,https://github.com/TheoCUC/CUC-LaTeX-Templates,0,11,0,2025-04-21,MIT
+562,西安电子科技大学,Xidian University,https://github.com/oopsno/XDUThesis,0,11,0,2016-06-07, 
+563,（新加坡）新加坡国立大学,National University of Singapore (NUS),https://github.com/ramananbalakrishnan/nus-thesis-latex-template,0,10,14,2015-11-14,MIT
+564,湖南大学,Hunan University,https://github.com/ljmdzyx1985/HNUthesis_doctor,0,10,7,2019-05-29, 
+565,（孟加拉国）吉大港Premier大学,"Premier University, CHATTOGRAM*<br>(প্রিমিয়ার ইউনিভার্সিটি)",https://github.com/ascuet/puc-report-template,0,10,4,2022-05-09, 
+566,南京师范大学,Nanjing Normal University,https://github.com/jordanzhouda/nnuthesis,0,10,3,2018-08-10, 
+567,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/Alrash/NUIST_Master_Thesis,0,10,2,2020-06-10,MIT
+568,同济大学,Tongji University,https://github.com/C-zzZZ/TongjiThesis,0,10,2,2018-11-25, 
+569,武汉大学,Wuhan University,https://github.com/jwwangchn/WHU-Thesis-LaTeX,0,10,2,2021-04-14, 
+570,电子科技大学,University of Electronic Science and Technology of China,https://github.com/richardkwo/UESTC-bachelor-thesis-xelatex,0,10,2,2014-01-20, 
+571,中国矿业大学,China University of Mining and Technology,https://github.com/senli1073/cumtthesis,0,10,2,2025-04-06,LPPL-1.3c
+572,北京交通大学,Beijing Jiaotong University,https://github.com/GhostCai/bjtu-thesis-dlc,0,10,1,2024-05-07, 
+573,中国传媒大学,Communication University of China,https://github.com/cucJ2014/CUC_Template-of-thesis_Latex,0,10,1,2021-11-09, 
+574,北京师范大学,Beijing Normal University,https://github.com/gebrilliant/BNU-Latex-Thesis,0,10,1,2020-02-07, 
+575,大连理工大学,Dalian University of Technology,https://github.com/hanqing0521/thesis-dut,0,10,1,2022-05-16, 
+576,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/jtzhpf/NUIST-Bachelor-Thesis-LaTeX-Template-v2022.4,0,10,1,2022-04-21, 
+577,（匈牙利）罗兰大学,"Eötvös Loránd University*<br>(Eötvös Loránd Tudományegyetem, ELTE)",https://github.com/mcserep/elteiktdk,0,10,1,2024-04-26,MIT
+578,通用模板,Common Templates,https://github.com/v97ug/Aizu-Graduation-Thesis-Template,0,10,1,2017-02-14, 
+579,仲恺农业工程学院,Zhongkai University of Agriculture and Engineering,https://github.com/Jin-Cheng-Ming/ZHKU_Thesis,0,10,0,2025-04-12,NOASSERTION
+580,同济大学,Tongji University,https://github.com/hang-qi/tongji-thesis,0,10,0,2013-04-15, 
+581,华东理工大学,East China University of Science and Technology,https://github.com/lavandejoey/ECUSTThesisLatex,0,10,0,2024-01-21,MIT
+582,西北农林科技大学,Northwest A&F University,https://github.com/latexstudio/nwafuthesis,0,9,18,2019-03-08, 
+583,中山大学,Sun Yat-sen University,https://github.com/ShevaXu/LatexThesis4SYSU,0,9,10,2014-05-27, 
+584,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/cllu/CUHK-Thesis-Template,0,9,10,2016-05-18, 
+585,广东工业大学,Guangdong University of Technology,https://github.com/jokerdawn/GDUTThesis,1,9,10,2019-02-19, 
+586,中国人民大学,Renmin University of China,https://github.com/MelodyRen1998/ruc-thesis-template-via-bookdown,0,9,7,2020-03-17, 
+587,通用模板,Common Templates,https://github.com/tdehaeze/clean-latex-template,0,9,6,2018-04-29, 
+588,青岛大学,Qingdao University,https://github.com/chardoncs/qdubachelor-tex,0,9,5,2025-01-01,MIT
+589,中国地质大学（武汉）,China University of Geosciences,https://github.com/xujinlai/CUGThesis,0,9,5,2015-06-05,GPL-2.0
+590,（越南）芹苴大学,Can Tho University*<br>(Trường Đại học Cần Thơ),https://github.com/duongludien/thesis-template,0,9,4,2018-05-14,GPL-3.0
+591,天津大学,Tianjin University,https://github.com/lebronyxm/TJU-master-Latex,0,9,4,2017-08-09, 
+592,南昌航空大学,Nanchang Aviation University,https://github.com/NCHUSC/NCHU_Bachelor_Thesis_Template,0,9,3,2025-02-15,MIT
+593,（西班牙）马拉加大学,"University of Malaga*<br>(Universidad de Málaga, UMA)",https://github.com/benhid/TFG-UMA,0,9,3,2020-01-08,MIT
+594,北京科技大学,Beijing University of Science and Technology,https://github.com/qin-nz/USTB-latex,0,9,3,2015-06-02,MIT
+595,南京大学,Nanjing University,https://github.com/EdwardSaidZhou/NJU-thesis-esz,0,9,2,2022-03-25, 
+596,（英国）爱丁堡大学,University of Edinburgh*<br>(Oilthigh Dhùn Èideann),https://github.com/H0R5E/edengths,0,9,2,2024-11-18,GPL-3.0
+597,苏州大学,Soochow University,https://github.com/absop/LaTeX-Template,0,9,2,2020-05-27, 
+598,（英国）纽卡斯尔大学,Newcastle University,https://github.com/philipdarke/simple-thesis,0,9,2,2024-10-15,MIT
+599,山东大学,Shandong University,https://github.com/wangzhukang/sduthesis,0,9,2,2025-05-01, 
+600,大连理工大学,Dalian University of Technology,https://github.com/01xz/dlut-thesis,0,9,1,2025-03-14,LPPL-1.3c
+601,国防科技大学,National Defense University of Science and Technology,https://github.com/kelvin0207/NUDT-Template,0,9,1,2024-05-16, 
+602,国防科技大学,National Defense University of Science and Technology,https://github.com/nonsense-j/NUDT_FinalPaper,0,9,1,2023-08-09,MIT
+603,（伊朗）阿米尔·卡比尔理工大学,"University of Technology, AUT*<br>(دانشگاه صنعتی امیرکبیر)",https://github.com/aminrashidbeigi/BS-thesis,0,9,0,2020-10-28, 
+604,华东理工大学,East China University of Science and Technology,https://github.com/blanche07/ecust-master-thesis-latex,0,9,0,2024-06-04, 
+605,通用模板,Common Templates,https://github.com/jorgepiloto/escriba,0,9,0,2021-09-16,NOASSERTION
+606,苏州大学,Soochow University,https://github.com/rgwt123/sudathesis,0,9,0,2021-03-28, 
+607,陕西师范大学,Shaanxi Normal University,https://github.com/yykphy/yk-snnu-thesis,0,9,0,2024-06-13, 
+608,（加拿大）康考迪亚大学,Concordia University*<br>(Université Concordia),https://github.com/raxityo/concordia-latex-template,0,8,8,2018-02-02, 
+609,西北农林科技大学,Northwest A&F University,https://github.com/Jeromezp/NorthWestThesis,0,8,3,2017-05-31,MIT
+610,（西班牙）马德里理工大学,"Technical University of Madrid*<br>(Universidad Politécnica de Madrid, UPM)",https://github.com/eduayme/UPM-thesis-template-latex,0,8,3,2020-11-01, 
+611,华中科技大学,Huazhong University of Science,https://github.com/Qinnn/LaTeX-ThesisTemplatesForHUSTer,0,8,2,2015-04-22, 
+612,（印度）印度理工学院克勒格布尔分校,"Indian Institute of Technology Kharagpur, IIT Kharagpur*<br>(ਆਈ.ਆਈ.ਟੀ. ਖੜਗਪੁਰ)",https://github.com/c-i-p-h-e-r/PhinisheD,0,8,2,2018-01-04,MIT
+613,同济大学,Tongji University,https://github.com/Ginufet/tongji-dissertation-master-template,0,8,1,2022-03-11, 
+614,复旦大学,Fudan University,https://github.com/fduxiao/format_for_fdu_math,0,8,1,2019-05-09, 
+615,（英国）南安普顿大学,University of Southampton,https://github.com/hlwhl/ECS_Thesis_Template_LaTex,0,8,1,2018-08-19,Apache-2.0
+616,中国石油大学（北京）,China University of Petroleum (Beijing),https://github.com/linyuantiaohe/cupb-phd-thesis,0,8,1,2022-05-12, 
+617,武汉大学,Wuhan University,https://github.com/liuyijiang1994/WHU-PhD-Latex,0,8,1,2024-02-17, 
+618,（印度）蒂鲁吉拉伯利国立理工学院,"National Institute of Technology Tiruchirappalli, NIT Trichy*<br>(தேசிய தொழில்நுட்பக் கழகம், திருச்சிராப்பள்ளி)",https://github.com/niki864/ThesisTemplate,0,8,1,2018-03-19,MIT
+619,（日本）东京大学,University of Tokyo*<br>(東京大学),https://github.com/utlis/llls_depp-thesis_template,0,8,1,2024-03-26, 
+620,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/DotWang/UPCThesis_advanced,0,8,0,2019-02-14, 
+621,北京理工大学,Beijing Institute of Technology,https://github.com/FDUZS/BIThesis,1,8,0,2022-11-25,LPPL-1.3c
+622,深圳大学,Shenzhen University,https://github.com/Yulv-git/Master-Thesis-LaTeX-Template-of-SZU,0,8,0,2022-08-08,MIT
+623,（美国）爱荷华大学,University of Iowa,https://github.com/uiowa-mgb/uiowa-thesis,0,8,0,2024-05-22,ISC
+624,华南农业大学,South China Agricultural University,https://github.com/wuenzhe/SCAUThesis,0,8,0,2023-03-29, 
+625,（美国）威廉与玛丽学院,College of William and Mary,https://github.com/yishanhe/WM-AS-thesis-latex-template,0,7,12,2024-07-17,MIT
+626,山东大学,Shandong University,https://github.com/ChenMeng0518/sduthesis,0,7,7,2015-01-03, 
+627,（美国）伍斯特学院,The College of Wooster,https://github.com/jbreitenbucher/exampleis,0,7,6,2025-04-30, 
+628,中山大学,Sun Yat-sen University,https://github.com/guoyl6/thesis-dev,0,7,5,2018-10-16,GPL-3.0
+629,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/xmlu/hduthesis,0,7,5,2025-03-15,MIT
+630,中国传媒大学,Communication University of China,https://github.com/AmnesiaBeing/CUC-Thesis-Template,0,7,4,2021-06-09, 
+631,湘潭大学,Xiangtan University,https://github.com/ruiminshen/ThesisXTU,0,7,4,2015-05-22,GPL-2.0
+632,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/AndyYangjd/SUES-Paper,0,7,3,2020-03-09,MIT
+633,通用模板,Common Templates,https://github.com/danielvartan/abnt,0,7,3,2024-08-12,MIT
+634,（意大利）那不勒斯腓特烈二世大学,University of Naples Federico II*<br>(Università degli Studi di Napoli Federico II),https://github.com/luistar/unina-thesis-template,0,7,3,2024-10-21,LGPL-3.0
+635,南京工业大学,Nanjing University of Technology,https://github.com/AstralHope/NJTECHMasterThesis,0,7,2,2022-08-07,GPL-3.0
+636,浙江工业大学,Zhejiang University of Technology,https://github.com/AsukaEva2/ZJUTbachelor,0,7,2,2022-09-15,GPL-3.0
+637,浙江大学,Zhejiang University,https://github.com/corenel/zju-thesis,0,7,2,2020-12-06,MIT
+638,通用模板,Common Templates,https://github.com/farshadrasuli/parsa,0,7,2,2021-08-09, 
+639,（印度）德里理工大学,"Delhi Technological University, DTU",https://github.com/gandalfsaxe/laursens-xelatex-thesis-template,0,7,2,2019-02-26, 
+640,通用模板,Common Templates,https://github.com/openHPI/modernthesis,0,7,2,2017-06-30, 
+641,厦门大学,Xiamen University,https://github.com/DiggerWang/-Latex-,0,7,1,2019-01-30, 
+642,青海大学,Qinghai University,https://github.com/coffeelize/QHUthesis,0,7,1,2025-03-26, 
+643,（英国）赫瑞瓦特大学,Heriot-Watt University*<br>(Oilthigh Heriot-Watt),https://github.com/jackred/Heriot_Watt_Thesis_Template,0,7,1,2024-03-11,MIT
+644,东南大学,Southeast University,https://github.com/jasonbian97/Southeast-University-Paper-Latex-Template,0,7,1,2019-06-14, 
+645,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/liao961120/ntuthesis2,0,7,1,2022-11-01, 
+646,（加拿大）约克大学,York University*<br>(Université York),https://github.com/philchalmers/York_Thesis_LyX,0,7,1,2017-06-10, 
+647,吉林大学,Jilin University,https://github.com/OceanPresentChao/JLU-SE-Thesis-Template,0,7,0,2024-10-13,MIT
+648,（希腊）雅典大学,"National and Kapodistrian University of Athens, NKUA*<br>(Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών)",https://github.com/cnasikas/di-thesis-template,0,7,0,2018-06-27,MIT
+649,武汉大学,Wuhan University,https://github.com/lh9171338/WHU-Thesis,0,7,0,2020-04-05,MIT
+650,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/mequanwei/CQUPTThesis,0,7,0,2019-11-05, 
+651,华东师范大学,East China Normal University,https://github.com/myzmh/ECNU-MASTER-S-DISSERTATION-,0,7,0,2022-05-01, 
+652,吉林大学,Jilin University,https://github.com/quanfan-zi/Latex-Paper-Templates,0,7,0,2024-03-14, 
+653,合肥工业大学,HeFei University of Technology,https://github.com/shinyypig/HFUT-Thesis,0,7,0,2024-07-05,MIT
+654,南方科技大学,Southern University of Science and Technology,https://github.com/syw-robotics/SUSTechThesis2024MEE,0,7,0,2024-12-09,LPPL-1.3c
+655,南方科技大学,Southern University of Science and Technology,https://github.com/whzecomjm/sustcthesis,0,6,14,2017-07-31,MIT
+656,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/wugh/bupt-thesis-bachelor,0,6,9,2014-06-09, 
+657,（印度）印度理工学院马德拉斯分校,"Indian Institute of Technology Madras, IIT Madras",https://github.com/j-jith/iitm-thesis,0,6,8,2019-06-03, 
+658,北方民族大学,Northern Minzu University,https://github.com/WizenZhang/NMUThesis,0,6,7,2019-06-12,MIT
+659,大连理工大学,Dalian University of Technology,https://github.com/li-xin-yi/DLUTLaTeXTemplate,0,6,7,2016-03-29, 
+660,东北大学,Northeastern University,https://github.com/PlayerAI/NEU_PHD_Template,0,6,6,2013-06-05, 
+661,北京科技大学,Beijing University of Science and Technology,https://github.com/liuzhaoboatenficomcn/Latex-template-for-University-of-Science-and-Technology-Beijing,0,6,6,2018-10-10, 
+662,中国人民大学,Renmin University of China,https://github.com/liuqi6777/ructhesis,0,6,5,2024-04-17,MIT
+663,海南大学,Hainan University,https://github.com/zoltarsun/hainuthesis,0,6,5,2017-06-25, 
+664,（秘鲁）国立工程大学,"National University of Engineering*<br>(Universidad Nacional de Ingeniería, UNI)",https://github.com/ErickChacon/uni-thesis,0,6,4,2017-04-08,MIT
+665,山东师范大学,Shandong Normal University,https://github.com/SmartHelium/sdnubachelor,0,6,4,2023-03-15,GPL-3.0
+666,（美国）亚利桑那州立大学,Arizona State University,https://github.com/juliantao/quarto-asu-thesis,0,6,4,2023-06-27,MIT
+667,西北工业大学,Northwestern Polytechnical University,https://github.com/lrtfm/nputhesis,0,6,4,2024-01-17, 
+668,西安交通大学,Xi'an Jiaotong University,https://github.com/haoyun/xjtu-thesis-BSc,1,6,3,2014-03-29,LPPL-1.3c
+669,华东师范大学,East China Normal University,https://github.com/Jarvis-K/ECNU_Latex_Template,0,6,2,2019-05-08, 
+670,（韩国）首尔大学,"Seoul National University, SNU*<br>(서울대학교)",https://github.com/Zeta611/snu-cse-bsc-thesis,0,6,2,2024-06-27,MIT
+671,中南大学,Central South University,https://github.com/hezhujun/CSU-Thesis-LaTeX,0,6,2,2021-06-07, 
+672,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/Jingxuan-Yang/YangThesis.HITSZ.Dissertation,0,6,1,2019-10-30, 
+673,湖南大学,Hunan University,https://github.com/LASER-Yi/HNU-Thesis-LaTeX-Template,0,6,1,2019-05-22,GPL-3.0
+674,（印度）马尼帕尔理工学院,Manipal Institute of Technology,https://github.com/avnishsachar/manipal_thesis_template,0,6,1,2020-05-05, 
+675,贵州大学,Guizhou University,https://github.com/francisol/GZUthesis-template,0,6,1,2025-01-02, 
+676,（德国）哥廷根大学,University of Göttingen*<br>(Georg-August-Universität Göttingen),https://github.com/mhellmeier/LaTeX-Thesis-Template,0,6,1,2021-03-30,MIT
+677,安徽大学,Anhui University,https://github.com/qxx/AHU_Thesis,0,6,1,2014-03-11,GPL-2.0
+678,华南理工大学,South China University of Technology,https://github.com/Droliven/scut-thesis-template,0,6,0,2023-04-07,GPL-3.0
+679,福州大学,Fuzhou University,https://github.com/FzuerStudio/fzu-thesis-template,0,6,0,2013-05-14, 
+680,上海第二工业大学,Shanghai Second University of Technology,https://github.com/JouderMin/SSPUThesis,0,6,0,2024-04-17,MIT
+681,（韩国）国立釜庆大学,"Pukyong National University, PKNU*<br>(국립부경대학교)",https://github.com/Luminebear/PKNU-thesis-template,0,6,0,2024-05-21, 
+682,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/aofenghanyue/PhDThesisWordTemplate,0,6,0,2021-11-27,MIT
+683,通用模板,Common Templates,https://github.com/ccauet/thesis-template,0,6,0,2016-06-07,MIT
+684,大连理工大学,Dalian University of Technology,https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master,0,6,0,2017-03-13, 
+685,西北工业大学,Northwestern Polytechnical University,https://github.com/jingchangshi/NPU_PhD_Thesis_LaTeXTemplate,0,6,0,2022-01-07, 
+686,（德国）德根多夫理工学院,Deggendorf Institute of Technology*<br>(Technische Hochschule Deggendorf),https://github.com/playduck/thd-thesis,0,6,0,2023-02-23,BSD-3-Clause
+687,西南石油大学,Southwest Petroleum University,https://github.com/qingbyin/swputhesis,0,6,0,2022-05-15, 
+688,山东大学,Shandong University,https://github.com/wangkerui/sduthesis,0,6,0,2014-05-27,WTFPL
+689,（英国）牛津大学,University of Oxford,https://github.com/Tinyblack/Oxford-EngSci-Thesis-Template,0,5,8,2025-02-19,MIT
+690,浙江大学,Zhejiang University,https://github.com/jzhugithub/zju_thesis_latex,0,5,7,2018-04-03, 
+691,通用模板,Common Templates,https://github.com/Aloft-Lab/CTEX-Templates,0,5,6,2022-11-04, 
+692,东南大学,Southeast University,https://github.com/SouthEastUniversityofChina/seuthesis,0,5,5,2014-07-18, 
+693,（墨西哥）国立自治大学,"National Autonomous University of Mexico*<br>(Universidad Nacional Autónoma de México, UNAM)",https://github.com/jafPrudente/Tesis,0,5,5,2025-05-28, 
+694,同济大学,Tongji University,https://github.com/CharlieZi/TJU-Post-Graduate-Latex-Template,0,5,4,2015-03-19, 
+695,西南民族大学,Southwest University for Nationalities,https://github.com/changkun/SWUNThesis,0,5,4,2016-05-09,LGPL-3.0
+696,吉林大学,Jilin University,https://github.com/dartall/jluthesis,0,5,4,2016-02-29, 
+697,通用模板,Common Templates,https://github.com/goorkamateusz/praca-dyplomowa-szablon,0,5,3,2021-12-21, 
+698,澳门大学<br>（澳門大學）,University of Macau (UM),https://github.com/williamwuzeyi/UM-FST-MSc-Thesis-LaTeX-TMPL,0,5,3,2018-10-04, 
+699,东北大学,Northeastern University,https://github.com/NEUAI/neuthesis-en,0,5,2,2020-05-27,Apache-2.0
+700,华东理工大学,East China University of Science and Technology,https://github.com/hgkdzbf6/EcustThesis,0,5,2,2019-03-05,Apache-2.0
+701,华东理工大学,East China University of Science and Technology,https://github.com/liuqipei/ecust-template-latex,0,5,2,2022-03-12,GPL-2.0
+702,北京林业大学,Beijing Forestry University,https://github.com/quaeast/BjfuLatexTemplate,0,5,2,2021-06-03, 
+703,（马来西亚）玛拉理工大学,"MARA Technological University*<br>(Universiti Teknologi MARA, UiTM)",https://github.com/rizauddin/uitmthesis,0,5,2,2023-04-18,LPPL-1.3c
+704,（法国）巴黎第八大学「万塞讷-圣但尼大学」,Paris 8 University Vincennes-Saint-Denis*<br>(Université Paris 8 Vincennes-Saint-Denis),https://github.com/yzrobot/LIASD_LaTeX_Thesis_Template,0,5,2,2020-03-17,GPL-3.0
+705,浙江理工大学,Zhejiang Sci-Tech University,https://github.com/Casta-mere/LaTeX-GraduationTemplate,0,5,1,2024-09-29, 
+706,北京大学,Peking University,https://github.com/GXIU/Easy-Templates,0,5,1,2020-07-18, 
+707,中山大学,Sun Yat-sen University,https://github.com/Lovely-XPP/SYSU-thesis,0,5,1,2023-05-19,GPL-3.0
+708,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-mm,0,5,1,2024-05-02,MIT
+709,台湾阳明交通大学<br>（國立陽明交通大學）,National Yang Ming Chiao Tung University (NYCU),https://github.com/alex81527/latex-nctu-thesis,0,5,1,2018-02-19,GPL-3.0
+710,重庆交通大学,Chongqing Jiaotong University,https://github.com/cyanray/ThesisCQJTU,0,5,1,2022-10-10, 
+711,山东大学,Shandong University,https://github.com/luxun59/latex_Template,0,5,1,2023-01-17, 
+712,（美国）科罗拉多矿业学院,Colorado School of Mines,https://github.com/miligithub/MinesThesisTemplate,0,5,1,2021-01-28, 
+713,上海科技大学,ShanghaiTech University,https://github.com/sslchi/SISTThesis,0,5,1,2020-09-23, 
+714,（挪威）奥斯陆大学,University of Oslo*<br>(Universitetet i Oslo),https://github.com/uio-latex/phduio-monograph,0,5,1,2023-07-23,MIT
+715,中南大学,Central South University,https://github.com/ChaoYan/CSUThesis,0,5,0,2025-02-21,Apache-2.0
+716,通用模板,Common Templates,https://github.com/WetenSchaap/latex-imitatie,0,5,0,2022-06-17,AGPL-3.0
+717,深圳大学,Shenzhen University,https://github.com/bearcatat/SZUThesis,0,5,0,2022-01-09, 
+718,（意大利）罗马大学,Sapienza University of Rome*<br>(Sapienza - Università di Roma),https://github.com/edoardottt/sapienza-latex-thesis,0,5,0,2024-11-10,GPL-3.0
+719,（越南）芽庄大学,Nha Trang University*<br>(Trường Đại học Nha Trang),https://github.com/nd-hung/thesis-template,0,5,0,2024-07-04, 
+720,（日本）九州工业大学,Kyushu Institute of Technology*<br>(九州工業大学),https://github.com/ravijo/kyutech-thesis-template,0,5,0,2020-06-09,MIT
+721,（美国）宾夕法尼亚大学,"University of Pennsylvania, UPenn",https://github.com/shyamupa/upenn-cis-thesis-template,0,4,7,2021-02-28, 
+722,（美国）耶鲁大学,Yale University*<br>(Yale University),https://github.com/jopetty/yale-thesis,0,4,5,2017-08-13,MIT
+723,南京农业大学,Nanjing Agricultural University,https://github.com/Qsion/NJAU_Thesis,0,4,4,2023-12-04,GPL-3.0
+724,（美国）田纳西大学诺克斯维尔分校,"University of Tennessee, Knoxville (UTK)",https://github.com/edponce/thesis_template,0,4,3,2023-01-25,MIT
+725,南开大学,Nankai University,https://github.com/bianbian1234/NKU_latex_template,0,4,2,2022-09-28, 
+726,台湾中山大学<br>（國立中山大學）,National Sun Yat-sen University (NSYSU),https://github.com/hasanabs/nsysu-thesis-latex-template,0,4,2,2020-08-10, 
+727,湖南师范大学,Hunan Normal University,https://github.com/ljmdzyx1985/HUNNU_Thesis,0,4,2,2021-03-23, 
+728,南开大学,Nankai University,https://github.com/vicky66/nkuthesis-master-mac,0,4,2,2019-01-02, 
+729,厦门大学,Xiamen University,https://github.com/wwwxmu/-Latex-,0,4,2,2015-05-07, 
+730,（印度尼西亚）印度尼西亚大学,University of Indonesia*<br>(Universitas Indonesia),https://github.com/yohanesgultom/ui_style,0,4,2,2017-05-03,NOASSERTION
+731,中山大学,Sun Yat-sen University,https://github.com/1FCENdoge/sysuthesis,0,4,1,2025-05-30,LPPL-1.3c
+732,中国科学技术大学,University of Science and Technology of China,https://github.com/GaZ3ll3/ustcthesis,0,4,1,2014-02-07,GPL-2.0
+733,四川大学,Sichuan University,https://github.com/MrGodfrey/SCU-Thesis-LaTeX-Template,0,4,1,2025-03-04,Apache-2.0
+734,成都理工大学,Chengdu University of Technology,https://github.com/cs-whh/CDUT_thesis,0,4,1,2022-01-13, 
+735,四川大学,Sichuan University,https://github.com/myfox1997/SCU_Thesis,0,4,1,2019-04-26, 
+736,杭州电子科技大学,Hangzhou University of Electronic Science and Technology,https://github.com/ydar95/HDU-Master-Thesis-Latex,0,4,1,2022-04-14, 
+737,东北大学,Northeastern University,https://github.com/yeqibin/neuthesis,0,4,1,2016-08-07, 
+738,（美国）爱荷华大学,University of Iowa,https://github.com/zhiyzuo/uiowa-thesis-dissertation,0,4,1,2019-07-10,NOASSERTION
+739,北京师范大学,Beijing Normal University,https://github.com/Hggg/BNU-Bachelor-Template,0,4,0,2020-04-24, 
+740,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/JunyiHua/latex-mould-for-BUAA-bachelor-thesis-2021,0,4,0,2021-01-12, 
+741,大连理工大学,Dalian University of Technology,https://github.com/Saltsmart/DUT-master-thesis,0,4,0,2023-05-06,LPPL-1.3c
+742,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/YihanCao123/zuel_thesis,0,4,0,2020-05-18,MIT
+743,上海师范大学,Shanghai Normal University,https://github.com/andy123t/shnubachelor,0,4,0,2024-08-22,MIT
+744,南开大学,Nankai University,https://github.com/hhhhhscott/NKU_Bachelor_Thesis_EO_College_LaTeX_Template,0,4,0,2024-02-13, 
+745,（马来西亚）马来西亚工艺大学,"University of Technology Malaysia, UTM*<br>(Universiti Teknologi Malaysia)",https://github.com/kianmeng/utmthesis-context,0,4,0,2022-09-07, 
+746,（德国）慕尼黑工业大学,Technical University of Munich*<br>(Technische Universität München),https://github.com/labenbmic1/git-BachelorThesis,0,4,0,2020-10-10, 
+747,（瑞士）瑞士西北应用科学与艺术大学,"University of Applied Sciences and Arts Northwestern Switzerland*<br>(Fachhochschule Nordwestschweiz, FHNW)",https://github.com/maechler/latex-thesis-template,0,4,0,2020-04-22, 
+748,天津大学,Tianjin University,https://github.com/oak619/TJUthesis_xelatex-phd-2020,0,4,0,2021-05-29,GPL-3.0
+749,电子科技大学,University of Electronic Science and Technology of China,https://github.com/raja21068/UESTC-THESIS,0,4,0,2019-01-25, 
+750,山东大学,Shandong University,https://github.com/sailist/Refined-Version-of-SDU-Thesis-Template,0,4,0,2023-02-16,MIT
+751,河海大学,Hohai University,https://github.com/schochastics/hhu_thesis,0,4,0,2023-07-12, 
+752,重庆大学,Chongqing University,https://github.com/yinguoweiOvO/CQUThesis_20242024,0,4,0,2024-03-31,NOASSERTION
+753,浙江工商大学,Zhejiang Gongshang University,https://github.com/zewei-Zhang/zjgsuthesis,0,4,0,2022-04-26,MIT
+754,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/latexstudio/PhD-Thesis--LaTeX-Template-for-BUPT,0,3,10,2016-07-18, 
+755,（沙特阿拉伯）卡西姆大学,Qassim University*<br>(جامعة_القصيم),https://github.com/coc-it/qu-thesis-template,0,3,6,2023-03-06,MIT
+756,台湾南台科技大学<br>（南臺科技大學）,Southern Taiwan University of Science and Technology (STUST),https://github.com/yingchaotw/STUST-thesis-template,0,3,4,2024-08-24, 
+757,首都师范大学,Capital Normal University,https://github.com/huwan/cnuthesis,0,3,3,2021-02-09, 
+758,（英国）兰卡斯特大学,Lancaster University*<br>(Lancaster University),https://github.com/ErickChacon/lancs-thesis,0,3,2,2019-02-04,GPL-3.0
+759,北京林业大学,Beijing Forestry University,https://github.com/bjfu-projects/bjfuthesis,0,3,2,2021-07-02,GPL-3.0
+760,北京语言大学,Beijing Language and Culture University,https://github.com/cunliangkong/BLCU-Thesis,1,3,2,2023-05-15, 
+761,成都理工大学,Chengdu University of Technology,https://github.com/fumeng6/CDUT-Undergraduate-Thesis-Template,0,3,2,2022-09-11, 
+762,（德国）帕德博恩大学,Paderborn University*<br>(Universität Paderborn),https://github.com/patrickrobrecht/latex-templates-upb,0,3,2,2017-12-17,GPL-3.0
+763,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/FilipeMar/DoctoralThesisIST,0,3,1,2019-04-04,GPL-3.0
+764,（葡萄牙） 里斯本高等理工学院,"Instituto Superior Técnico*<br>(Instituto Superior Técnico, IST)",https://github.com/FilipeMar/Phd-Thesis-Tecnico,0,3,1,2019-04-05,GPL-3.0
+765,大连理工大学,Dalian University of Technology,https://github.com/GoBigorGoHome/dutthesis,0,3,1,2017-06-09, 
+766,同济大学,Tongji University,https://github.com/Hl-W/TongjiThesis_modified,0,3,1,2024-05-21, 
+767,华南理工大学,South China University of Technology,https://github.com/KaitlynZeng/SCUT-THESIS,0,3,1,2020-05-29, 
+768,（伊朗）哈杰·纳西尔丁·图西理工大学,Khajeh Nasir Toosi University of Technology*<br>(دانشگاه صنعتی خواجه نصيرالدين طوسی),https://github.com/MJAHMADEE/KNTUThesis,0,3,1,2024-08-19,MIT
+769,复旦大学,Fudan University,https://github.com/ShupeiLi/fudan-thesis-template,0,3,1,2022-04-11, 
+770,南京理工大学,Nanjing University of Science and Technology,https://github.com/StillKeepTry/NJUST-PHD-Thesis,0,3,1,2020-12-17, 
+771,（新加坡）南洋理工大学,Nanyang Technological University (NTU),https://github.com/alxiong/ntu-thesis-latex,0,3,1,2025-03-27,Apache-2.0
+772,对外经济贸易大学,University of International Business and Economics,https://github.com/caibengbu/uibethesis,0,3,1,2024-07-10, 
+773,湖南大学,Hunan University,https://github.com/gannerfreer/Hnu_master_thesis,0,3,1,2025-05-14, 
+774,浙江大学,Zhejiang University,https://github.com/junpeiz/ZJU-CS-Undergrad-Thesis-Latex-Template,0,3,1,2019-03-24, 
+775,（西班牙）马德里理工大学,"Technical University of Madrid*<br>(Universidad Politécnica de Madrid, UPM)",https://github.com/ricardolopezgr/TFG-TFM-template,0,3,1,2018-11-25,MIT
+776,东北师范大学,Northeast Normal University,https://github.com/BENZJ/NNU_Latex_temple,0,3,0,2021-05-03, 
+777,（法国）布列塔尼-卢瓦尔大学,Brittany and Loire University*<br>(Université Bretagne-Loire),https://github.com/Callidon/template-thesis-ubl-mathstic,0,3,0,2020-02-14,MIT
+778,厦门大学,Xiamen University,https://github.com/CamuseCao/XMU-Thesis-Overleaf,1,3,0,2020-08-11, 
+779,厦门大学,Xiamen University,https://github.com/CoolTowel/XMU_ThesisTemplate,0,3,0,2020-02-23,GPL-3.0
+780,中国海洋大学,Ocean University of China,https://github.com/Duola-li/OUC-Latex-Thesis-master,0,3,0,2023-05-29, 
+781,重庆邮电大学,Chongqing University of Posts and Telecommunications,https://github.com/ElegantLee/CQUPT-Thesis-LaTex-Template,0,3,0,2023-03-12,MIT
+782,中国海洋大学,Ocean University of China,https://github.com/SunYufei/oucthesis,1,3,0,2021-05-24, 
+783,中国人民大学,Renmin University of China,https://github.com/abuccts/ructhesis,0,3,0,2017-10-31,LPPL-1.3c
+784,中南财经政法大学,Zhongnan University of Economics and Law,https://github.com/donk3yzz/zuel_zh,0,3,0,2019-04-06, 
+785,湖南工商大学,Hunan Industrial and Commercial University,https://github.com/ethan-phu/hutb_master_thesis_latex,0,3,0,2022-03-12, 
+786,（美国）西密歇根大学,Western Michigan University*<br>(Western Michigan University),https://github.com/jonlighthall/wmu,0,3,0,2021-01-27,MIT
+787,北京电影学院,Beijing Film Academy,https://github.com/juneleung/BFA_Master_Thesis_Template,0,3,0,2024-01-29, 
+788,北京电影学院,Beijing Film Academy,https://github.com/juneleung/BFA_Undergraduate_Thesis_Template,0,3,0,2024-01-29, 
+789,（荷兰）阿姆斯特丹大学,University of Amsterdam*<br>(Universiteit van Amsterdam),https://github.com/m4lvin/illc-phd-thesis-template,0,3,0,2025-02-17, 
+790,华南理工大学,South China University of Technology,https://github.com/mengchaoheng/SCUT_course,0,3,0,2023-11-03, 
+791,（美国）亚利桑那州立大学,Arizona State University,https://github.com/nicole-brewer/asu-thesis,0,3,0,2023-12-21,GPL-3.0
+792,（俄罗斯）南方联邦大学,Southern Federal University (SFedU)*<br>(Южный федеральный университет (ЮФУ)),https://github.com/sanyarnd/sfedu-mmcs-latex-thesis-template,0,3,0,2019-06-21,CC0-1.0
+793,中国人民大学,Renmin University of China,https://github.com/tnoa77/RUC_Thesis_2019,0,3,0,2020-02-06, 
+794,清华大学,Tsinghua University,https://github.com/xavieryao/thu-ell-bachelor-thesis,0,3,0,2019-10-04, 
+795,台湾清华大学<br>（國立清華大學）,National Tsing Hua University (NTHU),https://github.com/yszheda/nthu-master-thesis,0,3,0,2014-06-12,MIT
+796,兰州大学,Lanzhou University,https://github.com/zmx0142857/lzuthesis,0,3,0,2020-05-31, 
+797,厦门大学,Xiamen University,https://github.com/liulizhi1996/XMU-Bachelor-Thesis-Templete,0,2,3,2018-05-08, 
+798,华东理工大学,East China University of Science and Technology,https://github.com/scottoasis/ecustthesis,0,2,3,2013-06-16, 
+799,哈尔滨医科大学,Harbin Medical University,https://github.com/a67878813/HMUThesis-master,0,2,2,2017-05-30,Apache-2.0
+800,厦门大学,Xiamen University,https://github.com/faying/XMU-LaTeX-Template,0,2,2,2012-11-23, 
+801,香港城市大学<br>（香港城市大學）,City University of Hong Kong (CityU),https://github.com/huwan/cleanthesis-cityu,0,2,2,2020-07-29, 
+802,（美国）马凯特大学,Marquette University,https://github.com/pdgessler/mugsthesis,1,2,2,2022-09-01, 
+803,复旦大学,Fudan University,https://github.com/yhyi15/FDU_PhD_Thesis_Template,0,2,2,2017-04-04, 
+804,西安电子科技大学,Xidian University,https://github.com/ztcxdu/xdu_MS_thesis_template,0,2,2,2020-12-22,GPL-3.0
+805,（澳大利亚）新南威尔士大学,University of New South Wales,https://github.com/andrewletten/LettenPhDThesis2015,0,2,1,2017-06-10,MIT
+806,台湾大学<br>（國立臺灣大學）,National Taiwan University (NTU),https://github.com/chujay/NTU_latex,0,2,1,2017-07-27, 
+807,山西农业大学,Shanxi Agricultural University,https://github.com/dubuqingfeng/sxau-document,1,2,1,2016-12-13, 
+808,天津大学,Tianjin University,https://github.com/jinyu121/tju-thesis-simple,0,2,1,2021-05-29, 
+809,山东财经大学,Shandong University of Finance and Economics,https://github.com/mslxl/sdufe-thesis,0,2,1,2024-05-20,LPPL-1.3c
+810,三峡大学,China Three Gorges University,https://github.com/sxdxyxy/smartmedical,0,2,1,2017-04-15, 
+811,东北大学,Northeastern University,https://github.com/w-mj/neu_cse_bachelor_thesis,0,2,1,2020-05-27, 
+812,通用模板,Common Templates,https://github.com/CRAG666/tectonic-latex-template,0,2,0,2024-06-14,GPL-3.0
+813,天津大学,Tianjin University,https://github.com/ChrisVicky/TJU-Thesis-LaTeX-Template,0,2,0,2023-03-05,GPL-3.0
+814,兰州大学,Lanzhou University,https://github.com/CosmosLiang/LZUthesis,0,2,0,2018-12-18, 
+815,武汉大学,Wuhan University,https://github.com/HarborYuan/whucs-thesis,0,2,0,2023-06-01, 
+816,吉林大学,Jilin University,https://github.com/Herbert-Gao/JLU_Graduation_Model_Bachelor,0,2,0,2022-01-10, 
+817,湖南大学,Hunan University,https://github.com/MaFuyan/HNU_Thesis_LaTeX_MacOS,0,2,0,2022-01-04, 
+818,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/MobtgZhang/sues-thesis-bachelor,0,2,0,2024-02-21,MIT
+819,大连交通大学,Dalian Jiaotong University,https://github.com/MrLQQ/DJTU-latex-thesis,0,2,0,2021-10-07,AGPL-3.0
+820,江苏大学,Jiangsu University,https://github.com/NTrabbit5/UJS-thesis,0,2,0,2020-11-02, 
+821,苏州大学,Soochow University,https://github.com/NatureGeorge/sudathesis-bachelor,0,2,0,2021-06-03,MIT
+822,北京理工大学,Beijing Institute of Technology,https://github.com/PolarLion/BIT-thesis-template,0,2,0,2022-10-03, 
+823,华南理工大学,South China University of Technology,https://github.com/VicoZhang/SCUT_Latex_template,0,2,0,2023-02-26,MIT
+824,大连理工大学,Dalian University of Technology,https://github.com/Youxuan1/dut_essay_model,0,2,0,2022-12-11, 
+825,浙江理工大学,Zhejiang Sci-Tech University,https://github.com/YvonZhou/ZSTUThesis,0,2,0,2019-04-14,Apache-2.0
+826,（英国）帝国理工学院,Imperial College London (IC),https://github.com/blaahhrrgg/icldiss,0,2,0,2015-07-28,MIT
+827,（罗马尼亚）雅西“亚历山德鲁·杨·库扎”大学,"Alexandru Ioan Cuza University of Iasi*<br>(„Alexandru Ioan Cuza” University of Iași, UAIC)",https://github.com/blankdots/LatexThesisTemplate,0,2,0,2023-12-18,MIT
+828,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/cnMuggle/BuptThesisBachelor_1.1,0,2,0,2015-07-18, 
+829,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/dustincys/hithesis,0,2,0,2025-03-19, 
+830,兰州大学,Lanzhou University,https://github.com/latexstudio/LZUthesis,0,2,0,2021-05-28, 
+831,武汉大学,Wuhan University,https://github.com/lvZic/latex,0,2,0,2018-08-16, 
+832,武汉大学,Wuhan University,https://github.com/prejudice666/whu-thesis-latex-template,0,2,0,2023-05-25, 
+833,江苏科技大学,Jiangsu University of Science and Technology,https://github.com/sheeplib/JustThesis,0,2,0,2018-06-23, 
+834,湖北经济学院,Hubei School of Economics,https://github.com/snyh/hbue_thesis,0,2,0,2019-03-19, 
+835,四川大学,Sichuan University,https://github.com/wonderland-dsg/scuthesis,0,2,0,2020-03-07, 
+836,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/yangze01/BUPT-Master-Graduation-Thesis,0,2,0,2020-01-10, 
+837,西北师范大学,Northwest Normal University,https://github.com/yxli8023/Graduate-Thesis-Module,0,2,0,2018-02-15, 
+838,（印度）印度理工学院马德拉斯分校,"Indian Institute of Technology Madras, IIT Madras",https://github.com/amitanilkulkarni/iitm-thesis-template,0,1,5,2016-04-24,MIT
+839,华东理工大学,East China University of Science and Technology,https://github.com/clyce/ecust_thesis_template,0,1,2,2013-03-31, 
+840,天津大学,Tianjin University,https://github.com/latexstudio/tjuThesis,0,1,2,2016-01-11, 
+841,武汉大学,Wuhan University,https://github.com/paul-wu/whuthesis,0,1,2,2014-12-30, 
+842,北京化工大学,Beijing University of Chemical Technology,https://github.com/qianqianjun/UnetFCNDAE,0,1,2,2020-06-19, 
+843,西安交通大学,Xi'an Jiaotong University,https://github.com/4712635/xjtu_thesis_template,0,1,1,2016-10-08,GPL-3.0
+844,电子科技大学,University of Electronic Science and Technology of China,https://github.com/Alan5279/UESTC_Doc_Thesis,0,1,1,2020-05-29, 
+845,南开大学,Nankai University,https://github.com/JerryMouseZ/NKUOverleafTemplate2021,0,1,1,2021-04-30, 
+846,东南大学,Southeast University,https://github.com/LingYeAI/SEUthesis2019,0,1,1,2019-05-13,MIT
+847,四川大学,Sichuan University,https://github.com/QWQ-intro/SCU-Thesis-latex,0,1,1,2022-03-16,MIT
+848,东南大学,Southeast University,https://github.com/RayDia/SEU-LaTeX-Thesis-Template-,0,1,1,2019-03-09, 
+849,郑州大学,Zhengzhou University,https://github.com/ZZUTUG/ZZU_Thesis,0,1,1,2022-02-28,LPPL-1.3c
+850,宁夏大学,Ningxia University,https://github.com/baoxianyuan/NXUThesis,0,1,1,2025-03-28, 
+851,香港理工大学<br>（香港理工大學）,Hong Kong Polytechnic University (PolyU),https://github.com/edwardtoday/hkputhesis,0,1,1,2013-08-07,MIT
+852,淮北师范大学,Huaibei Normal University,https://github.com/everyx/HNUthesis,0,1,1,2015-06-02, 
+853,清华大学,Tsinghua University,https://github.com/iso9/thuthesis,0,1,1,2013-03-13, 
+854,华东师范大学,East China Normal University,https://github.com/rachlegend/ECNU-Template,0,1,1,2024-01-25, 
+855,西北工业大学,Northwestern Polytechnical University,https://github.com/tianhangnpu/npu_thesis_template,0,1,1,2020-07-05, 
+856,武汉大学,Wuhan University,https://github.com/Achhhe/WHUMaster-Latex-2021,0,1,0,2022-03-26, 
+857,中南大学,Central South University,https://github.com/BingBLL/CSUThesis,0,1,0,2021-12-24,Apache-2.0
+858,北京林业大学,Beijing Forestry University,https://github.com/Bloomberg2000/bjfuthesis_old,0,1,0,2021-06-17, 
+859,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/FirstPotato/IUE-Thesis,0,1,0,2020-07-01, 
+860,哈尔滨工业大学,Harbin Institute of Technology,https://github.com/FutureForMe/HIT_thesis,0,1,0,2022-08-28, 
+861,（捷克）捷克生命科学大学,"Czech University of Life Sciences Prague*<br>(Česká zemědělská univerzita v Praze, ČZU/CULS)",https://github.com/Harvie/CULS-Thesis,0,1,0,2021-07-11,MIT
+862,南开大学,Nankai University,https://github.com/JH-Wei/NKUThesis,0,1,0,2016-04-26, 
+863,吉林大学,Jilin University,https://github.com/Katzen-D/JLUThesis_D,0,1,0,2021-02-01, 
+864,天津大学,Tianjin University,https://github.com/Rien190/TJU-Paper-template,0,1,0,2022-05-17, 
+865,北京外国语大学,Beijing Foreign Studies University,https://github.com/Ryan-the-hito/BFSU-paper,0,1,0,2023-11-02,MIT
+866,南京审计大学,Nanjing University of Audit,https://github.com/SuperposedWave/NauThesis,0,1,0,2023-03-23, 
+867,武汉科技大学,Wuhan University of Science and Technology,https://github.com/YuanXinCherry/wust-thesis,0,1,0,2021-12-12,MIT
+868,南开大学,Nankai University,https://github.com/benhaotang/NKThesis,0,1,0,2023-04-30,MPL-2.0
+869,华东师范大学,East China Normal University,https://github.com/chguw/ecnuphd,0,1,0,2023-04-11,BSD-3-Clause
+870,上海第二工业大学,Shanghai Second University of Technology,https://github.com/chuxubank/ssputhesis,0,1,0,2019-05-17,Apache-2.0
+871,湖南大学,Hunan University,https://github.com/davendw49/HNUbFinalThesis_template,0,1,0,2019-05-21, 
+872,（阿根廷）托尔夸托迪特利亚大学,Torcuato di Tella University*<br>(Universidad Torcuato Di Tella),https://github.com/federicoduca/latex-templates,0,1,0,2024-02-23, 
+873,山东大学,Shandong University,https://github.com/lichuanxiang/SDUGradThesis,0,1,0,2022-01-27,MIT
+874,南京信息工程大学,Nanjing University of Information Engineering,https://github.com/liyuwang2016/NUIST_Latex,0,1,0,2019-01-07, 
+875,吉林大学,Jilin University,https://github.com/lyjslay/JLU-EE-template,0,1,0,2021-12-12, 
+876,浙江师范大学,Zhejiang Normal University,https://github.com/minqimao/zjnu_thesis,0,1,0,2017-01-27,GPL-2.0
+877,（白俄罗斯）国立信息和无线电电子大学,"Belarusian State University of Informatics and Radioelectronics, BSUIR*<br>(Беларускі дзяржаўны ўніверсітэт інфарматыкі і радыёэлектронікі)",https://github.com/nadevko/bsuir-TeX-1,0,1,0,2025-05-04,GPL-3.0
+878,西安交通大学,Xi'an Jiaotong University,https://github.com/smartsrh/xjtubachelor,0,1,0,2016-06-12,MIT
+879,南开大学,Nankai University,https://github.com/tensor-matrix/NKUThesis,0,1,0,2023-05-06, 
+880,大连理工大学,Dalian University of Technology,https://github.com/wendy2003888/DLUT_XeLatex_TemplateForBachelor,0,1,0,2017-06-29, 
+881,东北师范大学,Northeast Normal University,https://github.com/wuyanglee/LaTeX_template_for_Thesis_NENU,0,1,0,2022-04-13, 
+882,西安交通大学,Xi'an Jiaotong University,https://github.com/zzjjzzgggg/xjtuthesis,0,1,0,2016-09-18, 
+883,（美国）德克萨斯州大学奥斯汀分校,University of Texas at Austin,https://github.com/OttoStruve/UT-thesis,0,0,5,2018-06-27,MIT
+884,（德国）康斯坦茨应用科技大学,Konstanz University of Applied Sciences*<br>(Hochschule Konstanz HTWG),https://github.com/AihamAbusaleh/thesis-template-latex,0,0,3,2018-07-19, 
+885,（美国）斯坦福大学,Stanford University,https://github.com/jbau/thesis,0,0,2,2013-05-21, 
+886,东华大学,Donghua University,https://github.com/DCMMC/DHU-Paper-Template,0,0,1,2020-12-14, 
+887,上海交通大学,Shanghai Jiaotong University,https://github.com/GreenTeaHua/sjtu_latex,0,0,1,2022-01-11, 
+888,华东师范大学,East China Normal University,https://github.com/Haskely/ECNUMasterThesisLatexTemplate,0,0,1,2022-10-01, 
+889,上海交通大学,Shanghai Jiaotong University,https://github.com/JingruiYu/SJTU_Thesis_21,0,0,1,2021-09-13,Unlicense
+890,华东师范大学,East China Normal University,https://github.com/SmartPangzi/ECNU-Graduation-Thesis-Template,0,0,1,2020-07-04, 
+891,澳门大学<br>（澳門大學）,University of Macau (UM),https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL,0,0,1,2018-11-09, 
+892,四川师范大学,Sichuan Normal University,https://github.com/yiyuezhuo/sicnu-thesis,0,0,1,2018-04-25, 
+893,武汉大学,Wuhan University,https://github.com/0xf4vul/whuBSthesis,0,0,0,2015-04-20, 
+894,湖南大学,Hunan University,https://github.com/AaronDavis2020/HNU-thesis,0,0,0,2022-01-27,MIT
+895,北京林业大学,Beijing Forestry University,https://github.com/Bloomberg2000/BJFUThesis,0,0,0,2021-06-25, 
+896,中国科学技术大学,University of Science and Technology of China,https://github.com/DingyunZhang/ustc_thesis_bachelor,0,0,0,2022-04-01,LPPL-1.3c
+897,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/ForeverDavid/nuaa-thesis,0,0,0,2016-05-24,GPL-3.0
+898,南京理工大学,Nanjing University of Science and Technology,https://github.com/Hobr/njust_thesis_latex_template,0,0,0,2024-05-09,LPPL-1.3c
+899,山东大学,Shandong University,https://github.com/IIIIntx/-sdu-latex-,0,0,0,2023-05-19,GPL-3.0
+900,山东大学,Shandong University,https://github.com/Ice0cean/sdumt,0,0,0,2015-07-26, 
+901,吉林大学,Jilin University,https://github.com/JLUqiankun/JLU_Graduate_Thesis_Template,0,0,0,2020-05-21, 
+902,中央民族大学,Minzu University of China,https://github.com/MUCVIP/mucthesis,0,0,0,2023-05-19,LPPL-1.3c
+903,清华大学,Tsinghua University,https://github.com/Markshilong/THU_Thesis_Bachelor,0,0,0,2022-05-30,LPPL-1.3c
+904,（奥地利）格拉茨技术大学,"Graz University of Technology*<br>(Technische Universität Graz, TU Graz)",https://github.com/MarkusPic/master_thesis_template,0,0,0,2019-04-02,MIT
+905,（俄罗斯）莫斯科国立航空学院,"Moscow Aviation Institute*<br>(Московский авиационный институт, МАИ)",https://github.com/NetherQuartz/BachelorThesis,0,0,0,2022-06-05,GPL-3.0
+906,山东大学,Shandong University,https://github.com/OpenMandrivaAssociation/texlive-sduthesis,0,0,0,2025-03-02, 
+907,上海科技大学,ShanghaiTech University,https://github.com/OpenMandrivaAssociation/texlive-shtthesis,0,0,0,2025-03-02, 
+908,西安电子科技大学,Xidian University,https://github.com/OpenMandrivaAssociation/texlive-xduthesis,0,0,0,2025-03-02, 
+909,西安电子科技大学,Xidian University,https://github.com/Qinka/xdu-ug-thesis,0,0,0,2017-08-24,LGPL-3.0
+910,大连理工大学,Dalian University of Technology,https://github.com/QuYue/The-XeLaTex-Template-of-Master-Degree-Thesis-of-DUT,0,0,0,2023-02-21, 
+911,澳门科技大学<br>（澳門科技大學）,Macau University of Science and Technology (MUST),https://github.com/Tim-eyes/MUST_Thesis_Template,0,0,0,2022-04-25,NOASSERTION
+912,浙江大学,Zhejiang University,https://github.com/Zhejiang-University-GKC/cs-zju-thesis,0,0,0,2022-07-16,BSD-2-Clause
+913,浙江大学,Zhejiang University,https://github.com/ankwinters/ZJUthesis_template,0,0,0,2019-01-02, 
+914,西安交通大学,Xi'an Jiaotong University,https://github.com/bys17778885154/xjtu_thesis,0,0,0,2023-02-20,LPPL-1.3c
+915,东北师范大学,Northeast Normal University,https://github.com/chenpx976/nenuthesis,0,0,0,2016-02-02, 
+916,海南师范大学,Hainan Normal University,https://github.com/cliffigor/hainnu-thesis,0,0,0,2022-10-19,MIT
+917,中国石油大学（华东）,China University of Petroleum (East China),https://github.com/cr0wchen/upc-thesis-2020,0,0,0,2020-06-29, 
+918,通用模板,Common Templates,https://github.com/dimkirt/latex-thesis-template,0,0,0,2018-08-06, 
+919,中国传媒大学,Communication University of China,https://github.com/felicia-tung/My-CUC-Thesis,0,0,0,2023-11-28,LPPL-1.3c
+920,兰州大学,Lanzhou University,https://github.com/fengyongkang/PgD-PHD-Thesis-Latex-template-for-Lanzhou-University,0,0,0,2021-01-26, 
+921,湖南师范大学,Hunan Normal University,https://github.com/gkm0120/hunnu,0,0,0,2022-09-04, 
+922,东华大学,Donghua University,https://github.com/godshen/dhu_thesis,0,0,0,2023-09-02, 
+923,南开大学,Nankai University,https://github.com/guangpintao/nku_thesis,0,0,0,2019-06-05, 
+924,（美国）西北大学,Northwestern University,https://github.com/h-havenga/The-unofficial-NWU-LaTeX-template,0,0,0,2018-04-05, 
+925,天津大学,Tianjin University,https://github.com/hanwang-15/TJUthesis_xelatex-phd-2020,0,0,0,2020-07-05,GPL-3.0
+926,吉林大学,Jilin University,https://github.com/jhyutian/jlu-thesis,0,0,0,2016-02-07, 
+927,中国科学技术大学,University of Science and Technology of China,https://github.com/jiaopjie/ustcthesis,0,0,0,2019-02-12, 
+928,香港科技大学<br>（香港科技大學）,Hong Kong University Of Science And Technology (HUST),https://github.com/junxue-zhang/hkust-latex-thesis,0,0,0,2018-01-09, 
+929,中山大学,Sun Yat-sen University,https://github.com/kuiqx/biyelunwen,0,0,0,2023-04-09,GPL-3.0
+930,西北农林科技大学,Northwest A&F University,https://github.com/latexstudio/nwsuaf_thesis_template,0,0,0,2019-01-22, 
+931,东南大学,Southeast University,https://github.com/liuying1905/seu_thesis,0,0,0,2021-06-03, 
+932,电子科技大学,University of Electronic Science and Technology of China,https://github.com/lzcn/uestcthesis,0,0,0,2023-01-12,LPPL-1.3c
+933,青岛工学院,Qingdao Institute of Technology,https://github.com/monburan/oucqdc-LaTeX-document,0,0,0,2016-12-18, 
+934,（英国）伦敦艺术大学,"University of the Arts London, UAL",https://github.com/natuk/ual-thesis-template,0,0,0,2015-07-08, 
+935,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/nmykhan/NUAA-Thesis-Template-NASR,0,0,0,2022-12-22, 
+936,西安电子科技大学,Xidian University,https://github.com/oopsno/yabasky,0,0,0,2016-05-26,LGPL-3.0
+937,天津大学,Tianjin University,https://github.com/pingyuer/TJUThesis,0,0,0,2022-03-21, 
+938,电子科技大学,University of Electronic Science and Technology of China,https://github.com/raja21068/UESTC-LATEX-THESIS-FORMAT,0,0,0,2021-03-04, 
+939,上海工程技术大学,Shanghai University of Engineering and Technology,https://github.com/shansicheng/sues-thesis,0,0,0,2023-05-11,MIT
+940,华东师范大学,East China Normal University,https://github.com/tangyc8866/ECNU-Undergraduate-TeX-Template,0,0,0,2020-04-17, 
+941,东北大学,Northeastern University,https://github.com/ttimasdf/neuthesis,0,0,0,2018-03-23, 
+942,电子科技大学,University of Electronic Science and Technology of China,https://github.com/tzz1996/ThesisUESTC,0,0,0,2018-08-06, 
+943,厦门大学,Xiamen University,https://github.com/uhomelee/xmu-undergraduate-thesis,0,0,0,2019-05-27, 
+944,华中师范大学,Central China Normal University,https://github.com/wasphin/latex-ccnu-thesis,0,0,0,2020-01-30,GPL-3.0
+945,北京邮电大学,Beijing University of Posts and Telecommunications,https://github.com/way-zer/BUPTBachelorThesis,0,0,0,2023-04-21, 
+946,南京航空航天大学,Nanjing University of Aeronautics and Astronautics,https://github.com/wfxyjx/nuaathesis,0,0,0,2014-03-10, 
+947,桂林电子科技大学,Guilin University of Electronic Science and Technology,https://github.com/wrm244/Guet_LATEX_Thesis_Template,0,0,0,2023-06-05,LPPL-1.3c
+948,南开大学,Nankai University,https://github.com/zihaodong/NKU_thesis,0,0,0,2020-07-18, 

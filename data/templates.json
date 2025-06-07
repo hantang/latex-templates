@@ -2,7 +2,7 @@
   {
     "region": "zhs",
     "topic": "template",
-    "count": 873,
+    "count": 875,
     "templates": [
       {
         "name": {
@@ -2207,17 +2207,18 @@
           "en": "Nanjing University of Science and Technology",
           "default": ""
         },
-        "count": 5,
+        "count": 6,
         "repositories": [
           {
             "genre": "thesis",
             "language": "latex",
-            "count": 4,
+            "count": 5,
             "links": [
               "https://github.com/Hobr/njust_thesis_latex_template",
               "https://github.com/jiec827/njustThesis",
               "https://github.com/packyan/NJUST_Master_Thesis_Latex_Template",
-              "https://github.com/pasteller/njusttt"
+              "https://github.com/pasteller/njusttt",
+              "https://github.com/StillKeepTry/NJUST-PHD-Thesis"
             ]
           },
           {
@@ -3291,14 +3292,15 @@
           "en": "Wuhan University",
           "default": ""
         },
-        "count": 25,
+        "count": 26,
         "repositories": [
           {
             "genre": "thesis",
             "language": "latex",
-            "count": 15,
+            "count": 16,
             "links": [
               "https://github.com/0xf4vul/whuBSthesis",
+              "https://github.com/AaronComo/WHU-Bachelor-Thesis-Template",
               "https://github.com/Achhhe/WHUMaster-Latex-2021",
               "https://github.com/beanyoung/whu-master-thesis-template",
               "https://github.com/BenjaminHb/whu-thesis",
@@ -4709,7 +4711,7 @@
   {
     "region": "zht",
     "topic": "template",
-    "count": 46,
+    "count": 47,
     "templates": [
       {
         "name": {
@@ -4943,6 +4945,24 @@
       },
       {
         "name": {
+          "zh": "台湾中山大学（國立中山大學）",
+          "en": "National Sun Yat-sen University (NSYSU)",
+          "default": ""
+        },
+        "count": 1,
+        "repositories": [
+          {
+            "genre": "thesis",
+            "language": "latex",
+            "count": 1,
+            "links": [
+              "https://github.com/hasanabs/nsysu-thesis-latex-template"
+            ]
+          }
+        ]
+      },
+      {
+        "name": {
           "zh": "台湾中正大学（國立中正大學）",
           "en": "National Chung Cheng University (CCU)",
           "default": ""
@@ -5079,7 +5099,7 @@
   {
     "region": "eng",
     "topic": "template",
-    "count": 109,
+    "count": 110,
     "templates": [
       {
         "name": {
@@ -5838,6 +5858,24 @@
             "count": 1,
             "links": [
               "https://github.com/STOM-Group/USF-Beamer-Template"
+            ]
+          }
+        ]
+      },
+      {
+        "name": {
+          "zh": "（美国）南加州大学",
+          "en": "University of Southern California",
+          "default": ""
+        },
+        "count": 1,
+        "repositories": [
+          {
+            "genre": "thesis",
+            "language": "latex",
+            "count": 1,
+            "links": [
+              "https://github.com/cardi/USCthesis"
             ]
           }
         ]
@@ -7510,7 +7548,7 @@
   {
     "region": "etc",
     "topic": "template",
-    "count": 96,
+    "count": 97,
     "templates": [
       {
         "name": {
@@ -8941,13 +8979,31 @@
             ]
           }
         ]
+      },
+      {
+        "name": {
+          "zh": "（智利）智利天主教大学",
+          "en": "Pontifical Catholic University of Chile",
+          "default": "Pontificia Universidad Católica de Chile"
+        },
+        "count": 1,
+        "repositories": [
+          {
+            "genre": "thesis",
+            "language": "latex",
+            "count": 1,
+            "links": [
+              "https://github.com/open-source-uc/latex-templates"
+            ]
+          }
+        ]
       }
     ]
   },
   {
     "region": "commons",
     "topic": "template",
-    "count": 305,
+    "count": 316,
     "templates": [
       {
         "name": {
@@ -8955,7 +9011,7 @@
           "en": "Common Templates",
           "default": ""
         },
-        "count": 305,
+        "count": 316,
         "repositories": [
           {
             "genre": "thesis",
@@ -9039,7 +9095,7 @@
           {
             "genre": "presentation",
             "language": "latex",
-            "count": 19,
+            "count": 20,
             "links": [
               "https://github.com/gshstexsociety/gshs-format",
               "https://github.com/jasonbian97/Academic-Report-Beamer-Template",
@@ -9055,6 +9111,7 @@
               "https://github.com/pm25/SimplePlus-BeamerTheme",
               "https://github.com/pmichaillat/latex-presentation",
               "https://github.com/rafaelbailo/betterposter-latex-template",
+              "https://github.com/sdesch/minimalist-beamer-latex",
               "https://github.com/SunYanCN/Latex-Beamer-Template",
               "https://github.com/Urinx/LaTeX-PPT-Template",
               "https://github.com/wisdomfusion/latex-beamer-teamplates",
@@ -9111,7 +9168,7 @@
           {
             "genre": "resume",
             "language": "latex",
-            "count": 58,
+            "count": 59,
             "links": [
               "https://github.com/abrandenberger/academic-resume",
               "https://github.com/AdaCoding123/Resume",
@@ -9143,6 +9200,7 @@
               "https://github.com/huajh/awesome-latex-cv",
               "https://github.com/jakegut/resume",
               "https://github.com/jankapunkt/latexcv",
+              "https://github.com/janvorisek/minimal-latex-cv",
               "https://github.com/JesperDramsch/latex-cv-boosted",
               "https://github.com/leouieda/cv",
               "https://github.com/liweitianux/resume",
@@ -9232,7 +9290,7 @@
           {
             "genre": "book",
             "language": "latex",
-            "count": 11,
+            "count": 12,
             "links": [
               "https://github.com/academic-templates/tex-book-template",
               "https://github.com/andy123t/zhbook",
@@ -9240,6 +9298,7 @@
               "https://github.com/chianjin/zhvt-classic",
               "https://github.com/ElegantLaTeX/ElegantBook",
               "https://github.com/fmarotta/kaobook",
+              "https://github.com/langsci/langscibook",
               "https://github.com/maximelucas/AMCOS_booklet",
               "https://github.com/mohuangrui/latexspine",
               "https://github.com/qyxf/qyxf-book",
@@ -9250,7 +9309,7 @@
           {
             "genre": "other",
             "language": "latex",
-            "count": 57,
+            "count": 64,
             "links": [
               "https://github.com/alexeyabel/latex-briefvorlage-din-5008",
               "https://github.com/alexmingzhang/amznotes",
@@ -9259,6 +9318,7 @@
               "https://github.com/annProg/PanBook",
               "https://github.com/artemmavrin/latex-homework",
               "https://github.com/benyamxn/persian-latex",
+              "https://github.com/bimalka98/LaTeX-Templates",
               "https://github.com/bruvellu/mestre-em-latex",
               "https://github.com/catppuccin/latex",
               "https://github.com/deedy/Latex-Templates",
@@ -9273,10 +9333,13 @@
               "https://github.com/itonik/spbu_diploma",
               "https://github.com/janmattfeld/latex-briefvorlage",
               "https://github.com/jmrplens/TFG-TFM_EPS",
+              "https://github.com/jstrieb/homework-template",
+              "https://github.com/kimushun1101/platex-vscode-template",
               "https://github.com/KITrobotics/Latex_Template",
               "https://github.com/klb2/review-response-template",
               "https://github.com/kylebutts/latex-templates",
               "https://github.com/leungll/ByteDance-Letter-Template",
+              "https://github.com/LucaJiang/LaTeX4VSCode",
               "https://github.com/lukas-blecher/LaTeX-OCR",
               "https://github.com/MartinThoma/LaTeX-examples",
               "https://github.com/MatNoble/LaTeX-Document",
@@ -9290,12 +9353,15 @@
               "https://github.com/olegrgv/ml-msc-template",
               "https://github.com/opieters/business-card",
               "https://github.com/personqianduixue/Math_Model",
+              "https://github.com/Pseudomanifold/latex-mimore",
               "https://github.com/quantum-journal/quantum-journal",
               "https://github.com/rorygregson/OSCOLA-LaTeX-Template",
               "https://github.com/rossmacarthur/latex-templates",
               "https://github.com/rpgtex/DND-5e-LaTeX-Template",
               "https://github.com/rudymatela/concise-cheat-sheets",
+              "https://github.com/ryscheng/paper-template",
               "https://github.com/schuler-henry/dhbw-latex-template",
+              "https://github.com/ShenZhouHong/latex-essay",
               "https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents",
               "https://github.com/sleepymalc/LaTeX-Template",
               "https://github.com/synercys/annotated_latex_equations",
@@ -9343,7 +9409,7 @@
           {
             "genre": "other",
             "language": "other",
-            "count": 34,
+            "count": 35,
             "links": [
               "https://github.com/academic-templates/tex-course-index-template",
               "https://github.com/cooelf/PaperWritingTips",
@@ -9372,6 +9438,7 @@
               "https://github.com/sparks-baird/auto-paper",
               "https://github.com/store2be/pape-rs",
               "https://github.com/SYSUSELab/academic-writing-guide",
+              "https://github.com/t-makaro/nb_pdf_template",
               "https://github.com/the-ccsn/china-university-thesis-index",
               "https://github.com/wklchris/Note-by-LaTeX",
               "https://github.com/Wookai/paper-tips-and-tricks",
