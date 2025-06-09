@@ -9003,7 +9003,7 @@
   {
     "region": "commons",
     "topic": "template",
-    "count": 316,
+    "count": 323,
     "templates": [
       {
         "name": {
@@ -9011,7 +9011,7 @@
           "en": "Common Templates",
           "default": ""
         },
-        "count": 316,
+        "count": 323,
         "repositories": [
           {
             "genre": "thesis",
@@ -9168,7 +9168,7 @@
           {
             "genre": "resume",
             "language": "latex",
-            "count": 59,
+            "count": 60,
             "links": [
               "https://github.com/abrandenberger/academic-resume",
               "https://github.com/AdaCoding123/Resume",
@@ -9213,13 +9213,14 @@
               "https://github.com/MuhammedBuyukkinaci/Data-Scientist-LaTeX-Resume-with-Photo",
               "https://github.com/opieters/limecv",
               "https://github.com/posquit0/Awesome-CV",
+              "https://github.com/ppresume/community",
               "https://github.com/Pseudomanifold/latex-cv",
               "https://github.com/qwhxm/1.5-column-cv",
               "https://github.com/ravijo/Awesome-CV",
               "https://github.com/Roald87/xelatex-cv-roald",
+              "https://github.com/saadq/resumake.io",
               "https://github.com/saikat-roy/cv-clean",
               "https://github.com/salmanmaq/academic-cv-template",
-              "https://github.com/salomonelli/best-resume-ever",
               "https://github.com/sb2nov/resume",
               "https://github.com/sc932/resume",
               "https://github.com/seisman/cv",
@@ -9278,13 +9279,19 @@
           {
             "genre": "resume",
             "language": "other",
-            "count": 5,
+            "count": 11,
             "links": [
+              "https://github.com/AmruthPillai/Reactive-Resume",
+              "https://github.com/Arman19941113/dnd-resume",
               "https://github.com/dyweb/awesome-resume-for-chinese",
               "https://github.com/HugoBlox/theme-academic-cv",
+              "https://github.com/idimetrix/cv",
               "https://github.com/IvanIsCoding/ResuLLMe",
               "https://github.com/ManiMozaffar/awesome-resumes",
-              "https://github.com/sadransh/awsome-list-of-cv-and-resume-templetes"
+              "https://github.com/sadransh/awsome-list-of-cv-and-resume-templetes",
+              "https://github.com/salomonelli/best-resume-ever",
+              "https://github.com/sauravhathi/atsresume",
+              "https://github.com/yamlresume/yamlresume"
             ]
           },
           {
