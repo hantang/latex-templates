@@ -1,26 +1,26 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/matze/mtheme,0,6609,852,2022-11-23, 
-1,通用模板,Common Templates,https://github.com/josephwright/beamer,0,1527,151,2025-06-03,NOASSERTION
-2,通用模板,Common Templates,https://github.com/martinbjeldbak/ultimate-beamer-theme-list,0,1508,125,2025-04-14, 
-3,上海交通大学,Shanghai Jiaotong University,https://github.com/sjtug/SJTUBeamer,0,657,70,2025-01-19,Apache-2.0
-4,通用模板,Common Templates,https://github.com/pcafrica/focus-beamertheme,0,521,44,2024-02-07,GPL-3.0
+0,通用模板,Common Templates,https://github.com/matze/mtheme,0,6625,854,2022-11-23, 
+1,通用模板,Common Templates,https://github.com/josephwright/beamer,0,1533,152,2025-06-20,NOASSERTION
+2,通用模板,Common Templates,https://github.com/martinbjeldbak/ultimate-beamer-theme-list,0,1520,125,2025-06-19, 
+3,上海交通大学,Shanghai Jiaotong University,https://github.com/sjtug/SJTUBeamer,0,663,70,2025-01-19,Apache-2.0
+4,通用模板,Common Templates,https://github.com/pcafrica/focus-beamertheme,0,523,44,2024-02-07,GPL-3.0
 5,清华大学,Tsinghua University,https://github.com/tuna/THU-Beamer-Theme,0,395,76,2020-12-11,LPPL-1.3c
-6,通用模板,Common Templates,https://github.com/Urinx/LaTeX-PPT-Template,0,391,119,2017-06-30,Apache-2.0
+6,通用模板,Common Templates,https://github.com/Urinx/LaTeX-PPT-Template,0,392,119,2017-06-30,Apache-2.0
 7,东南大学,Southeast University,https://github.com/TouchFishPioneer/SEU-Beamer-Slide,0,347,89,2021-10-15,GPL-3.0
 8,中国科学技术大学,University of Science and Technology of China,https://github.com/ustctug/ustcbeamer,0,307,65,2022-07-26,LPPL-1.3c
 9,通用模板,Common Templates,https://github.com/rafaelbailo/betterposter-latex-template,0,306,46,2019-09-02,GPL-3.0
 10,通用模板,Common Templates,https://github.com/XiangyunHuang/awesome-beamers,0,264,81,2023-09-01, 
 11,通用模板,Common Templates,https://github.com/SunYanCN/Latex-Beamer-Template,0,263,60,2022-11-29,MIT
-12,通用模板,Common Templates,https://github.com/piazzai/arguelles,0,235,19,2025-01-08,MIT
+12,通用模板,Common Templates,https://github.com/piazzai/arguelles,0,235,20,2025-01-08,MIT
 13,（德国）莱茵曼应用技术大学,RheinMain University of Applied Sciences*<br>(Hochschule RheinMain),https://github.com/benjamin-weiss/hsrmbeamertheme,0,227,64,2024-03-09, 
-14,通用模板,Common Templates,https://github.com/pmichaillat/latex-presentation,0,210,58,2025-05-28,MIT
+14,通用模板,Common Templates,https://github.com/pmichaillat/latex-presentation,0,216,59,2025-05-28,MIT
 15,通用模板,Common Templates,https://github.com/pm25/SimplePlus-BeamerTheme,0,206,24,2025-01-12,Unlicense
 16,（美国）斯坦福大学,Stanford University,https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template,0,186,71,2024-01-01, 
-17,四川大学,Sichuan University,https://github.com/FvNCCR228/SCU-Beamer-Theme,0,135,19,2024-11-07,LPPL-1.3c
+17,四川大学,Sichuan University,https://github.com/FvNCCR228/SCU-Beamer-Theme,0,137,19,2024-11-07,LPPL-1.3c
 18,大连理工大学,Dalian University of Technology,https://github.com/fuujiro/DLUT-Beamer-Slide-V2,0,87,22,2021-02-04,LPPL-1.3c
 19,清华大学,Tsinghua University,https://github.com/YangLaTeX/thubeamer,0,86,18,2023-11-27,LPPL-1.3c
-20,（比利时）安特卫普大学,University of Antwerp*<br>(Universiteit Antwerpen),https://github.com/nschloe/ua-beamer,0,75,22,2016-07-31,MIT
-21,通用模板,Common Templates,https://github.com/pm25/SimpleDarkBlue-BeamerTheme,0,74,13,2025-01-14,Unlicense
+20,通用模板,Common Templates,https://github.com/pm25/SimpleDarkBlue-BeamerTheme,0,76,13,2025-01-14,Unlicense
+21,（比利时）安特卫普大学,University of Antwerp*<br>(Universiteit Antwerpen),https://github.com/nschloe/ua-beamer,0,75,22,2016-07-31,MIT
 22,（英国）牛津大学,University of Oxford,https://github.com/gbaydin/oxford-poster,0,72,43,2023-03-31,MIT
 23,武汉大学,Wuhan University,https://github.com/hrtan99/WHU-Beamer,0,72,5,2023-11-01,LPPL-1.3c
 24,通用模板,Common Templates,https://github.com/gshstexsociety/gshs-format,0,64,14,2025-03-11,LPPL-1.3c
@@ -45,11 +45,11 @@
 43,（英国）剑桥大学,University of Cambridge,https://github.com/rjw57/cambridge-beamer,1,36,36,2019-04-04,MIT
 44,华中科技大学,Huazhong University of Science,https://github.com/MatNoble/HUSTMatNobleBeamer,0,36,5,2020-07-22, 
 45,兰州大学,Lanzhou University,https://github.com/yuhldr/SimpleBeamerLZU,0,35,7,2022-04-22, 
-46,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/yuehaowang/CUHK-Beamer-Template,0,31,15,2021-08-22, 
-47,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/teancake/latex-beamer-beihang,0,31,10,2021-09-13,MIT
-48,（奥地利）约翰内斯·开普勒大学,"Johannes Kepler University Linz, JKU*<br>(Johannes Kepler Universität Linz)",https://github.com/michaelroland/jku-templates-presentation-latex,0,31,8,2025-01-16,MPL-2.0
-49,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/Thysrael/GreenParkBeamerTheme,0,31,2,2025-03-31,CC-BY-4.0
-50,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzbeamer,0,29,8,2025-04-21, 
+46,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/Thysrael/GreenParkBeamerTheme,0,33,3,2025-03-31,CC-BY-4.0
+47,香港中文大学<br>（香港中文大學）,Chinese University of Hong Kong (CUHK),https://github.com/yuehaowang/CUHK-Beamer-Template,0,31,15,2021-08-22, 
+48,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/teancake/latex-beamer-beihang,0,31,10,2021-09-13,MIT
+49,（奥地利）约翰内斯·开普勒大学,"Johannes Kepler University Linz, JKU*<br>(Johannes Kepler Universität Linz)",https://github.com/michaelroland/jku-templates-presentation-latex,0,31,8,2025-01-16,MPL-2.0
+50,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzbeamer,0,30,8,2025-04-21, 
 51,（瑞士）巴塞尔大学,University of Basel*<br>(Universität Basel),https://github.com/ivangiangreco/basilea-beamer,0,28,15,2024-02-16,MIT
 52,通用模板,Common Templates,https://github.com/sdesch/minimalist-beamer-latex,0,28,4,2023-06-05, 
 53,（挪威）卑尔根大学,University of Bergen*<br>(Universitetet i Bergen),https://github.com/martinhelso/UiB,0,27,24,2020-09-01,MIT
@@ -81,9 +81,9 @@
 79,（瑞典）查尔姆斯理工大学,Chalmers University of Technology*<br>(Chalmers tekniska högskola),https://github.com/E2-PhD-Council/ThesisTemplate,0,17,15,2025-06-02,MIT
 80,吉林大学,Jilin University,https://github.com/GohUnTsuan/JLU-Beamer-Theme,0,17,4,2021-05-12,MIT
 81,合肥工业大学,HeFei University of Technology,https://github.com/sxhfut/Beamer-HFUT,0,16,3,2019-01-11, 
-82,华南师范大学,South China Normal University,https://github.com/Elitedj/SCNU_BeamerTemplate,0,15,4,2020-11-11, 
-83,重庆大学,Chongqing University,https://github.com/CQUtug/CQUBeamer,0,15,3,2018-05-07,MIT
-84,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/peng-yq/UCAS-Beamer-Theme,0,15,2,2024-10-12,MIT
+82,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/peng-yq/UCAS-Beamer-Theme,0,16,2,2024-10-12,MIT
+83,华南师范大学,South China Normal University,https://github.com/Elitedj/SCNU_BeamerTemplate,0,15,4,2020-11-11, 
+84,重庆大学,Chongqing University,https://github.com/CQUtug/CQUBeamer,0,15,3,2018-05-07,MIT
 85,（美国）休斯敦大学,University of Houston*<br>(University of Houston),https://github.com/cainmagi/UH-beamer-templates,0,14,6,2022-12-07,GPL-3.0
 86,南开大学,Nankai University,https://github.com/Hughshine/nku-beamer,0,14,1,2021-05-21, 
 87,浙江大学,Zhejiang University,https://github.com/pan2013e/ZJU-beamer-template,0,14,0,2022-05-19, 
@@ -139,14 +139,14 @@
 137,华中科技大学,Huazhong University of Science,https://github.com/latexstudio/HUST-Beamer-Theme,0,2,1,2022-10-21, 
 138,东南大学,Southeast University,https://github.com/njustwh2014/SEUBeamerTemplate,0,2,1,2019-09-24,GPL-3.0
 139,同济大学,Tongji University,https://github.com/Andeviking/PPT_Template,0,2,0,2024-04-05,MIT
-140,北京工业大学,Beijing University of Technology,https://github.com/bycore/bjut-beamer,0,2,0,2024-04-23, 
-141,上海科技大学,ShanghaiTech University,https://github.com/hist2/slide_template,0,2,0,2022-04-19, 
-142,南京林业大学,Nanjing Forestry University,https://github.com/jiangtengkexin/NJFU-Beamer-Theme,0,2,0,2024-01-10,MIT
-143,西安理工大学,Xi'an University of Technology,https://github.com/shincfk/latex-slide-template-with-beamer,0,2,0,2016-09-21, 
-144,华南理工大学,South China University of Technology,https://github.com/wanglh03/SCUT-Beamer-Theme,0,2,0,2022-12-11, 
-145,大连理工大学,Dalian University of Technology,https://github.com/zerlina0106/DLUT-Beamer,0,2,0,2022-08-21,MIT
-146,南京大学,Nanjing University,https://github.com/zlc2017/NJUBeamer,0,1,2,2023-05-22, 
-147,武汉大学,Wuhan University,https://github.com/FlorianTseng/WHU-Beamer,0,1,0,2025-03-21,MIT
+140,武汉大学,Wuhan University,https://github.com/FlorianTseng/WHU-Beamer,0,2,0,2025-03-21,MIT
+141,北京工业大学,Beijing University of Technology,https://github.com/bycore/bjut-beamer,0,2,0,2024-04-23, 
+142,上海科技大学,ShanghaiTech University,https://github.com/hist2/slide_template,0,2,0,2022-04-19, 
+143,南京林业大学,Nanjing Forestry University,https://github.com/jiangtengkexin/NJFU-Beamer-Theme,0,2,0,2024-01-10,MIT
+144,西安理工大学,Xi'an University of Technology,https://github.com/shincfk/latex-slide-template-with-beamer,0,2,0,2016-09-21, 
+145,华南理工大学,South China University of Technology,https://github.com/wanglh03/SCUT-Beamer-Theme,0,2,0,2022-12-11, 
+146,大连理工大学,Dalian University of Technology,https://github.com/zerlina0106/DLUT-Beamer,0,2,0,2022-08-21,MIT
+147,南京大学,Nanjing University,https://github.com/zlc2017/NJUBeamer,0,1,2,2023-05-22, 
 148,合肥工业大学,HeFei University of Technology,https://github.com/LaureatePoet/Beamer-HFUT-sxxy,0,1,0,2022-04-13, 
 149,浙大宁波理工学院,NingboTech University,https://github.com/Republic1024/NTUBeamer,0,1,0,2023-12-13, 
 150,西南石油大学,Southwest Petroleum University,https://github.com/befeng/swpu_beamer,0,1,0,2017-03-05, 
