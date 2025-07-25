@@ -1,10 +1,10 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1314,340,2024-01-02,MIT
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1321,340,2024-01-02,MIT
 1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,975,245,2025-03-06,MIT
-2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,676,149,2021-10-29, 
-3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,581,183,2025-02-10, 
-4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,535,71,2025-03-11,MIT
-5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,488,131,2025-03-15, 
+2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,678,149,2021-10-29, 
+3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,582,182,2025-02-10, 
+4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,537,71,2025-03-11,MIT
+5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,489,132,2025-03-15, 
 6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,445,192,2025-05-14,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,155,71,2022-09-14,GPL-3.0
 8,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,107,36,2025-04-24,0BSD
@@ -28,8 +28,8 @@
 26,通用模板,Common Templates,https://github.com/zshufan/UESTC_Lab_Report_LaTeX_Template,0,46,6,2019-08-02,LPPL-1.3c
 27,通用模板,Common Templates,https://github.com/Korogodin/NSLReport,0,43,8,2024-07-11,GPL-3.0
 28,浙江大学,Zhejiang University,https://github.com/longqianh/ZJU-experiment-report-template,0,33,6,2023-02-10,Apache-2.0
-29,通用模板,Common Templates,https://github.com/Chen-Jialin/Assignment-Template,0,31,5,2024-10-06,MIT
-30,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,30,3,2025-07-06,CC0-1.0
+29,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,32,2,2025-07-06,CC0-1.0
+30,通用模板,Common Templates,https://github.com/Chen-Jialin/Assignment-Template,0,31,5,2024-10-06,MIT
 31,东南大学,Southeast University,https://github.com/Teddy-van-Jerry/SEU-ML-Assign_LaTeX_Template,0,29,3,2022-04-15,MIT
 32,通用模板,Common Templates,https://github.com/dpmj/alcazar,0,25,7,2025-02-09,NOASSERTION
 33,（挪威）奥斯陆大学,University of Oslo*<br>(Universitetet i Oslo),https://github.com/uio-latex/mnfrontpage,0,25,3,2020-09-01,MIT
