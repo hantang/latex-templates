@@ -1,13 +1,13 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1385,351,2024-01-02,MIT
-1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,987,249,2025-03-06,MIT
-2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,695,151,2021-10-29, 
-3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,604,187,2025-02-10, 
-4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,575,76,2025-03-11,MIT
-5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,533,141,2025-03-15, 
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1390,354,2024-01-02,MIT
+1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,992,249,2025-03-06,MIT
+2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,699,151,2021-10-29, 
+3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,606,187,2025-11-05, 
+4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,578,77,2025-03-11,MIT
+5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,536,142,2025-03-15, 
 6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,455,195,2025-05-14,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,158,70,2022-09-14,GPL-3.0
-8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,126,7,2025-10-31,MIT
+8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,128,7,2025-10-31,MIT
 9,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,112,37,2025-10-27,0BSD
 10,西安电子科技大学,Xidian University,https://github.com/note286/xdupgtp,0,109,8,2022-03-18,LPPL-1.3c
 11,国防科技大学,National Defense University of Science and Technology,https://github.com/TomHeaven/nudtproposal,0,105,36,2024-04-18, 
@@ -27,7 +27,7 @@
 25,通用模板,Common Templates,https://github.com/zshufan/UESTC_Lab_Report_LaTeX_Template,0,48,6,2019-08-02,LPPL-1.3c
 26,通用模板,Common Templates,https://github.com/Korogodin/NSLReport,0,47,9,2024-07-11,GPL-3.0
 27,通用模板,Common Templates,https://github.com/AravindVasudev/Statement-of-Purpose,0,44,12,2018-12-25,MIT
-28,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,35,3,2025-11-05,CC0-1.0
+28,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,35,3,2025-11-10,CC0-1.0
 29,浙江大学,Zhejiang University,https://github.com/longqianh/ZJU-experiment-report-template,0,33,6,2023-02-10,Apache-2.0
 30,通用模板,Common Templates,https://github.com/Chen-Jialin/Assignment-Template,0,32,5,2024-10-06,MIT
 31,通用模板,Common Templates,https://github.com/dpmj/alcazar,0,31,7,2025-08-15,NOASSERTION
@@ -39,9 +39,9 @@
 37,通用模板,Common Templates,https://github.com/ddddavid-he/LaTeXTemplate_ActaPhysicaSinica,0,23,4,2023-01-21,MIT
 38,中山大学,Sun Yat-sen University,https://github.com/huanyushi/SYSU-SPA-Labreport-Template,0,23,3,2025-05-12,MIT
 39,南京大学,Nanjing University,https://github.com/nju-lug/NJURepo,0,22,7,2021-12-18, 
-40,通用模板,Common Templates,https://github.com/NN708/SimpleLabReport,0,20,3,2023-04-24,MIT
-41,武汉大学,Wuhan University,https://github.com/whutug/whu-proposal,0,20,1,2024-12-04,LPPL-1.3c
-42,电子科技大学,University of Electronic Science and Technology of China,https://github.com/404-NOTFOUND-Coder/UESTC--report--template,0,20,0,2025-04-19, 
+40,电子科技大学,University of Electronic Science and Technology of China,https://github.com/404-NOTFOUND-Coder/UESTC--report--template,0,21,0,2025-04-19, 
+41,通用模板,Common Templates,https://github.com/NN708/SimpleLabReport,0,20,3,2023-04-24,MIT
+42,武汉大学,Wuhan University,https://github.com/whutug/whu-proposal,0,20,2,2024-12-04,LPPL-1.3c
 43,衡阳师范大学,Heng Yang Normal University,https://github.com/wvqusrai/hnu_exam,0,18,8,2025-06-15, 
 44,浙江大学,Zhejiang University,https://github.com/corenel/ZJUProposal,0,18,5,2017-06-29,GPL-3.0
 45,湖南大学,Hunan University,https://github.com/zcyeee/HNU_LaTeX_Template,0,16,0,2024-07-14,LPPL-1.3c
