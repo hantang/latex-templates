@@ -22,21 +22,22 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PYTHON_VERSION: 3.x
-      USER: hantang
-      REPO: latex-data
+      USER: ${{ github.repository_owner }}
+      # REPO_NAME: ${{ github.event.repository.name }}
+      REPO: ${{ secrets.REPO }}
 
     steps:
       - name: Checkout site
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Checkout data
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: ${{ env.USER }}/${{ env.REPO }}
           token: ${{ secrets.GH_TOKEN }}
           path: ${{ env.REPO }}
           fetch-depth: 1
           ref: ${{ github.ref }}
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: Install Python dependencies
@@ -45,7 +46,7 @@ jobs:
         run: bash ${{ env.REPO }}/deploy.sh ${{ env.REPO }}
 
       - name: Git auto commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
@@ -56,9 +57,9 @@ jobs:
           file_pattern: "README*.md data/"
 
       - name: Setup pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: site
       - name: Deploy to GitHub pages
