@@ -1,19 +1,19 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1402,359,2024-01-02,MIT
-1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,996,249,2025-03-06,MIT
-2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,702,152,2021-10-29, 
-3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,608,187,2025-11-05, 
-4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,588,78,2025-03-11,MIT
-5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,554,145,2025-11-24, 
-6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,456,196,2025-05-14,MIT
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1410,361,2024-01-02,MIT
+1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,999,250,2025-03-06,MIT
+2,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,706,152,2021-10-29, 
+3,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,607,187,2025-11-05, 
+4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,598,80,2025-03-11,MIT
+5,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,563,150,2025-11-24, 
+6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,457,196,2025-05-14,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,158,70,2022-09-14,GPL-3.0
-8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,133,8,2025-10-31,MIT
-9,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,112,37,2025-12-01,0BSD
+8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,136,8,2025-10-31,MIT
+9,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,112,37,2025-12-10,0BSD
 10,西安电子科技大学,Xidian University,https://github.com/note286/xdupgtp,0,112,8,2022-03-18,LPPL-1.3c
 11,浙江大学,Zhejiang University,https://github.com/megrxu/zjureport,0,106,36,2023-03-08,LPPL-1.3c
 12,国防科技大学,National Defense University of Science and Technology,https://github.com/TomHeaven/nudtproposal,0,105,36,2024-04-18, 
 13,通用模板,Common Templates,https://github.com/ruohoruotsi/latex-template-arxiv-preprint,0,95,24,2017-11-29,MIT
-14,通用模板,Common Templates,https://github.com/quarto-journals/article-format-template,0,84,19,2025-04-17,MIT
+14,通用模板,Common Templates,https://github.com/quarto-journals/article-format-template,0,85,19,2025-04-17,MIT
 15,同济大学,Tongji University,https://github.com/TJ-CSCCG/tongji-recommendation-template,0,80,5,2023-11-15,LPPL-1.3c
 16,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/jweihe/UCAS_Latex_Template,0,73,7,2023-06-07, 
 17,通用模板,Common Templates,https://github.com/cdc08x/letter-2-reviewers-LaTeX-template,0,69,24,2025-03-07,GPL-3.0
@@ -65,6 +65,6 @@
 63,山东大学,Shandong University,https://github.com/Smera1d0/SDU-LaTeX-Template,0,3,1,2024-11-22,MIT
 64,深圳大学,Shenzhen University,https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module,0,3,1,2025-03-11, 
 65,北京林业大学,Beijing Forestry University,https://github.com/Bloomberg2000/BJFUThesis-outstanding,0,2,1,2021-06-18, 
-66,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzexam,0,1,0,2024-12-19, 
+66,浙江传媒学院,Communication University of Zhejiang,https://github.com/xiehao/cuzexam,0,1,0,2025-12-09, 
 67,（新西兰）奥克兰大学,University of Auckland,https://github.com/Uni-tato/latex-report-template,0,0,0,2023-05-24, 
 68,内蒙古大学,Inner Mongolia University,https://github.com/lhxone/IMU_thesis,0,0,0,2023-01-17,MIT
