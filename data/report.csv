@@ -1,22 +1,22 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1436,363,2024-01-02,MIT
-1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,1012,253,2025-03-06,MIT
-2,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,767,207,2026-01-15, 
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1439,364,2024-01-02,MIT
+1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,1012,253,2026-01-24,MIT
+2,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,877,228,2026-01-24, 
 3,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,712,153,2021-10-29, 
-4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,674,85,2026-01-14,MIT
-5,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,607,187,2025-11-05, 
-6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,465,196,2025-05-14,MIT
+4,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,710,87,2026-01-25,MIT
+5,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,609,187,2026-01-23, 
+6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,466,196,2025-05-14,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,158,71,2022-09-14,GPL-3.0
-8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,150,9,2025-12-29,MIT
+8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,152,9,2025-12-29,MIT
 9,西安电子科技大学,Xidian University,https://github.com/note286/xdupgtp,0,119,10,2022-03-18,LPPL-1.3c
-10,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,114,36,2025-12-23,0BSD
+10,通用模板,Common Templates,https://github.com/latextemplates/ieee-enhanced,0,112,35,2025-12-23,0BSD
 11,国防科技大学,National Defense University of Science and Technology,https://github.com/TomHeaven/nudtproposal,0,107,37,2024-04-18, 
 12,浙江大学,Zhejiang University,https://github.com/megrxu/zjureport,0,106,36,2023-03-08,LPPL-1.3c
 13,通用模板,Common Templates,https://github.com/ruohoruotsi/latex-template-arxiv-preprint,0,96,25,2017-11-29,MIT
 14,通用模板,Common Templates,https://github.com/quarto-journals/article-format-template,0,85,19,2025-04-17,MIT
 15,同济大学,Tongji University,https://github.com/TJ-CSCCG/tongji-recommendation-template,0,81,5,2023-11-15,LPPL-1.3c
 16,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/jweihe/UCAS_Latex_Template,0,76,8,2023-06-07, 
-17,通用模板,Common Templates,https://github.com/cdc08x/letter-2-reviewers-LaTeX-template,0,70,24,2026-01-02,GPL-3.0
+17,通用模板,Common Templates,https://github.com/cdc08x/letter-2-reviewers-LaTeX-template,0,71,24,2026-01-19,GPL-3.0
 18,通用模板,Common Templates,https://github.com/stoufa/ISI-LaTeX-Template,0,63,32,2020-06-14, 
 19,华北理工大学,North China University of Science and Technology,https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart,0,58,18,2021-02-07,GPL-3.0
 20,（美国）麻省理工学院,Massachusetts Institute of Technology (MIT),https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template,0,57,41,2024-01-30,MIT
@@ -29,7 +29,7 @@
 27,通用模板,Common Templates,https://github.com/zshufan/UESTC_Lab_Report_LaTeX_Template,0,47,6,2019-08-02,LPPL-1.3c
 28,中山大学,Sun Yat-sen University,https://github.com/NorthSecond/SYSU_Latex_Template,0,38,3,2024-09-26,NOASSERTION
 29,通用模板,Common Templates,https://github.com/dpmj/alcazar,0,36,7,2025-08-15,NOASSERTION
-30,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,35,3,2026-01-04,CC0-1.0
+30,通用模板,Common Templates,https://github.com/MBerkayHamurcu/VSCTeX,0,36,3,2026-01-04,CC0-1.0
 31,浙江大学,Zhejiang University,https://github.com/longqianh/ZJU-experiment-report-template,0,34,6,2023-02-10,Apache-2.0
 32,通用模板,Common Templates,https://github.com/Chen-Jialin/Assignment-Template,0,33,5,2024-10-06,MIT
 33,东南大学,Southeast University,https://github.com/Teddy-van-Jerry/SEU-ML-Assign_LaTeX_Template,0,31,2,2022-04-15,MIT
