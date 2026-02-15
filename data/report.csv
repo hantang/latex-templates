@@ -1,10 +1,10 @@
 序号,中文名,外文名,GitHub仓库,已归档,Star数,Fork数,更新时间,许可证
-0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1449,365,2024-01-02,MIT
-1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,1019,254,2026-01-24,MIT
-2,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,963,251,2026-02-01, 
-3,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,752,92,2026-02-04,MIT
-4,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,712,153,2021-10-29, 
-5,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,610,187,2026-01-23, 
+0,通用模板,Common Templates,https://github.com/kourgeorge/arxiv-style,0,1451,366,2024-01-02,MIT
+1,国家自然科学基金,National Natural Science Foundation of China,https://github.com/fylimas/nsfc,0,1023,262,2026-02-10, 
+2,国家自然科学基金,National Natural Science Foundation of China,https://github.com/Ruzim/NSFC-application-template-latex,0,1022,255,2026-01-24,MIT
+3,国家自然科学基金,National Natural Science Foundation of China,https://github.com/huangwb8/ChineseResearchLaTeX,0,786,100,2026-02-14,MIT
+4,中国科学院大学,University of Chinese Academy of Sciences,https://github.com/mohuangrui/ucasproposal,0,713,153,2021-10-29, 
+5,通用模板,Common Templates,https://github.com/apoorvkh/cvpr-latex-template,0,611,187,2026-01-23, 
 6,国家自然科学基金,National Natural Science Foundation of China,https://github.com/YimianDai/iNSFC,0,467,197,2025-05-14,MIT
 7,通用模板,Common Templates,https://github.com/jpeisenbarth/SRS-Tex,0,158,71,2022-09-14,GPL-3.0
 8,上海交通大学,Shanghai Jiaotong University,https://github.com/NemoYuan2008/SJTU-Thesis-Proposal,0,156,10,2026-01-25,MIT
@@ -53,7 +53,7 @@
 51,通用模板,Common Templates,https://github.com/sabirdvd/LaTeX-template-for-UPC-thesis-,0,9,9,2024-10-17, 
 52,西北工业大学,Northwestern Polytechnical University,https://github.com/NPUSCG/npu-dissertation-proposal,0,9,7,2022-06-04, 
 53,西北工业大学,Northwestern Polytechnical University,https://github.com/zzhang1987/NPUResearchProposal,0,9,6,2015-07-23, 
-54,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/GFCYqw/Fengrubei_LaTeX_Template,0,7,1,2025-11-22,LPPL-1.3c
+54,北京航空航天大学,"Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",https://github.com/GFCYqw/Fengrubei_LaTeX_Template,0,9,1,2025-11-22,LPPL-1.3c
 55,武汉大学,Wuhan University,https://github.com/flyQQQHddd/temp-of-report,0,7,0,2024-09-18, 
 56,通用模板,Common Templates,https://github.com/geraked/template-report,0,6,1,2022-07-22,MIT
 57,通用模板,Common Templates,https://github.com/marcocrowe/thesis-templates,0,6,0,2024-09-23, 
