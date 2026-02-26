@@ -1,4 +1,4 @@
-name: Deploy Wiki
+name: Deploy Site
 
 on:
   # push:
@@ -29,6 +29,7 @@ jobs:
     steps:
       - name: Checkout site
         uses: actions/checkout@v6
+
       - name: Checkout data
         uses: actions/checkout@v6
         with:
@@ -37,24 +38,13 @@ jobs:
           path: ${{ env.REPO }}
           fetch-depth: 1
           ref: ${{ github.ref }}
+
       - uses: actions/setup-python@v6
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-      - name: Build
-        run: bash ${{ env.REPO }}/deploy.sh ${{ env.REPO }}
 
-      - name: Git auto commit
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-          commit_message: Automated update by github action
-          # commit_options: '--no-verify --signoff'
-          push_options: "--force"
-          file_pattern: "README*.md data/"
+      - name: Build Site
+        run: cd ${{ env.REPO }} && bash deploy.sh data/data.json
 
       - name: Setup pages
         uses: actions/configure-pages@v5
