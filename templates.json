@@ -9874,7 +9874,7 @@
       "en": "Common Templates",
       "raw": ""
     },
-    "total": 168,
+    "total": 172,
     "repositories": [
       {
         "genre": "thesis",
@@ -9948,7 +9948,7 @@
       {
         "genre": "paper",
         "language": "latex",
-        "count": 38,
+        "count": 41,
         "links": [
           "https://github.com/01Zhangbw/Paper-Template",
           "https://github.com/AASJournals/AASTeX60",
@@ -9962,9 +9962,11 @@
           "https://github.com/DanySK/Template-LaTeX-IEEE-Conference-Proceedings",
           "https://github.com/devinberg/ASEE-Conferences-Latex-Template",
           "https://github.com/dpmj/alcazar",
+          "https://github.com/ElegantLaTeX/ElegantPaper",
           "https://github.com/GeometryCollective/paper-template",
           "https://github.com/guicho271828/aaai-template",
           "https://github.com/Htallone/AAAS",
+          "https://github.com/jdily/all_conf_template",
           "https://github.com/jdujava/TeXtured",
           "https://github.com/jorgepiloto/escriba",
           "https://github.com/jpeisenbarth/SRS-Tex",
@@ -9977,6 +9979,7 @@
           "https://github.com/latextemplates/lncs-enhanced",
           "https://github.com/MohamedKari/acm-paper-template",
           "https://github.com/monetjoe/latex_paper_templates",
+          "https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart",
           "https://github.com/parnec/Paper-Template",
           "https://github.com/Passer-montanus/AAS_Template_LaTeX",
           "https://github.com/petersheridandodds/universal-paper-template",
@@ -10003,7 +10006,7 @@
       {
         "genre": "report",
         "language": "latex",
-        "count": 14,
+        "count": 15,
         "links": [
           "https://github.com/AravindVasudev/Statement-of-Purpose",
           "https://github.com/bernardparent/TEXCLASS",
@@ -10018,7 +10021,8 @@
           "https://github.com/labordynamicsinstitute/paper-template",
           "https://github.com/MBerkayHamurcu/VSCTeX",
           "https://github.com/NN708/SimpleLabReport",
-          "https://github.com/quarto-journals/article-format-template"
+          "https://github.com/quarto-journals/article-format-template",
+          "https://github.com/rashidtalha/latex-templates"
         ]
       },
       {
