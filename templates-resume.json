@@ -5,7 +5,7 @@
       "en": "Résumé/CV Templates",
       "raw": ""
     },
-    "total": 139,
+    "total": 142,
     "repositories": [
       {
         "genre": "resume",
@@ -138,13 +138,14 @@
       {
         "genre": "resume",
         "language": "web",
-        "count": 30,
+        "count": 33,
         "links": [
           "https://github.com/afnizarnur/draco",
           "https://github.com/amitmishrg/code-resume",
           "https://github.com/amruthpillai/reactive-resume",
           "https://github.com/Arman19941113/dnd-resume",
           "https://github.com/bedimcode/responsive-resume-cv-smith",
+          "https://github.com/blackode/online-resume",
           "https://github.com/claudiabdm/cvfy",
           "https://github.com/crispgm/resume",
           "https://github.com/HugoBlox/hugo-theme-academic-cv",
@@ -155,12 +156,14 @@
           "https://github.com/kaustubhai/portfolio-template",
           "https://github.com/ltlylfun/ResumeToJob",
           "https://github.com/manerfan/vuesume",
+          "https://github.com/maqi1520/next-resume",
           "https://github.com/mmacneil/devfolio",
           "https://github.com/nordicgiant2/react-nice-resume",
           "https://github.com/ryanbalieiro/react-portfolio-template",
           "https://github.com/RylanBot/resume-json-pdf",
           "https://github.com/salomonelli/best-resume-ever",
           "https://github.com/sauravhathi/atsresume",
+          "https://github.com/sneas/cv-template",
           "https://github.com/sproogen/modern-resume-theme",
           "https://github.com/sramezani/resume-builder",
           "https://github.com/Stavrospanakakis/jekyll-cv",
