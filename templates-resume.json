@@ -5,12 +5,12 @@
       "en": "Résumé/CV Templates",
       "raw": ""
     },
-    "total": 142,
+    "total": 143,
     "repositories": [
       {
         "genre": "resume",
         "language": "latex",
-        "count": 60,
+        "count": 61,
         "links": [
           "https://github.com/abrandenberger/academic-resume",
           "https://github.com/AdaCoding123/Resume",
@@ -56,6 +56,7 @@
           "https://github.com/posquit0/Awesome-CV",
           "https://github.com/ppresume/community",
           "https://github.com/Pseudomanifold/latex-cv",
+          "https://github.com/qbai99/EasyResumeTex",
           "https://github.com/qwhxm/1.5-column-cv",
           "https://github.com/ravijo/Awesome-CV",
           "https://github.com/Roald87/xelatex-cv-roald",
