@@ -3186,19 +3186,18 @@
       "en": "Soochow University",
       "raw": ""
     },
-    "total": 8,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 7,
+        "count": 6,
         "links": [
           "https://github.com/absop/LaTeX-Template",
           "https://github.com/hinesboy/SUDA-Latex",
           "https://github.com/huhamhire/sudathesis",
           "https://github.com/NatureGeorge/sudathesis-bachelor",
           "https://github.com/rgwt123/sudathesis",
-          "https://github.com/shadowofgost/sudathesis-soochow-university-latex-template",
           "https://github.com/tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template"
         ]
       },
