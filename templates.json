@@ -1686,7 +1686,7 @@
           "https://github.com/Haskely/ECNUMasterThesisLatexTemplate",
           "https://github.com/Jarvis-K/ECNU_Latex_Template",
           "https://github.com/jtchen2k/modern-ecnu-thesis",
-          "https://github.com/Koyamin/ECNUThesis",
+          "https://github.com/Koyamin/ecnuthesis",
           "https://github.com/myzmh/ECNU-MASTER-S-DISSERTATION-",
           "https://github.com/programokey/ECNUUndergraduateDissertationTemplate",
           "https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022",
@@ -3285,7 +3285,7 @@
           "https://github.com/NotoOotori/tjuthesis",
           "https://github.com/SXKDZ/tongjithesis",
           "https://github.com/TJ-CSCCG/Tongji-Beamer",
-          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis",
+          "https://github.com/TJ-CSCCG/TongjiThesis",
           "https://github.com/wyqy/TongjiThesis_Proto",
           "https://github.com/yanjyeli/TONGJITHESIS"
         ]
@@ -3817,7 +3817,7 @@
         "language": "latex",
         "count": 2,
         "links": [
-          "https://github.com/Denkiyohou/SWJTU_Slides_Template",
+          "https://github.com/Solar-WU/SWJTU_Slides_Template",
           "https://github.com/swjtutug/swjtubeamer"
         ]
       }
