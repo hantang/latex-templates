@@ -29,11 +29,20 @@ jobs:
       - name: Checkout site
         uses: actions/checkout@v6
 
+      - name: Generate Token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: ${{ env.REPO }}
+
       - name: Checkout data
         uses: actions/checkout@v6
         with:
           repository: ${{ env.USER }}/${{ env.REPO }}
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ steps.app-token.outputs.token }}
           path: ${{ env.REPO }}
           fetch-depth: 1
           ref: ${{ github.ref }}
@@ -46,11 +55,11 @@ jobs:
         run: cd ${{ env.REPO }} && bash deploy.sh data/data.json
 
       - name: Setup pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: site
       - name: Deploy to GitHub pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
