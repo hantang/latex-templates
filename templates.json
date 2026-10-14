@@ -395,12 +395,12 @@
       "en": "Beijing University of Posts and Telecommunications",
       "raw": ""
     },
-    "total": 12,
+    "total": 11,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 10,
+        "count": 9,
         "links": [
           "https://github.com/baggiorio18/BUPTGraduateThesis",
           "https://github.com/houluy/bupTemplate",
@@ -410,8 +410,7 @@
           "https://github.com/rioxwang/BUPTGraduateThesis",
           "https://github.com/sheng-qiang/BUPTBachelorThesis",
           "https://github.com/way-zer/BUPTBachelorThesis",
-          "https://github.com/wugh/bupt-thesis-bachelor",
-          "https://github.com/yangze01/BUPT-Master-Graduation-Thesis"
+          "https://github.com/wugh/bupt-thesis-bachelor"
         ]
       },
       {
@@ -626,12 +625,12 @@
       "en": "Dalian University of Technology",
       "raw": ""
     },
-    "total": 17,
+    "total": 16,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 13,
+        "count": 12,
         "links": [
           "https://github.com/01xz/dlut-thesis",
           "https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master",
@@ -643,7 +642,6 @@
           "https://github.com/QuYue/The-XeLaTex-Template-of-Master-Degree-Thesis-of-DUT",
           "https://github.com/Saltsmart/DUT-master-thesis",
           "https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
-          "https://github.com/wendy2003888/DLUT_XeLatex_TemplateForBachelor",
           "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Doctor",
           "https://github.com/whufanwei/DLUT_XeLaTeX_Template_for_Maste"
         ]
@@ -661,8 +659,8 @@
         "language": "latex",
         "count": 3,
         "links": [
-          "https://github.com/fuujiro/DLUT-Beamer-Slide-V1",
-          "https://github.com/fuujiro/DLUT-Beamer-Slide-V2",
+          "https://github.com/iamjarryfeng/DLUT-Beamer-Slide-V1",
+          "https://github.com/iamjarryfeng/DLUT-Beamer-Slide-V2",
           "https://github.com/lupengz/DLUT-Beamer"
         ]
       }
@@ -1237,7 +1235,7 @@
       "en": "Harbin Institute of Technology",
       "raw": ""
     },
-    "total": 17,
+    "total": 10,
     "repositories": [
       {
         "genre": "thesis",
@@ -1262,33 +1260,12 @@
         ]
       },
       {
-        "genre": "report",
-        "language": "latex",
-        "count": 3,
-        "links": [
-          "https://github.com/RUSRUSHB/SUSTech_Letterhead_LaTeX",
-          "https://github.com/zhuhu00/SUSTech_hw_template",
-          "https://github.com/ziqin/LaTeX-SUSTechHomework"
-        ]
-      },
-      {
         "genre": "presentation",
         "language": "latex",
-        "count": 5,
+        "count": 2,
         "links": [
-          "https://github.com/liziwl/sustech-xiaosan-beamer",
           "https://github.com/RongquanHE/a-simple-unofficial-HIT-Latex-beamer-template",
-          "https://github.com/Sakuranetin/LaTeX-Beamer",
-          "https://github.com/SUSTC/sustech-slides",
-          "https://github.com/Tonanguyxiro/SUSTech-Slide-Template-LateX-EN"
-        ]
-      },
-      {
-        "genre": "presentation",
-        "language": "markdown",
-        "count": 1,
-        "links": [
-          "https://github.com/syw-robotics/sustech-academic-marp-theme"
+          "https://github.com/Sakuranetin/LaTeX-Beamer"
         ]
       }
     ]
@@ -1656,8 +1633,8 @@
           "https://github.com/dagnaf/ecust-bachelor-thesis-template",
           "https://github.com/fireflylyn/Ecust_Bachelor_LaTeX_Template",
           "https://github.com/hgkdzbf6/EcustThesis",
-          "https://github.com/lavandejoey/ECUSTThesisLatex",
           "https://github.com/liuqipei/ecust-template-latex",
+          "https://github.com/OrkaZeta/ECUSTThesisLatex",
           "https://github.com/scottoasis/ecustthesis",
           "https://github.com/wjsong365/ECUST_Thesis_LaTeX"
         ]
@@ -1888,7 +1865,7 @@
         "links": [
           "https://github.com/dartall/jluthesis",
           "https://github.com/geekifan/jluthesis",
-          "https://github.com/Herbert-Gao/JLU_Graduation_Model_Bachelor",
+          "https://github.com/Herbert-Gao/JLU_Bachelor_Template",
           "https://github.com/jiafeng5513/JLU_Dissertation",
           "https://github.com/jlshen025/JLUThesis",
           "https://github.com/lyjslay/JLU-EE-template",
@@ -2017,18 +1994,19 @@
       "en": "Lanzhou University",
       "raw": ""
     },
-    "total": 9,
+    "total": 10,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 7,
+        "count": 8,
         "links": [
           "https://github.com/CosmosLiang/LZUthesis",
           "https://github.com/JChrysanthemum/LZUThesis2020-PgD-PhD",
           "https://github.com/mosesnow/LZUthesis",
           "https://github.com/suchot/LZUThesis2017",
           "https://github.com/szsdk/LZUthesis",
+          "https://github.com/xubios/lzu_latex_undergraduate-thesis-template",
           "https://github.com/yuhldr/LZUThesis2020",
           "https://github.com/zmx0142857/lzuthesis"
         ]
@@ -2104,7 +2082,7 @@
       "en": "Southern University of Science and Technology",
       "raw": ""
     },
-    "total": 9,
+    "total": 17,
     "repositories": [
       {
         "genre": "thesis",
@@ -2141,6 +2119,35 @@
         "count": 1,
         "links": [
           "https://github.com/jerrylususu/sustech-thesis-word"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "latex",
+        "count": 3,
+        "links": [
+          "https://github.com/RUSRUSHB/SUSTech_Letterhead_LaTeX",
+          "https://github.com/zhuhu00/SUSTech_hw_template",
+          "https://github.com/ziqin/LaTeX-SUSTechHomework"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "latex",
+        "count": 4,
+        "links": [
+          "https://github.com/liziwl/sustech-xiaosan-beamer",
+          "https://github.com/Spacebody/SUSTech-Defense-Slides",
+          "https://github.com/SUSTC/sustech-slides",
+          "https://github.com/Tonanguyxiro/SUSTech-Slide-Template-LateX-EN"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "markdown",
+        "count": 1,
+        "links": [
+          "https://github.com/syw-robotics/sustech-academic-marp-theme"
         ]
       }
     ]
@@ -2546,7 +2553,7 @@
         "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/chillcicada/tntt"
+          "https://github.com/tuna/thuthesis-typst"
         ]
       },
       {
@@ -2879,16 +2886,15 @@
       "en": "Shanghai Jiaotong University",
       "raw": ""
     },
-    "total": 14,
+    "total": 13,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 6,
+        "count": 5,
         "links": [
           "https://github.com/dyweb/SJTUThesis",
           "https://github.com/GreenTeaHua/sjtu_latex",
-          "https://github.com/JingruiYu/SJTU_Thesis_21",
           "https://github.com/sjtug/SJTUThesis",
           "https://github.com/ZepengW/Latex-PG-SJTU",
           "https://github.com/zhangzhanluo/SJTU-thesis-template"
@@ -3312,7 +3318,7 @@
         "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst"
+          "https://github.com/TJ-CSCCG/modern-tongji-thesis"
         ]
       }
     ]
@@ -3323,7 +3329,7 @@
       "en": "Wuhan University",
       "raw": ""
     },
-    "total": 26,
+    "total": 25,
     "repositories": [
       {
         "genre": "thesis",
@@ -3333,8 +3339,8 @@
           "https://github.com/0xf4vul/whuBSthesis",
           "https://github.com/AaronComo/WHU-Bachelor-Thesis-Template",
           "https://github.com/Achhhe/WHUMaster-Latex-2021",
-          "https://github.com/beanyoung/whu-master-thesis-template",
           "https://github.com/BenjaminHb/whu-thesis",
+          "https://github.com/chenyuanwai-com/whu-master-thesis-template",
           "https://github.com/csarron/bsThesisWHU",
           "https://github.com/HarborYuan/whucs-thesis",
           "https://github.com/iamywang/whu-thesis-latex-template",
@@ -3360,9 +3366,8 @@
       {
         "genre": "report",
         "language": "latex",
-        "count": 3,
+        "count": 2,
         "links": [
-          "https://github.com/flyQQQHddd/temp-of-report",
           "https://github.com/whutug/course-report",
           "https://github.com/whutug/whu-proposal"
         ]
@@ -3468,7 +3473,7 @@
         "language": "typst",
         "count": 2,
         "links": [
-          "https://github.com/CoderJackZhu/XDUthesis-Typst",
+          "https://github.com/CoderJackZhu/modern-xdu-thesis",
           "https://github.com/Hubert9982/typst_xdutemplate"
         ]
       },
@@ -4096,10 +4101,10 @@
           "https://github.com/huoyao/ZJUThesis",
           "https://github.com/junpeiz/ZJU-CS-Undergrad-Thesis-Latex-Template",
           "https://github.com/jzhugithub/zju_thesis_latex",
+          "https://github.com/napoleon2818/ZJU-CSE-Latex",
           "https://github.com/shuwei1204/ZJUthesis",
           "https://github.com/TheNetAdmin/zjuthesis",
           "https://github.com/Wangqsooooo/Latex_template",
-          "https://github.com/Yirui-Wang/ZJU-CSE-Latex",
           "https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template",
           "https://github.com/Zhejiang-University-GKC/cs-zju-thesis",
           "https://github.com/ZJU-Awesome/write_with_LaTeX"
@@ -4332,11 +4337,11 @@
         "count": 6,
         "links": [
           "https://github.com/Duola-li/OUC-Latex-Thesis-master",
+          "https://github.com/NaviaX/oucthesis",
           "https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate",
           "https://github.com/ouc-ocean-group/oucthesis",
           "https://github.com/summitgao/OUC-LaTex-bachelor",
-          "https://github.com/summitgao/OUC-LaTex-master",
-          "https://github.com/SunYufei/oucthesis"
+          "https://github.com/summitgao/OUC-LaTex-master"
         ]
       }
     ]
@@ -4503,18 +4508,17 @@
       "en": "Renmin University of China",
       "raw": ""
     },
-    "total": 9,
+    "total": 8,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 6,
+        "count": 5,
         "links": [
           "https://github.com/abuccts/ructhesis",
           "https://github.com/HughYau/RUCthesis-for-Bachelor",
           "https://github.com/liuqi6777/ructhesis",
           "https://github.com/MelodyRen1998/ruc-thesis-template-via-bookdown",
-          "https://github.com/tnoa77/RUC_Thesis_2019",
           "https://github.com/ZebinWang/ructhesis"
         ]
       },
@@ -4573,15 +4577,14 @@
       "en": "Zhongnan University of Economics and Law",
       "raw": ""
     },
-    "total": 3,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 3,
+        "count": 2,
         "links": [
           "https://github.com/donk3yzz/zuel_zh",
-          "https://github.com/ToryDeng/ZUEL-Thesis",
           "https://github.com/YihanCao123/zuel_thesis"
         ]
       }
@@ -4643,14 +4646,13 @@
       "en": "Sun Yat-sen University",
       "raw": ""
     },
-    "total": 20,
+    "total": 19,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 11,
+        "count": 10,
         "links": [
-          "https://github.com/1FCENdoge/sysuthesis",
           "https://github.com/chungkwong/sysu_thesis",
           "https://github.com/DapengFeng/sysuthesis",
           "https://github.com/guanyingc/SYSU-LaTex-Thesis",
@@ -5633,7 +5635,7 @@
       "en": "Aarhus University",
       "raw": "Aarhus Universitet"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "report",
@@ -5641,6 +5643,14 @@
         "count": 1,
         "links": [
           "https://github.com/taskbjorn/au-latex"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/ninagad/latex-presentation-template-Aarhus-University"
         ]
       }
     ]
@@ -6338,6 +6348,24 @@
         "count": 1,
         "links": [
           "https://github.com/milouse/utclatex"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（法国）古斯塔夫·埃菲尔大学",
+      "en": "Gustave Eiffel University",
+      "raw": "Université Gustave Eiffel"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/dylan-moinse/phd-thesis-latex-template"
         ]
       }
     ]
@@ -8201,6 +8229,24 @@
   },
   {
     "name": {
+      "zh": "（葡萄牙）米尼奥大学",
+      "en": "Universidade do Minho",
+      "raw": "Universidade do Minho"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/ricardodpcosta/UMinhoThesisTemplate"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "zh": "（日本）北陆先端科学技术大学院大学",
       "en": "Japan Advanced Institute of Science and Technology (JAIST)",
       "raw": "北陸先端科学技術大学院大学"
@@ -9654,13 +9700,14 @@
       "en": "University of Oxford",
       "raw": ""
     },
-    "total": 7,
+    "total": 8,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 3,
+        "count": 4,
         "links": [
+          "https://github.com/m-sgstyb/thesisTemplate-uniOfOxford",
           "https://github.com/maurovm/thesis_template",
           "https://github.com/mcmanigle/OxThesis",
           "https://github.com/Tinyblack/Oxford-EngSci-Thesis-Template"
@@ -9752,6 +9799,24 @@
         "count": 1,
         "links": [
           "https://github.com/leduyquang753/uet-graduation-latex"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（越南）胡志明市理工大学",
+      "en": "Ho Chi Minh City University of Technology (HCMUT)",
+      "raw": "Trường Đại học Bách khoa, Đại học Quốc gia Thành phố Hồ Chí Minh"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "report",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/quang-tran0/HCMUT-LaTeX-Template"
         ]
       }
     ]
@@ -9873,12 +9938,12 @@
       "en": "Common Templates",
       "raw": ""
     },
-    "total": 172,
+    "total": 173,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 36,
+        "count": 34,
         "links": [
           "https://github.com/academic-templates/tex-master-thesis-template",
           "https://github.com/Aloft-Lab/CTEX-Templates",
@@ -9892,7 +9957,6 @@
           "https://github.com/davidptclark/phd-thesis-template",
           "https://github.com/derric/cleanthesis",
           "https://github.com/Digital-Media/HagenbergThesis",
-          "https://github.com/dimkirt/latex-thesis-template",
           "https://github.com/farshadrasuli/parsa",
           "https://github.com/fmilthaler/Thesis-LaTeX-Template",
           "https://github.com/goorkamateusz/praca-dyplomowa-szablon",
@@ -9912,7 +9976,6 @@
           "https://github.com/suchow/Dissertate",
           "https://github.com/tdehaeze/clean-latex-template",
           "https://github.com/thesis-toolbox/template",
-          "https://github.com/v97ug/Aizu-Graduation-Thesis-Template",
           "https://github.com/viafanasyev/bachelor-thesis-template",
           "https://github.com/WetenSchaap/latex-imitatie",
           "https://github.com/zarrabi/thesis-template"
@@ -9947,7 +10010,7 @@
       {
         "genre": "paper",
         "language": "latex",
-        "count": 41,
+        "count": 43,
         "links": [
           "https://github.com/01Zhangbw/Paper-Template",
           "https://github.com/AASJournals/AASTeX60",
@@ -9960,6 +10023,7 @@
           "https://github.com/CRAG666/tectonic-latex-template",
           "https://github.com/DanySK/Template-LaTeX-IEEE-Conference-Proceedings",
           "https://github.com/devinberg/ASEE-Conferences-Latex-Template",
+          "https://github.com/dkotama/ieice-latex-template-english",
           "https://github.com/dpmj/alcazar",
           "https://github.com/ElegantLaTeX/ElegantPaper",
           "https://github.com/GeometryCollective/paper-template",
@@ -9972,13 +10036,14 @@
           "https://github.com/klb2/ieee-paper-template",
           "https://github.com/kourgeorge/arxiv-style",
           "https://github.com/Larry955/Latex-Paper-Templates",
-          "https://github.com/lartpang/ModernAcademic-LaTeX",
           "https://github.com/latextemplates/acm-enhanced",
           "https://github.com/latextemplates/ieee-enhanced",
           "https://github.com/latextemplates/lncs-enhanced",
           "https://github.com/MohamedKari/acm-paper-template",
           "https://github.com/monetjoe/latex_paper_templates",
           "https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart",
+          "https://github.com/myst-templates/arxiv_two_column",
+          "https://github.com/NTU-AI4X/AI4XTemplate",
           "https://github.com/parnec/Paper-Template",
           "https://github.com/Passer-montanus/AAS_Template_LaTeX",
           "https://github.com/petersheridandodds/universal-paper-template",
@@ -10038,7 +10103,7 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 49,
+        "count": 50,
         "links": [
           "https://github.com/aecio/beamer-theme",
           "https://github.com/anishathalye/auriga",
@@ -10046,6 +10111,7 @@
           "https://github.com/cedricmauclair/beamer-themes",
           "https://github.com/christophergandrud/LSE-Beamer-Theme",
           "https://github.com/doitian/intridea-beamer-theme",
+          "https://github.com/EagleoutIce/beamer-themes",
           "https://github.com/famuvie/beamerthemesimple",
           "https://github.com/fliptanedo/FlipBeamerTheme",
           "https://github.com/gsarkis/McGill-Beamer-Theme",

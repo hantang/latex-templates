@@ -5,7 +5,7 @@
       "en": "Résumé/CV Templates",
       "raw": ""
     },
-    "total": 142,
+    "total": 141,
     "repositories": [
       {
         "genre": "resume",
@@ -143,7 +143,6 @@
         "links": [
           "https://github.com/afnizarnur/draco",
           "https://github.com/amitmishrg/code-resume",
-          "https://github.com/amruthpillai/reactive-resume",
           "https://github.com/Arman19941113/dnd-resume",
           "https://github.com/bedimcode/responsive-resume-cv-smith",
           "https://github.com/blackode/online-resume",
@@ -160,6 +159,7 @@
           "https://github.com/maqi1520/next-resume",
           "https://github.com/mmacneil/devfolio",
           "https://github.com/nordicgiant2/react-nice-resume",
+          "https://github.com/reactive-resume/reactive-resume",
           "https://github.com/ryanbalieiro/react-portfolio-template",
           "https://github.com/RylanBot/resume-json-pdf",
           "https://github.com/salomonelli/best-resume-ever",
@@ -178,14 +178,13 @@
       {
         "genre": "resume",
         "language": "misc",
-        "count": 9,
+        "count": 8,
         "links": [
           "https://github.com/alexpovel/ancv",
           "https://github.com/byoungd/Resume-template-for-Coder",
           "https://github.com/Hunterdii/Smart-AI-Resume-Analyzer",
           "https://github.com/IvanIsCoding/ResuLLMe",
           "https://github.com/rendercv/rendercv",
-          "https://github.com/varbhat/cvtek",
           "https://github.com/weidong-repo/AIResume",
           "https://github.com/yamlresume/yamlresume",
           "https://github.com/Zilize/DrawCV"
