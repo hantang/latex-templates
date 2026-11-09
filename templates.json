@@ -41,7 +41,7 @@
       "en": "Peking University",
       "raw": ""
     },
-    "total": 12,
+    "total": 15,
     "repositories": [
       {
         "genre": "thesis",
@@ -85,9 +85,12 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 1,
+        "count": 4,
         "links": [
-          "https://github.com/huxuan/pkuthss-slide"
+          "https://github.com/huxuan/pkuthss-slide",
+          "https://github.com/inFaaa/PKU-Beamer-Theme",
+          "https://github.com/rexera/minimalist-pku-beamer-2026",
+          "https://github.com/tongpf/PKU_beamer_lightweight_designed"
         ]
       }
     ]
@@ -1235,7 +1238,7 @@
       "en": "Harbin Institute of Technology",
       "raw": ""
     },
-    "total": 10,
+    "total": 12,
     "repositories": [
       {
         "genre": "thesis",
@@ -1262,8 +1265,10 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 2,
+        "count": 4,
         "links": [
+          "https://github.com/hithesis/HITBeamer",
+          "https://github.com/hithesis/hiTouyingBeamer",
           "https://github.com/RongquanHE/a-simple-unofficial-HIT-Latex-beamer-template",
           "https://github.com/Sakuranetin/LaTeX-Beamer"
         ]
@@ -2669,7 +2674,7 @@
         "language": "latex",
         "count": 1,
         "links": [
-          "https://github.com/Smera1d0/SDU-LaTeX-Template"
+          "https://github.com/miyu0403/SDU-LaTeX-Template"
         ]
       }
     ]
@@ -9943,7 +9948,7 @@
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 34,
+        "count": 35,
         "links": [
           "https://github.com/academic-templates/tex-master-thesis-template",
           "https://github.com/Aloft-Lab/CTEX-Templates",
@@ -9959,6 +9964,7 @@
           "https://github.com/Digital-Media/HagenbergThesis",
           "https://github.com/farshadrasuli/parsa",
           "https://github.com/fmilthaler/Thesis-LaTeX-Template",
+          "https://github.com/gillescastel/masterthesis",
           "https://github.com/goorkamateusz/praca-dyplomowa-szablon",
           "https://github.com/jankapunkt/master-thesis",
           "https://github.com/joaomlourenco/novathesis",
@@ -10103,7 +10109,7 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 50,
+        "count": 49,
         "links": [
           "https://github.com/aecio/beamer-theme",
           "https://github.com/anishathalye/auriga",
@@ -10153,7 +10159,6 @@
           "https://github.com/uwabami/beamerthemeKansaiDebianMeeting",
           "https://github.com/vachan-potluri/beamer_themes",
           "https://github.com/wisdomfusion/latex-beamer-teamplates",
-          "https://github.com/WQT1123/University-Presentation-Beamer",
           "https://github.com/XiangyunHuang/awesome-beamers"
         ]
       },

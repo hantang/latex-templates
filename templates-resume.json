@@ -5,7 +5,7 @@
       "en": "Résumé/CV Templates",
       "raw": ""
     },
-    "total": 141,
+    "total": 140,
     "repositories": [
       {
         "genre": "resume",
@@ -117,10 +117,9 @@
       {
         "genre": "resume",
         "language": "markdown",
-        "count": 7,
+        "count": 6,
         "links": [
           "https://github.com/BingyanStudio/LapisCV",
-          "https://github.com/CyC2018/Markdown-Resume",
           "https://github.com/elipapa/markdown-cv",
           "https://github.com/john-bokma/resume-pandoc",
           "https://github.com/mitchelloharawild/vitae",
