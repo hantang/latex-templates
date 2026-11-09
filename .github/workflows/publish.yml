@@ -8,8 +8,14 @@ on:
   repository_dispatch:
     types: [deploy-event]
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       pages: write
       id-token: write
@@ -18,16 +24,14 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
-    runs-on: ubuntu-latest
     env:
-      PYTHON_VERSION: 3.x
       USER: ${{ github.repository_owner }}
       # REPO_NAME: ${{ github.event.repository.name }}
       REPO: ${{ secrets.REPO }}
 
     steps:
-      - name: Checkout site
-        uses: actions/checkout@v6
+      - name: Checkout
+        uses: actions/checkout@v7
 
       - name: Generate Token
         id: app-token
@@ -39,17 +43,17 @@ jobs:
           repositories: ${{ env.REPO }}
 
       - name: Checkout data
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: ${{ env.USER }}/${{ env.REPO }}
-          token: ${{ steps.app-token.outputs.token }}
           path: ${{ env.REPO }}
+          token: ${{ steps.app-token.outputs.token }}
           fetch-depth: 1
           ref: ${{ github.ref }}
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
+          python-version: '3.x'
 
       - name: Build Site
         run: cd ${{ env.REPO }} && bash deploy.sh data/data.json
