@@ -8,7 +8,7 @@
 
 ## 说明
 
-最近更新: <!-- START-DATE -->*2026-11-09*<!-- END-DATE -->
+最近更新: <!-- START-DATE -->*2026-11-10*<!-- END-DATE -->
 
 主要收录LaTeX学位论文模板、演示文稿（Beamer），也包括Microsoft Word、Typst和Markdown等格式的期刊会议论文、演示文稿（幻灯片）和简历模板等。
 

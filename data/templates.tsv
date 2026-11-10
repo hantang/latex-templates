@@ -116,6 +116,7 @@
 南开大学	Nankai University	thesis	latex	https://github.com/NewFuture/NKThesis	False	209	52
 台湾大学	National Taiwan University (NTU)	thesis	latex	https://github.com/Hsins/NTU-Thesis-LaTeX-Template	False	208	53
 兰州大学	Lanzhou University	thesis	latex	https://github.com/yuhldr/LZUThesis2020	False	207	35
+中国科学院大学	University of Chinese Academy of Sciences	presentation	latex	https://github.com/icgw/ucas-beamer	False	205	32
 上海交通大学	Shanghai Jiaotong University	report	latex	https://github.com/NemoYuan2008/SJTU-Thesis-Proposal	False	205	11
 北京大学	Peking University	presentation	latex	https://github.com/inFaaa/PKU-Beamer-Theme	False	203	19
 四川大学	Sichuan University	presentation	latex	https://github.com/FvNCCR228/SCU-Beamer-Theme	False	202	26
@@ -1090,6 +1091,7 @@
 哈尔滨工业大学	Harbin Institute of Technology	thesis	latex	https://github.com/Jingxuan-Yang/YangThesis.HITSZ.Dissertation	False	6	1
 （波兰）格但斯克理工大学	Gdańsk University of Technology	thesis	latex	https://github.com/ack2406/pg-thesis-template	False	6	0
 上海交通大学	Shanghai Jiaotong University	report	latex	https://github.com/MrShoza/SJTU-Bachelor-Thesis-Proposal-Latex-Template	False	6	0
+上海电力大学	Shanghai University of Electric Power	thesis	latex	https://github.com/SUEPaper/SUEPThesis	False	6	0
 通用模板	Common Templates	thesis	latex	https://github.com/marcocrowe/thesis-templates	False	6	0
 广东工业大学	Guangdong University of Technology	presentation	latex	https://github.com/MaxW322/GDUT-Beamer-Template	False	6	0
 东南大学	Southeast University	presentation	latex	https://github.com/GuanxingLu/SEU-beamer-latex-slide	False	6	0
@@ -1134,6 +1136,7 @@
 中山大学	Sun Yat-sen University	thesis	latex	https://github.com/Lovely-XPP/SYSU-thesis	False	5	1
 山东大学	Shandong University	thesis	latex	https://github.com/luxun59/latex_Template	False	5	1
 华中科技大学	Huazhong University of Science	presentation	latex	https://github.com/latexstudio/HUST-Beamer-Theme	False	5	1
+河北大学	Hebei University	thesis	latex	https://github.com/Direct-A/hbuthesis	False	5	1
 东北师范大学	Northeast Normal University	thesis	latex	https://github.com/BENZJ/NNU_Latex_temple	False	5	1
 湖南大学	Hunan University	thesis	latex	https://github.com/LASER-Yi/HNU-Thesis-LaTeX-Template	False	5	1
 台湾阳明交通大学	National Yang Ming Chiao Tung University (NYCU)	thesis	latex	https://github.com/alex81527/latex-nctu-thesis	False	5	1
@@ -1255,6 +1258,7 @@
 台湾清华大学	National Tsing Hua University (NTHU)	thesis	latex	https://github.com/yszheda/nthu-master-thesis	False	3	0
 厦门大学	Xiamen University	thesis	latex	https://github.com/liulizhi1996/XMU-Bachelor-Thesis-Templete	False	2	3
 华东理工大学	East China University of Science and Technology	thesis	latex	https://github.com/scottoasis/ecustthesis	False	2	3
+上海电力大学	Shanghai University of Electric Power	report	latex	https://github.com/SUEPaper/math201-latex-report	False	2	2
 北京语言大学	Beijing Language and Culture University	thesis	latex	https://github.com/cunliangkong/BLCU-Thesis	True	2	2
 天津大学	Tianjin University	thesis	latex	https://github.com/jinyu121/tju-thesis-simple	False	2	2
 西安电子科技大学	Xidian University	thesis	latex	https://github.com/ztcxdu/xdu_MS_thesis_template	False	2	2
@@ -1299,6 +1303,7 @@
 苏州大学	Soochow University	thesis	latex	https://github.com/NatureGeorge/sudathesis-bachelor	False	2	0
 （美国）佐治亚大学	University of Georgia (UGA)	presentation	latex	https://github.com/royaleconqueso/uga-beamer-theme	False	2	0
 中国科学院大学	University of Chinese Academy of Sciences	thesis	latex	https://github.com/huyongfeng/-	False	2	0
+通用模板	Common Templates	presentation	latex	https://github.com/bingtan72/Beamer_Simple	False	2	0
 四川大学	Sichuan University	thesis	latex	https://github.com/wonderland-dsg/scuthesis	False	2	0
 中南财经政法大学	Zhongnan University of Economics and Law	thesis	latex	https://github.com/donk3yzz/zuel_zh	False	2	0
 兰州大学	Lanzhou University	thesis	latex	https://github.com/CosmosLiang/LZUthesis	False	2	0
@@ -1340,8 +1345,11 @@
 （美国）密西西比州立大学	Mississippi State University	presentation	latex	https://github.com/DakotaHester/Starkville_beamer_theme	False	1	0
 （韩国）国立韩国交通大学	Korea National University of Transportation (KNUT)	thesis	latex	https://github.com/saeedahmadicp/KNUT-THESIS-TEMPLATE	False	1	0
 浙江农林大学	Zhejiang A&F University	presentation	latex	https://github.com/favefan/ZAFUBeamer-Latex	False	1	0
+上海电力大学	Shanghai University of Electric Power	report	latex	https://github.com/SUEPaper/Optimization_LaTeX_Report	False	1	0
 （阿根廷）托尔夸托迪特利亚大学	Torcuato di Tella University	thesis	latex	https://github.com/federicoduca/latex-templates	False	1	0
 浙大宁波理工学院	NingboTech University	presentation	latex	https://github.com/Republic1024/NTUBeamer	False	1	0
+上海电力大学	Shanghai University of Electric Power	report	latex	https://github.com/SUEPaper/ds204-latex-report	False	1	0
+上海电力大学	Shanghai University of Electric Power	report	latex	https://github.com/SUEPaper/cs202-latex-report	False	1	0
 上海工程技术大学	Shanghai University of Engineering and Technology	thesis	latex	https://github.com/shansicheng/sues-thesis	False	1	0
 南开大学	Nankai University	thesis	latex	https://github.com/indexthm/NKUThesis	False	1	0
 南开大学	Nankai University	thesis	latex	https://github.com/benhaotang/NKThesis	False	1	0
@@ -1383,6 +1391,8 @@
 电子科技大学	University of Electronic Science and Technology of China	thesis	lyx	https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex	False	0	1
 澳门大学	University of Macau (UM)	thesis	latex	https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL	False	0	1
 四川师范大学	Sichuan Normal University	thesis	latex	https://github.com/yiyuezhuo/sicnu-thesis	False	0	1
+上海电力大学	Shanghai University of Electric Power	thesis	typst	https://github.com/SUEPaper/modern-suep-thesis	False	0	0
+通用模板	Common Templates	paper	latex	https://github.com/SUEPaper/CSEE-LaTeX-template	False	0	0
 西南大学	Southwestern University	presentation	latex	https://github.com/huangjunjie-cs/simple-swu-beamer	False	0	0
 通用模板	Common Templates	report	typst	https://github.com/chantakan/jsass-typst-template	False	0	0
 通用模板	Common Templates	paper	latex	https://github.com/dkotama/ieice-latex-template-english	False	0	0
@@ -1431,6 +1441,7 @@
 电子科技大学	University of Electronic Science and Technology of China	thesis	latex	https://github.com/raja21068/UESTC-LATEX-THESIS-FORMAT	False	0	0
 南开大学	Nankai University	thesis	latex	https://github.com/zihaodong/NKU_thesis	False	0	0
 天津大学	Tianjin University	thesis	latex	https://github.com/hanwang-15/TJUthesis_xelatex-phd-2020	False	0	0
+哈尔滨工业大学	Harbin Institute of Technology	thesis	latex	https://github.com/WangYihang/hithesis-bachelor	False	0	0
 武汉大学	Wuhan University	thesis	ms-word	https://github.com/happytianhao/-Word-	False	0	0
 华中师范大学	Central China Normal University	thesis	latex	https://github.com/wasphin/latex-ccnu-thesis	False	0	0
 南开大学	Nankai University	thesis	latex	https://github.com/guangpintao/nku_thesis	False	0	0

@@ -1238,12 +1238,12 @@
       "en": "Harbin Institute of Technology",
       "raw": ""
     },
-    "total": 12,
+    "total": 13,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 7,
+        "count": 8,
         "links": [
           "https://github.com/dustincys/PlutoThesis",
           "https://github.com/FutureForMe/HIT_thesis",
@@ -1251,6 +1251,7 @@
           "https://github.com/HIT-UOI-SR/hithesis-template",
           "https://github.com/hithesis/hithesis",
           "https://github.com/Jingxuan-Yang/YangThesis.HITSZ.Dissertation",
+          "https://github.com/WangYihang/hithesis-bachelor",
           "https://github.com/YangLaTeX/hitszthesis"
         ]
       },
@@ -1333,6 +1334,24 @@
           "https://github.com/wennboo/HDU-latex-template-for-master",
           "https://github.com/xmlu/hduthesis",
           "https://github.com/ydar95/HDU-Master-Thesis-Latex"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "河北大学",
+      "en": "Hebei University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/Direct-A/hbuthesis"
         ]
       }
     ]
@@ -2808,6 +2827,43 @@
         "links": [
           "https://github.com/chuxubank/ssputhesis",
           "https://github.com/JouderMin/SSPUThesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "上海电力大学",
+      "en": "Shanghai University of Electric Power",
+      "raw": ""
+    },
+    "total": 6,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "latex",
+        "count": 1,
+        "links": [
+          "https://github.com/SUEPaper/SUEPThesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/SUEPaper/modern-suep-thesis"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "latex",
+        "count": 4,
+        "links": [
+          "https://github.com/SUEPaper/cs202-latex-report",
+          "https://github.com/SUEPaper/ds204-latex-report",
+          "https://github.com/SUEPaper/math201-latex-report",
+          "https://github.com/SUEPaper/Optimization_LaTeX_Report"
         ]
       }
     ]
@@ -4396,7 +4452,7 @@
       "en": "University of Chinese Academy of Sciences",
       "raw": ""
     },
-    "total": 15,
+    "total": 16,
     "repositories": [
       {
         "genre": "thesis",
@@ -4435,9 +4491,10 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 2,
+        "count": 3,
         "links": [
           "https://github.com/huangjunjie-cs/simple-ucas-beamer",
+          "https://github.com/icgw/ucas-beamer",
           "https://github.com/peng-yq/UCAS-Beamer-Theme"
         ]
       }
@@ -9943,7 +10000,7 @@
       "en": "Common Templates",
       "raw": ""
     },
-    "total": 173,
+    "total": 175,
     "repositories": [
       {
         "genre": "thesis",
@@ -10016,7 +10073,7 @@
       {
         "genre": "paper",
         "language": "latex",
-        "count": 43,
+        "count": 44,
         "links": [
           "https://github.com/01Zhangbw/Paper-Template",
           "https://github.com/AASJournals/AASTeX60",
@@ -10056,6 +10113,7 @@
           "https://github.com/pmichaillat/latex-paper",
           "https://github.com/QTH1225/LaTeX-in-ICM-MCM",
           "https://github.com/ruohoruotsi/latex-template-arxiv-preprint",
+          "https://github.com/SUEPaper/CSEE-LaTeX-template",
           "https://github.com/Techassi/paper-template",
           "https://github.com/wk910930/paper-template",
           "https://github.com/XuehaiPan/LaTeX-Templates",
@@ -10109,11 +10167,12 @@
       {
         "genre": "presentation",
         "language": "latex",
-        "count": 49,
+        "count": 50,
         "links": [
           "https://github.com/aecio/beamer-theme",
           "https://github.com/anishathalye/auriga",
           "https://github.com/anishathalye/gemini",
+          "https://github.com/bingtan72/Beamer_Simple",
           "https://github.com/cedricmauclair/beamer-themes",
           "https://github.com/christophergandrud/LSE-Beamer-Theme",
           "https://github.com/doitian/intridea-beamer-theme",
