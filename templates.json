@@ -2657,12 +2657,12 @@
       "en": "Shandong University",
       "raw": ""
     },
-    "total": 15,
+    "total": 16,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 13,
+        "count": 14,
         "links": [
           "https://github.com/arisukawa/SDU-Latex-Template-for-dissertations",
           "https://github.com/bearshng/sduthesis",
@@ -2676,6 +2676,7 @@
           "https://github.com/sailist/Refined-Version-of-SDU-Thesis-Template",
           "https://github.com/Sing-How/sduthesis",
           "https://github.com/wangkerui/sduthesis",
+          "https://github.com/wangxianyu7/sdu_wh_latex",
           "https://github.com/wangzhukang/sduthesis"
         ]
       },
@@ -5868,13 +5869,14 @@
       "en": "Industrial University of Darmstadt",
       "raw": "Technische Universität Darmstadt (TU Darmstadt)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 1,
+        "count": 2,
         "links": [
+          "https://github.com/tudace/tuda_latex_templates",
           "https://github.com/zemirco/tu-darmstadt-latex-thesis"
         ]
       }
