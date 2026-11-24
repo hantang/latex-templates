@@ -8,7 +8,7 @@
 
 ## 说明
 
-最近更新: <!-- START-DATE -->*2026-11-18*<!-- END-DATE -->
+最近更新: <!-- START-DATE -->*2026-11-24*<!-- END-DATE -->
 
 主要收录LaTeX学位论文模板、演示文稿（Beamer），也包括Microsoft Word、Typst和Markdown等格式的期刊会议论文、演示文稿（幻灯片）和简历模板等。
 
@@ -96,6 +96,7 @@
 | **（德国）慕尼黑工业大学**<br>*Technische Universität München* | [TUM-Dev/tum-thesis-latex] | ![266][TUM-Dev/tum-thesis-latex/stars]<br>![89][TUM-Dev/tum-thesis-latex/forks]<br>![2026-05-27][TUM-Dev/tum-thesis-latex/last-commit] | ![fork]<br>:notebook_with_decorative_cover: A LaTeX template for TUM Bachelor/Master theses. |
 | **厦门大学** | [zoam/xmu-thesis-grd] | ![257][zoam/xmu-thesis-grd/stars]<br>![46][zoam/xmu-thesis-grd/forks]<br>![2025-06-28][zoam/xmu-thesis-grd/last-commit] | 厦门大学研究生学位论文 LaTeX 模板 |
 | **四川大学** | [kevinleeex/scu_thesis_2020] | ![256][kevinleeex/scu_thesis_2020/stars]<br>![44][kevinleeex/scu_thesis_2020/forks]<br>![2022-06-08][kevinleeex/scu_thesis_2020/last-commit] | 四川大学研究生学位论文模板LaTex(复刻官方word模板)Here you go! |
+| **（德国）达姆施塔特工业大学**<br>*Technische Universität Darmstadt (TU Darmstadt)* | [tudace/tuda_latex_templates] | ![254][tudace/tuda_latex_templates/stars]<br>![78][tudace/tuda_latex_templates/forks]<br>![2026-08-20][tudace/tuda_latex_templates/last-commit] | LaTeX Templates for TU Darmstadt |
 | **（德国）FOM经济与管理应用科学大学**<br>*FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH* | [andygrunwald/FOM-LaTeX-Template] | ![253][andygrunwald/FOM-LaTeX-Template/stars]<br>![250][andygrunwald/FOM-LaTeX-Template/forks]<br>![2026-09-18][andygrunwald/FOM-LaTeX-Template/last-commit] | A LaTeX template for term paper, bachelor or master thesis for "FOM University of Applied Sciences" |
 | **台湾大学**<br>*國立臺灣大學* | [tzhuan/ntu-thesis] | ![253][tzhuan/ntu-thesis/stars]<br>![127][tzhuan/ntu-thesis/forks]<br>![2022-04-06][tzhuan/ntu-thesis/last-commit] | NTU thesis template for XeLaTeX |
 | **华南理工大学** | [alwintsui/scutthesis] | ![250][alwintsui/scutthesis/stars]<br>![54][alwintsui/scutthesis/forks]<br>![2025-03-12][alwintsui/scutthesis/last-commit] | Latex/Lyx templates for the thesis specifications of South China University of Technology (SCUT,华南理工大学) |
@@ -346,6 +347,10 @@
 [kevinleeex/scu_thesis_2020/stars]: https://img.shields.io/github/stars/kevinleeex/scu_thesis_2020?style=flat-square
 [kevinleeex/scu_thesis_2020/forks]: https://img.shields.io/github/forks/kevinleeex/scu_thesis_2020?style=flat-square
 [kevinleeex/scu_thesis_2020/last-commit]: https://img.shields.io/github/last-commit/kevinleeex/scu_thesis_2020?style=flat-square
+[tudace/tuda_latex_templates]: https://github.com/tudace/tuda_latex_templates
+[tudace/tuda_latex_templates/stars]: https://img.shields.io/github/stars/tudace/tuda_latex_templates?style=flat-square
+[tudace/tuda_latex_templates/forks]: https://img.shields.io/github/forks/tudace/tuda_latex_templates?style=flat-square
+[tudace/tuda_latex_templates/last-commit]: https://img.shields.io/github/last-commit/tudace/tuda_latex_templates?style=flat-square
 [andygrunwald/FOM-LaTeX-Template]: https://github.com/andygrunwald/FOM-LaTeX-Template
 [andygrunwald/FOM-LaTeX-Template/stars]: https://img.shields.io/github/stars/andygrunwald/FOM-LaTeX-Template?style=flat-square
 [andygrunwald/FOM-LaTeX-Template/forks]: https://img.shields.io/github/forks/andygrunwald/FOM-LaTeX-Template?style=flat-square

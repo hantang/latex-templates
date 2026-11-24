@@ -2557,13 +2557,14 @@
       "en": "Tsinghua University",
       "raw": ""
     },
-    "total": 12,
+    "total": 13,
     "repositories": [
       {
         "genre": "thesis",
         "language": "latex",
-        "count": 5,
+        "count": 6,
         "links": [
+          "https://github.com/atxy-blip/thuthesis3",
           "https://github.com/iso9/thuthesis",
           "https://github.com/LUKE-ZZ/thuthesis-biomedical",
           "https://github.com/Markshilong/THU_Thesis_Bachelor",

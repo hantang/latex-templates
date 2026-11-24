@@ -90,6 +90,7 @@
 （德国）慕尼黑工业大学	Technical University of Munich	thesis	latex	https://github.com/TUM-Dev/tum-thesis-latex	False	266	89
 厦门大学	Xiamen University	thesis	latex	https://github.com/zoam/xmu-thesis-grd	False	257	46
 四川大学	Sichuan University	thesis	latex	https://github.com/kevinleeex/scu_thesis_2020	False	256	44
+（德国）达姆施塔特工业大学	Industrial University of Darmstadt	thesis	latex	https://github.com/tudace/tuda_latex_templates	False	254	78
 （德国）FOM经济与管理应用科学大学	FOM University of Applied Sciences for Economics and Management	thesis	latex	https://github.com/andygrunwald/FOM-LaTeX-Template	False	253	250
 台湾大学	National Taiwan University (NTU)	thesis	latex	https://github.com/tzhuan/ntu-thesis	False	253	127
 华南理工大学	South China University of Technology	thesis	latex	https://github.com/alwintsui/scutthesis	False	250	54
@@ -1139,8 +1140,10 @@
 河北大学	Hebei University	thesis	latex	https://github.com/Direct-A/hbuthesis	False	5	1
 东北师范大学	Northeast Normal University	thesis	latex	https://github.com/BENZJ/NNU_Latex_temple	False	5	1
 湖南大学	Hunan University	thesis	latex	https://github.com/LASER-Yi/HNU-Thesis-LaTeX-Template	False	5	1
+山东大学	Shandong University	thesis	latex	https://github.com/wangxianyu7/sdu_wh_latex	False	5	1
 台湾阳明交通大学	National Yang Ming Chiao Tung University (NYCU)	thesis	latex	https://github.com/alex81527/latex-nctu-thesis	False	5	1
 安徽大学	Anhui University	thesis	latex	https://github.com/qxx/AHU_Thesis	False	5	1
+清华大学	Tsinghua University	thesis	latex	https://github.com/atxy-blip/thuthesis3	False	5	0
 北京航空航天大学	Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)	thesis	latex	https://github.com/Lord-Turmoil/BUAA-Thesis-Template	False	5	0
 武汉大学	Wuhan University	presentation	latex	https://github.com/FlorianTseng/WHU-Beamer	False	5	0
 武汉科技大学	Wuhan University of Science and Technology	presentation	latex	https://github.com/Bowen1911/wust_beamer	False	5	0
