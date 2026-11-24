@@ -1050,7 +1050,7 @@
       "en": "Guangdong University of Technology",
       "raw": ""
     },
-    "total": 5,
+    "total": 6,
     "repositories": [
       {
         "genre": "thesis",
@@ -1060,6 +1060,14 @@
           "https://github.com/Gnomeek/GDUT-UndergraduateThesis",
           "https://github.com/jokerdawn/GDUTThesis",
           "https://github.com/sikouhjw/gdutthesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "ms-word",
+        "count": 1,
+        "links": [
+          "https://github.com/sikouhjw/gdutthesis-Word"
         ]
       },
       {
