@@ -8,7 +8,7 @@
 
 ## 说明
 
-最近更新: <!-- START-DATE -->*2026-11-25*<!-- END-DATE -->
+最近更新: <!-- START-DATE -->*2026-11-28*<!-- END-DATE -->
 
 主要收录LaTeX学位论文模板、演示文稿（Beamer），也包括Microsoft Word、Typst和Markdown等格式的期刊会议论文、演示文稿（幻灯片）和简历模板等。
 
@@ -43,6 +43,14 @@
 
 | 学校（机构） | GitHub仓库 | 统计 | 说明 |
 | --- | --- | --- | --- |
+
+[archived]: https://img.shields.io/badge/archived-TRUE-orange?style=plastic
+[fork]: https://img.shields.io/badge/fork-TRUE-green?style=plastic
+
+### 学位论文（非LaTeX）
+
+| 学校（机构） | GitHub仓库 | 统计 | 说明 |
+| --- | --- | --- | --- |
 | **清华大学** | [tuna/thuthesis] | ![5499][tuna/thuthesis/stars]<br>![1168][tuna/thuthesis/forks]<br>![2026-08-18][tuna/thuthesis/last-commit] | LaTeX Thesis Template for Tsinghua University |
 | **中国科学院大学** | [mohuangrui/ucasthesis] | ![3924][mohuangrui/ucasthesis/stars]<br>![942][mohuangrui/ucasthesis/forks]<br>![2024-02-29][mohuangrui/ucasthesis/last-commit] | LaTeX Thesis Template for the University of Chinese Academy of Sciences |
 | **上海交通大学** | [sjtug/SJTUThesis] | ![3912][sjtug/SJTUThesis/stars]<br>![791][sjtug/SJTUThesis/forks]<br>![2026-05-20][sjtug/SJTUThesis/last-commit] | 上海交通大学 LaTeX 论文模板 \| Shanghai Jiao Tong University LaTeX Thesis Template |
@@ -53,6 +61,7 @@
 | **通用模板** | [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template] | ![1551][AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/stars]<br>![760][AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/forks]<br>![2026-03-11][AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/last-commit] | LaTeX-template for russian Phd thesis |
 | **武汉大学** | [whutug/whu-thesis] | ![1363][whutug/whu-thesis/stars]<br>![220][whutug/whu-thesis/forks]<br>![2025-05-27][whutug/whu-thesis/last-commit] | 武汉大学毕业论文 LaTeX 模版 2025 |
 | **北京航空航天大学** | [BHOSC/BUAAthesis] | ![1287][BHOSC/BUAAthesis/stars]<br>![303][BHOSC/BUAAthesis/forks]<br>![2025-01-12][BHOSC/BUAAthesis/last-commit] | 北航毕设论文LaTeX模板 |
+| **（英国）伦敦大学学院**<br>*University College London (UCL)* | [tompollard/phd_thesis_markdown] | ![1278][tompollard/phd_thesis_markdown/stars]<br>![551][tompollard/phd_thesis_markdown/forks]<br>![2023-05-23][tompollard/phd_thesis_markdown/last-commit] | Template for writing a PhD thesis in Markdown |
 | **通用模板** | [Pseudomanifold/latex-mimosis] | ![1244][Pseudomanifold/latex-mimosis/stars]<br>![135][Pseudomanifold/latex-mimosis/forks]<br>![2026-05-18][Pseudomanifold/latex-mimosis/last-commit] | A minimal & modern LaTeX template for your (bachelor's \| master's \| doctoral) thesis |
 | **北京理工大学** | [BITNP/BIThesis] | ![1199][BITNP/BIThesis/stars]<br>![122][BITNP/BIThesis/forks]<br>![2026-10-03][BITNP/BIThesis/last-commit] | 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册） |
 | **西安电子科技大学** | [note286/xduts] | ![1159][note286/xduts/stars]<br>![101][note286/xduts/forks]<br>![2025-05-04][note286/xduts/last-commit] | Xidian University TeX Suite 西安电子科技大学LaTeX套装 |
@@ -61,6 +70,7 @@
 | **中山大学** | [SYSU-SCC/sysu-thesis] | ![983][SYSU-SCC/sysu-thesis/stars]<br>![95][SYSU-SCC/sysu-thesis/forks]<br>![2026-09-04][SYSU-SCC/sysu-thesis/last-commit] | 中山大学 LaTeX 毕业论文项目模板 |
 | **通用模板** | [derric/cleanthesis] | ![922][derric/cleanthesis/stars]<br>![113][derric/cleanthesis/forks]<br>![2024-02-15][derric/cleanthesis/last-commit] | Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents. |
 | **（英国）剑桥大学**<br>*University of Cambridge* | [kks32/phd-thesis-template] | ![905][kks32/phd-thesis-template/stars]<br>![434][kks32/phd-thesis-template/forks]<br>![2026-04-28][kks32/phd-thesis-template/last-commit] | A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department (CUED) |
+| **通用模板** | [ismayc/thesisdown] | ![822][ismayc/thesisdown/stars]<br>![353][ismayc/thesisdown/forks]<br>![2026-08-16][ismayc/thesisdown/last-commit] | ![archived]<br>An updated R Markdown thesis template using the bookdown package |
 | **通用模板** | [suchow/Dissertate] | ![757][suchow/Dissertate/stars]<br>![171][suchow/Dissertate/forks]<br>![2026-11-25][suchow/Dissertate/last-commit] | Beautiful LaTeX dissertation templates. |
 | **南京大学** | [nju-lug/NJUThesis] | ![715][nju-lug/NJUThesis/stars]<br>![113][nju-lug/NJUThesis/forks]<br>![2026-06-11][nju-lug/NJUThesis/last-commit] | 南京大学学位论文模板 |
 | **电子科技大学** | [shifujun/UESTCthesis] | ![652][shifujun/UESTCthesis/stars]<br>![165][shifujun/UESTCthesis/forks]<br>![2023-04-24][shifujun/UESTCthesis/last-commit] | ![archived]<br>电子科技大学毕设设计论文LaTeX模板 |
@@ -106,6 +116,9 @@
 | **东南大学** | [TouchFishPioneer/SEU-master-thesis] | ![239][TouchFishPioneer/SEU-master-thesis/stars]<br>![55][TouchFishPioneer/SEU-master-thesis/forks]<br>![2024-04-22][TouchFishPioneer/SEU-master-thesis/last-commit] | 东南大学硕士研究生学位论文LaTeX模板 |
 | **通用模板** | [Digital-Media/HagenbergThesis] | ![235][Digital-Media/HagenbergThesis/stars]<br>![51][Digital-Media/HagenbergThesis/forks]<br>![2026-10-23][Digital-Media/HagenbergThesis/last-commit] | Hagenberg LaTeX Thesis Template |
 | **（英国）剑桥大学**<br>*University of Cambridge* | [cambridge/thesis] | ![231][cambridge/thesis/stars]<br>![97][cambridge/thesis/forks]<br>![2026-08-16][cambridge/thesis/last-commit] | A LaTeX document class that conforms to the Computer Laboratory's PhD thesis formatting guidelines. |
+| **北京邮电大学** | [sigmarising/BUPTMasterThesisWord] | ![227][sigmarising/BUPTMasterThesisWord/stars]<br>![27][sigmarising/BUPTMasterThesisWord/forks]<br>![2024-01-24][sigmarising/BUPTMasterThesisWord/last-commit] | ![archived]<br>The Microsoft Office Word template of BUPT Thesis for Master Degree. |
+| **清华大学** | [fatalerror-i/ThuWordThesis] | ![226][fatalerror-i/ThuWordThesis/stars]<br>![16][fatalerror-i/ThuWordThesis/forks]<br>![2026-11-18][fatalerror-i/ThuWordThesis/last-commit] | 清华大学学位论文Word模板。A Word thesis template for Tsinghua University. |
+| **（英国）牛津大学**<br>*University of Oxford* | [ulyngs/oxforddown] | ![225][ulyngs/oxforddown/stars]<br>![76][ulyngs/oxforddown/forks]<br>![2026-02-15][ulyngs/oxforddown/last-commit] | Template for writing an Oxford University thesis in R Markdown; uses the OxThesis LaTeX template and was inspired by thesisdown. |
 | **合肥工业大学** | [HFUTTUG/HFUT_Thesis] | ![224][HFUTTUG/HFUT_Thesis/stars]<br>![32][HFUTTUG/HFUT_Thesis/forks]<br>![2026-05-22][HFUTTUG/HFUT_Thesis/last-commit] | LaTeX Thesis Template for Hefei University of Technology |
 | **同济大学** | [wyqy/TongjiThesis_Proto] | ![221][wyqy/TongjiThesis_Proto/stars]<br>![32][wyqy/TongjiThesis_Proto/forks]<br>![2025-03-05][wyqy/TongjiThesis_Proto/last-commit] | 同济大学硕博士论文 LaTeX 模板 Tongji-Thesis - 2025 修订 |
 | **国防科技大学** | [TomHeaven/nudt_thesis] | ![220][TomHeaven/nudt_thesis/stars]<br>![55][TomHeaven/nudt_thesis/forks]<br>![2023-02-02][TomHeaven/nudt_thesis/last-commit] | NUDT硕士博士毕业论文latex模板 |
@@ -116,22 +129,144 @@
 | **兰州大学** | [yuhldr/LZUThesis2020] | ![208][yuhldr/LZUThesis2020/stars]<br>![35][yuhldr/LZUThesis2020/forks]<br>![2026-03-10][yuhldr/LZUThesis2020/last-commit] | 兰州大学2025毕业论文LaTex模板：本科生、研究生两个模板 |
 | **（丹麦）奥尔堡大学**<br>*Aalborg Universitet (AAU)* | [jkjaer/aauLatexTemplates] | ![200][jkjaer/aauLatexTemplates/stars]<br>![152][jkjaer/aauLatexTemplates/forks]<br>![2026-09-10][jkjaer/aauLatexTemplates/last-commit] | A collection of Aalborg University LaTeX-templates |
 | **（英国）伦敦大学学院**<br>*University College London (UCL)* | [UCL/ucl-latex-thesis-templates] | ![195][UCL/ucl-latex-thesis-templates/stars]<br>![135][UCL/ucl-latex-thesis-templates/forks]<br>![2022-07-06][UCL/ucl-latex-thesis-templates/last-commit] | UCL LaTeX thesis templates. |
+| **（伊朗）德黑兰大学**<br>*دانشگاه تهران* | [sinamomken/tehran-thesis] | ![195][sinamomken/tehran-thesis/stars]<br>![47][sinamomken/tehran-thesis/forks]<br>![2025-09-10][sinamomken/tehran-thesis/last-commit] | LaTeX template for BSc/MSc/PhD theses of University of Tehran - قالب لاتک پایان‌نامه دانشگاه تهران |
+| **东南大学** | [wen-fei/seu-thesis-latex-template] | ![190][wen-fei/seu-thesis-latex-template/stars]<br>![41][wen-fei/seu-thesis-latex-template/forks]<br>![2023-12-04][wen-fei/seu-thesis-latex-template/last-commit] | 东南大学毕业论文latex模板 |
+| **华中科技大学** | [hust-latex/hustthesis] | ![187][hust-latex/hustthesis/stars]<br>![34][hust-latex/hustthesis/forks]<br>![2026-06-25][hust-latex/hustthesis/last-commit] | :notebook_with_decorative_cover: An Unofficial Thesis Template in LaTeX for Huazhong University of Science and Technology |
+| **通用模板** | [sppmg/TW_Thesis_Template] | ![186][sppmg/TW_Thesis_Template/stars]<br>![43][sppmg/TW_Thesis_Template/forks]<br>![2023-08-07][sppmg/TW_Thesis_Template/last-commit] | The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板 |
+| **通用模板** | [jinhao-huang/SimplePaper] | ![184][jinhao-huang/SimplePaper/stars]<br>![18][jinhao-huang/SimplePaper/forks]<br>![2025-04-16][jinhao-huang/SimplePaper/last-commit] | 一个简单的 Typst 中文模板 |
 | **西安电子科技大学** | [StickCui/XDUthesis-personal] | ![175][StickCui/XDUthesis-personal/stars]<br>![70][StickCui/XDUthesis-personal/forks]<br>![2026-11-25][StickCui/XDUthesis-personal/last-commit] | XDUthesis 西安电子科技大学学位论文模板 Xidian University thesis template |
+| **北京大学** | [pku-typst/pkuthss-typst] | ![167][pku-typst/pkuthss-typst/stars]<br>![41][pku-typst/pkuthss-typst/forks]<br>![2026-09-03][pku-typst/pkuthss-typst/last-commit] | Typst template for dissertations in Peking University (PKU). |
+| **天津大学** | [twtstudio/TJUThesisLatexTemplate] | ![159][twtstudio/TJUThesisLatexTemplate/stars]<br>![30][twtstudio/TJUThesisLatexTemplate/forks]<br>![2024-06-13][twtstudio/TJUThesisLatexTemplate/last-commit] | LaTeX templates for TJU graduate thesis. Originally forked from code.google.com/p/tjuthesis |
 | **台湾成功大学**<br>*國立成功大學* | [wengan-li/ncku-thesis-template-latex] | ![153][wengan-li/ncku-thesis-template-latex/stars]<br>![50][wengan-li/ncku-thesis-template-latex/forks]<br>![2026-11-14][wengan-li/ncku-thesis-template-latex/last-commit] | NCKU Thesis/Dissertation Template in Latex \| 台灣國立成功大學碩博士用畢業論文LaTex模板 |
+| **华南理工大学** | [ShevonKuan/SCUT-thesis] | ![153][ShevonKuan/SCUT-thesis/stars]<br>![11][ShevonKuan/SCUT-thesis/forks]<br>![2024-05-24][ShevonKuan/SCUT-thesis/last-commit] | ![archived]<br>(更新于2024年) 华南理工大学 LaTeX 论文模板项目，star一下嘛~(☆▽☆)，应该是最完善也是最容易使用的华工本科生论文模板了 |
+| **深圳大学** | [Cao-Wuhui/SZU_Latex_Master_Template] | ![147][Cao-Wuhui/SZU_Latex_Master_Template/stars]<br>![20][Cao-Wuhui/SZU_Latex_Master_Template/forks]<br>![2026-06-22][Cao-Wuhui/SZU_Latex_Master_Template/last-commit] | 深圳大学硕士学位论文Latex参考模板（长期支持）。LaTeX Template for Master's Degree Theses at Shenzhen University (Long Time Support). |
+| **苏州大学** | [tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template] | ![147][tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/stars]<br>![14][tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/forks]<br>![2023-05-18][tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/last-commit] | 苏州大学研究生毕业论文Latex模板 - Overleaf |
+| **湖南大学** | [hnuthesis/hnuthesis] | ![144][hnuthesis/hnuthesis/stars]<br>![33][hnuthesis/hnuthesis/forks]<br>![2026-10-16][hnuthesis/hnuthesis/last-commit] | 湖南大学硕士学位论文 LaTeX 模板 |
+| **厦门大学** | [F5Soft/xmu-template] | ![142][F5Soft/xmu-template/stars]<br>![21][F5Soft/xmu-template/forks]<br>![2025-05-07][F5Soft/xmu-template/last-commit] | 厦门大学本科毕业论文 LaTeX 模版和毕业答辩幻灯片 LaTeX 模版 |
 | **中国人民大学** | [ZebinWang/ructhesis] | ![140][ZebinWang/ructhesis/stars]<br>![68][ZebinWang/ructhesis/forks]<br>![2022-12-07][ZebinWang/ructhesis/last-commit] | 中国人民大学LaTeX论文模板 |
+| **山东大学** | [cnDelbert/SDU_thesis_template_for_postgraduate] | ![140][cnDelbert/SDU_thesis_template_for_postgraduate/stars]<br>![42][cnDelbert/SDU_thesis_template_for_postgraduate/forks]<br>![2025-05-17][cnDelbert/SDU_thesis_template_for_postgraduate/last-commit] | 山东大学硕/博士研究生毕业论文模板 |
+| **东南大学** | [seuthesis-word/seuthesis-word.github.io] | ![139][seuthesis-word/seuthesis-word.github.io/stars]<br>![9][seuthesis-word/seuthesis-word.github.io/forks]<br>![2026-10-04][seuthesis-word/seuthesis-word.github.io/last-commit] | 东南大学硕士学位论文Word模板 Southeast University Master's Thesis Word Template |
+| **南开大学** | [Tr0py/NKU-thesis-template-2020] | ![138][Tr0py/NKU-thesis-template-2020/stars]<br>![13][Tr0py/NKU-thesis-template-2020/forks]<br>![2024-06-01][Tr0py/NKU-thesis-template-2020/last-commit] | 南开大学毕业论文模板 Nankai University Thesis Template https://tr0py.github.io/NKU-thesis-template-2020/ |
+| **（德国）慕尼黑工业大学**<br>*Technische Universität München* | [ls1intum/thesis-template-typst] | ![137][ls1intum/thesis-template-typst/stars]<br>![42][ls1intum/thesis-template-typst/forks]<br>![2026-09-11][ls1intum/thesis-template-typst/last-commit] | TUM AET thesis typst template |
+| **（新加坡）新加坡国立大学**<br>*National University of Singapore (NUS)* | [streamjoin/nusthesis] | ![135][streamjoin/nusthesis/stars]<br>![38][streamjoin/nusthesis/forks]<br>![2022-07-01][streamjoin/nusthesis/last-commit] | A LaTeX template for thesis of the National University of Singapore (NUS) |
+| **东北大学** | [sci-m-wang/NEU-Thesis] | ![134][sci-m-wang/NEU-Thesis/stars]<br>![15][sci-m-wang/NEU-Thesis/forks]<br>![2026-11-16][sci-m-wang/NEU-Thesis/last-commit] | 东北大学学位论文LaTex版 (本硕博通用)，可直接导入Overleaf。LaTex version of Northeastern University's thesis, which can be imported directly into Overleaf. |
+| **西北工业大学** | [1195343015/modern-npu-thesis] | ![133][1195343015/modern-npu-thesis/stars]<br>![113][1195343015/modern-npu-thesis/forks]<br>![2026-10-06][1195343015/modern-npu-thesis/last-commit] | 西北工业大学本科毕业设计/硕士博士学位论文 Typst 模板 |
+| **上海大学** | [BlueFisher/shuthesis] | ![133][BlueFisher/shuthesis/stars]<br>![27][BlueFisher/shuthesis/forks]<br>![2026-05-12][BlueFisher/shuthesis/last-commit] | 上海大学硕博学位论文 LaTeX 模板 Thesis Template for Shanghai University |
+| **桂林电子科技大学** | [YanMing-lxb/GUET_Thesis_LaTeX] | ![133][YanMing-lxb/GUET_Thesis_LaTeX/stars]<br>![21][YanMing-lxb/GUET_Thesis_LaTeX/forks]<br>![2026-04-15][YanMing-lxb/GUET_Thesis_LaTeX/last-commit] | 桂林电子科技大学硕博学位论文LATEX模板 |
+| **深圳大学** | [jonzhaocn/szu-thesis-master] | ![133][jonzhaocn/szu-thesis-master/stars]<br>![19][jonzhaocn/szu-thesis-master/forks]<br>![2023-11-16][jonzhaocn/szu-thesis-master/last-commit] | 深圳大学（深大）硕士学位论文latex模板 |
+| **上海科技大学** | [lirundong/shtthesis] | ![128][lirundong/shtthesis/stars]<br>![25][lirundong/shtthesis/forks]<br>![2024-01-24][lirundong/shtthesis/last-commit] | ![fork]<br>An unofficial LaTeX thesis template for ShanghaiTech University. |
 | **（德国）慕尼黑工业大学**<br>*Technische Universität München* | [TUM-LIS/tum-dissertation-latex] | ![125][TUM-LIS/tum-dissertation-latex/stars]<br>![56][TUM-LIS/tum-dissertation-latex/forks]<br>![2023-07-22][TUM-LIS/tum-dissertation-latex/last-commit] | Latex template for a TUM dissertation/PhD thesis |
 | **（葡萄牙）阿威罗大学**<br>*Universidade de Aveiro* | [detiuaveiro/ua-thesis-template] | ![124][detiuaveiro/ua-thesis-template/stars]<br>![51][detiuaveiro/ua-thesis-template/forks]<br>![2026-11-23][detiuaveiro/ua-thesis-template/last-commit] | 📖 A thesis LaTeX template that complies with the University of Aveiro's guidelines and provides a simple CLI workflow around make and compatibility with Overleaf. |
+| **四川大学** | [fanmcgrady/SCU-Thesis-LaTeX-Template] | ![124][fanmcgrady/SCU-Thesis-LaTeX-Template/stars]<br>![27][fanmcgrady/SCU-Thesis-LaTeX-Template/forks]<br>![2026-05-09][fanmcgrady/SCU-Thesis-LaTeX-Template/last-commit] | ![fork]<br>四川大学本科、硕士、博士论文LaTeX模版 |
 | **（荷兰）代尔夫特理工大学**<br>*Technische Universiteit Delft (TU Delft)* | [Inventitech/phd-thesis-template] | ![121][Inventitech/phd-thesis-template/stars]<br>![64][Inventitech/phd-thesis-template/forks]<br>![2026-01-30][Inventitech/phd-thesis-template/last-commit] | A LaTeX template for creating beautiful PhD theses, originally created by TU Delft. |
 | **（加拿大）不列颠哥伦比亚大学**<br>*University of British Columbia* | [briandealwis/ubcdiss] | ![120][briandealwis/ubcdiss/stars]<br>![104][briandealwis/ubcdiss/forks]<br>![2022-12-15][briandealwis/ubcdiss/last-commit] | A LaTeX template for dissertations at the University of British Columbia |
+| **中国海洋大学** | [summitgao/OUC-LaTex-bachelor] | ![117][summitgao/OUC-LaTex-bachelor/stars]<br>![17][summitgao/OUC-LaTex-bachelor/forks]<br>![2024-07-01][summitgao/OUC-LaTex-bachelor/last-commit] | 中国海洋大学本科生毕业论文LaTeX模板（Overleaf版） |
+| **上海大学** | [shuosc/SHU-Bachelor-Thesis-Typst] | ![116][shuosc/SHU-Bachelor-Thesis-Typst/stars]<br>![19][shuosc/SHU-Bachelor-Thesis-Typst/forks]<br>![2025-12-05][shuosc/SHU-Bachelor-Thesis-Typst/last-commit] | 上海大学本科生毕业论文Typst模板 |
+| **通用模板** | [zarrabi/thesis-template] | ![115][zarrabi/thesis-template/stars]<br>![42][zarrabi/thesis-template/forks]<br>![2025-11-15][zarrabi/thesis-template/last-commit] | A LaTeX template for typesetting theses in Persian |
+| **通用模板** | [mirea-ninja/Latex-Template-for-Report-Diploma-Thesis] | ![115][mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/stars]<br>![17][mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/forks]<br>![2023-04-13][mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/last-commit] | LaTeX шаблоны для написания отчетов/дипломов/курсовых работ |
+| **（日本）名古屋大学**<br>*名古屋大学* | [akira-okumura/MasterThesisTemplate] | ![114][akira-okumura/MasterThesisTemplate/stars]<br>![27][akira-okumura/MasterThesisTemplate/forks]<br>![2026-03-26][akira-okumura/MasterThesisTemplate/last-commit] | 修士論文 LaTeX テンプレート｜名古屋大学宇宙地球環境研究所の理学系修士学生用 |
+| **北京大学** | [xelmirage/pku_thesis_docx] | ![114][xelmirage/pku_thesis_docx/stars]<br>![18][xelmirage/pku_thesis_docx/forks]<br>![2025-01-09][xelmirage/pku_thesis_docx/last-commit] | docx版本的北京大学毕业论文模板 |
 | **（挪威）挪威科技大学**<br>*Norges teknisk-naturvitenskapelige universitet (NTNU)* | [COPCSE-NTNU/thesis-NTNU] | ![110][COPCSE-NTNU/thesis-NTNU/stars]<br>![430][COPCSE-NTNU/thesis-NTNU/forks]<br>![2025-06-11][COPCSE-NTNU/thesis-NTNU/last-commit] | An NTNU thesis LaTeX document class for bachelor, master, and PhD theses |
+| **（越南）河内国家大学**<br>*Đại học Quốc gia Hà Nội* | [leduyquang753/uet-graduation-latex] | ![109][leduyquang753/uet-graduation-latex/stars]<br>![26][leduyquang753/uet-graduation-latex/forks]<br>![2024-12-31][leduyquang753/uet-graduation-latex/last-commit] | A document class for VNU-UET graduation documents using LaTeX. |
+| **北京邮电大学** | [Jimmy-L4/BUPTGraduateThesis] | ![107][Jimmy-L4/BUPTGraduateThesis/stars]<br>![6][Jimmy-L4/BUPTGraduateThesis/forks]<br>![2024-07-17][Jimmy-L4/BUPTGraduateThesis/last-commit] | BUPTGraduateThesis提供北京邮电大学研究生学位论文LaTeX文档类，其符合北邮研究生院2014年11月发布的《关于研究生学位论文格式的统一要求》，目前已根据2017年标准修正格式、添加英文扉页，已根据2023年标准修正格式、添加答辩小组名单页，已根据2024年标准修正格式 |
+| **南京大学** | [FengChendian/NJUThesis2021] | ![106][FengChendian/NJUThesis2021/stars]<br>![27][FengChendian/NJUThesis2021/forks]<br>![2022-01-08][FengChendian/NJUThesis2021/last-commit] | ![archived] ![fork]<br>A LATEX template of NJU Thesis 2021 Version 南京大学本科生毕业论文LaTex模板 2021版 |
+| **福州大学** | [siaimes/ThesisFZU] | ![105][siaimes/ThesisFZU/stars]<br>![16][siaimes/ThesisFZU/forks]<br>![2024-01-23][siaimes/ThesisFZU/last-commit] | ![archived]<br>福州大学学位论文模板 全校全年段通用 |
+| **通用模板** | [cagix/pandoc-thesis] | ![104][cagix/pandoc-thesis/stars]<br>![26][cagix/pandoc-thesis/forks]<br>![2026-06-22][cagix/pandoc-thesis/last-commit] | Pandoc Thesis Template: A Template for Thesis Documents written in Markdown |
+| **东南大学** | [SuikaXhq/seu-bachelor-thesis-2022] | ![103][SuikaXhq/seu-bachelor-thesis-2022/stars]<br>![6][SuikaXhq/seu-bachelor-thesis-2022/forks]<br>![2024-03-09][SuikaXhq/seu-bachelor-thesis-2022/last-commit] | 东南大学本科毕业设计（论文）模版 |
+| **（希腊）雅典国家技术大学**<br>*Εθνικό Μετσόβιο Πολυτεχνείο* | [estamos/NTUA-ECE-Thesis-Template] | ![102][estamos/NTUA-ECE-Thesis-Template/stars]<br>![10][estamos/NTUA-ECE-Thesis-Template/forks]<br>![2025-07-29][estamos/NTUA-ECE-Thesis-Template/last-commit] | 📑 LaTeX Thesis Template for School of Electrical and Computer Engineering \| National Technical University of Athens |
+| **（俄罗斯）塞瓦斯托波尔国立技术大学**<br>*Севастопольський національний технічний університет* | [Amet13/overfull] | ![101][Amet13/overfull/stars]<br>![28][Amet13/overfull/forks]<br>![2026-11-25][Amet13/overfull/last-commit] | Preflight for LaTeX papers and theses, for AI agents and by hand |
+| **华东师范大学** | [ECNU-ICA/ECNU_graduation_thesis_template] | ![101][ECNU-ICA/ECNU_graduation_thesis_template/stars]<br>![21][ECNU-ICA/ECNU_graduation_thesis_template/forks]<br>![2022-03-22][ECNU-ICA/ECNU_graduation_thesis_template/last-commit] | 华东师范大学研究生毕业论文 Latex 模板 |
 | **东南大学** | [zhimengfan1990/seuthesix] | ![97][zhimengfan1990/seuthesix/stars]<br>![51][zhimengfan1990/seuthesix/forks]<br>![2023-03-19][zhimengfan1990/seuthesix/last-commit] | seuthesix: A LaTeX document class for typesetting thesis/dissertation of Southeast University. |
+| **华中科技大学** | [zfengg/HUSTtex] | ![97][zfengg/HUSTtex/stars]<br>![12][zfengg/HUSTtex/forks]<br>![2024-09-24][zfengg/HUSTtex/last-commit] | A series of TeX templates for undergraduate thesis at HUST. |
+| **北京邮电大学** | [QQKdeGit/bupt-typst] | ![97][QQKdeGit/bupt-typst/stars]<br>![9][QQKdeGit/bupt-typst/forks]<br>![2024-01-13][QQKdeGit/bupt-typst/last-commit] | 北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT). |
+| **复旦大学** | [yzbrlan/fudan-thesis-latex-template] | ![92][yzbrlan/fudan-thesis-latex-template/stars]<br>![20][yzbrlan/fudan-thesis-latex-template/forks]<br>![2023-03-30][yzbrlan/fudan-thesis-latex-template/last-commit] | 复旦论文latex模版，包括毕业论文模版，普通课程论文模版(带封皮) |
+| **广东工业大学** | [sikouhjw/gdutthesis-Word] | ![91][sikouhjw/gdutthesis-Word/stars]<br>![9][sikouhjw/gdutthesis-Word/forks]<br>![2024-04-07][sikouhjw/gdutthesis-Word/last-commit] | 广东工业大学 Word 论文模板 |
+| **大连民族大学** | [neumason/DLNU] | ![90][neumason/DLNU/stars]<br>![3][neumason/DLNU/forks]<br>![2024-03-10][neumason/DLNU/last-commit] | 大连民族大学研究生学位论文参考Latex和word模版，依据2023学校规范开发的相应Latex和word模板。 |
+| **山东大学** | [Liam0205/sduthesis] | ![89][Liam0205/sduthesis/stars]<br>![32][Liam0205/sduthesis/forks]<br>![2026-05-04][Liam0205/sduthesis/last-commit] | 山东大学学位论文模板 (LaTeX thesis template for Shandong University) |
+| **中国地质大学（武汉）** | [Timozer/CUGThesis] | ![89][Timozer/CUGThesis/stars]<br>![25][Timozer/CUGThesis/forks]<br>![2024-03-15][Timozer/CUGThesis/last-commit] | 中国地质大学（武汉）研究生学位论文 TeX 模板。目前仍然在开发和完善中，如果有下载并且使用的同学，请时常记得来这里更新模板。 |
+| **（俄罗斯）莫斯科物理技术学院**<br>*Московский Физико-Технический институт* | [yl3dy/mipt-thesis] | ![89][yl3dy/mipt-thesis/stars]<br>![25][yl3dy/mipt-thesis/forks]<br>![2022-05-25][yl3dy/mipt-thesis/last-commit] | Шаблон для дипломов в МФТИ |
+| **中国海洋大学** | [summitgao/OUC-LaTex-master] | ![88][summitgao/OUC-LaTex-master/stars]<br>![11][summitgao/OUC-LaTex-master/forks]<br>![2024-07-01][summitgao/OUC-LaTex-master/last-commit] | 中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版） |
+| **（加拿大）多伦多大学**<br>*University of Toronto* | [jessexknight/ut-thesis] | ![87][jessexknight/ut-thesis/stars]<br>![33][jessexknight/ut-thesis/forks]<br>![2024-07-26][jessexknight/ut-thesis/last-commit] | University of Toronto thesis class for LaTeX |
+| **东南大学** | [DansYU/SeuThesiY] | ![87][DansYU/SeuThesiY/stars]<br>![23][DansYU/SeuThesiY/forks]<br>![2024-11-10][DansYU/SeuThesiY/last-commit] | 用于排版东南大学硕博学位论文的LaTeX模板 |
+| **（匈牙利）罗兰大学**<br>*Eötvös Loránd Tudományegyetem (ELTE)* | [mcserep/elteikthesis] | ![87][mcserep/elteikthesis/stars]<br>![22][mcserep/elteikthesis/forks]<br>![2024-04-26][mcserep/elteikthesis/last-commit] | ELTE FI bachelor and master thesis template. |
+| **通用模板** | [severinlandolt/latex-thesis-template] | ![87][severinlandolt/latex-thesis-template/stars]<br>![16][severinlandolt/latex-thesis-template/forks]<br>![2022-09-20][severinlandolt/latex-thesis-template/last-commit] | A LaTeX template for humans. |
+| **西安电子科技大学** | [Hubert9982/typst_xdutemplate] | ![87][Hubert9982/typst_xdutemplate/stars]<br>![12][Hubert9982/typst_xdutemplate/forks]<br>![2026-05-17][Hubert9982/typst_xdutemplate/last-commit] | 西安电子科技大学本科毕业设计Typst非官方模板 |
+| **深圳技术大学** | [SZTU-ACM/SZTU-Thesis-Latex-Template] | ![86][SZTU-ACM/SZTU-Thesis-Latex-Template/stars]<br>![17][SZTU-ACM/SZTU-Thesis-Latex-Template/forks]<br>![2026-05-14][SZTU-ACM/SZTU-Thesis-Latex-Template/last-commit] | 深圳技术大学本科毕业论文Latex模板 |
+| **天津大学** | [haimingz/tjuthesis] | ![85][haimingz/tjuthesis/stars]<br>![17][haimingz/tjuthesis/forks]<br>![2026-11-24][haimingz/tjuthesis/last-commit] | LaTeX template for Tianjin University Master's and Doctoral Theses. 天津大学硕博学位论文 LaTeX 模板。 |
+| **湖南大学** | [XayahSuSuSu/Latex-HNUThesisTemplate] | ![85][XayahSuSuSu/Latex-HNUThesisTemplate/stars]<br>![14][XayahSuSuSu/Latex-HNUThesisTemplate/forks]<br>![2024-05-05][XayahSuSuSu/Latex-HNUThesisTemplate/last-commit] | 湖南大学本科毕业论文LaTeX模板（大理类） |
+| **上海交通大学** | [sjtug/modern-sjtu-thesis] | ![85][sjtug/modern-sjtu-thesis/stars]<br>![11][sjtug/modern-sjtu-thesis/forks]<br>![2026-10-15][sjtug/modern-sjtu-thesis/last-commit] | 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template) |
+| **台湾台北科技大学**<br>*國立臺北科技大學* | [c1ydehhx/NTUT-Thesis-Template] | ![84][c1ydehhx/NTUT-Thesis-Template/stars]<br>![27][c1ydehhx/NTUT-Thesis-Template/forks]<br>![2026-08-18][c1ydehhx/NTUT-Thesis-Template/last-commit] | A XeLaTeX thesis template for National Taipei University of Technology. |
+| **华东师范大学** | [Koyamin/ecnuthesis] | ![84][Koyamin/ecnuthesis/stars]<br>![20][Koyamin/ecnuthesis/forks]<br>![2026-11-08][Koyamin/ecnuthesis/last-commit] | LaTeX Thesis Template for East China Normal University (ECNU) |
+| **吉林大学** | [maxuewei2/JLUThesis2020] | ![84][maxuewei2/JLUThesis2020/stars]<br>![15][maxuewei2/JLUThesis2020/forks]<br>![2026-07-24][maxuewei2/JLUThesis2020/last-commit] | 吉林大学硕博学位论文 LaTeX 模板——jluthesis2020 |
+| **南开大学** | [alumik/nkthesis] | ![84][alumik/nkthesis/stars]<br>![3][alumik/nkthesis/forks]<br>![2026-11-05][alumik/nkthesis/last-commit] | 南开大学硕士博士毕业论文模板（2026年9月修订版）Nankai University Master's and Doctoral Thesis LaTeX Template (Revised September 2026) |
+| **（马耳他）马耳他大学**<br>*L-Università ta' Malta* | [jp-um/university_of_malta_LaTeX_dissertation_template] | ![81][jp-um/university_of_malta_LaTeX_dissertation_template/stars]<br>![36][jp-um/university_of_malta_LaTeX_dissertation_template/forks]<br>![2026-10-26][jp-um/university_of_malta_LaTeX_dissertation_template/last-commit] | A modern, highly configurable assignment/project/fyp/dissertation/thesis template. |
+| **河海大学** | [caowenhan/hhuthesis] | ![81][caowenhan/hhuthesis/stars]<br>![17][caowenhan/hhuthesis/forks]<br>![2022-02-11][caowenhan/hhuthesis/last-commit] | Aiming at the dissertations nonstandard format problems such as chart format, writing format and formula format, a simple and easy-to-use LaTeX template for Hohai dissertations is provided. The template strictly follows the requirements of the academic committee of Hohai University on the format of the dissertations and the corresponding national standards and specifications. |
+| **西南交通大学** | [Sophie10001b/swjtuThesisV3.0] | ![81][Sophie10001b/swjtuThesisV3.0/stars]<br>![14][Sophie10001b/swjtuThesisV3.0/forks]<br>![2026-05-27][Sophie10001b/swjtuThesisV3.0/last-commit] | V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0) |
+| **四川大学** | [SunnyHaze/scu-thesis-template] | ![81][SunnyHaze/scu-thesis-template/stars]<br>![3][SunnyHaze/scu-thesis-template/forks]<br>![2026-07-04][SunnyHaze/scu-thesis-template/last-commit] | 四川大学本科毕业论文word模板及常见要求 |
+| **同济大学** | [TJ-CSCCG/Tongji-Beamer] | ![80][TJ-CSCCG/Tongji-Beamer/stars]<br>![9][TJ-CSCCG/Tongji-Beamer/forks]<br>![2023-11-22][TJ-CSCCG/Tongji-Beamer/last-commit] | :page_facing_up: 同济大学 Beamer / 幻灯片 模板，一个其他大学 Beamer 模板的本土化套壳，支持 Overleaf / Windows / Linux。 |
+| **重庆大学** | [neardws/My-Doctoral-Dissertation] | ![79][neardws/My-Doctoral-Dissertation/stars]<br>![13][neardws/My-Doctoral-Dissertation/forks]<br>![2024-03-30][neardws/My-Doctoral-Dissertation/last-commit] | 重庆大学博士学位论文LaTex模版，支持2023年格式要求 |
+| **南京邮电大学** | [gzr-lgtm/NJUPThesis-Bachelor] | ![79][gzr-lgtm/NJUPThesis-Bachelor/stars]<br>![11][gzr-lgtm/NJUPThesis-Bachelor/forks]<br>![2022-05-02][gzr-lgtm/NJUPThesis-Bachelor/last-commit] | LaTeX template for NJUPT Undergraduate Thesis. 南京邮电大学本科毕业论文LaTeX模版。 |
 | **（美国）加利福尼亚大学欧文分校**<br>*University of California, Irvine (UCI)* | [lotten/uci-thesis-latex] | ![78][lotten/uci-thesis-latex/stars]<br>![58][lotten/uci-thesis-latex/forks]<br>![2025-09-06][lotten/uci-thesis-latex/last-commit] | LaTeX template for thesis and dissertation documents at UC Irvine |
+| **中南大学** | [CSGrandeur/CSU-Thesis-LaTeX-Template] | ![78][CSGrandeur/CSU-Thesis-LaTeX-Template/stars]<br>![36][CSGrandeur/CSU-Thesis-LaTeX-Template/forks]<br>![2022-06-27][CSGrandeur/CSU-Thesis-LaTeX-Template/last-commit] | 中南大学学位论文LaTeX模板 |
+| **西北工业大学** | [lihanshu/NWPU-Thesis-Template] | ![78][lihanshu/NWPU-Thesis-Template/stars]<br>![10][lihanshu/NWPU-Thesis-Template/forks]<br>![2025-12-10][lihanshu/NWPU-Thesis-Template/last-commit] | 西北工业大学 2025 本科毕业设计 LaTeX 模板 (中文) Northwestern Polytechnical University 2025 Undergraduate Graduation Design Thesis LaTeX Template |
+| **（荷兰）代尔夫特理工大学**<br>*Technische Universiteit Delft (TU Delft)* | [dzwaneveld/tudelft-report-thesis-template] | ![77][dzwaneveld/tudelft-report-thesis-template/stars]<br>![23][dzwaneveld/tudelft-report-thesis-template/forks]<br>![2024-09-05][dzwaneveld/tudelft-report-thesis-template/last-commit] | A LaTeX report/thesis template that aims to simplify and improve the (Xe)LaTeX template provided by the TU Delft. Ready-to-go with its rewritten class file and redesigned cover page. |
+| **暨南大学** | [Latiyas/JNUThesis] | ![77][Latiyas/JNUThesis/stars]<br>![11][Latiyas/JNUThesis/forks]<br>![2026-09-03][Latiyas/JNUThesis/last-commit] | 暨南大学硕博士学位论文Overleaf模板 |
+| **南京信息工程大学** | [sakronos/NUIST_Bachelor_Thesis_LaTeX_Template] | ![77][sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/stars]<br>![10][sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/forks]<br>![2022-05-14][sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/last-commit] | 南京信息工程大学本科生毕业论文 LaTeX 模板 |
 | **（美国）加利福尼亚大学圣迭戈分校**<br>*University of California, San Diego (UCSD)* | [ucsd-thesis/ucsd-thesis] | ![76][ucsd-thesis/ucsd-thesis/stars]<br>![61][ucsd-thesis/ucsd-thesis/forks]<br>![2022-06-27][ucsd-thesis/ucsd-thesis/last-commit] |  |
+| **郑州大学** | [tuxify/zzuthesis] | ![74][tuxify/zzuthesis/stars]<br>![24][tuxify/zzuthesis/forks]<br>![2023-05-31][tuxify/zzuthesis/last-commit] | 郑州大学本科毕业设计(论文)和研究生学位论文(含 硕士和博士) LaTex 模版。--Imported from code.google.com/p/zzuthesis |
+| **武汉理工大学** | [huangyxi/WHUT-Bachelor] | ![74][huangyxi/WHUT-Bachelor/stars]<br>![10][huangyxi/WHUT-Bachelor/forks]<br>![2026-03-09][huangyxi/WHUT-Bachelor/last-commit] | 武汉理工大学本科生毕业设计（论文） LaTeX 模板 LaTeX Template for Bachelor's Degree Thesis at Wuhan University of Technology (WHUT) |
+| **桂林电子科技大学** | [wrm244/GUEThesis] | ![74][wrm244/GUEThesis/stars]<br>![8][wrm244/GUEThesis/forks]<br>![2024-05-23][wrm244/GUEThesis/last-commit] | 桂林电子科技大学本科毕业论文(毕业设计)LaTex模板 |
+| **中国矿业大学** | [OpenCUMT/thesis-latex] | ![73][OpenCUMT/thesis-latex/stars]<br>![9][OpenCUMT/thesis-latex/forks]<br>![2026-01-30][OpenCUMT/thesis-latex/last-commit] | 中国矿业大学学位论文 LaTeX 模板 (CUMT Thesis LaTeX Template)。支持本科、硕士、博士学位论文撰写。 |
+| **（土耳其）伊斯坦布尔科技大学**<br>*istanbul Teknik Üniversitesi (ITU)* | [ondes/Template-Latex-ITU-Thesis] | ![71][ondes/Template-Latex-ITU-Thesis/stars]<br>![25][ondes/Template-Latex-ITU-Thesis/forks]<br>![2023-10-21][ondes/Template-Latex-ITU-Thesis/last-commit] | LaTeX Template of Istanbul Technical University thesis projects |
+| **北京航空航天大学** | [ixzhao/BUAA_Dissertation_Template] | ![71][ixzhao/BUAA_Dissertation_Template/stars]<br>![11][ixzhao/BUAA_Dissertation_Template/forks]<br>![2025-02-15][ixzhao/BUAA_Dissertation_Template/last-commit] | ![archived]<br>北航硕博研究生毕业设计论文模板（Word） |
+| **（澳大利亚）莫纳什大学**<br>*Monash University* | [robjhyndman/MonashThesis] | ![70][robjhyndman/MonashThesis/stars]<br>![52][robjhyndman/MonashThesis/forks]<br>![2021-12-30][robjhyndman/MonashThesis/last-commit] | Monash PhD thesis template |
+| **（德国）IU国际应用科学大学**<br>*IU International University of Applied Sciences* | [markushaug/iu-latex-template] | ![68][markushaug/iu-latex-template/stars]<br>![17][markushaug/iu-latex-template/forks]<br>![2026-01-21][markushaug/iu-latex-template/last-commit] | LaTex Template for academic papers at the IU International University (2026) |
+| **（智利）智利天主教大学**<br>*Pontificia Universidad Católica de Chile* | [open-source-uc/latex-templates] | ![68][open-source-uc/latex-templates/stars]<br>![14][open-source-uc/latex-templates/forks]<br>![2026-09-18][open-source-uc/latex-templates/last-commit] | Repositorio donde se recopilan los templates creados por la comunidad OSUC |
 | **（美国）马萨诸塞大学**<br>*University of Massachusetts (UMass)* | [umasscs/umassthesis] | ![67][umasscs/umassthesis/stars]<br>![52][umasscs/umassthesis/forks]<br>![2023-10-18][umasscs/umassthesis/last-commit] | Unofficial UMass thesis style files for use with LaTeX |
+| **河海大学** | [davyxx3/hhu-thesis-bachelor] | ![67][davyxx3/hhu-thesis-bachelor/stars]<br>![3][davyxx3/hhu-thesis-bachelor/forks]<br>![2024-06-21][davyxx3/hhu-thesis-bachelor/last-commit] | 河海大学本科毕业论文LaTeX模板（理工科）【2024年更新】 |
+| **台湾阳明交通大学**<br>*國立陽明交通大學* | [JingWangTW/NYCU-Thesis-Template] | ![66][JingWangTW/NYCU-Thesis-Template/stars]<br>![15][JingWangTW/NYCU-Thesis-Template/forks]<br>![2025-02-23][JingWangTW/NYCU-Thesis-Template/last-commit] | ![fork]<br>LaTeX Template of Thesis for National Yang Ming Chiao Tung University (NYCU) |
+| **（俄罗斯）塞瓦斯托波尔国立技术大学**<br>*Севастопольський національний технічний університет* | [Amet13/proofback] | ![65][Amet13/proofback/stars]<br>![15][Amet13/proofback/forks]<br>![2026-11-25][Amet13/proofback/last-commit] | Дипломная работа бакалавра в LaTeX, оформленная в соответствии с нормоконтролем СевГУ в 2015 году |
+| **东南大学** | [Teddy-van-Jerry/seuthesis2024b] | ![65][Teddy-van-Jerry/seuthesis2024b/stars]<br>![5][Teddy-van-Jerry/seuthesis2024b/forks]<br>![2024-08-28][Teddy-van-Jerry/seuthesis2024b/last-commit] | LaTeX Template of Southeast University Thesis for Class of 2024 Bachelors (东南大学 2024 届本科毕设 LaTeX 模板) |
 | **通用模板** | [being24/latex-template-ja] | ![64][being24/latex-template-ja/stars]<br>![64][being24/latex-template-ja/forks]<br>![2026-11-24][being24/latex-template-ja/last-commit] | できるだけ簡単にLaTeX環境を構築できるようにするテンプレート |
+| **杭州电子科技大学** | [myhsia/hduthesis] | ![64][myhsia/hduthesis/stars]<br>![0][myhsia/hduthesis/forks]<br>![2025-03-24][myhsia/hduthesis/last-commit] | 杭州电子科技大学学位论文 LaTeX 模板 / LaTeX class for bachelor and MPhil theses in Hangzhou Dianzi University. Also available on Gitee: https://gitee.com/myhsia/hduthesis |
+| **（美国）麻省理工学院**<br>*Massachusetts Institute of Technology (MIT)* | [kljensen/mit-phd-thesis] | ![63][kljensen/mit-phd-thesis/stars]<br>![31][kljensen/mit-phd-thesis/forks]<br>![2024-02-26][kljensen/mit-phd-thesis/last-commit] | ![archived]<br>MIT Ph.D. Thesis in LaTeX |
+| **（波兰）华沙工业大学**<br>*Politechnika Warszawska* | [SP5LMA/EE-dyplom] | ![63][SP5LMA/EE-dyplom/stars]<br>![14][SP5LMA/EE-dyplom/forks]<br>![2026-06-08][SP5LMA/EE-dyplom/last-commit] | Szablon prac dyplomowych na Wydziale Elektrycznym Politechniki Warszawskiej, zgodny z obowiązującymi wytycznymi, w tym Zarządzeniem JM Rektora 4/2022 z późniejszymi zmianami. |
+| **通用模板** | [zagoli/simple-typst-thesis] | ![63][zagoli/simple-typst-thesis/stars]<br>![4][zagoli/simple-typst-thesis/forks]<br>![2025-04-11][zagoli/simple-typst-thesis/last-commit] | A template to use for a simple thesis written in Typst. |
+| **（奥地利）约翰内斯·开普勒大学**<br>*Johannes Kepler Universität Linz* | [michaelroland/jku-templates-report-latex] | ![62][michaelroland/jku-templates-report-latex/stars]<br>![19][michaelroland/jku-templates-report-latex/forks]<br>![2026-05-13][michaelroland/jku-templates-report-latex/last-commit] | LaTeX Thesis and Technical Report Template for Johannes Kepler University Linz |
+| **上海理工大学** | [FrankSFLYS/usstthesis] | ![62][FrankSFLYS/usstthesis/stars]<br>![5][FrankSFLYS/usstthesis/forks]<br>![2026-05-15][FrankSFLYS/usstthesis/last-commit] | 上海理工大学本科毕业设计（论文）LaTeX 模板 |
+| **（美国）斯坦福大学**<br>*Stanford University* | [dcroote/stanford-thesis-example] | ![61][dcroote/stanford-thesis-example/stars]<br>![22][dcroote/stanford-thesis-example/forks]<br>![2026-11-25][dcroote/stanford-thesis-example/last-commit] | Stanford LaTeX thesis template |
+| **哈尔滨工业大学** | [hitszosa/universal-hit-thesis] | ![61][hitszosa/universal-hit-thesis/stars]<br>![12][hitszosa/universal-hit-thesis/forks]<br>![2026-09-24][hitszosa/universal-hit-thesis/last-commit] | 哈尔滨工业大学 Typst 论文模板 |
+| **（新加坡）南洋理工大学**<br>*Nanyang Technological University (NTU)* | [doem97/NTU-EEE-MSc-Dissertation-Template] | ![61][doem97/NTU-EEE-MSc-Dissertation-Template/stars]<br>![4][doem97/NTU-EEE-MSc-Dissertation-Template/forks]<br>![2022-07-15][doem97/NTU-EEE-MSc-Dissertation-Template/last-commit] | EEE Latex Dissertation Template, Nanyang Technological University (NTU), re-defined in 2021 |
+| **南昌大学** | [Jin-bao/NCU-thesis] | ![61][Jin-bao/NCU-thesis/stars]<br>![3][Jin-bao/NCU-thesis/forks]<br>![2026-03-19][Jin-bao/NCU-thesis/last-commit] | 南昌大学学位（毕业）论文 LaTeX 模板 |
+| **北京科技大学** | [Jeff-Hugh/USTBThesis] | ![60][Jeff-Hugh/USTBThesis/stars]<br>![14][Jeff-Hugh/USTBThesis/forks]<br>![2022-12-01][Jeff-Hugh/USTBThesis/last-commit] | Thesis Tex model for USTB |
+| **武汉大学** | [AaronComo/WHU-Bachelor-Thesis-Template] | ![59][AaronComo/WHU-Bachelor-Thesis-Template/stars]<br>![7][AaronComo/WHU-Bachelor-Thesis-Template/forks]<br>![2025-05-07][AaronComo/WHU-Bachelor-Thesis-Template/last-commit] | 武汉大学本科生毕业设计（论文）LaTeX 模板，2025 网安院版 |
+| **（德国）斯图加特大学**<br>*Universität Stuttgart* | [latextemplates/uni-stuttgart-dissertation-template] | ![58][latextemplates/uni-stuttgart-dissertation-template/stars]<br>![20][latextemplates/uni-stuttgart-dissertation-template/forks]<br>![2026-11-20][latextemplates/uni-stuttgart-dissertation-template/last-commit] | Unofficial LaTeX template for a PhD thesis at University of Stuttgart, Germany |
+| **（英国）爱丁堡大学**<br>*Oilthigh Dhùn Èideann* | [james-d-h/quarto-phd-thesis] | ![58][james-d-h/quarto-phd-thesis/stars]<br>![17][james-d-h/quarto-phd-thesis/forks]<br>![2023-05-03][james-d-h/quarto-phd-thesis/last-commit] | Quarto Template PhD Thesis - The University of Edinburgh |
+| **重庆邮电大学** | [coding-tan/CQUPTtex] | ![58][coding-tan/CQUPTtex/stars]<br>![8][coding-tan/CQUPTtex/forks]<br>![2022-07-21][coding-tan/CQUPTtex/last-commit] | 依据重庆邮电大学本科生毕业论文格式要求整理，2022年7月更新 |
+| **武汉理工大学** | [Jiayin-Gu/WUTthesis] | ![57][Jiayin-Gu/WUTthesis/stars]<br>![15][Jiayin-Gu/WUTthesis/forks]<br>![2026-11-24][Jiayin-Gu/WUTthesis/last-commit] | 武汉理工大学研究生学位论文LaTeX模板 |
+| **澳门科技大学**<br>*澳門科技大學* | [iihciyekub/MUST-Thesis] | ![56][iihciyekub/MUST-Thesis/stars]<br>![16][iihciyekub/MUST-Thesis/forks]<br>![2024-04-25][iihciyekub/MUST-Thesis/last-commit] | latex-template: 澳门科技大学,硕士or博士毕业论文模版 |
+| **上海海事大学** | [hellckt/SHMTUThesis] | ![56][hellckt/SHMTUThesis/stars]<br>![16][hellckt/SHMTUThesis/forks]<br>![2022-05-29][hellckt/SHMTUThesis/last-commit] | 上海海事大学 LaTeX 学位论文模板 |
+| **通用模板** | [ut-khanlab/master_thesis_template_for_typst] | ![56][ut-khanlab/master_thesis_template_for_typst/stars]<br>![5][ut-khanlab/master_thesis_template_for_typst/forks]<br>![2024-12-30][ut-khanlab/master_thesis_template_for_typst/last-commit] | Writing in typst, thesis template |
+| **中山大学** | [howardlau1999/sysu-thesis-typst] | ![56][howardlau1999/sysu-thesis-typst/stars]<br>![4][howardlau1999/sysu-thesis-typst/forks]<br>![2024-09-27][howardlau1999/sysu-thesis-typst/last-commit] | ![archived]<br>中山大学学位论文 Typst 模板 |
 | **（挪威）特罗姆瑟大学- 挪威北极圈大学**<br>*Universitetet i Tromsø – Norges arktiske universitet* | [egraff/uit-thesis] | ![55][egraff/uit-thesis/stars]<br>![55][egraff/uit-thesis/forks]<br>![2026-11-20][egraff/uit-thesis/last-commit] | LaTeX document class for writing theses |
+| **北京交通大学** | [paulzhn/bjtu-bachelor-thesis] | ![55][paulzhn/bjtu-bachelor-thesis/stars]<br>![6][paulzhn/bjtu-bachelor-thesis/forks]<br>![2022-06-28][paulzhn/bjtu-bachelor-thesis/last-commit] | 北京交通大学本科毕设latex模板（非官方） |
+| **北京化工大学** | [the-ccsn/BUCTthesis] | ![55][the-ccsn/BUCTthesis/stars]<br>![5][the-ccsn/BUCTthesis/forks]<br>![2024-07-10][the-ccsn/BUCTthesis/last-commit] | 📝A LaTeX writting template for BUCT thesis. |
+| **通用模板** | [danielvartan/abnt] | ![54][danielvartan/abnt/stars]<br>![3][danielvartan/abnt/forks]<br>![2026-01-28][danielvartan/abnt/last-commit] | 📓 Quarto Format for ABNT Theses and Dissertations |
+| **浙江工业大学** | [zjutjh/zjutthesis] | ![53][zjutjh/zjutthesis/stars]<br>![31][zjutjh/zjutthesis/forks]<br>![2023-01-30][zjutjh/zjutthesis/last-commit] | ZJUT XeLaTeX template of graduation project |
+| **台湾阳明交通大学**<br>*國立陽明交通大學* | [Po-haoHuang/nctu-thesis] | ![53][Po-haoHuang/nctu-thesis/stars]<br>![20][Po-haoHuang/nctu-thesis/forks]<br>![2023-02-19][Po-haoHuang/nctu-thesis/last-commit] | ![fork]<br>NCTU thesis template for XeLaTeX |
+| **华南理工大学** | [OChicken/SCUT-Bachelor-Thesis-Template] | ![53][OChicken/SCUT-Bachelor-Thesis-Template/stars]<br>![11][OChicken/SCUT-Bachelor-Thesis-Template/forks]<br>![2024-04-13][OChicken/SCUT-Bachelor-Thesis-Template/last-commit] | Latex template for the bachelor graduation thesis of South China University of Technology (SCUT) 华南理工大学 本科毕业论文LaTeX模板 |
+| **西南财经大学** | [sierxue/ThesisSWUFE] | ![53][sierxue/ThesisSWUFE/stars]<br>![11][sierxue/ThesisSWUFE/forks]<br>![2023-01-01][sierxue/ThesisSWUFE/last-commit] | 西南财经大学毕业论文模板 |
+| **（美国）明尼苏达大学**<br>*University of Minnesota* | [agude/UMN-PhD-Thesis-Template] | ![52][agude/UMN-PhD-Thesis-Template/stars]<br>![45][agude/UMN-PhD-Thesis-Template/forks]<br>![2026-09-19][agude/UMN-PhD-Thesis-Template/last-commit] | The LaTeX thesis template provided by the University of Minnesota, with various improvements. |
+| **香港科技大学**<br>*香港科技大學* | [onlytailei/HKUST_latex_thesis_2019] | ![51][onlytailei/HKUST_latex_thesis_2019/stars]<br>![16][onlytailei/HKUST_latex_thesis_2019/forks]<br>![2023-01-02][onlytailei/HKUST_latex_thesis_2019/last-commit] | HKUST thesis latex template for PhD and MPhil, especially for ECE, 2019 |
+| **上海工程技术大学** | [MobtgZhang/sues-thesis] | ![51][MobtgZhang/sues-thesis/stars]<br>![8][MobtgZhang/sues-thesis/forks]<br>![2025-03-17][MobtgZhang/sues-thesis/last-commit] | 上海工程技术大学硕士学位论文模板 |
+| **暨南大学** | [ytZhou/JNUMasterThesis] | ![50][ytZhou/JNUMasterThesis/stars]<br>![15][ytZhou/JNUMasterThesis/forks]<br>![2023-06-16][ytZhou/JNUMasterThesis/last-commit] | 暨南大学硕士学位论文LaTex模板 |
+| **长安大学** | [xiaoleeza/chdthesis] | ![50][xiaoleeza/chdthesis/stars]<br>![11][xiaoleeza/chdthesis/forks]<br>![2025-07-29][xiaoleeza/chdthesis/last-commit] | 长安大学研究生学位论文LaTeX模板 |
+| **中国海洋大学** | [OSOUC/UndergraduateThesisLaTeXTemplate] | ![50][OSOUC/UndergraduateThesisLaTeXTemplate/stars]<br>![9][OSOUC/UndergraduateThesisLaTeXTemplate/forks]<br>![2022-05-01][OSOUC/UndergraduateThesisLaTeXTemplate/last-commit] | 中国海洋大学本科毕业论文LaTeX模版 OUC Undergraduate Thesis LaTeX Template |
+| **北京师范大学** | [jinyiliu/bnu-thesis-template] | ![50][jinyiliu/bnu-thesis-template/stars]<br>![8][jinyiliu/bnu-thesis-template/forks]<br>![2025-03-03][jinyiliu/bnu-thesis-template/last-commit] | Beijing Normal University bachelor, master and doctor thesis templates. |
 | **（瑞士）苏黎世应用科技大学**<br>*ZHAW Zürcher Hochschule für Angewandte Wissenschaften* | [matteodelucchi/ZHAW_thesis-template] | ![46][matteodelucchi/ZHAW_thesis-template/stars]<br>![92][matteodelucchi/ZHAW_thesis-template/forks]<br>![2024-10-28][matteodelucchi/ZHAW_thesis-template/last-commit] | LaTeX thesis template for ZHAW, Zurich University of Applied Sciences. |
+| **（英国）牛津大学**<br>*University of Oxford* | [maurovm/thesis_template] | ![30][maurovm/thesis_template/stars]<br>![43][maurovm/thesis_template/forks]<br>![2026-05-28][maurovm/thesis_template/last-commit] | LaTeX class for an undergraduate 4th year project (4YP) report or a DPhil / PhD doctoral thesis for a student of the Department of Engineering Science at the University of Oxford |
 | **（意大利）帕多瓦大学**<br>*Università degli Studi di Padova (UNIPD)* | [FIUP/Thesis-template] | ![25][FIUP/Thesis-template/stars]<br>![56][FIUP/Thesis-template/forks]<br>![2024-02-11][FIUP/Thesis-template/last-commit] | A simple Thesis template for the Bachelor's Degree in Computer Science @Unipadova |
+| **（印度尼西亚）加查马达大学**<br>*Universitas Gadjah Mada (UGM)* | [canggihpw/thesisdtetiugm] | ![18][canggihpw/thesisdtetiugm/stars]<br>![39][canggihpw/thesisdtetiugm/forks]<br>![2023-03-08][canggihpw/thesisdtetiugm/last-commit] | Latex Template for Thesis Writing at DTETI UGM |
 
 [archived]: https://img.shields.io/badge/archived-TRUE-orange?style=plastic
 [fork]: https://img.shields.io/badge/fork-TRUE-green?style=plastic
@@ -175,6 +310,10 @@
 [BHOSC/BUAAthesis/stars]: https://img.shields.io/github/stars/BHOSC/BUAAthesis?style=flat-square
 [BHOSC/BUAAthesis/forks]: https://img.shields.io/github/forks/BHOSC/BUAAthesis?style=flat-square
 [BHOSC/BUAAthesis/last-commit]: https://img.shields.io/github/last-commit/BHOSC/BUAAthesis?style=flat-square
+[tompollard/phd_thesis_markdown]: https://github.com/tompollard/phd_thesis_markdown
+[tompollard/phd_thesis_markdown/stars]: https://img.shields.io/github/stars/tompollard/phd_thesis_markdown?style=flat-square
+[tompollard/phd_thesis_markdown/forks]: https://img.shields.io/github/forks/tompollard/phd_thesis_markdown?style=flat-square
+[tompollard/phd_thesis_markdown/last-commit]: https://img.shields.io/github/last-commit/tompollard/phd_thesis_markdown?style=flat-square
 [Pseudomanifold/latex-mimosis]: https://github.com/Pseudomanifold/latex-mimosis
 [Pseudomanifold/latex-mimosis/stars]: https://img.shields.io/github/stars/Pseudomanifold/latex-mimosis?style=flat-square
 [Pseudomanifold/latex-mimosis/forks]: https://img.shields.io/github/forks/Pseudomanifold/latex-mimosis?style=flat-square
@@ -207,6 +346,10 @@
 [kks32/phd-thesis-template/stars]: https://img.shields.io/github/stars/kks32/phd-thesis-template?style=flat-square
 [kks32/phd-thesis-template/forks]: https://img.shields.io/github/forks/kks32/phd-thesis-template?style=flat-square
 [kks32/phd-thesis-template/last-commit]: https://img.shields.io/github/last-commit/kks32/phd-thesis-template?style=flat-square
+[ismayc/thesisdown]: https://github.com/ismayc/thesisdown
+[ismayc/thesisdown/stars]: https://img.shields.io/github/stars/ismayc/thesisdown?style=flat-square
+[ismayc/thesisdown/forks]: https://img.shields.io/github/forks/ismayc/thesisdown?style=flat-square
+[ismayc/thesisdown/last-commit]: https://img.shields.io/github/last-commit/ismayc/thesisdown?style=flat-square
 [suchow/Dissertate]: https://github.com/suchow/Dissertate
 [suchow/Dissertate/stars]: https://img.shields.io/github/stars/suchow/Dissertate?style=flat-square
 [suchow/Dissertate/forks]: https://img.shields.io/github/forks/suchow/Dissertate?style=flat-square
@@ -387,6 +530,18 @@
 [cambridge/thesis/stars]: https://img.shields.io/github/stars/cambridge/thesis?style=flat-square
 [cambridge/thesis/forks]: https://img.shields.io/github/forks/cambridge/thesis?style=flat-square
 [cambridge/thesis/last-commit]: https://img.shields.io/github/last-commit/cambridge/thesis?style=flat-square
+[sigmarising/BUPTMasterThesisWord]: https://github.com/sigmarising/BUPTMasterThesisWord
+[sigmarising/BUPTMasterThesisWord/stars]: https://img.shields.io/github/stars/sigmarising/BUPTMasterThesisWord?style=flat-square
+[sigmarising/BUPTMasterThesisWord/forks]: https://img.shields.io/github/forks/sigmarising/BUPTMasterThesisWord?style=flat-square
+[sigmarising/BUPTMasterThesisWord/last-commit]: https://img.shields.io/github/last-commit/sigmarising/BUPTMasterThesisWord?style=flat-square
+[fatalerror-i/ThuWordThesis]: https://github.com/fatalerror-i/ThuWordThesis
+[fatalerror-i/ThuWordThesis/stars]: https://img.shields.io/github/stars/fatalerror-i/ThuWordThesis?style=flat-square
+[fatalerror-i/ThuWordThesis/forks]: https://img.shields.io/github/forks/fatalerror-i/ThuWordThesis?style=flat-square
+[fatalerror-i/ThuWordThesis/last-commit]: https://img.shields.io/github/last-commit/fatalerror-i/ThuWordThesis?style=flat-square
+[ulyngs/oxforddown]: https://github.com/ulyngs/oxforddown
+[ulyngs/oxforddown/stars]: https://img.shields.io/github/stars/ulyngs/oxforddown?style=flat-square
+[ulyngs/oxforddown/forks]: https://img.shields.io/github/forks/ulyngs/oxforddown?style=flat-square
+[ulyngs/oxforddown/last-commit]: https://img.shields.io/github/last-commit/ulyngs/oxforddown?style=flat-square
 [HFUTTUG/HFUT_Thesis]: https://github.com/HFUTTUG/HFUT_Thesis
 [HFUTTUG/HFUT_Thesis/stars]: https://img.shields.io/github/stars/HFUTTUG/HFUT_Thesis?style=flat-square
 [HFUTTUG/HFUT_Thesis/forks]: https://img.shields.io/github/forks/HFUTTUG/HFUT_Thesis?style=flat-square
@@ -427,18 +582,110 @@
 [UCL/ucl-latex-thesis-templates/stars]: https://img.shields.io/github/stars/UCL/ucl-latex-thesis-templates?style=flat-square
 [UCL/ucl-latex-thesis-templates/forks]: https://img.shields.io/github/forks/UCL/ucl-latex-thesis-templates?style=flat-square
 [UCL/ucl-latex-thesis-templates/last-commit]: https://img.shields.io/github/last-commit/UCL/ucl-latex-thesis-templates?style=flat-square
+[sinamomken/tehran-thesis]: https://github.com/sinamomken/tehran-thesis
+[sinamomken/tehran-thesis/stars]: https://img.shields.io/github/stars/sinamomken/tehran-thesis?style=flat-square
+[sinamomken/tehran-thesis/forks]: https://img.shields.io/github/forks/sinamomken/tehran-thesis?style=flat-square
+[sinamomken/tehran-thesis/last-commit]: https://img.shields.io/github/last-commit/sinamomken/tehran-thesis?style=flat-square
+[wen-fei/seu-thesis-latex-template]: https://github.com/wen-fei/seu-thesis-latex-template
+[wen-fei/seu-thesis-latex-template/stars]: https://img.shields.io/github/stars/wen-fei/seu-thesis-latex-template?style=flat-square
+[wen-fei/seu-thesis-latex-template/forks]: https://img.shields.io/github/forks/wen-fei/seu-thesis-latex-template?style=flat-square
+[wen-fei/seu-thesis-latex-template/last-commit]: https://img.shields.io/github/last-commit/wen-fei/seu-thesis-latex-template?style=flat-square
+[hust-latex/hustthesis]: https://github.com/hust-latex/hustthesis
+[hust-latex/hustthesis/stars]: https://img.shields.io/github/stars/hust-latex/hustthesis?style=flat-square
+[hust-latex/hustthesis/forks]: https://img.shields.io/github/forks/hust-latex/hustthesis?style=flat-square
+[hust-latex/hustthesis/last-commit]: https://img.shields.io/github/last-commit/hust-latex/hustthesis?style=flat-square
+[sppmg/TW_Thesis_Template]: https://github.com/sppmg/TW_Thesis_Template
+[sppmg/TW_Thesis_Template/stars]: https://img.shields.io/github/stars/sppmg/TW_Thesis_Template?style=flat-square
+[sppmg/TW_Thesis_Template/forks]: https://img.shields.io/github/forks/sppmg/TW_Thesis_Template?style=flat-square
+[sppmg/TW_Thesis_Template/last-commit]: https://img.shields.io/github/last-commit/sppmg/TW_Thesis_Template?style=flat-square
+[jinhao-huang/SimplePaper]: https://github.com/jinhao-huang/SimplePaper
+[jinhao-huang/SimplePaper/stars]: https://img.shields.io/github/stars/jinhao-huang/SimplePaper?style=flat-square
+[jinhao-huang/SimplePaper/forks]: https://img.shields.io/github/forks/jinhao-huang/SimplePaper?style=flat-square
+[jinhao-huang/SimplePaper/last-commit]: https://img.shields.io/github/last-commit/jinhao-huang/SimplePaper?style=flat-square
 [StickCui/XDUthesis-personal]: https://github.com/StickCui/XDUthesis-personal
 [StickCui/XDUthesis-personal/stars]: https://img.shields.io/github/stars/StickCui/XDUthesis-personal?style=flat-square
 [StickCui/XDUthesis-personal/forks]: https://img.shields.io/github/forks/StickCui/XDUthesis-personal?style=flat-square
 [StickCui/XDUthesis-personal/last-commit]: https://img.shields.io/github/last-commit/StickCui/XDUthesis-personal?style=flat-square
+[pku-typst/pkuthss-typst]: https://github.com/pku-typst/pkuthss-typst
+[pku-typst/pkuthss-typst/stars]: https://img.shields.io/github/stars/pku-typst/pkuthss-typst?style=flat-square
+[pku-typst/pkuthss-typst/forks]: https://img.shields.io/github/forks/pku-typst/pkuthss-typst?style=flat-square
+[pku-typst/pkuthss-typst/last-commit]: https://img.shields.io/github/last-commit/pku-typst/pkuthss-typst?style=flat-square
+[twtstudio/TJUThesisLatexTemplate]: https://github.com/twtstudio/TJUThesisLatexTemplate
+[twtstudio/TJUThesisLatexTemplate/stars]: https://img.shields.io/github/stars/twtstudio/TJUThesisLatexTemplate?style=flat-square
+[twtstudio/TJUThesisLatexTemplate/forks]: https://img.shields.io/github/forks/twtstudio/TJUThesisLatexTemplate?style=flat-square
+[twtstudio/TJUThesisLatexTemplate/last-commit]: https://img.shields.io/github/last-commit/twtstudio/TJUThesisLatexTemplate?style=flat-square
 [wengan-li/ncku-thesis-template-latex]: https://github.com/wengan-li/ncku-thesis-template-latex
 [wengan-li/ncku-thesis-template-latex/stars]: https://img.shields.io/github/stars/wengan-li/ncku-thesis-template-latex?style=flat-square
 [wengan-li/ncku-thesis-template-latex/forks]: https://img.shields.io/github/forks/wengan-li/ncku-thesis-template-latex?style=flat-square
 [wengan-li/ncku-thesis-template-latex/last-commit]: https://img.shields.io/github/last-commit/wengan-li/ncku-thesis-template-latex?style=flat-square
+[ShevonKuan/SCUT-thesis]: https://github.com/ShevonKuan/SCUT-thesis
+[ShevonKuan/SCUT-thesis/stars]: https://img.shields.io/github/stars/ShevonKuan/SCUT-thesis?style=flat-square
+[ShevonKuan/SCUT-thesis/forks]: https://img.shields.io/github/forks/ShevonKuan/SCUT-thesis?style=flat-square
+[ShevonKuan/SCUT-thesis/last-commit]: https://img.shields.io/github/last-commit/ShevonKuan/SCUT-thesis?style=flat-square
+[Cao-Wuhui/SZU_Latex_Master_Template]: https://github.com/Cao-Wuhui/SZU_Latex_Master_Template
+[Cao-Wuhui/SZU_Latex_Master_Template/stars]: https://img.shields.io/github/stars/Cao-Wuhui/SZU_Latex_Master_Template?style=flat-square
+[Cao-Wuhui/SZU_Latex_Master_Template/forks]: https://img.shields.io/github/forks/Cao-Wuhui/SZU_Latex_Master_Template?style=flat-square
+[Cao-Wuhui/SZU_Latex_Master_Template/last-commit]: https://img.shields.io/github/last-commit/Cao-Wuhui/SZU_Latex_Master_Template?style=flat-square
+[tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template]: https://github.com/tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template
+[tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/stars]: https://img.shields.io/github/stars/tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template?style=flat-square
+[tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/forks]: https://img.shields.io/github/forks/tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template?style=flat-square
+[tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template/last-commit]: https://img.shields.io/github/last-commit/tianhaoo/Soochow-University-Thesis-Overleaf-LaTeX-Template?style=flat-square
+[hnuthesis/hnuthesis]: https://github.com/hnuthesis/hnuthesis
+[hnuthesis/hnuthesis/stars]: https://img.shields.io/github/stars/hnuthesis/hnuthesis?style=flat-square
+[hnuthesis/hnuthesis/forks]: https://img.shields.io/github/forks/hnuthesis/hnuthesis?style=flat-square
+[hnuthesis/hnuthesis/last-commit]: https://img.shields.io/github/last-commit/hnuthesis/hnuthesis?style=flat-square
+[F5Soft/xmu-template]: https://github.com/F5Soft/xmu-template
+[F5Soft/xmu-template/stars]: https://img.shields.io/github/stars/F5Soft/xmu-template?style=flat-square
+[F5Soft/xmu-template/forks]: https://img.shields.io/github/forks/F5Soft/xmu-template?style=flat-square
+[F5Soft/xmu-template/last-commit]: https://img.shields.io/github/last-commit/F5Soft/xmu-template?style=flat-square
 [ZebinWang/ructhesis]: https://github.com/ZebinWang/ructhesis
 [ZebinWang/ructhesis/stars]: https://img.shields.io/github/stars/ZebinWang/ructhesis?style=flat-square
 [ZebinWang/ructhesis/forks]: https://img.shields.io/github/forks/ZebinWang/ructhesis?style=flat-square
 [ZebinWang/ructhesis/last-commit]: https://img.shields.io/github/last-commit/ZebinWang/ructhesis?style=flat-square
+[cnDelbert/SDU_thesis_template_for_postgraduate]: https://github.com/cnDelbert/SDU_thesis_template_for_postgraduate
+[cnDelbert/SDU_thesis_template_for_postgraduate/stars]: https://img.shields.io/github/stars/cnDelbert/SDU_thesis_template_for_postgraduate?style=flat-square
+[cnDelbert/SDU_thesis_template_for_postgraduate/forks]: https://img.shields.io/github/forks/cnDelbert/SDU_thesis_template_for_postgraduate?style=flat-square
+[cnDelbert/SDU_thesis_template_for_postgraduate/last-commit]: https://img.shields.io/github/last-commit/cnDelbert/SDU_thesis_template_for_postgraduate?style=flat-square
+[seuthesis-word/seuthesis-word.github.io]: https://github.com/seuthesis-word/seuthesis-word.github.io
+[seuthesis-word/seuthesis-word.github.io/stars]: https://img.shields.io/github/stars/seuthesis-word/seuthesis-word.github.io?style=flat-square
+[seuthesis-word/seuthesis-word.github.io/forks]: https://img.shields.io/github/forks/seuthesis-word/seuthesis-word.github.io?style=flat-square
+[seuthesis-word/seuthesis-word.github.io/last-commit]: https://img.shields.io/github/last-commit/seuthesis-word/seuthesis-word.github.io?style=flat-square
+[Tr0py/NKU-thesis-template-2020]: https://github.com/Tr0py/NKU-thesis-template-2020
+[Tr0py/NKU-thesis-template-2020/stars]: https://img.shields.io/github/stars/Tr0py/NKU-thesis-template-2020?style=flat-square
+[Tr0py/NKU-thesis-template-2020/forks]: https://img.shields.io/github/forks/Tr0py/NKU-thesis-template-2020?style=flat-square
+[Tr0py/NKU-thesis-template-2020/last-commit]: https://img.shields.io/github/last-commit/Tr0py/NKU-thesis-template-2020?style=flat-square
+[ls1intum/thesis-template-typst]: https://github.com/ls1intum/thesis-template-typst
+[ls1intum/thesis-template-typst/stars]: https://img.shields.io/github/stars/ls1intum/thesis-template-typst?style=flat-square
+[ls1intum/thesis-template-typst/forks]: https://img.shields.io/github/forks/ls1intum/thesis-template-typst?style=flat-square
+[ls1intum/thesis-template-typst/last-commit]: https://img.shields.io/github/last-commit/ls1intum/thesis-template-typst?style=flat-square
+[streamjoin/nusthesis]: https://github.com/streamjoin/nusthesis
+[streamjoin/nusthesis/stars]: https://img.shields.io/github/stars/streamjoin/nusthesis?style=flat-square
+[streamjoin/nusthesis/forks]: https://img.shields.io/github/forks/streamjoin/nusthesis?style=flat-square
+[streamjoin/nusthesis/last-commit]: https://img.shields.io/github/last-commit/streamjoin/nusthesis?style=flat-square
+[sci-m-wang/NEU-Thesis]: https://github.com/sci-m-wang/NEU-Thesis
+[sci-m-wang/NEU-Thesis/stars]: https://img.shields.io/github/stars/sci-m-wang/NEU-Thesis?style=flat-square
+[sci-m-wang/NEU-Thesis/forks]: https://img.shields.io/github/forks/sci-m-wang/NEU-Thesis?style=flat-square
+[sci-m-wang/NEU-Thesis/last-commit]: https://img.shields.io/github/last-commit/sci-m-wang/NEU-Thesis?style=flat-square
+[1195343015/modern-npu-thesis]: https://github.com/1195343015/modern-npu-thesis
+[1195343015/modern-npu-thesis/stars]: https://img.shields.io/github/stars/1195343015/modern-npu-thesis?style=flat-square
+[1195343015/modern-npu-thesis/forks]: https://img.shields.io/github/forks/1195343015/modern-npu-thesis?style=flat-square
+[1195343015/modern-npu-thesis/last-commit]: https://img.shields.io/github/last-commit/1195343015/modern-npu-thesis?style=flat-square
+[BlueFisher/shuthesis]: https://github.com/BlueFisher/shuthesis
+[BlueFisher/shuthesis/stars]: https://img.shields.io/github/stars/BlueFisher/shuthesis?style=flat-square
+[BlueFisher/shuthesis/forks]: https://img.shields.io/github/forks/BlueFisher/shuthesis?style=flat-square
+[BlueFisher/shuthesis/last-commit]: https://img.shields.io/github/last-commit/BlueFisher/shuthesis?style=flat-square
+[YanMing-lxb/GUET_Thesis_LaTeX]: https://github.com/YanMing-lxb/GUET_Thesis_LaTeX
+[YanMing-lxb/GUET_Thesis_LaTeX/stars]: https://img.shields.io/github/stars/YanMing-lxb/GUET_Thesis_LaTeX?style=flat-square
+[YanMing-lxb/GUET_Thesis_LaTeX/forks]: https://img.shields.io/github/forks/YanMing-lxb/GUET_Thesis_LaTeX?style=flat-square
+[YanMing-lxb/GUET_Thesis_LaTeX/last-commit]: https://img.shields.io/github/last-commit/YanMing-lxb/GUET_Thesis_LaTeX?style=flat-square
+[jonzhaocn/szu-thesis-master]: https://github.com/jonzhaocn/szu-thesis-master
+[jonzhaocn/szu-thesis-master/stars]: https://img.shields.io/github/stars/jonzhaocn/szu-thesis-master?style=flat-square
+[jonzhaocn/szu-thesis-master/forks]: https://img.shields.io/github/forks/jonzhaocn/szu-thesis-master?style=flat-square
+[jonzhaocn/szu-thesis-master/last-commit]: https://img.shields.io/github/last-commit/jonzhaocn/szu-thesis-master?style=flat-square
+[lirundong/shtthesis]: https://github.com/lirundong/shtthesis
+[lirundong/shtthesis/stars]: https://img.shields.io/github/stars/lirundong/shtthesis?style=flat-square
+[lirundong/shtthesis/forks]: https://img.shields.io/github/forks/lirundong/shtthesis?style=flat-square
+[lirundong/shtthesis/last-commit]: https://img.shields.io/github/last-commit/lirundong/shtthesis?style=flat-square
 [TUM-LIS/tum-dissertation-latex]: https://github.com/TUM-LIS/tum-dissertation-latex
 [TUM-LIS/tum-dissertation-latex/stars]: https://img.shields.io/github/stars/TUM-LIS/tum-dissertation-latex?style=flat-square
 [TUM-LIS/tum-dissertation-latex/forks]: https://img.shields.io/github/forks/TUM-LIS/tum-dissertation-latex?style=flat-square
@@ -447,6 +694,10 @@
 [detiuaveiro/ua-thesis-template/stars]: https://img.shields.io/github/stars/detiuaveiro/ua-thesis-template?style=flat-square
 [detiuaveiro/ua-thesis-template/forks]: https://img.shields.io/github/forks/detiuaveiro/ua-thesis-template?style=flat-square
 [detiuaveiro/ua-thesis-template/last-commit]: https://img.shields.io/github/last-commit/detiuaveiro/ua-thesis-template?style=flat-square
+[fanmcgrady/SCU-Thesis-LaTeX-Template]: https://github.com/fanmcgrady/SCU-Thesis-LaTeX-Template
+[fanmcgrady/SCU-Thesis-LaTeX-Template/stars]: https://img.shields.io/github/stars/fanmcgrady/SCU-Thesis-LaTeX-Template?style=flat-square
+[fanmcgrady/SCU-Thesis-LaTeX-Template/forks]: https://img.shields.io/github/forks/fanmcgrady/SCU-Thesis-LaTeX-Template?style=flat-square
+[fanmcgrady/SCU-Thesis-LaTeX-Template/last-commit]: https://img.shields.io/github/last-commit/fanmcgrady/SCU-Thesis-LaTeX-Template?style=flat-square
 [Inventitech/phd-thesis-template]: https://github.com/Inventitech/phd-thesis-template
 [Inventitech/phd-thesis-template/stars]: https://img.shields.io/github/stars/Inventitech/phd-thesis-template?style=flat-square
 [Inventitech/phd-thesis-template/forks]: https://img.shields.io/github/forks/Inventitech/phd-thesis-template?style=flat-square
@@ -455,142 +706,238 @@
 [briandealwis/ubcdiss/stars]: https://img.shields.io/github/stars/briandealwis/ubcdiss?style=flat-square
 [briandealwis/ubcdiss/forks]: https://img.shields.io/github/forks/briandealwis/ubcdiss?style=flat-square
 [briandealwis/ubcdiss/last-commit]: https://img.shields.io/github/last-commit/briandealwis/ubcdiss?style=flat-square
-[COPCSE-NTNU/thesis-NTNU]: https://github.com/COPCSE-NTNU/thesis-NTNU
-[COPCSE-NTNU/thesis-NTNU/stars]: https://img.shields.io/github/stars/COPCSE-NTNU/thesis-NTNU?style=flat-square
-[COPCSE-NTNU/thesis-NTNU/forks]: https://img.shields.io/github/forks/COPCSE-NTNU/thesis-NTNU?style=flat-square
-[COPCSE-NTNU/thesis-NTNU/last-commit]: https://img.shields.io/github/last-commit/COPCSE-NTNU/thesis-NTNU?style=flat-square
-[zhimengfan1990/seuthesix]: https://github.com/zhimengfan1990/seuthesix
-[zhimengfan1990/seuthesix/stars]: https://img.shields.io/github/stars/zhimengfan1990/seuthesix?style=flat-square
-[zhimengfan1990/seuthesix/forks]: https://img.shields.io/github/forks/zhimengfan1990/seuthesix?style=flat-square
-[zhimengfan1990/seuthesix/last-commit]: https://img.shields.io/github/last-commit/zhimengfan1990/seuthesix?style=flat-square
-[lotten/uci-thesis-latex]: https://github.com/lotten/uci-thesis-latex
-[lotten/uci-thesis-latex/stars]: https://img.shields.io/github/stars/lotten/uci-thesis-latex?style=flat-square
-[lotten/uci-thesis-latex/forks]: https://img.shields.io/github/forks/lotten/uci-thesis-latex?style=flat-square
-[lotten/uci-thesis-latex/last-commit]: https://img.shields.io/github/last-commit/lotten/uci-thesis-latex?style=flat-square
-[ucsd-thesis/ucsd-thesis]: https://github.com/ucsd-thesis/ucsd-thesis
-[ucsd-thesis/ucsd-thesis/stars]: https://img.shields.io/github/stars/ucsd-thesis/ucsd-thesis?style=flat-square
-[ucsd-thesis/ucsd-thesis/forks]: https://img.shields.io/github/forks/ucsd-thesis/ucsd-thesis?style=flat-square
-[ucsd-thesis/ucsd-thesis/last-commit]: https://img.shields.io/github/last-commit/ucsd-thesis/ucsd-thesis?style=flat-square
-[umasscs/umassthesis]: https://github.com/umasscs/umassthesis
-[umasscs/umassthesis/stars]: https://img.shields.io/github/stars/umasscs/umassthesis?style=flat-square
-[umasscs/umassthesis/forks]: https://img.shields.io/github/forks/umasscs/umassthesis?style=flat-square
-[umasscs/umassthesis/last-commit]: https://img.shields.io/github/last-commit/umasscs/umassthesis?style=flat-square
-[being24/latex-template-ja]: https://github.com/being24/latex-template-ja
-[being24/latex-template-ja/stars]: https://img.shields.io/github/stars/being24/latex-template-ja?style=flat-square
-[being24/latex-template-ja/forks]: https://img.shields.io/github/forks/being24/latex-template-ja?style=flat-square
-[being24/latex-template-ja/last-commit]: https://img.shields.io/github/last-commit/being24/latex-template-ja?style=flat-square
-[egraff/uit-thesis]: https://github.com/egraff/uit-thesis
-[egraff/uit-thesis/stars]: https://img.shields.io/github/stars/egraff/uit-thesis?style=flat-square
-[egraff/uit-thesis/forks]: https://img.shields.io/github/forks/egraff/uit-thesis?style=flat-square
-[egraff/uit-thesis/last-commit]: https://img.shields.io/github/last-commit/egraff/uit-thesis?style=flat-square
-[matteodelucchi/ZHAW_thesis-template]: https://github.com/matteodelucchi/ZHAW_thesis-template
-[matteodelucchi/ZHAW_thesis-template/stars]: https://img.shields.io/github/stars/matteodelucchi/ZHAW_thesis-template?style=flat-square
-[matteodelucchi/ZHAW_thesis-template/forks]: https://img.shields.io/github/forks/matteodelucchi/ZHAW_thesis-template?style=flat-square
-[matteodelucchi/ZHAW_thesis-template/last-commit]: https://img.shields.io/github/last-commit/matteodelucchi/ZHAW_thesis-template?style=flat-square
-[FIUP/Thesis-template]: https://github.com/FIUP/Thesis-template
-[FIUP/Thesis-template/stars]: https://img.shields.io/github/stars/FIUP/Thesis-template?style=flat-square
-[FIUP/Thesis-template/forks]: https://img.shields.io/github/forks/FIUP/Thesis-template?style=flat-square
-[FIUP/Thesis-template/last-commit]: https://img.shields.io/github/last-commit/FIUP/Thesis-template?style=flat-square
-
-### 学位论文（非LaTeX）
-
-| 学校（机构） | GitHub仓库 | 统计 | 说明 |
-| --- | --- | --- | --- |
-| **（英国）伦敦大学学院**<br>*University College London (UCL)* | [tompollard/phd_thesis_markdown] | ![1278][tompollard/phd_thesis_markdown/stars]<br>![551][tompollard/phd_thesis_markdown/forks]<br>![2023-05-23][tompollard/phd_thesis_markdown/last-commit] | Template for writing a PhD thesis in Markdown |
-| **通用模板** | [ismayc/thesisdown] | ![822][ismayc/thesisdown/stars]<br>![353][ismayc/thesisdown/forks]<br>![2026-08-16][ismayc/thesisdown/last-commit] | ![archived]<br>An updated R Markdown thesis template using the bookdown package |
-| **北京邮电大学** | [sigmarising/BUPTMasterThesisWord] | ![227][sigmarising/BUPTMasterThesisWord/stars]<br>![27][sigmarising/BUPTMasterThesisWord/forks]<br>![2024-01-24][sigmarising/BUPTMasterThesisWord/last-commit] | ![archived]<br>The Microsoft Office Word template of BUPT Thesis for Master Degree. |
-| **清华大学** | [fatalerror-i/ThuWordThesis] | ![226][fatalerror-i/ThuWordThesis/stars]<br>![16][fatalerror-i/ThuWordThesis/forks]<br>![2026-11-18][fatalerror-i/ThuWordThesis/last-commit] | 清华大学学位论文Word模板。A Word thesis template for Tsinghua University. |
-| **（英国）牛津大学**<br>*University of Oxford* | [ulyngs/oxforddown] | ![225][ulyngs/oxforddown/stars]<br>![76][ulyngs/oxforddown/forks]<br>![2026-02-15][ulyngs/oxforddown/last-commit] | Template for writing an Oxford University thesis in R Markdown; uses the OxThesis LaTeX template and was inspired by thesisdown. |
-| **通用模板** | [jinhao-huang/SimplePaper] | ![184][jinhao-huang/SimplePaper/stars]<br>![18][jinhao-huang/SimplePaper/forks]<br>![2025-04-16][jinhao-huang/SimplePaper/last-commit] | 一个简单的 Typst 中文模板 |
-| **北京大学** | [pku-typst/pkuthss-typst] | ![167][pku-typst/pkuthss-typst/stars]<br>![41][pku-typst/pkuthss-typst/forks]<br>![2026-09-03][pku-typst/pkuthss-typst/last-commit] | Typst template for dissertations in Peking University (PKU). |
-| **东南大学** | [seuthesis-word/seuthesis-word.github.io] | ![139][seuthesis-word/seuthesis-word.github.io/stars]<br>![9][seuthesis-word/seuthesis-word.github.io/forks]<br>![2026-10-04][seuthesis-word/seuthesis-word.github.io/last-commit] | 东南大学硕士学位论文Word模板 Southeast University Master's Thesis Word Template |
-| **（德国）慕尼黑工业大学**<br>*Technische Universität München* | [ls1intum/thesis-template-typst] | ![137][ls1intum/thesis-template-typst/stars]<br>![42][ls1intum/thesis-template-typst/forks]<br>![2026-09-11][ls1intum/thesis-template-typst/last-commit] | TUM AET thesis typst template |
-| **上海大学** | [shuosc/SHU-Bachelor-Thesis-Typst] | ![116][shuosc/SHU-Bachelor-Thesis-Typst/stars]<br>![19][shuosc/SHU-Bachelor-Thesis-Typst/forks]<br>![2025-12-05][shuosc/SHU-Bachelor-Thesis-Typst/last-commit] | 上海大学本科生毕业论文Typst模板 |
-| **北京大学** | [xelmirage/pku_thesis_docx] | ![114][xelmirage/pku_thesis_docx/stars]<br>![18][xelmirage/pku_thesis_docx/forks]<br>![2025-01-09][xelmirage/pku_thesis_docx/last-commit] | docx版本的北京大学毕业论文模板 |
-| **通用模板** | [cagix/pandoc-thesis] | ![104][cagix/pandoc-thesis/stars]<br>![26][cagix/pandoc-thesis/forks]<br>![2026-06-22][cagix/pandoc-thesis/last-commit] | Pandoc Thesis Template: A Template for Thesis Documents written in Markdown |
-| **北京邮电大学** | [QQKdeGit/bupt-typst] | ![97][QQKdeGit/bupt-typst/stars]<br>![9][QQKdeGit/bupt-typst/forks]<br>![2024-01-13][QQKdeGit/bupt-typst/last-commit] | 北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT). |
-| **广东工业大学** | [sikouhjw/gdutthesis-Word] | ![91][sikouhjw/gdutthesis-Word/stars]<br>![9][sikouhjw/gdutthesis-Word/forks]<br>![2024-04-07][sikouhjw/gdutthesis-Word/last-commit] | 广东工业大学 Word 论文模板 |
-| **西安电子科技大学** | [Hubert9982/typst_xdutemplate] | ![87][Hubert9982/typst_xdutemplate/stars]<br>![12][Hubert9982/typst_xdutemplate/forks]<br>![2026-05-17][Hubert9982/typst_xdutemplate/last-commit] | 西安电子科技大学本科毕业设计Typst非官方模板 |
-| **上海交通大学** | [sjtug/modern-sjtu-thesis] | ![85][sjtug/modern-sjtu-thesis/stars]<br>![11][sjtug/modern-sjtu-thesis/forks]<br>![2026-10-15][sjtug/modern-sjtu-thesis/last-commit] | 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template) |
-| **四川大学** | [SunnyHaze/scu-thesis-template] | ![81][SunnyHaze/scu-thesis-template/stars]<br>![3][SunnyHaze/scu-thesis-template/forks]<br>![2026-07-04][SunnyHaze/scu-thesis-template/last-commit] | 四川大学本科毕业论文word模板及常见要求 |
-| **北京航空航天大学** | [ixzhao/BUAA_Dissertation_Template] | ![71][ixzhao/BUAA_Dissertation_Template/stars]<br>![11][ixzhao/BUAA_Dissertation_Template/forks]<br>![2025-02-15][ixzhao/BUAA_Dissertation_Template/last-commit] | ![archived]<br>北航硕博研究生毕业设计论文模板（Word） |
-| **（澳大利亚）莫纳什大学**<br>*Monash University* | [robjhyndman/MonashThesis] | ![70][robjhyndman/MonashThesis/stars]<br>![52][robjhyndman/MonashThesis/forks]<br>![2021-12-30][robjhyndman/MonashThesis/last-commit] | Monash PhD thesis template |
-| **通用模板** | [zagoli/simple-typst-thesis] | ![63][zagoli/simple-typst-thesis/stars]<br>![4][zagoli/simple-typst-thesis/forks]<br>![2025-04-11][zagoli/simple-typst-thesis/last-commit] | A template to use for a simple thesis written in Typst. |
-| **哈尔滨工业大学** | [hitszosa/universal-hit-thesis] | ![61][hitszosa/universal-hit-thesis/stars]<br>![12][hitszosa/universal-hit-thesis/forks]<br>![2026-09-24][hitszosa/universal-hit-thesis/last-commit] | 哈尔滨工业大学 Typst 论文模板 |
-| **通用模板** | [ut-khanlab/master_thesis_template_for_typst] | ![56][ut-khanlab/master_thesis_template_for_typst/stars]<br>![5][ut-khanlab/master_thesis_template_for_typst/forks]<br>![2024-12-30][ut-khanlab/master_thesis_template_for_typst/last-commit] | Writing in typst, thesis template |
-| **中山大学** | [howardlau1999/sysu-thesis-typst] | ![56][howardlau1999/sysu-thesis-typst/stars]<br>![4][howardlau1999/sysu-thesis-typst/forks]<br>![2024-09-27][howardlau1999/sysu-thesis-typst/last-commit] | ![archived]<br>中山大学学位论文 Typst 模板 |
-| **（美国）明尼苏达大学**<br>*University of Minnesota* | [agude/UMN-PhD-Thesis-Template] | ![52][agude/UMN-PhD-Thesis-Template/stars]<br>![45][agude/UMN-PhD-Thesis-Template/forks]<br>![2026-09-19][agude/UMN-PhD-Thesis-Template/last-commit] | The LaTeX thesis template provided by the University of Minnesota, with various improvements. |
-
-[archived]: https://img.shields.io/badge/archived-TRUE-orange?style=plastic
-[fork]: https://img.shields.io/badge/fork-TRUE-green?style=plastic
-[tompollard/phd_thesis_markdown]: https://github.com/tompollard/phd_thesis_markdown
-[tompollard/phd_thesis_markdown/stars]: https://img.shields.io/github/stars/tompollard/phd_thesis_markdown?style=flat-square
-[tompollard/phd_thesis_markdown/forks]: https://img.shields.io/github/forks/tompollard/phd_thesis_markdown?style=flat-square
-[tompollard/phd_thesis_markdown/last-commit]: https://img.shields.io/github/last-commit/tompollard/phd_thesis_markdown?style=flat-square
-[ismayc/thesisdown]: https://github.com/ismayc/thesisdown
-[ismayc/thesisdown/stars]: https://img.shields.io/github/stars/ismayc/thesisdown?style=flat-square
-[ismayc/thesisdown/forks]: https://img.shields.io/github/forks/ismayc/thesisdown?style=flat-square
-[ismayc/thesisdown/last-commit]: https://img.shields.io/github/last-commit/ismayc/thesisdown?style=flat-square
-[sigmarising/BUPTMasterThesisWord]: https://github.com/sigmarising/BUPTMasterThesisWord
-[sigmarising/BUPTMasterThesisWord/stars]: https://img.shields.io/github/stars/sigmarising/BUPTMasterThesisWord?style=flat-square
-[sigmarising/BUPTMasterThesisWord/forks]: https://img.shields.io/github/forks/sigmarising/BUPTMasterThesisWord?style=flat-square
-[sigmarising/BUPTMasterThesisWord/last-commit]: https://img.shields.io/github/last-commit/sigmarising/BUPTMasterThesisWord?style=flat-square
-[fatalerror-i/ThuWordThesis]: https://github.com/fatalerror-i/ThuWordThesis
-[fatalerror-i/ThuWordThesis/stars]: https://img.shields.io/github/stars/fatalerror-i/ThuWordThesis?style=flat-square
-[fatalerror-i/ThuWordThesis/forks]: https://img.shields.io/github/forks/fatalerror-i/ThuWordThesis?style=flat-square
-[fatalerror-i/ThuWordThesis/last-commit]: https://img.shields.io/github/last-commit/fatalerror-i/ThuWordThesis?style=flat-square
-[ulyngs/oxforddown]: https://github.com/ulyngs/oxforddown
-[ulyngs/oxforddown/stars]: https://img.shields.io/github/stars/ulyngs/oxforddown?style=flat-square
-[ulyngs/oxforddown/forks]: https://img.shields.io/github/forks/ulyngs/oxforddown?style=flat-square
-[ulyngs/oxforddown/last-commit]: https://img.shields.io/github/last-commit/ulyngs/oxforddown?style=flat-square
-[jinhao-huang/SimplePaper]: https://github.com/jinhao-huang/SimplePaper
-[jinhao-huang/SimplePaper/stars]: https://img.shields.io/github/stars/jinhao-huang/SimplePaper?style=flat-square
-[jinhao-huang/SimplePaper/forks]: https://img.shields.io/github/forks/jinhao-huang/SimplePaper?style=flat-square
-[jinhao-huang/SimplePaper/last-commit]: https://img.shields.io/github/last-commit/jinhao-huang/SimplePaper?style=flat-square
-[pku-typst/pkuthss-typst]: https://github.com/pku-typst/pkuthss-typst
-[pku-typst/pkuthss-typst/stars]: https://img.shields.io/github/stars/pku-typst/pkuthss-typst?style=flat-square
-[pku-typst/pkuthss-typst/forks]: https://img.shields.io/github/forks/pku-typst/pkuthss-typst?style=flat-square
-[pku-typst/pkuthss-typst/last-commit]: https://img.shields.io/github/last-commit/pku-typst/pkuthss-typst?style=flat-square
-[seuthesis-word/seuthesis-word.github.io]: https://github.com/seuthesis-word/seuthesis-word.github.io
-[seuthesis-word/seuthesis-word.github.io/stars]: https://img.shields.io/github/stars/seuthesis-word/seuthesis-word.github.io?style=flat-square
-[seuthesis-word/seuthesis-word.github.io/forks]: https://img.shields.io/github/forks/seuthesis-word/seuthesis-word.github.io?style=flat-square
-[seuthesis-word/seuthesis-word.github.io/last-commit]: https://img.shields.io/github/last-commit/seuthesis-word/seuthesis-word.github.io?style=flat-square
-[ls1intum/thesis-template-typst]: https://github.com/ls1intum/thesis-template-typst
-[ls1intum/thesis-template-typst/stars]: https://img.shields.io/github/stars/ls1intum/thesis-template-typst?style=flat-square
-[ls1intum/thesis-template-typst/forks]: https://img.shields.io/github/forks/ls1intum/thesis-template-typst?style=flat-square
-[ls1intum/thesis-template-typst/last-commit]: https://img.shields.io/github/last-commit/ls1intum/thesis-template-typst?style=flat-square
+[summitgao/OUC-LaTex-bachelor]: https://github.com/summitgao/OUC-LaTex-bachelor
+[summitgao/OUC-LaTex-bachelor/stars]: https://img.shields.io/github/stars/summitgao/OUC-LaTex-bachelor?style=flat-square
+[summitgao/OUC-LaTex-bachelor/forks]: https://img.shields.io/github/forks/summitgao/OUC-LaTex-bachelor?style=flat-square
+[summitgao/OUC-LaTex-bachelor/last-commit]: https://img.shields.io/github/last-commit/summitgao/OUC-LaTex-bachelor?style=flat-square
 [shuosc/SHU-Bachelor-Thesis-Typst]: https://github.com/shuosc/SHU-Bachelor-Thesis-Typst
 [shuosc/SHU-Bachelor-Thesis-Typst/stars]: https://img.shields.io/github/stars/shuosc/SHU-Bachelor-Thesis-Typst?style=flat-square
 [shuosc/SHU-Bachelor-Thesis-Typst/forks]: https://img.shields.io/github/forks/shuosc/SHU-Bachelor-Thesis-Typst?style=flat-square
 [shuosc/SHU-Bachelor-Thesis-Typst/last-commit]: https://img.shields.io/github/last-commit/shuosc/SHU-Bachelor-Thesis-Typst?style=flat-square
+[zarrabi/thesis-template]: https://github.com/zarrabi/thesis-template
+[zarrabi/thesis-template/stars]: https://img.shields.io/github/stars/zarrabi/thesis-template?style=flat-square
+[zarrabi/thesis-template/forks]: https://img.shields.io/github/forks/zarrabi/thesis-template?style=flat-square
+[zarrabi/thesis-template/last-commit]: https://img.shields.io/github/last-commit/zarrabi/thesis-template?style=flat-square
+[mirea-ninja/Latex-Template-for-Report-Diploma-Thesis]: https://github.com/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis
+[mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/stars]: https://img.shields.io/github/stars/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis?style=flat-square
+[mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/forks]: https://img.shields.io/github/forks/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis?style=flat-square
+[mirea-ninja/Latex-Template-for-Report-Diploma-Thesis/last-commit]: https://img.shields.io/github/last-commit/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis?style=flat-square
+[akira-okumura/MasterThesisTemplate]: https://github.com/akira-okumura/MasterThesisTemplate
+[akira-okumura/MasterThesisTemplate/stars]: https://img.shields.io/github/stars/akira-okumura/MasterThesisTemplate?style=flat-square
+[akira-okumura/MasterThesisTemplate/forks]: https://img.shields.io/github/forks/akira-okumura/MasterThesisTemplate?style=flat-square
+[akira-okumura/MasterThesisTemplate/last-commit]: https://img.shields.io/github/last-commit/akira-okumura/MasterThesisTemplate?style=flat-square
 [xelmirage/pku_thesis_docx]: https://github.com/xelmirage/pku_thesis_docx
 [xelmirage/pku_thesis_docx/stars]: https://img.shields.io/github/stars/xelmirage/pku_thesis_docx?style=flat-square
 [xelmirage/pku_thesis_docx/forks]: https://img.shields.io/github/forks/xelmirage/pku_thesis_docx?style=flat-square
 [xelmirage/pku_thesis_docx/last-commit]: https://img.shields.io/github/last-commit/xelmirage/pku_thesis_docx?style=flat-square
+[COPCSE-NTNU/thesis-NTNU]: https://github.com/COPCSE-NTNU/thesis-NTNU
+[COPCSE-NTNU/thesis-NTNU/stars]: https://img.shields.io/github/stars/COPCSE-NTNU/thesis-NTNU?style=flat-square
+[COPCSE-NTNU/thesis-NTNU/forks]: https://img.shields.io/github/forks/COPCSE-NTNU/thesis-NTNU?style=flat-square
+[COPCSE-NTNU/thesis-NTNU/last-commit]: https://img.shields.io/github/last-commit/COPCSE-NTNU/thesis-NTNU?style=flat-square
+[leduyquang753/uet-graduation-latex]: https://github.com/leduyquang753/uet-graduation-latex
+[leduyquang753/uet-graduation-latex/stars]: https://img.shields.io/github/stars/leduyquang753/uet-graduation-latex?style=flat-square
+[leduyquang753/uet-graduation-latex/forks]: https://img.shields.io/github/forks/leduyquang753/uet-graduation-latex?style=flat-square
+[leduyquang753/uet-graduation-latex/last-commit]: https://img.shields.io/github/last-commit/leduyquang753/uet-graduation-latex?style=flat-square
+[Jimmy-L4/BUPTGraduateThesis]: https://github.com/Jimmy-L4/BUPTGraduateThesis
+[Jimmy-L4/BUPTGraduateThesis/stars]: https://img.shields.io/github/stars/Jimmy-L4/BUPTGraduateThesis?style=flat-square
+[Jimmy-L4/BUPTGraduateThesis/forks]: https://img.shields.io/github/forks/Jimmy-L4/BUPTGraduateThesis?style=flat-square
+[Jimmy-L4/BUPTGraduateThesis/last-commit]: https://img.shields.io/github/last-commit/Jimmy-L4/BUPTGraduateThesis?style=flat-square
+[FengChendian/NJUThesis2021]: https://github.com/FengChendian/NJUThesis2021
+[FengChendian/NJUThesis2021/stars]: https://img.shields.io/github/stars/FengChendian/NJUThesis2021?style=flat-square
+[FengChendian/NJUThesis2021/forks]: https://img.shields.io/github/forks/FengChendian/NJUThesis2021?style=flat-square
+[FengChendian/NJUThesis2021/last-commit]: https://img.shields.io/github/last-commit/FengChendian/NJUThesis2021?style=flat-square
+[siaimes/ThesisFZU]: https://github.com/siaimes/ThesisFZU
+[siaimes/ThesisFZU/stars]: https://img.shields.io/github/stars/siaimes/ThesisFZU?style=flat-square
+[siaimes/ThesisFZU/forks]: https://img.shields.io/github/forks/siaimes/ThesisFZU?style=flat-square
+[siaimes/ThesisFZU/last-commit]: https://img.shields.io/github/last-commit/siaimes/ThesisFZU?style=flat-square
 [cagix/pandoc-thesis]: https://github.com/cagix/pandoc-thesis
 [cagix/pandoc-thesis/stars]: https://img.shields.io/github/stars/cagix/pandoc-thesis?style=flat-square
 [cagix/pandoc-thesis/forks]: https://img.shields.io/github/forks/cagix/pandoc-thesis?style=flat-square
 [cagix/pandoc-thesis/last-commit]: https://img.shields.io/github/last-commit/cagix/pandoc-thesis?style=flat-square
+[SuikaXhq/seu-bachelor-thesis-2022]: https://github.com/SuikaXhq/seu-bachelor-thesis-2022
+[SuikaXhq/seu-bachelor-thesis-2022/stars]: https://img.shields.io/github/stars/SuikaXhq/seu-bachelor-thesis-2022?style=flat-square
+[SuikaXhq/seu-bachelor-thesis-2022/forks]: https://img.shields.io/github/forks/SuikaXhq/seu-bachelor-thesis-2022?style=flat-square
+[SuikaXhq/seu-bachelor-thesis-2022/last-commit]: https://img.shields.io/github/last-commit/SuikaXhq/seu-bachelor-thesis-2022?style=flat-square
+[estamos/NTUA-ECE-Thesis-Template]: https://github.com/estamos/NTUA-ECE-Thesis-Template
+[estamos/NTUA-ECE-Thesis-Template/stars]: https://img.shields.io/github/stars/estamos/NTUA-ECE-Thesis-Template?style=flat-square
+[estamos/NTUA-ECE-Thesis-Template/forks]: https://img.shields.io/github/forks/estamos/NTUA-ECE-Thesis-Template?style=flat-square
+[estamos/NTUA-ECE-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/estamos/NTUA-ECE-Thesis-Template?style=flat-square
+[Amet13/overfull]: https://github.com/Amet13/overfull
+[Amet13/overfull/stars]: https://img.shields.io/github/stars/Amet13/overfull?style=flat-square
+[Amet13/overfull/forks]: https://img.shields.io/github/forks/Amet13/overfull?style=flat-square
+[Amet13/overfull/last-commit]: https://img.shields.io/github/last-commit/Amet13/overfull?style=flat-square
+[ECNU-ICA/ECNU_graduation_thesis_template]: https://github.com/ECNU-ICA/ECNU_graduation_thesis_template
+[ECNU-ICA/ECNU_graduation_thesis_template/stars]: https://img.shields.io/github/stars/ECNU-ICA/ECNU_graduation_thesis_template?style=flat-square
+[ECNU-ICA/ECNU_graduation_thesis_template/forks]: https://img.shields.io/github/forks/ECNU-ICA/ECNU_graduation_thesis_template?style=flat-square
+[ECNU-ICA/ECNU_graduation_thesis_template/last-commit]: https://img.shields.io/github/last-commit/ECNU-ICA/ECNU_graduation_thesis_template?style=flat-square
+[zhimengfan1990/seuthesix]: https://github.com/zhimengfan1990/seuthesix
+[zhimengfan1990/seuthesix/stars]: https://img.shields.io/github/stars/zhimengfan1990/seuthesix?style=flat-square
+[zhimengfan1990/seuthesix/forks]: https://img.shields.io/github/forks/zhimengfan1990/seuthesix?style=flat-square
+[zhimengfan1990/seuthesix/last-commit]: https://img.shields.io/github/last-commit/zhimengfan1990/seuthesix?style=flat-square
+[zfengg/HUSTtex]: https://github.com/zfengg/HUSTtex
+[zfengg/HUSTtex/stars]: https://img.shields.io/github/stars/zfengg/HUSTtex?style=flat-square
+[zfengg/HUSTtex/forks]: https://img.shields.io/github/forks/zfengg/HUSTtex?style=flat-square
+[zfengg/HUSTtex/last-commit]: https://img.shields.io/github/last-commit/zfengg/HUSTtex?style=flat-square
 [QQKdeGit/bupt-typst]: https://github.com/QQKdeGit/bupt-typst
 [QQKdeGit/bupt-typst/stars]: https://img.shields.io/github/stars/QQKdeGit/bupt-typst?style=flat-square
 [QQKdeGit/bupt-typst/forks]: https://img.shields.io/github/forks/QQKdeGit/bupt-typst?style=flat-square
 [QQKdeGit/bupt-typst/last-commit]: https://img.shields.io/github/last-commit/QQKdeGit/bupt-typst?style=flat-square
+[yzbrlan/fudan-thesis-latex-template]: https://github.com/yzbrlan/fudan-thesis-latex-template
+[yzbrlan/fudan-thesis-latex-template/stars]: https://img.shields.io/github/stars/yzbrlan/fudan-thesis-latex-template?style=flat-square
+[yzbrlan/fudan-thesis-latex-template/forks]: https://img.shields.io/github/forks/yzbrlan/fudan-thesis-latex-template?style=flat-square
+[yzbrlan/fudan-thesis-latex-template/last-commit]: https://img.shields.io/github/last-commit/yzbrlan/fudan-thesis-latex-template?style=flat-square
 [sikouhjw/gdutthesis-Word]: https://github.com/sikouhjw/gdutthesis-Word
 [sikouhjw/gdutthesis-Word/stars]: https://img.shields.io/github/stars/sikouhjw/gdutthesis-Word?style=flat-square
 [sikouhjw/gdutthesis-Word/forks]: https://img.shields.io/github/forks/sikouhjw/gdutthesis-Word?style=flat-square
 [sikouhjw/gdutthesis-Word/last-commit]: https://img.shields.io/github/last-commit/sikouhjw/gdutthesis-Word?style=flat-square
+[neumason/DLNU]: https://github.com/neumason/DLNU
+[neumason/DLNU/stars]: https://img.shields.io/github/stars/neumason/DLNU?style=flat-square
+[neumason/DLNU/forks]: https://img.shields.io/github/forks/neumason/DLNU?style=flat-square
+[neumason/DLNU/last-commit]: https://img.shields.io/github/last-commit/neumason/DLNU?style=flat-square
+[Liam0205/sduthesis]: https://github.com/Liam0205/sduthesis
+[Liam0205/sduthesis/stars]: https://img.shields.io/github/stars/Liam0205/sduthesis?style=flat-square
+[Liam0205/sduthesis/forks]: https://img.shields.io/github/forks/Liam0205/sduthesis?style=flat-square
+[Liam0205/sduthesis/last-commit]: https://img.shields.io/github/last-commit/Liam0205/sduthesis?style=flat-square
+[Timozer/CUGThesis]: https://github.com/Timozer/CUGThesis
+[Timozer/CUGThesis/stars]: https://img.shields.io/github/stars/Timozer/CUGThesis?style=flat-square
+[Timozer/CUGThesis/forks]: https://img.shields.io/github/forks/Timozer/CUGThesis?style=flat-square
+[Timozer/CUGThesis/last-commit]: https://img.shields.io/github/last-commit/Timozer/CUGThesis?style=flat-square
+[yl3dy/mipt-thesis]: https://github.com/yl3dy/mipt-thesis
+[yl3dy/mipt-thesis/stars]: https://img.shields.io/github/stars/yl3dy/mipt-thesis?style=flat-square
+[yl3dy/mipt-thesis/forks]: https://img.shields.io/github/forks/yl3dy/mipt-thesis?style=flat-square
+[yl3dy/mipt-thesis/last-commit]: https://img.shields.io/github/last-commit/yl3dy/mipt-thesis?style=flat-square
+[summitgao/OUC-LaTex-master]: https://github.com/summitgao/OUC-LaTex-master
+[summitgao/OUC-LaTex-master/stars]: https://img.shields.io/github/stars/summitgao/OUC-LaTex-master?style=flat-square
+[summitgao/OUC-LaTex-master/forks]: https://img.shields.io/github/forks/summitgao/OUC-LaTex-master?style=flat-square
+[summitgao/OUC-LaTex-master/last-commit]: https://img.shields.io/github/last-commit/summitgao/OUC-LaTex-master?style=flat-square
+[jessexknight/ut-thesis]: https://github.com/jessexknight/ut-thesis
+[jessexknight/ut-thesis/stars]: https://img.shields.io/github/stars/jessexknight/ut-thesis?style=flat-square
+[jessexknight/ut-thesis/forks]: https://img.shields.io/github/forks/jessexknight/ut-thesis?style=flat-square
+[jessexknight/ut-thesis/last-commit]: https://img.shields.io/github/last-commit/jessexknight/ut-thesis?style=flat-square
+[DansYU/SeuThesiY]: https://github.com/DansYU/SeuThesiY
+[DansYU/SeuThesiY/stars]: https://img.shields.io/github/stars/DansYU/SeuThesiY?style=flat-square
+[DansYU/SeuThesiY/forks]: https://img.shields.io/github/forks/DansYU/SeuThesiY?style=flat-square
+[DansYU/SeuThesiY/last-commit]: https://img.shields.io/github/last-commit/DansYU/SeuThesiY?style=flat-square
+[mcserep/elteikthesis]: https://github.com/mcserep/elteikthesis
+[mcserep/elteikthesis/stars]: https://img.shields.io/github/stars/mcserep/elteikthesis?style=flat-square
+[mcserep/elteikthesis/forks]: https://img.shields.io/github/forks/mcserep/elteikthesis?style=flat-square
+[mcserep/elteikthesis/last-commit]: https://img.shields.io/github/last-commit/mcserep/elteikthesis?style=flat-square
+[severinlandolt/latex-thesis-template]: https://github.com/severinlandolt/latex-thesis-template
+[severinlandolt/latex-thesis-template/stars]: https://img.shields.io/github/stars/severinlandolt/latex-thesis-template?style=flat-square
+[severinlandolt/latex-thesis-template/forks]: https://img.shields.io/github/forks/severinlandolt/latex-thesis-template?style=flat-square
+[severinlandolt/latex-thesis-template/last-commit]: https://img.shields.io/github/last-commit/severinlandolt/latex-thesis-template?style=flat-square
 [Hubert9982/typst_xdutemplate]: https://github.com/Hubert9982/typst_xdutemplate
 [Hubert9982/typst_xdutemplate/stars]: https://img.shields.io/github/stars/Hubert9982/typst_xdutemplate?style=flat-square
 [Hubert9982/typst_xdutemplate/forks]: https://img.shields.io/github/forks/Hubert9982/typst_xdutemplate?style=flat-square
 [Hubert9982/typst_xdutemplate/last-commit]: https://img.shields.io/github/last-commit/Hubert9982/typst_xdutemplate?style=flat-square
+[SZTU-ACM/SZTU-Thesis-Latex-Template]: https://github.com/SZTU-ACM/SZTU-Thesis-Latex-Template
+[SZTU-ACM/SZTU-Thesis-Latex-Template/stars]: https://img.shields.io/github/stars/SZTU-ACM/SZTU-Thesis-Latex-Template?style=flat-square
+[SZTU-ACM/SZTU-Thesis-Latex-Template/forks]: https://img.shields.io/github/forks/SZTU-ACM/SZTU-Thesis-Latex-Template?style=flat-square
+[SZTU-ACM/SZTU-Thesis-Latex-Template/last-commit]: https://img.shields.io/github/last-commit/SZTU-ACM/SZTU-Thesis-Latex-Template?style=flat-square
+[haimingz/tjuthesis]: https://github.com/haimingz/tjuthesis
+[haimingz/tjuthesis/stars]: https://img.shields.io/github/stars/haimingz/tjuthesis?style=flat-square
+[haimingz/tjuthesis/forks]: https://img.shields.io/github/forks/haimingz/tjuthesis?style=flat-square
+[haimingz/tjuthesis/last-commit]: https://img.shields.io/github/last-commit/haimingz/tjuthesis?style=flat-square
+[XayahSuSuSu/Latex-HNUThesisTemplate]: https://github.com/XayahSuSuSu/Latex-HNUThesisTemplate
+[XayahSuSuSu/Latex-HNUThesisTemplate/stars]: https://img.shields.io/github/stars/XayahSuSuSu/Latex-HNUThesisTemplate?style=flat-square
+[XayahSuSuSu/Latex-HNUThesisTemplate/forks]: https://img.shields.io/github/forks/XayahSuSuSu/Latex-HNUThesisTemplate?style=flat-square
+[XayahSuSuSu/Latex-HNUThesisTemplate/last-commit]: https://img.shields.io/github/last-commit/XayahSuSuSu/Latex-HNUThesisTemplate?style=flat-square
 [sjtug/modern-sjtu-thesis]: https://github.com/sjtug/modern-sjtu-thesis
 [sjtug/modern-sjtu-thesis/stars]: https://img.shields.io/github/stars/sjtug/modern-sjtu-thesis?style=flat-square
 [sjtug/modern-sjtu-thesis/forks]: https://img.shields.io/github/forks/sjtug/modern-sjtu-thesis?style=flat-square
 [sjtug/modern-sjtu-thesis/last-commit]: https://img.shields.io/github/last-commit/sjtug/modern-sjtu-thesis?style=flat-square
+[c1ydehhx/NTUT-Thesis-Template]: https://github.com/c1ydehhx/NTUT-Thesis-Template
+[c1ydehhx/NTUT-Thesis-Template/stars]: https://img.shields.io/github/stars/c1ydehhx/NTUT-Thesis-Template?style=flat-square
+[c1ydehhx/NTUT-Thesis-Template/forks]: https://img.shields.io/github/forks/c1ydehhx/NTUT-Thesis-Template?style=flat-square
+[c1ydehhx/NTUT-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/c1ydehhx/NTUT-Thesis-Template?style=flat-square
+[Koyamin/ecnuthesis]: https://github.com/Koyamin/ecnuthesis
+[Koyamin/ecnuthesis/stars]: https://img.shields.io/github/stars/Koyamin/ecnuthesis?style=flat-square
+[Koyamin/ecnuthesis/forks]: https://img.shields.io/github/forks/Koyamin/ecnuthesis?style=flat-square
+[Koyamin/ecnuthesis/last-commit]: https://img.shields.io/github/last-commit/Koyamin/ecnuthesis?style=flat-square
+[maxuewei2/JLUThesis2020]: https://github.com/maxuewei2/JLUThesis2020
+[maxuewei2/JLUThesis2020/stars]: https://img.shields.io/github/stars/maxuewei2/JLUThesis2020?style=flat-square
+[maxuewei2/JLUThesis2020/forks]: https://img.shields.io/github/forks/maxuewei2/JLUThesis2020?style=flat-square
+[maxuewei2/JLUThesis2020/last-commit]: https://img.shields.io/github/last-commit/maxuewei2/JLUThesis2020?style=flat-square
+[alumik/nkthesis]: https://github.com/alumik/nkthesis
+[alumik/nkthesis/stars]: https://img.shields.io/github/stars/alumik/nkthesis?style=flat-square
+[alumik/nkthesis/forks]: https://img.shields.io/github/forks/alumik/nkthesis?style=flat-square
+[alumik/nkthesis/last-commit]: https://img.shields.io/github/last-commit/alumik/nkthesis?style=flat-square
+[jp-um/university_of_malta_LaTeX_dissertation_template]: https://github.com/jp-um/university_of_malta_LaTeX_dissertation_template
+[jp-um/university_of_malta_LaTeX_dissertation_template/stars]: https://img.shields.io/github/stars/jp-um/university_of_malta_LaTeX_dissertation_template?style=flat-square
+[jp-um/university_of_malta_LaTeX_dissertation_template/forks]: https://img.shields.io/github/forks/jp-um/university_of_malta_LaTeX_dissertation_template?style=flat-square
+[jp-um/university_of_malta_LaTeX_dissertation_template/last-commit]: https://img.shields.io/github/last-commit/jp-um/university_of_malta_LaTeX_dissertation_template?style=flat-square
+[caowenhan/hhuthesis]: https://github.com/caowenhan/hhuthesis
+[caowenhan/hhuthesis/stars]: https://img.shields.io/github/stars/caowenhan/hhuthesis?style=flat-square
+[caowenhan/hhuthesis/forks]: https://img.shields.io/github/forks/caowenhan/hhuthesis?style=flat-square
+[caowenhan/hhuthesis/last-commit]: https://img.shields.io/github/last-commit/caowenhan/hhuthesis?style=flat-square
+[Sophie10001b/swjtuThesisV3.0]: https://github.com/Sophie10001b/swjtuThesisV3.0
+[Sophie10001b/swjtuThesisV3.0/stars]: https://img.shields.io/github/stars/Sophie10001b/swjtuThesisV3.0?style=flat-square
+[Sophie10001b/swjtuThesisV3.0/forks]: https://img.shields.io/github/forks/Sophie10001b/swjtuThesisV3.0?style=flat-square
+[Sophie10001b/swjtuThesisV3.0/last-commit]: https://img.shields.io/github/last-commit/Sophie10001b/swjtuThesisV3.0?style=flat-square
 [SunnyHaze/scu-thesis-template]: https://github.com/SunnyHaze/scu-thesis-template
 [SunnyHaze/scu-thesis-template/stars]: https://img.shields.io/github/stars/SunnyHaze/scu-thesis-template?style=flat-square
 [SunnyHaze/scu-thesis-template/forks]: https://img.shields.io/github/forks/SunnyHaze/scu-thesis-template?style=flat-square
 [SunnyHaze/scu-thesis-template/last-commit]: https://img.shields.io/github/last-commit/SunnyHaze/scu-thesis-template?style=flat-square
+[TJ-CSCCG/Tongji-Beamer]: https://github.com/TJ-CSCCG/Tongji-Beamer
+[TJ-CSCCG/Tongji-Beamer/stars]: https://img.shields.io/github/stars/TJ-CSCCG/Tongji-Beamer?style=flat-square
+[TJ-CSCCG/Tongji-Beamer/forks]: https://img.shields.io/github/forks/TJ-CSCCG/Tongji-Beamer?style=flat-square
+[TJ-CSCCG/Tongji-Beamer/last-commit]: https://img.shields.io/github/last-commit/TJ-CSCCG/Tongji-Beamer?style=flat-square
+[neardws/My-Doctoral-Dissertation]: https://github.com/neardws/My-Doctoral-Dissertation
+[neardws/My-Doctoral-Dissertation/stars]: https://img.shields.io/github/stars/neardws/My-Doctoral-Dissertation?style=flat-square
+[neardws/My-Doctoral-Dissertation/forks]: https://img.shields.io/github/forks/neardws/My-Doctoral-Dissertation?style=flat-square
+[neardws/My-Doctoral-Dissertation/last-commit]: https://img.shields.io/github/last-commit/neardws/My-Doctoral-Dissertation?style=flat-square
+[gzr-lgtm/NJUPThesis-Bachelor]: https://github.com/gzr-lgtm/NJUPThesis-Bachelor
+[gzr-lgtm/NJUPThesis-Bachelor/stars]: https://img.shields.io/github/stars/gzr-lgtm/NJUPThesis-Bachelor?style=flat-square
+[gzr-lgtm/NJUPThesis-Bachelor/forks]: https://img.shields.io/github/forks/gzr-lgtm/NJUPThesis-Bachelor?style=flat-square
+[gzr-lgtm/NJUPThesis-Bachelor/last-commit]: https://img.shields.io/github/last-commit/gzr-lgtm/NJUPThesis-Bachelor?style=flat-square
+[lotten/uci-thesis-latex]: https://github.com/lotten/uci-thesis-latex
+[lotten/uci-thesis-latex/stars]: https://img.shields.io/github/stars/lotten/uci-thesis-latex?style=flat-square
+[lotten/uci-thesis-latex/forks]: https://img.shields.io/github/forks/lotten/uci-thesis-latex?style=flat-square
+[lotten/uci-thesis-latex/last-commit]: https://img.shields.io/github/last-commit/lotten/uci-thesis-latex?style=flat-square
+[CSGrandeur/CSU-Thesis-LaTeX-Template]: https://github.com/CSGrandeur/CSU-Thesis-LaTeX-Template
+[CSGrandeur/CSU-Thesis-LaTeX-Template/stars]: https://img.shields.io/github/stars/CSGrandeur/CSU-Thesis-LaTeX-Template?style=flat-square
+[CSGrandeur/CSU-Thesis-LaTeX-Template/forks]: https://img.shields.io/github/forks/CSGrandeur/CSU-Thesis-LaTeX-Template?style=flat-square
+[CSGrandeur/CSU-Thesis-LaTeX-Template/last-commit]: https://img.shields.io/github/last-commit/CSGrandeur/CSU-Thesis-LaTeX-Template?style=flat-square
+[lihanshu/NWPU-Thesis-Template]: https://github.com/lihanshu/NWPU-Thesis-Template
+[lihanshu/NWPU-Thesis-Template/stars]: https://img.shields.io/github/stars/lihanshu/NWPU-Thesis-Template?style=flat-square
+[lihanshu/NWPU-Thesis-Template/forks]: https://img.shields.io/github/forks/lihanshu/NWPU-Thesis-Template?style=flat-square
+[lihanshu/NWPU-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/lihanshu/NWPU-Thesis-Template?style=flat-square
+[dzwaneveld/tudelft-report-thesis-template]: https://github.com/dzwaneveld/tudelft-report-thesis-template
+[dzwaneveld/tudelft-report-thesis-template/stars]: https://img.shields.io/github/stars/dzwaneveld/tudelft-report-thesis-template?style=flat-square
+[dzwaneveld/tudelft-report-thesis-template/forks]: https://img.shields.io/github/forks/dzwaneveld/tudelft-report-thesis-template?style=flat-square
+[dzwaneveld/tudelft-report-thesis-template/last-commit]: https://img.shields.io/github/last-commit/dzwaneveld/tudelft-report-thesis-template?style=flat-square
+[Latiyas/JNUThesis]: https://github.com/Latiyas/JNUThesis
+[Latiyas/JNUThesis/stars]: https://img.shields.io/github/stars/Latiyas/JNUThesis?style=flat-square
+[Latiyas/JNUThesis/forks]: https://img.shields.io/github/forks/Latiyas/JNUThesis?style=flat-square
+[Latiyas/JNUThesis/last-commit]: https://img.shields.io/github/last-commit/Latiyas/JNUThesis?style=flat-square
+[sakronos/NUIST_Bachelor_Thesis_LaTeX_Template]: https://github.com/sakronos/NUIST_Bachelor_Thesis_LaTeX_Template
+[sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/stars]: https://img.shields.io/github/stars/sakronos/NUIST_Bachelor_Thesis_LaTeX_Template?style=flat-square
+[sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/forks]: https://img.shields.io/github/forks/sakronos/NUIST_Bachelor_Thesis_LaTeX_Template?style=flat-square
+[sakronos/NUIST_Bachelor_Thesis_LaTeX_Template/last-commit]: https://img.shields.io/github/last-commit/sakronos/NUIST_Bachelor_Thesis_LaTeX_Template?style=flat-square
+[ucsd-thesis/ucsd-thesis]: https://github.com/ucsd-thesis/ucsd-thesis
+[ucsd-thesis/ucsd-thesis/stars]: https://img.shields.io/github/stars/ucsd-thesis/ucsd-thesis?style=flat-square
+[ucsd-thesis/ucsd-thesis/forks]: https://img.shields.io/github/forks/ucsd-thesis/ucsd-thesis?style=flat-square
+[ucsd-thesis/ucsd-thesis/last-commit]: https://img.shields.io/github/last-commit/ucsd-thesis/ucsd-thesis?style=flat-square
+[tuxify/zzuthesis]: https://github.com/tuxify/zzuthesis
+[tuxify/zzuthesis/stars]: https://img.shields.io/github/stars/tuxify/zzuthesis?style=flat-square
+[tuxify/zzuthesis/forks]: https://img.shields.io/github/forks/tuxify/zzuthesis?style=flat-square
+[tuxify/zzuthesis/last-commit]: https://img.shields.io/github/last-commit/tuxify/zzuthesis?style=flat-square
+[huangyxi/WHUT-Bachelor]: https://github.com/huangyxi/WHUT-Bachelor
+[huangyxi/WHUT-Bachelor/stars]: https://img.shields.io/github/stars/huangyxi/WHUT-Bachelor?style=flat-square
+[huangyxi/WHUT-Bachelor/forks]: https://img.shields.io/github/forks/huangyxi/WHUT-Bachelor?style=flat-square
+[huangyxi/WHUT-Bachelor/last-commit]: https://img.shields.io/github/last-commit/huangyxi/WHUT-Bachelor?style=flat-square
+[wrm244/GUEThesis]: https://github.com/wrm244/GUEThesis
+[wrm244/GUEThesis/stars]: https://img.shields.io/github/stars/wrm244/GUEThesis?style=flat-square
+[wrm244/GUEThesis/forks]: https://img.shields.io/github/forks/wrm244/GUEThesis?style=flat-square
+[wrm244/GUEThesis/last-commit]: https://img.shields.io/github/last-commit/wrm244/GUEThesis?style=flat-square
+[OpenCUMT/thesis-latex]: https://github.com/OpenCUMT/thesis-latex
+[OpenCUMT/thesis-latex/stars]: https://img.shields.io/github/stars/OpenCUMT/thesis-latex?style=flat-square
+[OpenCUMT/thesis-latex/forks]: https://img.shields.io/github/forks/OpenCUMT/thesis-latex?style=flat-square
+[OpenCUMT/thesis-latex/last-commit]: https://img.shields.io/github/last-commit/OpenCUMT/thesis-latex?style=flat-square
+[ondes/Template-Latex-ITU-Thesis]: https://github.com/ondes/Template-Latex-ITU-Thesis
+[ondes/Template-Latex-ITU-Thesis/stars]: https://img.shields.io/github/stars/ondes/Template-Latex-ITU-Thesis?style=flat-square
+[ondes/Template-Latex-ITU-Thesis/forks]: https://img.shields.io/github/forks/ondes/Template-Latex-ITU-Thesis?style=flat-square
+[ondes/Template-Latex-ITU-Thesis/last-commit]: https://img.shields.io/github/last-commit/ondes/Template-Latex-ITU-Thesis?style=flat-square
 [ixzhao/BUAA_Dissertation_Template]: https://github.com/ixzhao/BUAA_Dissertation_Template
 [ixzhao/BUAA_Dissertation_Template/stars]: https://img.shields.io/github/stars/ixzhao/BUAA_Dissertation_Template?style=flat-square
 [ixzhao/BUAA_Dissertation_Template/forks]: https://img.shields.io/github/forks/ixzhao/BUAA_Dissertation_Template?style=flat-square
@@ -599,14 +946,110 @@
 [robjhyndman/MonashThesis/stars]: https://img.shields.io/github/stars/robjhyndman/MonashThesis?style=flat-square
 [robjhyndman/MonashThesis/forks]: https://img.shields.io/github/forks/robjhyndman/MonashThesis?style=flat-square
 [robjhyndman/MonashThesis/last-commit]: https://img.shields.io/github/last-commit/robjhyndman/MonashThesis?style=flat-square
+[markushaug/iu-latex-template]: https://github.com/markushaug/iu-latex-template
+[markushaug/iu-latex-template/stars]: https://img.shields.io/github/stars/markushaug/iu-latex-template?style=flat-square
+[markushaug/iu-latex-template/forks]: https://img.shields.io/github/forks/markushaug/iu-latex-template?style=flat-square
+[markushaug/iu-latex-template/last-commit]: https://img.shields.io/github/last-commit/markushaug/iu-latex-template?style=flat-square
+[open-source-uc/latex-templates]: https://github.com/open-source-uc/latex-templates
+[open-source-uc/latex-templates/stars]: https://img.shields.io/github/stars/open-source-uc/latex-templates?style=flat-square
+[open-source-uc/latex-templates/forks]: https://img.shields.io/github/forks/open-source-uc/latex-templates?style=flat-square
+[open-source-uc/latex-templates/last-commit]: https://img.shields.io/github/last-commit/open-source-uc/latex-templates?style=flat-square
+[umasscs/umassthesis]: https://github.com/umasscs/umassthesis
+[umasscs/umassthesis/stars]: https://img.shields.io/github/stars/umasscs/umassthesis?style=flat-square
+[umasscs/umassthesis/forks]: https://img.shields.io/github/forks/umasscs/umassthesis?style=flat-square
+[umasscs/umassthesis/last-commit]: https://img.shields.io/github/last-commit/umasscs/umassthesis?style=flat-square
+[davyxx3/hhu-thesis-bachelor]: https://github.com/davyxx3/hhu-thesis-bachelor
+[davyxx3/hhu-thesis-bachelor/stars]: https://img.shields.io/github/stars/davyxx3/hhu-thesis-bachelor?style=flat-square
+[davyxx3/hhu-thesis-bachelor/forks]: https://img.shields.io/github/forks/davyxx3/hhu-thesis-bachelor?style=flat-square
+[davyxx3/hhu-thesis-bachelor/last-commit]: https://img.shields.io/github/last-commit/davyxx3/hhu-thesis-bachelor?style=flat-square
+[JingWangTW/NYCU-Thesis-Template]: https://github.com/JingWangTW/NYCU-Thesis-Template
+[JingWangTW/NYCU-Thesis-Template/stars]: https://img.shields.io/github/stars/JingWangTW/NYCU-Thesis-Template?style=flat-square
+[JingWangTW/NYCU-Thesis-Template/forks]: https://img.shields.io/github/forks/JingWangTW/NYCU-Thesis-Template?style=flat-square
+[JingWangTW/NYCU-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/JingWangTW/NYCU-Thesis-Template?style=flat-square
+[Amet13/proofback]: https://github.com/Amet13/proofback
+[Amet13/proofback/stars]: https://img.shields.io/github/stars/Amet13/proofback?style=flat-square
+[Amet13/proofback/forks]: https://img.shields.io/github/forks/Amet13/proofback?style=flat-square
+[Amet13/proofback/last-commit]: https://img.shields.io/github/last-commit/Amet13/proofback?style=flat-square
+[Teddy-van-Jerry/seuthesis2024b]: https://github.com/Teddy-van-Jerry/seuthesis2024b
+[Teddy-van-Jerry/seuthesis2024b/stars]: https://img.shields.io/github/stars/Teddy-van-Jerry/seuthesis2024b?style=flat-square
+[Teddy-van-Jerry/seuthesis2024b/forks]: https://img.shields.io/github/forks/Teddy-van-Jerry/seuthesis2024b?style=flat-square
+[Teddy-van-Jerry/seuthesis2024b/last-commit]: https://img.shields.io/github/last-commit/Teddy-van-Jerry/seuthesis2024b?style=flat-square
+[being24/latex-template-ja]: https://github.com/being24/latex-template-ja
+[being24/latex-template-ja/stars]: https://img.shields.io/github/stars/being24/latex-template-ja?style=flat-square
+[being24/latex-template-ja/forks]: https://img.shields.io/github/forks/being24/latex-template-ja?style=flat-square
+[being24/latex-template-ja/last-commit]: https://img.shields.io/github/last-commit/being24/latex-template-ja?style=flat-square
+[myhsia/hduthesis]: https://github.com/myhsia/hduthesis
+[myhsia/hduthesis/stars]: https://img.shields.io/github/stars/myhsia/hduthesis?style=flat-square
+[myhsia/hduthesis/forks]: https://img.shields.io/github/forks/myhsia/hduthesis?style=flat-square
+[myhsia/hduthesis/last-commit]: https://img.shields.io/github/last-commit/myhsia/hduthesis?style=flat-square
+[kljensen/mit-phd-thesis]: https://github.com/kljensen/mit-phd-thesis
+[kljensen/mit-phd-thesis/stars]: https://img.shields.io/github/stars/kljensen/mit-phd-thesis?style=flat-square
+[kljensen/mit-phd-thesis/forks]: https://img.shields.io/github/forks/kljensen/mit-phd-thesis?style=flat-square
+[kljensen/mit-phd-thesis/last-commit]: https://img.shields.io/github/last-commit/kljensen/mit-phd-thesis?style=flat-square
+[SP5LMA/EE-dyplom]: https://github.com/SP5LMA/EE-dyplom
+[SP5LMA/EE-dyplom/stars]: https://img.shields.io/github/stars/SP5LMA/EE-dyplom?style=flat-square
+[SP5LMA/EE-dyplom/forks]: https://img.shields.io/github/forks/SP5LMA/EE-dyplom?style=flat-square
+[SP5LMA/EE-dyplom/last-commit]: https://img.shields.io/github/last-commit/SP5LMA/EE-dyplom?style=flat-square
 [zagoli/simple-typst-thesis]: https://github.com/zagoli/simple-typst-thesis
 [zagoli/simple-typst-thesis/stars]: https://img.shields.io/github/stars/zagoli/simple-typst-thesis?style=flat-square
 [zagoli/simple-typst-thesis/forks]: https://img.shields.io/github/forks/zagoli/simple-typst-thesis?style=flat-square
 [zagoli/simple-typst-thesis/last-commit]: https://img.shields.io/github/last-commit/zagoli/simple-typst-thesis?style=flat-square
+[michaelroland/jku-templates-report-latex]: https://github.com/michaelroland/jku-templates-report-latex
+[michaelroland/jku-templates-report-latex/stars]: https://img.shields.io/github/stars/michaelroland/jku-templates-report-latex?style=flat-square
+[michaelroland/jku-templates-report-latex/forks]: https://img.shields.io/github/forks/michaelroland/jku-templates-report-latex?style=flat-square
+[michaelroland/jku-templates-report-latex/last-commit]: https://img.shields.io/github/last-commit/michaelroland/jku-templates-report-latex?style=flat-square
+[FrankSFLYS/usstthesis]: https://github.com/FrankSFLYS/usstthesis
+[FrankSFLYS/usstthesis/stars]: https://img.shields.io/github/stars/FrankSFLYS/usstthesis?style=flat-square
+[FrankSFLYS/usstthesis/forks]: https://img.shields.io/github/forks/FrankSFLYS/usstthesis?style=flat-square
+[FrankSFLYS/usstthesis/last-commit]: https://img.shields.io/github/last-commit/FrankSFLYS/usstthesis?style=flat-square
+[dcroote/stanford-thesis-example]: https://github.com/dcroote/stanford-thesis-example
+[dcroote/stanford-thesis-example/stars]: https://img.shields.io/github/stars/dcroote/stanford-thesis-example?style=flat-square
+[dcroote/stanford-thesis-example/forks]: https://img.shields.io/github/forks/dcroote/stanford-thesis-example?style=flat-square
+[dcroote/stanford-thesis-example/last-commit]: https://img.shields.io/github/last-commit/dcroote/stanford-thesis-example?style=flat-square
 [hitszosa/universal-hit-thesis]: https://github.com/hitszosa/universal-hit-thesis
 [hitszosa/universal-hit-thesis/stars]: https://img.shields.io/github/stars/hitszosa/universal-hit-thesis?style=flat-square
 [hitszosa/universal-hit-thesis/forks]: https://img.shields.io/github/forks/hitszosa/universal-hit-thesis?style=flat-square
 [hitszosa/universal-hit-thesis/last-commit]: https://img.shields.io/github/last-commit/hitszosa/universal-hit-thesis?style=flat-square
+[doem97/NTU-EEE-MSc-Dissertation-Template]: https://github.com/doem97/NTU-EEE-MSc-Dissertation-Template
+[doem97/NTU-EEE-MSc-Dissertation-Template/stars]: https://img.shields.io/github/stars/doem97/NTU-EEE-MSc-Dissertation-Template?style=flat-square
+[doem97/NTU-EEE-MSc-Dissertation-Template/forks]: https://img.shields.io/github/forks/doem97/NTU-EEE-MSc-Dissertation-Template?style=flat-square
+[doem97/NTU-EEE-MSc-Dissertation-Template/last-commit]: https://img.shields.io/github/last-commit/doem97/NTU-EEE-MSc-Dissertation-Template?style=flat-square
+[Jin-bao/NCU-thesis]: https://github.com/Jin-bao/NCU-thesis
+[Jin-bao/NCU-thesis/stars]: https://img.shields.io/github/stars/Jin-bao/NCU-thesis?style=flat-square
+[Jin-bao/NCU-thesis/forks]: https://img.shields.io/github/forks/Jin-bao/NCU-thesis?style=flat-square
+[Jin-bao/NCU-thesis/last-commit]: https://img.shields.io/github/last-commit/Jin-bao/NCU-thesis?style=flat-square
+[Jeff-Hugh/USTBThesis]: https://github.com/Jeff-Hugh/USTBThesis
+[Jeff-Hugh/USTBThesis/stars]: https://img.shields.io/github/stars/Jeff-Hugh/USTBThesis?style=flat-square
+[Jeff-Hugh/USTBThesis/forks]: https://img.shields.io/github/forks/Jeff-Hugh/USTBThesis?style=flat-square
+[Jeff-Hugh/USTBThesis/last-commit]: https://img.shields.io/github/last-commit/Jeff-Hugh/USTBThesis?style=flat-square
+[AaronComo/WHU-Bachelor-Thesis-Template]: https://github.com/AaronComo/WHU-Bachelor-Thesis-Template
+[AaronComo/WHU-Bachelor-Thesis-Template/stars]: https://img.shields.io/github/stars/AaronComo/WHU-Bachelor-Thesis-Template?style=flat-square
+[AaronComo/WHU-Bachelor-Thesis-Template/forks]: https://img.shields.io/github/forks/AaronComo/WHU-Bachelor-Thesis-Template?style=flat-square
+[AaronComo/WHU-Bachelor-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/AaronComo/WHU-Bachelor-Thesis-Template?style=flat-square
+[latextemplates/uni-stuttgart-dissertation-template]: https://github.com/latextemplates/uni-stuttgart-dissertation-template
+[latextemplates/uni-stuttgart-dissertation-template/stars]: https://img.shields.io/github/stars/latextemplates/uni-stuttgart-dissertation-template?style=flat-square
+[latextemplates/uni-stuttgart-dissertation-template/forks]: https://img.shields.io/github/forks/latextemplates/uni-stuttgart-dissertation-template?style=flat-square
+[latextemplates/uni-stuttgart-dissertation-template/last-commit]: https://img.shields.io/github/last-commit/latextemplates/uni-stuttgart-dissertation-template?style=flat-square
+[james-d-h/quarto-phd-thesis]: https://github.com/james-d-h/quarto-phd-thesis
+[james-d-h/quarto-phd-thesis/stars]: https://img.shields.io/github/stars/james-d-h/quarto-phd-thesis?style=flat-square
+[james-d-h/quarto-phd-thesis/forks]: https://img.shields.io/github/forks/james-d-h/quarto-phd-thesis?style=flat-square
+[james-d-h/quarto-phd-thesis/last-commit]: https://img.shields.io/github/last-commit/james-d-h/quarto-phd-thesis?style=flat-square
+[coding-tan/CQUPTtex]: https://github.com/coding-tan/CQUPTtex
+[coding-tan/CQUPTtex/stars]: https://img.shields.io/github/stars/coding-tan/CQUPTtex?style=flat-square
+[coding-tan/CQUPTtex/forks]: https://img.shields.io/github/forks/coding-tan/CQUPTtex?style=flat-square
+[coding-tan/CQUPTtex/last-commit]: https://img.shields.io/github/last-commit/coding-tan/CQUPTtex?style=flat-square
+[Jiayin-Gu/WUTthesis]: https://github.com/Jiayin-Gu/WUTthesis
+[Jiayin-Gu/WUTthesis/stars]: https://img.shields.io/github/stars/Jiayin-Gu/WUTthesis?style=flat-square
+[Jiayin-Gu/WUTthesis/forks]: https://img.shields.io/github/forks/Jiayin-Gu/WUTthesis?style=flat-square
+[Jiayin-Gu/WUTthesis/last-commit]: https://img.shields.io/github/last-commit/Jiayin-Gu/WUTthesis?style=flat-square
+[iihciyekub/MUST-Thesis]: https://github.com/iihciyekub/MUST-Thesis
+[iihciyekub/MUST-Thesis/stars]: https://img.shields.io/github/stars/iihciyekub/MUST-Thesis?style=flat-square
+[iihciyekub/MUST-Thesis/forks]: https://img.shields.io/github/forks/iihciyekub/MUST-Thesis?style=flat-square
+[iihciyekub/MUST-Thesis/last-commit]: https://img.shields.io/github/last-commit/iihciyekub/MUST-Thesis?style=flat-square
+[hellckt/SHMTUThesis]: https://github.com/hellckt/SHMTUThesis
+[hellckt/SHMTUThesis/stars]: https://img.shields.io/github/stars/hellckt/SHMTUThesis?style=flat-square
+[hellckt/SHMTUThesis/forks]: https://img.shields.io/github/forks/hellckt/SHMTUThesis?style=flat-square
+[hellckt/SHMTUThesis/last-commit]: https://img.shields.io/github/last-commit/hellckt/SHMTUThesis?style=flat-square
 [ut-khanlab/master_thesis_template_for_typst]: https://github.com/ut-khanlab/master_thesis_template_for_typst
 [ut-khanlab/master_thesis_template_for_typst/stars]: https://img.shields.io/github/stars/ut-khanlab/master_thesis_template_for_typst?style=flat-square
 [ut-khanlab/master_thesis_template_for_typst/forks]: https://img.shields.io/github/forks/ut-khanlab/master_thesis_template_for_typst?style=flat-square
@@ -615,183 +1058,90 @@
 [howardlau1999/sysu-thesis-typst/stars]: https://img.shields.io/github/stars/howardlau1999/sysu-thesis-typst?style=flat-square
 [howardlau1999/sysu-thesis-typst/forks]: https://img.shields.io/github/forks/howardlau1999/sysu-thesis-typst?style=flat-square
 [howardlau1999/sysu-thesis-typst/last-commit]: https://img.shields.io/github/last-commit/howardlau1999/sysu-thesis-typst?style=flat-square
+[egraff/uit-thesis]: https://github.com/egraff/uit-thesis
+[egraff/uit-thesis/stars]: https://img.shields.io/github/stars/egraff/uit-thesis?style=flat-square
+[egraff/uit-thesis/forks]: https://img.shields.io/github/forks/egraff/uit-thesis?style=flat-square
+[egraff/uit-thesis/last-commit]: https://img.shields.io/github/last-commit/egraff/uit-thesis?style=flat-square
+[paulzhn/bjtu-bachelor-thesis]: https://github.com/paulzhn/bjtu-bachelor-thesis
+[paulzhn/bjtu-bachelor-thesis/stars]: https://img.shields.io/github/stars/paulzhn/bjtu-bachelor-thesis?style=flat-square
+[paulzhn/bjtu-bachelor-thesis/forks]: https://img.shields.io/github/forks/paulzhn/bjtu-bachelor-thesis?style=flat-square
+[paulzhn/bjtu-bachelor-thesis/last-commit]: https://img.shields.io/github/last-commit/paulzhn/bjtu-bachelor-thesis?style=flat-square
+[the-ccsn/BUCTthesis]: https://github.com/the-ccsn/BUCTthesis
+[the-ccsn/BUCTthesis/stars]: https://img.shields.io/github/stars/the-ccsn/BUCTthesis?style=flat-square
+[the-ccsn/BUCTthesis/forks]: https://img.shields.io/github/forks/the-ccsn/BUCTthesis?style=flat-square
+[the-ccsn/BUCTthesis/last-commit]: https://img.shields.io/github/last-commit/the-ccsn/BUCTthesis?style=flat-square
+[danielvartan/abnt]: https://github.com/danielvartan/abnt
+[danielvartan/abnt/stars]: https://img.shields.io/github/stars/danielvartan/abnt?style=flat-square
+[danielvartan/abnt/forks]: https://img.shields.io/github/forks/danielvartan/abnt?style=flat-square
+[danielvartan/abnt/last-commit]: https://img.shields.io/github/last-commit/danielvartan/abnt?style=flat-square
+[zjutjh/zjutthesis]: https://github.com/zjutjh/zjutthesis
+[zjutjh/zjutthesis/stars]: https://img.shields.io/github/stars/zjutjh/zjutthesis?style=flat-square
+[zjutjh/zjutthesis/forks]: https://img.shields.io/github/forks/zjutjh/zjutthesis?style=flat-square
+[zjutjh/zjutthesis/last-commit]: https://img.shields.io/github/last-commit/zjutjh/zjutthesis?style=flat-square
+[Po-haoHuang/nctu-thesis]: https://github.com/Po-haoHuang/nctu-thesis
+[Po-haoHuang/nctu-thesis/stars]: https://img.shields.io/github/stars/Po-haoHuang/nctu-thesis?style=flat-square
+[Po-haoHuang/nctu-thesis/forks]: https://img.shields.io/github/forks/Po-haoHuang/nctu-thesis?style=flat-square
+[Po-haoHuang/nctu-thesis/last-commit]: https://img.shields.io/github/last-commit/Po-haoHuang/nctu-thesis?style=flat-square
+[OChicken/SCUT-Bachelor-Thesis-Template]: https://github.com/OChicken/SCUT-Bachelor-Thesis-Template
+[OChicken/SCUT-Bachelor-Thesis-Template/stars]: https://img.shields.io/github/stars/OChicken/SCUT-Bachelor-Thesis-Template?style=flat-square
+[OChicken/SCUT-Bachelor-Thesis-Template/forks]: https://img.shields.io/github/forks/OChicken/SCUT-Bachelor-Thesis-Template?style=flat-square
+[OChicken/SCUT-Bachelor-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/OChicken/SCUT-Bachelor-Thesis-Template?style=flat-square
+[sierxue/ThesisSWUFE]: https://github.com/sierxue/ThesisSWUFE
+[sierxue/ThesisSWUFE/stars]: https://img.shields.io/github/stars/sierxue/ThesisSWUFE?style=flat-square
+[sierxue/ThesisSWUFE/forks]: https://img.shields.io/github/forks/sierxue/ThesisSWUFE?style=flat-square
+[sierxue/ThesisSWUFE/last-commit]: https://img.shields.io/github/last-commit/sierxue/ThesisSWUFE?style=flat-square
 [agude/UMN-PhD-Thesis-Template]: https://github.com/agude/UMN-PhD-Thesis-Template
 [agude/UMN-PhD-Thesis-Template/stars]: https://img.shields.io/github/stars/agude/UMN-PhD-Thesis-Template?style=flat-square
 [agude/UMN-PhD-Thesis-Template/forks]: https://img.shields.io/github/forks/agude/UMN-PhD-Thesis-Template?style=flat-square
 [agude/UMN-PhD-Thesis-Template/last-commit]: https://img.shields.io/github/last-commit/agude/UMN-PhD-Thesis-Template?style=flat-square
+[onlytailei/HKUST_latex_thesis_2019]: https://github.com/onlytailei/HKUST_latex_thesis_2019
+[onlytailei/HKUST_latex_thesis_2019/stars]: https://img.shields.io/github/stars/onlytailei/HKUST_latex_thesis_2019?style=flat-square
+[onlytailei/HKUST_latex_thesis_2019/forks]: https://img.shields.io/github/forks/onlytailei/HKUST_latex_thesis_2019?style=flat-square
+[onlytailei/HKUST_latex_thesis_2019/last-commit]: https://img.shields.io/github/last-commit/onlytailei/HKUST_latex_thesis_2019?style=flat-square
+[MobtgZhang/sues-thesis]: https://github.com/MobtgZhang/sues-thesis
+[MobtgZhang/sues-thesis/stars]: https://img.shields.io/github/stars/MobtgZhang/sues-thesis?style=flat-square
+[MobtgZhang/sues-thesis/forks]: https://img.shields.io/github/forks/MobtgZhang/sues-thesis?style=flat-square
+[MobtgZhang/sues-thesis/last-commit]: https://img.shields.io/github/last-commit/MobtgZhang/sues-thesis?style=flat-square
+[ytZhou/JNUMasterThesis]: https://github.com/ytZhou/JNUMasterThesis
+[ytZhou/JNUMasterThesis/stars]: https://img.shields.io/github/stars/ytZhou/JNUMasterThesis?style=flat-square
+[ytZhou/JNUMasterThesis/forks]: https://img.shields.io/github/forks/ytZhou/JNUMasterThesis?style=flat-square
+[ytZhou/JNUMasterThesis/last-commit]: https://img.shields.io/github/last-commit/ytZhou/JNUMasterThesis?style=flat-square
+[xiaoleeza/chdthesis]: https://github.com/xiaoleeza/chdthesis
+[xiaoleeza/chdthesis/stars]: https://img.shields.io/github/stars/xiaoleeza/chdthesis?style=flat-square
+[xiaoleeza/chdthesis/forks]: https://img.shields.io/github/forks/xiaoleeza/chdthesis?style=flat-square
+[xiaoleeza/chdthesis/last-commit]: https://img.shields.io/github/last-commit/xiaoleeza/chdthesis?style=flat-square
+[OSOUC/UndergraduateThesisLaTeXTemplate]: https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate
+[OSOUC/UndergraduateThesisLaTeXTemplate/stars]: https://img.shields.io/github/stars/OSOUC/UndergraduateThesisLaTeXTemplate?style=flat-square
+[OSOUC/UndergraduateThesisLaTeXTemplate/forks]: https://img.shields.io/github/forks/OSOUC/UndergraduateThesisLaTeXTemplate?style=flat-square
+[OSOUC/UndergraduateThesisLaTeXTemplate/last-commit]: https://img.shields.io/github/last-commit/OSOUC/UndergraduateThesisLaTeXTemplate?style=flat-square
+[jinyiliu/bnu-thesis-template]: https://github.com/jinyiliu/bnu-thesis-template
+[jinyiliu/bnu-thesis-template/stars]: https://img.shields.io/github/stars/jinyiliu/bnu-thesis-template?style=flat-square
+[jinyiliu/bnu-thesis-template/forks]: https://img.shields.io/github/forks/jinyiliu/bnu-thesis-template?style=flat-square
+[jinyiliu/bnu-thesis-template/last-commit]: https://img.shields.io/github/last-commit/jinyiliu/bnu-thesis-template?style=flat-square
+[matteodelucchi/ZHAW_thesis-template]: https://github.com/matteodelucchi/ZHAW_thesis-template
+[matteodelucchi/ZHAW_thesis-template/stars]: https://img.shields.io/github/stars/matteodelucchi/ZHAW_thesis-template?style=flat-square
+[matteodelucchi/ZHAW_thesis-template/forks]: https://img.shields.io/github/forks/matteodelucchi/ZHAW_thesis-template?style=flat-square
+[matteodelucchi/ZHAW_thesis-template/last-commit]: https://img.shields.io/github/last-commit/matteodelucchi/ZHAW_thesis-template?style=flat-square
+[maurovm/thesis_template]: https://github.com/maurovm/thesis_template
+[maurovm/thesis_template/stars]: https://img.shields.io/github/stars/maurovm/thesis_template?style=flat-square
+[maurovm/thesis_template/forks]: https://img.shields.io/github/forks/maurovm/thesis_template?style=flat-square
+[maurovm/thesis_template/last-commit]: https://img.shields.io/github/last-commit/maurovm/thesis_template?style=flat-square
+[FIUP/Thesis-template]: https://github.com/FIUP/Thesis-template
+[FIUP/Thesis-template/stars]: https://img.shields.io/github/stars/FIUP/Thesis-template?style=flat-square
+[FIUP/Thesis-template/forks]: https://img.shields.io/github/forks/FIUP/Thesis-template?style=flat-square
+[FIUP/Thesis-template/last-commit]: https://img.shields.io/github/last-commit/FIUP/Thesis-template?style=flat-square
+[canggihpw/thesisdtetiugm]: https://github.com/canggihpw/thesisdtetiugm
+[canggihpw/thesisdtetiugm/stars]: https://img.shields.io/github/stars/canggihpw/thesisdtetiugm?style=flat-square
+[canggihpw/thesisdtetiugm/forks]: https://img.shields.io/github/forks/canggihpw/thesisdtetiugm?style=flat-square
+[canggihpw/thesisdtetiugm/last-commit]: https://img.shields.io/github/last-commit/canggihpw/thesisdtetiugm?style=flat-square
 
 ### 演示文稿和幻灯片（LaTeX）
 
 | 学校（机构） | GitHub仓库 | 统计 | 说明 |
 | --- | --- | --- | --- |
-| **通用模板** | [matze/mtheme] | ![6929][matze/mtheme/stars]<br>![859][matze/mtheme/forks]<br>![2022-11-23][matze/mtheme/last-commit] | A modern LaTeX Beamer theme |
-| **通用模板** | [josephwright/beamer] | ![1747][josephwright/beamer/stars]<br>![167][josephwright/beamer/forks]<br>![2026-08-21][josephwright/beamer/last-commit] | A LaTeX class for producing presentations and slides |
-| **通用模板** | [anishathalye/gemini] | ![1287][anishathalye/gemini/stars]<br>![323][anishathalye/gemini/forks]<br>![2026-11-04][anishathalye/gemini/last-commit] | Gemini is a modern LaTex beamerposter theme 🖼 |
-| **通用模板** | [pcafrica/focus-beamertheme] | ![548][pcafrica/focus-beamertheme/stars]<br>![47][pcafrica/focus-beamertheme/forks]<br>![2024-02-07][pcafrica/focus-beamertheme/last-commit] | Focus: a minimalist presentation theme for LaTeX Beamer. |
-| **通用模板** | [anishathalye/auriga] | ![409][anishathalye/auriga/stars]<br>![38][anishathalye/auriga/forks]<br>![2026-11-14][anishathalye/auriga/last-commit] | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
-| **中国科学技术大学** | [ustctug/ustcbeamer] | ![360][ustctug/ustcbeamer/stars]<br>![66][ustctug/ustcbeamer/forks]<br>![2022-07-26][ustctug/ustcbeamer/last-commit] | USTC Beamer 模板（基于学校公用 PPT 模板） |
-| **通用模板** | [pmichaillat/latex-presentation] | ![301][pmichaillat/latex-presentation/stars]<br>![79][pmichaillat/latex-presentation/forks]<br>![2026-10-14][pmichaillat/latex-presentation/last-commit] | Minimalist LaTeX template for academic presentations |
-| **通用模板** | [piazzai/arguelles] | ![288][piazzai/arguelles/stars]<br>![25][piazzai/arguelles/forks]<br>![2026-04-26][piazzai/arguelles/last-commit] | Simple, typographic beamer theme |
-| **通用模板** | [SunYanCN/Latex-Beamer-Template] | ![286][SunYanCN/Latex-Beamer-Template/stars]<br>![58][SunYanCN/Latex-Beamer-Template/forks]<br>![2022-11-29][SunYanCN/Latex-Beamer-Template/last-commit] | 中文学术LaTeX Beamer模板 |
-| **通用模板** | [pm25/SimplePlus-BeamerTheme] | ![283][pm25/SimplePlus-BeamerTheme/stars]<br>![26][pm25/SimplePlus-BeamerTheme/forks]<br>![2025-01-12][pm25/SimplePlus-BeamerTheme/last-commit] | 🍃 SimplePlus - A minimalist and clean LaTeX Beamer theme |
-| **通用模板** | [jolars/moloch] | ![279][jolars/moloch/stars]<br>![17][jolars/moloch/forks]<br>![2026-10-19][jolars/moloch/last-commit] | ![fork]<br>Minimalist, feature-rich Beamer theme for LaTeX presentations |
-| **通用模板** | [XiangyunHuang/awesome-beamers] | ![271][XiangyunHuang/awesome-beamers/stars]<br>![80][XiangyunHuang/awesome-beamers/forks]<br>![2023-09-01][XiangyunHuang/awesome-beamers/last-commit] | beamer template collection |
-| **（美国）斯坦福大学**<br>*Stanford University* | [RylanSchaeffer/Stanford-LaTeX-Poster-Template] | ![250][RylanSchaeffer/Stanford-LaTeX-Poster-Template/stars]<br>![89][RylanSchaeffer/Stanford-LaTeX-Poster-Template/forks]<br>![2025-06-29][RylanSchaeffer/Stanford-LaTeX-Poster-Template/last-commit] | Stanford LaTeX poster template |
-| **通用模板** | [liu-qilong/college-beamer] | ![243][liu-qilong/college-beamer/stars]<br>![71][liu-qilong/college-beamer/forks]<br>![2026-08-10][liu-qilong/college-beamer/last-commit] | Customized beamer templates for colleges/institutes |
-| **（德国）莱茵曼应用技术大学**<br>*Hochschule RheinMain* | [benjamin-weiss/hsrmbeamertheme] | ![231][benjamin-weiss/hsrmbeamertheme/stars]<br>![63][benjamin-weiss/hsrmbeamertheme/forks]<br>![2024-03-09][benjamin-weiss/hsrmbeamertheme/last-commit] | Beamer theme that complies with the corporate design of the RheinMain University of Applied Sciences. |
-| **四川大学** | [FvNCCR228/SCU-Beamer-Theme] | ![204][FvNCCR228/SCU-Beamer-Theme/stars]<br>![26][FvNCCR228/SCU-Beamer-Theme/forks]<br>![2026-06-26][FvNCCR228/SCU-Beamer-Theme/last-commit] | 四川大学非官方Beamer模板 \| Unofficial Beamer Template for Sichuan University |
-| **北京大学** | [inFaaa/PKU-Beamer-Theme] | ![203][inFaaa/PKU-Beamer-Theme/stars]<br>![19][inFaaa/PKU-Beamer-Theme/forks]<br>![2026-09-30][inFaaa/PKU-Beamer-Theme/last-commit] | A Beamer Theme of PKU for academic report, thesis and talk. |
-| **通用模板** | [mholson/sthlmNordBeamerTheme] | ![168][mholson/sthlmNordBeamerTheme/stars]<br>![20][mholson/sthlmNordBeamerTheme/forks]<br>![2022-11-05][mholson/sthlmNordBeamerTheme/last-commit] | ![archived]<br>sthlmNord is a LaTeX Beamer slide deck theme inspired by the arctic north blueish colour palette of Nord. The code base is HEAVILY influenced by hsrmbeamer and mtheme. WIP |
-| **通用模板** | [kai-tub/latex-beamer-pure-minimalistic] | ![168][kai-tub/latex-beamer-pure-minimalistic/stars]<br>![14][kai-tub/latex-beamer-pure-minimalistic/forks]<br>![2024-07-02][kai-tub/latex-beamer-pure-minimalistic/last-commit] | A true minimalistic LaTeX beamer template |
-| **通用模板** | [LukasPietzschmann/awesome-beamer] | ![164][LukasPietzschmann/awesome-beamer/stars]<br>![21][LukasPietzschmann/awesome-beamer/forks]<br>![2026-03-27][LukasPietzschmann/awesome-beamer/last-commit] | ![archived]<br>Kinda awesome beamer theme |
-| **通用模板** | [kmaed/kmbeamer] | ![155][kmaed/kmbeamer/stars]<br>![26][kmaed/kmbeamer/forks]<br>![2023-03-10][kmaed/kmbeamer/last-commit] | My themes for Beamer. |
-| **浙江大学** | [qychen2001/ZJU-Beamer-Template] | ![128][qychen2001/ZJU-Beamer-Template/stars]<br>![11][qychen2001/ZJU-Beamer-Template/forks]<br>![2026-05-09][qychen2001/ZJU-Beamer-Template/last-commit] | 一个更好看的浙江大学beamer模板 |
-| **清华大学** | [YangLaTeX/thubeamer] | ![106][YangLaTeX/thubeamer/stars]<br>![23][YangLaTeX/thubeamer/forks]<br>![2023-11-27][YangLaTeX/thubeamer/last-commit] | A Beamer Theme for Tsinghua University (THU). |
-| **通用模板** | [pm25/SimpleDarkBlue-BeamerTheme] | ![101][pm25/SimpleDarkBlue-BeamerTheme/stars]<br>![16][pm25/SimpleDarkBlue-BeamerTheme/forks]<br>![2025-01-14][pm25/SimpleDarkBlue-BeamerTheme/last-commit] | 🫐 SimpleDarkBlue - A simple and clear LaTeX Beamer theme |
-| **武汉大学** | [hrtan99/WHU-Beamer] | ![92][hrtan99/WHU-Beamer/stars]<br>![4][hrtan99/WHU-Beamer/forks]<br>![2023-11-01][hrtan99/WHU-Beamer/last-commit] | 武汉大学 Beamer 幻灯片模板。武大师生可用于各种报告、展示、答辩等场景。 |
-| **西北工业大学** | [ruiguoz/NWPU-BEAMER] | ![87][ruiguoz/NWPU-BEAMER/stars]<br>![12][ruiguoz/NWPU-BEAMER/forks]<br>![2026-08-31][ruiguoz/NWPU-BEAMER/last-commit] | Latex-Beamer-ppt-NWPU-西北工业大学ppt模板-LaTex-Beamer |
-| **（英国）牛津大学**<br>*University of Oxford* | [gbaydin/oxford-poster] | ![78][gbaydin/oxford-poster/stars]<br>![44][gbaydin/oxford-poster/forks]<br>![2023-03-31][gbaydin/oxford-poster/last-commit] | LaTeX beamer poster template themed for the University of Oxford |
-| **中山大学** | [yxnchen/sysu-beamer-template] | ![66][yxnchen/sysu-beamer-template/stars]<br>![9][yxnchen/sysu-beamer-template/forks]<br>![2023-10-10][yxnchen/sysu-beamer-template/last-commit] | A LaTeX beamer template for SYSU. 中山大学LaTeX演示模板 |
-| **通用模板** | [gshstexsociety/gshs-format] | ![63][gshstexsociety/gshs-format/stars]<br>![12][gshstexsociety/gshs-format/forks]<br>![2025-03-11][gshstexsociety/gshs-format/last-commit] | LaTeX 양식 : R&E, 졸업논문, beamer 등등 - 컴파일된 결과 pdf파일 미포함 |
-| **北京大学** | [rexera/minimalist-pku-beamer-2026] | ![59][rexera/minimalist-pku-beamer-2026/stars]<br>![7][rexera/minimalist-pku-beamer-2026/forks]<br>![2026-10-07][rexera/minimalist-pku-beamer-2026/last-commit] | Minimalist PKU-style LaTeX Beamer template with native Chinese (Songti SC) support · 北京大学风格轻量 Beamer 模板 |
-| **武汉大学** | [hamsterwk/whucs-beamer] | ![58][hamsterwk/whucs-beamer/stars]<br>![12][hamsterwk/whucs-beamer/forks]<br>![2022-05-11][hamsterwk/whucs-beamer/last-commit] | Beamer Template for Computer Science Academy of Wuhan University (WHU-CS) 武汉大学计算机学院beamer模板（答辩，汇报） |
-| **通用模板** | [klb2/beamer-presentation-template] | ![53][klb2/beamer-presentation-template/stars]<br>![10][klb2/beamer-presentation-template/forks]<br>![2025-06-24][klb2/beamer-presentation-template/last-commit] | LaTeX beamer template for presentations with a clean and simple style |
-| **西交利物浦大学** | [yaoshanliang/XJTLU-Beamer-Template] | ![51][yaoshanliang/XJTLU-Beamer-Template/stars]<br>![10][yaoshanliang/XJTLU-Beamer-Template/forks]<br>![2024-11-24][yaoshanliang/XJTLU-Beamer-Template/last-commit] | Latex template for presentations |
 
 [archived]: https://img.shields.io/badge/archived-TRUE-orange?style=plastic
 [fork]: https://img.shields.io/badge/fork-TRUE-green?style=plastic
-[matze/mtheme]: https://github.com/matze/mtheme
-[matze/mtheme/stars]: https://img.shields.io/github/stars/matze/mtheme?style=flat-square
-[matze/mtheme/forks]: https://img.shields.io/github/forks/matze/mtheme?style=flat-square
-[matze/mtheme/last-commit]: https://img.shields.io/github/last-commit/matze/mtheme?style=flat-square
-[josephwright/beamer]: https://github.com/josephwright/beamer
-[josephwright/beamer/stars]: https://img.shields.io/github/stars/josephwright/beamer?style=flat-square
-[josephwright/beamer/forks]: https://img.shields.io/github/forks/josephwright/beamer?style=flat-square
-[josephwright/beamer/last-commit]: https://img.shields.io/github/last-commit/josephwright/beamer?style=flat-square
-[anishathalye/gemini]: https://github.com/anishathalye/gemini
-[anishathalye/gemini/stars]: https://img.shields.io/github/stars/anishathalye/gemini?style=flat-square
-[anishathalye/gemini/forks]: https://img.shields.io/github/forks/anishathalye/gemini?style=flat-square
-[anishathalye/gemini/last-commit]: https://img.shields.io/github/last-commit/anishathalye/gemini?style=flat-square
-[pcafrica/focus-beamertheme]: https://github.com/pcafrica/focus-beamertheme
-[pcafrica/focus-beamertheme/stars]: https://img.shields.io/github/stars/pcafrica/focus-beamertheme?style=flat-square
-[pcafrica/focus-beamertheme/forks]: https://img.shields.io/github/forks/pcafrica/focus-beamertheme?style=flat-square
-[pcafrica/focus-beamertheme/last-commit]: https://img.shields.io/github/last-commit/pcafrica/focus-beamertheme?style=flat-square
-[anishathalye/auriga]: https://github.com/anishathalye/auriga
-[anishathalye/auriga/stars]: https://img.shields.io/github/stars/anishathalye/auriga?style=flat-square
-[anishathalye/auriga/forks]: https://img.shields.io/github/forks/anishathalye/auriga?style=flat-square
-[anishathalye/auriga/last-commit]: https://img.shields.io/github/last-commit/anishathalye/auriga?style=flat-square
-[ustctug/ustcbeamer]: https://github.com/ustctug/ustcbeamer
-[ustctug/ustcbeamer/stars]: https://img.shields.io/github/stars/ustctug/ustcbeamer?style=flat-square
-[ustctug/ustcbeamer/forks]: https://img.shields.io/github/forks/ustctug/ustcbeamer?style=flat-square
-[ustctug/ustcbeamer/last-commit]: https://img.shields.io/github/last-commit/ustctug/ustcbeamer?style=flat-square
-[pmichaillat/latex-presentation]: https://github.com/pmichaillat/latex-presentation
-[pmichaillat/latex-presentation/stars]: https://img.shields.io/github/stars/pmichaillat/latex-presentation?style=flat-square
-[pmichaillat/latex-presentation/forks]: https://img.shields.io/github/forks/pmichaillat/latex-presentation?style=flat-square
-[pmichaillat/latex-presentation/last-commit]: https://img.shields.io/github/last-commit/pmichaillat/latex-presentation?style=flat-square
-[piazzai/arguelles]: https://github.com/piazzai/arguelles
-[piazzai/arguelles/stars]: https://img.shields.io/github/stars/piazzai/arguelles?style=flat-square
-[piazzai/arguelles/forks]: https://img.shields.io/github/forks/piazzai/arguelles?style=flat-square
-[piazzai/arguelles/last-commit]: https://img.shields.io/github/last-commit/piazzai/arguelles?style=flat-square
-[SunYanCN/Latex-Beamer-Template]: https://github.com/SunYanCN/Latex-Beamer-Template
-[SunYanCN/Latex-Beamer-Template/stars]: https://img.shields.io/github/stars/SunYanCN/Latex-Beamer-Template?style=flat-square
-[SunYanCN/Latex-Beamer-Template/forks]: https://img.shields.io/github/forks/SunYanCN/Latex-Beamer-Template?style=flat-square
-[SunYanCN/Latex-Beamer-Template/last-commit]: https://img.shields.io/github/last-commit/SunYanCN/Latex-Beamer-Template?style=flat-square
-[pm25/SimplePlus-BeamerTheme]: https://github.com/pm25/SimplePlus-BeamerTheme
-[pm25/SimplePlus-BeamerTheme/stars]: https://img.shields.io/github/stars/pm25/SimplePlus-BeamerTheme?style=flat-square
-[pm25/SimplePlus-BeamerTheme/forks]: https://img.shields.io/github/forks/pm25/SimplePlus-BeamerTheme?style=flat-square
-[pm25/SimplePlus-BeamerTheme/last-commit]: https://img.shields.io/github/last-commit/pm25/SimplePlus-BeamerTheme?style=flat-square
-[jolars/moloch]: https://github.com/jolars/moloch
-[jolars/moloch/stars]: https://img.shields.io/github/stars/jolars/moloch?style=flat-square
-[jolars/moloch/forks]: https://img.shields.io/github/forks/jolars/moloch?style=flat-square
-[jolars/moloch/last-commit]: https://img.shields.io/github/last-commit/jolars/moloch?style=flat-square
-[XiangyunHuang/awesome-beamers]: https://github.com/XiangyunHuang/awesome-beamers
-[XiangyunHuang/awesome-beamers/stars]: https://img.shields.io/github/stars/XiangyunHuang/awesome-beamers?style=flat-square
-[XiangyunHuang/awesome-beamers/forks]: https://img.shields.io/github/forks/XiangyunHuang/awesome-beamers?style=flat-square
-[XiangyunHuang/awesome-beamers/last-commit]: https://img.shields.io/github/last-commit/XiangyunHuang/awesome-beamers?style=flat-square
-[RylanSchaeffer/Stanford-LaTeX-Poster-Template]: https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template
-[RylanSchaeffer/Stanford-LaTeX-Poster-Template/stars]: https://img.shields.io/github/stars/RylanSchaeffer/Stanford-LaTeX-Poster-Template?style=flat-square
-[RylanSchaeffer/Stanford-LaTeX-Poster-Template/forks]: https://img.shields.io/github/forks/RylanSchaeffer/Stanford-LaTeX-Poster-Template?style=flat-square
-[RylanSchaeffer/Stanford-LaTeX-Poster-Template/last-commit]: https://img.shields.io/github/last-commit/RylanSchaeffer/Stanford-LaTeX-Poster-Template?style=flat-square
-[liu-qilong/college-beamer]: https://github.com/liu-qilong/college-beamer
-[liu-qilong/college-beamer/stars]: https://img.shields.io/github/stars/liu-qilong/college-beamer?style=flat-square
-[liu-qilong/college-beamer/forks]: https://img.shields.io/github/forks/liu-qilong/college-beamer?style=flat-square
-[liu-qilong/college-beamer/last-commit]: https://img.shields.io/github/last-commit/liu-qilong/college-beamer?style=flat-square
-[benjamin-weiss/hsrmbeamertheme]: https://github.com/benjamin-weiss/hsrmbeamertheme
-[benjamin-weiss/hsrmbeamertheme/stars]: https://img.shields.io/github/stars/benjamin-weiss/hsrmbeamertheme?style=flat-square
-[benjamin-weiss/hsrmbeamertheme/forks]: https://img.shields.io/github/forks/benjamin-weiss/hsrmbeamertheme?style=flat-square
-[benjamin-weiss/hsrmbeamertheme/last-commit]: https://img.shields.io/github/last-commit/benjamin-weiss/hsrmbeamertheme?style=flat-square
-[FvNCCR228/SCU-Beamer-Theme]: https://github.com/FvNCCR228/SCU-Beamer-Theme
-[FvNCCR228/SCU-Beamer-Theme/stars]: https://img.shields.io/github/stars/FvNCCR228/SCU-Beamer-Theme?style=flat-square
-[FvNCCR228/SCU-Beamer-Theme/forks]: https://img.shields.io/github/forks/FvNCCR228/SCU-Beamer-Theme?style=flat-square
-[FvNCCR228/SCU-Beamer-Theme/last-commit]: https://img.shields.io/github/last-commit/FvNCCR228/SCU-Beamer-Theme?style=flat-square
-[inFaaa/PKU-Beamer-Theme]: https://github.com/inFaaa/PKU-Beamer-Theme
-[inFaaa/PKU-Beamer-Theme/stars]: https://img.shields.io/github/stars/inFaaa/PKU-Beamer-Theme?style=flat-square
-[inFaaa/PKU-Beamer-Theme/forks]: https://img.shields.io/github/forks/inFaaa/PKU-Beamer-Theme?style=flat-square
-[inFaaa/PKU-Beamer-Theme/last-commit]: https://img.shields.io/github/last-commit/inFaaa/PKU-Beamer-Theme?style=flat-square
-[mholson/sthlmNordBeamerTheme]: https://github.com/mholson/sthlmNordBeamerTheme
-[mholson/sthlmNordBeamerTheme/stars]: https://img.shields.io/github/stars/mholson/sthlmNordBeamerTheme?style=flat-square
-[mholson/sthlmNordBeamerTheme/forks]: https://img.shields.io/github/forks/mholson/sthlmNordBeamerTheme?style=flat-square
-[mholson/sthlmNordBeamerTheme/last-commit]: https://img.shields.io/github/last-commit/mholson/sthlmNordBeamerTheme?style=flat-square
-[kai-tub/latex-beamer-pure-minimalistic]: https://github.com/kai-tub/latex-beamer-pure-minimalistic
-[kai-tub/latex-beamer-pure-minimalistic/stars]: https://img.shields.io/github/stars/kai-tub/latex-beamer-pure-minimalistic?style=flat-square
-[kai-tub/latex-beamer-pure-minimalistic/forks]: https://img.shields.io/github/forks/kai-tub/latex-beamer-pure-minimalistic?style=flat-square
-[kai-tub/latex-beamer-pure-minimalistic/last-commit]: https://img.shields.io/github/last-commit/kai-tub/latex-beamer-pure-minimalistic?style=flat-square
-[LukasPietzschmann/awesome-beamer]: https://github.com/LukasPietzschmann/awesome-beamer
-[LukasPietzschmann/awesome-beamer/stars]: https://img.shields.io/github/stars/LukasPietzschmann/awesome-beamer?style=flat-square
-[LukasPietzschmann/awesome-beamer/forks]: https://img.shields.io/github/forks/LukasPietzschmann/awesome-beamer?style=flat-square
-[LukasPietzschmann/awesome-beamer/last-commit]: https://img.shields.io/github/last-commit/LukasPietzschmann/awesome-beamer?style=flat-square
-[kmaed/kmbeamer]: https://github.com/kmaed/kmbeamer
-[kmaed/kmbeamer/stars]: https://img.shields.io/github/stars/kmaed/kmbeamer?style=flat-square
-[kmaed/kmbeamer/forks]: https://img.shields.io/github/forks/kmaed/kmbeamer?style=flat-square
-[kmaed/kmbeamer/last-commit]: https://img.shields.io/github/last-commit/kmaed/kmbeamer?style=flat-square
-[qychen2001/ZJU-Beamer-Template]: https://github.com/qychen2001/ZJU-Beamer-Template
-[qychen2001/ZJU-Beamer-Template/stars]: https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template?style=flat-square
-[qychen2001/ZJU-Beamer-Template/forks]: https://img.shields.io/github/forks/qychen2001/ZJU-Beamer-Template?style=flat-square
-[qychen2001/ZJU-Beamer-Template/last-commit]: https://img.shields.io/github/last-commit/qychen2001/ZJU-Beamer-Template?style=flat-square
-[YangLaTeX/thubeamer]: https://github.com/YangLaTeX/thubeamer
-[YangLaTeX/thubeamer/stars]: https://img.shields.io/github/stars/YangLaTeX/thubeamer?style=flat-square
-[YangLaTeX/thubeamer/forks]: https://img.shields.io/github/forks/YangLaTeX/thubeamer?style=flat-square
-[YangLaTeX/thubeamer/last-commit]: https://img.shields.io/github/last-commit/YangLaTeX/thubeamer?style=flat-square
-[pm25/SimpleDarkBlue-BeamerTheme]: https://github.com/pm25/SimpleDarkBlue-BeamerTheme
-[pm25/SimpleDarkBlue-BeamerTheme/stars]: https://img.shields.io/github/stars/pm25/SimpleDarkBlue-BeamerTheme?style=flat-square
-[pm25/SimpleDarkBlue-BeamerTheme/forks]: https://img.shields.io/github/forks/pm25/SimpleDarkBlue-BeamerTheme?style=flat-square
-[pm25/SimpleDarkBlue-BeamerTheme/last-commit]: https://img.shields.io/github/last-commit/pm25/SimpleDarkBlue-BeamerTheme?style=flat-square
-[hrtan99/WHU-Beamer]: https://github.com/hrtan99/WHU-Beamer
-[hrtan99/WHU-Beamer/stars]: https://img.shields.io/github/stars/hrtan99/WHU-Beamer?style=flat-square
-[hrtan99/WHU-Beamer/forks]: https://img.shields.io/github/forks/hrtan99/WHU-Beamer?style=flat-square
-[hrtan99/WHU-Beamer/last-commit]: https://img.shields.io/github/last-commit/hrtan99/WHU-Beamer?style=flat-square
-[ruiguoz/NWPU-BEAMER]: https://github.com/ruiguoz/NWPU-BEAMER
-[ruiguoz/NWPU-BEAMER/stars]: https://img.shields.io/github/stars/ruiguoz/NWPU-BEAMER?style=flat-square
-[ruiguoz/NWPU-BEAMER/forks]: https://img.shields.io/github/forks/ruiguoz/NWPU-BEAMER?style=flat-square
-[ruiguoz/NWPU-BEAMER/last-commit]: https://img.shields.io/github/last-commit/ruiguoz/NWPU-BEAMER?style=flat-square
-[gbaydin/oxford-poster]: https://github.com/gbaydin/oxford-poster
-[gbaydin/oxford-poster/stars]: https://img.shields.io/github/stars/gbaydin/oxford-poster?style=flat-square
-[gbaydin/oxford-poster/forks]: https://img.shields.io/github/forks/gbaydin/oxford-poster?style=flat-square
-[gbaydin/oxford-poster/last-commit]: https://img.shields.io/github/last-commit/gbaydin/oxford-poster?style=flat-square
-[yxnchen/sysu-beamer-template]: https://github.com/yxnchen/sysu-beamer-template
-[yxnchen/sysu-beamer-template/stars]: https://img.shields.io/github/stars/yxnchen/sysu-beamer-template?style=flat-square
-[yxnchen/sysu-beamer-template/forks]: https://img.shields.io/github/forks/yxnchen/sysu-beamer-template?style=flat-square
-[yxnchen/sysu-beamer-template/last-commit]: https://img.shields.io/github/last-commit/yxnchen/sysu-beamer-template?style=flat-square
-[gshstexsociety/gshs-format]: https://github.com/gshstexsociety/gshs-format
-[gshstexsociety/gshs-format/stars]: https://img.shields.io/github/stars/gshstexsociety/gshs-format?style=flat-square
-[gshstexsociety/gshs-format/forks]: https://img.shields.io/github/forks/gshstexsociety/gshs-format?style=flat-square
-[gshstexsociety/gshs-format/last-commit]: https://img.shields.io/github/last-commit/gshstexsociety/gshs-format?style=flat-square
-[rexera/minimalist-pku-beamer-2026]: https://github.com/rexera/minimalist-pku-beamer-2026
-[rexera/minimalist-pku-beamer-2026/stars]: https://img.shields.io/github/stars/rexera/minimalist-pku-beamer-2026?style=flat-square
-[rexera/minimalist-pku-beamer-2026/forks]: https://img.shields.io/github/forks/rexera/minimalist-pku-beamer-2026?style=flat-square
-[rexera/minimalist-pku-beamer-2026/last-commit]: https://img.shields.io/github/last-commit/rexera/minimalist-pku-beamer-2026?style=flat-square
-[hamsterwk/whucs-beamer]: https://github.com/hamsterwk/whucs-beamer
-[hamsterwk/whucs-beamer/stars]: https://img.shields.io/github/stars/hamsterwk/whucs-beamer?style=flat-square
-[hamsterwk/whucs-beamer/forks]: https://img.shields.io/github/forks/hamsterwk/whucs-beamer?style=flat-square
-[hamsterwk/whucs-beamer/last-commit]: https://img.shields.io/github/last-commit/hamsterwk/whucs-beamer?style=flat-square
-[klb2/beamer-presentation-template]: https://github.com/klb2/beamer-presentation-template
-[klb2/beamer-presentation-template/stars]: https://img.shields.io/github/stars/klb2/beamer-presentation-template?style=flat-square
-[klb2/beamer-presentation-template/forks]: https://img.shields.io/github/forks/klb2/beamer-presentation-template?style=flat-square
-[klb2/beamer-presentation-template/last-commit]: https://img.shields.io/github/last-commit/klb2/beamer-presentation-template?style=flat-square
-[yaoshanliang/XJTLU-Beamer-Template]: https://github.com/yaoshanliang/XJTLU-Beamer-Template
-[yaoshanliang/XJTLU-Beamer-Template/stars]: https://img.shields.io/github/stars/yaoshanliang/XJTLU-Beamer-Template?style=flat-square
-[yaoshanliang/XJTLU-Beamer-Template/forks]: https://img.shields.io/github/forks/yaoshanliang/XJTLU-Beamer-Template?style=flat-square
-[yaoshanliang/XJTLU-Beamer-Template/last-commit]: https://img.shields.io/github/last-commit/yaoshanliang/XJTLU-Beamer-Template?style=flat-square
 
 ### 简历模板（LaTeX等）
 
@@ -852,6 +1202,7 @@
 | **简历模板** | [uyu423/resume-nextjs] | ![353][uyu423/resume-nextjs/stars]<br>![229][uyu423/resume-nextjs/forks]<br>![2026-11-02][uyu423/resume-nextjs/last-commit] | Next.js 로 누구나 쉽게 만드는 Static HTML 이력서 |
 | **简历模板** | [bedimcode/responsive-resume-cv-smith] | ![305][bedimcode/responsive-resume-cv-smith/stars]<br>![171][bedimcode/responsive-resume-cv-smith/forks]<br>![2024-03-31][bedimcode/responsive-resume-cv-smith/last-commit] | Responsive Resume Cv Website Using HTML CSS And JavaScript |
 | **简历模板** | [ryanbalieiro/react-portfolio-template] | ![305][ryanbalieiro/react-portfolio-template/stars]<br>![131][ryanbalieiro/react-portfolio-template/forks]<br>![2026-09-05][ryanbalieiro/react-portfolio-template/last-commit] | 💻 A sleek and simple portfolio template developed with ReactJS. |
+| **简历模板** | [stuxf/basic-typst-resume-template] | ![260][stuxf/basic-typst-resume-template/stars]<br>![103][stuxf/basic-typst-resume-template/forks]<br>![2026-11-27][stuxf/basic-typst-resume-template/last-commit] | A basic resume for typst, designed to work well with ATS systems. |
 | **简历模板** | [afnizarnur/draco] | ![218][afnizarnur/draco/stars]<br>![126][afnizarnur/draco/forks]<br>![2023-11-16][afnizarnur/draco/last-commit] | Draco is a free PSD & HTML resume template |
 | **简历模板** | [Stavrospanakakis/jekyll-cv] | ![215][Stavrospanakakis/jekyll-cv/stars]<br>![264][Stavrospanakakis/jekyll-cv/forks]<br>![2024-08-10][Stavrospanakakis/jekyll-cv/last-commit] | Lightweight jekyll theme for your CV with dark mode support |
 | **简历模板** | [izzydoesizzy/resumetemplate] | ![214][izzydoesizzy/resumetemplate/stars]<br>![190][izzydoesizzy/resumetemplate/forks]<br>![2022-07-13][izzydoesizzy/resumetemplate/last-commit] | Creative: Personal website/landing page template. |
@@ -1079,6 +1430,10 @@
 [ryanbalieiro/react-portfolio-template/stars]: https://img.shields.io/github/stars/ryanbalieiro/react-portfolio-template?style=flat-square
 [ryanbalieiro/react-portfolio-template/forks]: https://img.shields.io/github/forks/ryanbalieiro/react-portfolio-template?style=flat-square
 [ryanbalieiro/react-portfolio-template/last-commit]: https://img.shields.io/github/last-commit/ryanbalieiro/react-portfolio-template?style=flat-square
+[stuxf/basic-typst-resume-template]: https://github.com/stuxf/basic-typst-resume-template
+[stuxf/basic-typst-resume-template/stars]: https://img.shields.io/github/stars/stuxf/basic-typst-resume-template?style=flat-square
+[stuxf/basic-typst-resume-template/forks]: https://img.shields.io/github/forks/stuxf/basic-typst-resume-template?style=flat-square
+[stuxf/basic-typst-resume-template/last-commit]: https://img.shields.io/github/last-commit/stuxf/basic-typst-resume-template?style=flat-square
 [afnizarnur/draco]: https://github.com/afnizarnur/draco
 [afnizarnur/draco/stars]: https://img.shields.io/github/stars/afnizarnur/draco?style=flat-square
 [afnizarnur/draco/forks]: https://img.shields.io/github/forks/afnizarnur/draco?style=flat-square
@@ -1100,219 +1455,9 @@
 
 | 学校（机构） | GitHub仓库 | 统计 | 说明 |
 | --- | --- | --- | --- |
-| **国家自然科学基金** | [huangwb8/ChineseResearchLaTeX] | ![3076][huangwb8/ChineseResearchLaTeX/stars]<br>![286][huangwb8/ChineseResearchLaTeX/forks]<br>![2026-11-24][huangwb8/ChineseResearchLaTeX/last-commit] | 中国科研常用LaTeX模板集 |
-| **通用模板** | [ElegantLaTeX/ElegantBook] | ![2652][ElegantLaTeX/ElegantBook/stars]<br>![469][ElegantLaTeX/ElegantBook/forks]<br>![2026-05-02][ElegantLaTeX/ElegantBook/last-commit] | Elegant LaTeX Template for Books |
-| **通用模板** | [kourgeorge/arxiv-style] | ![1624][kourgeorge/arxiv-style/stars]<br>![378][kourgeorge/arxiv-style/forks]<br>![2024-01-02][kourgeorge/arxiv-style/last-commit] | A Latex style and template for paper preprints (based on NIPS style) |
-| **通用模板** | [ElegantLaTeX/ElegantPaper] | ![1486][ElegantLaTeX/ElegantPaper/stars]<br>![276][ElegantLaTeX/ElegantPaper/forks]<br>![2026-03-01][ElegantLaTeX/ElegantPaper/last-commit] | Elegant LaTeX Template for Working Papers |
-| **国家自然科学基金** | [fylimas/nsfc] | ![1397][fylimas/nsfc/stars]<br>![343][fylimas/nsfc/forks]<br>![2026-11-23][fylimas/nsfc/last-commit] | nsfc - 国家自然科学基金项目LaTeX模版(面地青CBA) |
-| **通用模板** | [fmarotta/kaobook] | ![1122][fmarotta/kaobook/stars]<br>![234][fmarotta/kaobook/forks]<br>![2026-01-08][fmarotta/kaobook/last-commit] | A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex. |
-| **国家自然科学基金** | [Ruzim/NSFC-application-template-latex] | ![1067][Ruzim/NSFC-application-template-latex/stars]<br>![261][Ruzim/NSFC-application-template-latex/forks]<br>![2026-01-24][Ruzim/NSFC-application-template-latex/last-commit] | 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方） |
-| **通用模板** | [apoorvkh/cvpr-latex-template] | ![622][apoorvkh/cvpr-latex-template/stars]<br>![181][apoorvkh/cvpr-latex-template/forks]<br>![2026-01-23][apoorvkh/cvpr-latex-template/last-commit] | Extended LaTeX template for CVPR/ICCV papers |
-| **国家自然科学基金** | [YimianDai/iNSFC] | ![529][YimianDai/iNSFC/stars]<br>![201][YimianDai/iNSFC/forks]<br>![2026-03-16][YimianDai/iNSFC/last-commit] | An awesome LaTeX template for NSFC proposal. |
-| **通用模板** | [pmichaillat/latex-paper] | ![389][pmichaillat/latex-paper/stars]<br>![110][pmichaillat/latex-paper/forks]<br>![2026-10-14][pmichaillat/latex-paper/last-commit] | Minimalist LaTeX template for academic papers |
-| **通用模板** | [Larry955/Latex-Paper-Templates] | ![311][Larry955/Latex-Paper-Templates/stars]<br>![60][Larry955/Latex-Paper-Templates/forks]<br>![2022-02-09][Larry955/Latex-Paper-Templates/last-commit] | Latex-format paper templates, including Elsevier, arXiv and IEEE Access. |
-| **通用模板** | [QTH1225/LaTeX-in-ICM-MCM] | ![295][QTH1225/LaTeX-in-ICM-MCM/stars]<br>![19][QTH1225/LaTeX-in-ICM-MCM/forks]<br>![2026-10-28][QTH1225/LaTeX-in-ICM-MCM/last-commit] | 基于EasyMCM全面且专业的美赛LaTeX模板，支持多种排版样式 |
-| **通用模板** | [jdujava/TeXtured] | ![280][jdujava/TeXtured/stars]<br>![16][jdujava/TeXtured/forks]<br>![2026-09-10][jdujava/TeXtured/last-commit] | A typographically elegant, clean, and structured LaTeX template. |
-| **通用模板** | [latextemplates/lncs-enhanced] | ![268][latextemplates/lncs-enhanced/stars]<br>![61][latextemplates/lncs-enhanced/forks]<br>![2026-11-20][latextemplates/lncs-enhanced/last-commit] | Improved Lecture Notes in Computer Science (LNCS) template |
-| **通用模板** | [guicho271828/aaai-template] | ![212][guicho271828/aaai-template/stars]<br>![41][guicho271828/aaai-template/forks]<br>![2026-11-18][guicho271828/aaai-template/last-commit] | latex template for various conferences, as well as wise-man's overleaf (overleaf is terrible!) |
-| **上海交通大学** | [NemoYuan2008/SJTU-Thesis-Proposal] | ![207][NemoYuan2008/SJTU-Thesis-Proposal/stars]<br>![11][NemoYuan2008/SJTU-Thesis-Proposal/forks]<br>![2026-10-14][NemoYuan2008/SJTU-Thesis-Proposal/last-commit] | 上海交通大学开题报告/中期报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX templates for thesis proposals and annual reports (unofficial) |
-| **通用模板** | [BeautyLaTeX/beautybook_liquidglass] | ![172][BeautyLaTeX/beautybook_liquidglass/stars]<br>![32][BeautyLaTeX/beautybook_liquidglass/forks]<br>![2026-11-25][BeautyLaTeX/beautybook_liquidglass/last-commit] | A very Beautiful LaTeX Book Template, Happy LaTeXing! |
-| **通用模板** | [jpeisenbarth/SRS-Tex] | ![158][jpeisenbarth/SRS-Tex/stars]<br>![70][jpeisenbarth/SRS-Tex/forks]<br>![2022-09-14][jpeisenbarth/SRS-Tex/last-commit] | A Latex template for a Software Requirements Specification that respects the IEEE standards. |
-| **通用模板** | [chianjin/zhvt-classic] | ![152][chianjin/zhvt-classic/stars]<br>![36][chianjin/zhvt-classic/forks]<br>![2026-10-19][chianjin/zhvt-classic/last-commit] | 中文线装书排版 |
-| **西安电子科技大学** | [note286/xdupgtp] | ![129][note286/xdupgtp/stars]<br>![12][note286/xdupgtp/forks]<br>![2022-03-18][note286/xdupgtp/last-commit] | 西安电子科技大学研究生学位论文开题报告表XeLaTeX模板 |
-| **通用模板** | [academic-templates/tex-book-template] | ![121][academic-templates/tex-book-template/stars]<br>![44][academic-templates/tex-book-template/forks]<br>![2025-06-17][academic-templates/tex-book-template/last-commit] | A template for writing a nice book with LaTeX |
-| **通用模板** | [latextemplates/ieee-enhanced] | ![120][latextemplates/ieee-enhanced/stars]<br>![39][latextemplates/ieee-enhanced/forks]<br>![2026-11-20][latextemplates/ieee-enhanced/last-commit] | Quick start for modern LaTeXing for an IEEE conference |
-| **国防科技大学** | [TomHeaven/nudtproposal] | ![120][TomHeaven/nudtproposal/stars]<br>![37][TomHeaven/nudtproposal/forks]<br>![2024-04-18][TomHeaven/nudtproposal/last-commit] | NUDT硕士博士研究生开题报告latex模板 |
-| **浙江大学** | [megrxu/zjureport] | ![111][megrxu/zjureport/stars]<br>![37][megrxu/zjureport/forks]<br>![2026-04-07][megrxu/zjureport/last-commit] | 浙江大学实验报告模板 |
-| **中国科学院大学** | [jweihe/UCAS_Latex_Template] | ![95][jweihe/UCAS_Latex_Template/stars]<br>![10][jweihe/UCAS_Latex_Template/forks]<br>![2023-06-07][jweihe/UCAS_Latex_Template/last-commit] | 中国科学院大学通用课程大作业模板-Latex Template for UCAS Report |
-| **通用模板** | [quarto-journals/article-format-template] | ![92][quarto-journals/article-format-template/stars]<br>![22][quarto-journals/article-format-template/forks]<br>![2025-04-17][quarto-journals/article-format-template/last-commit] | Template for creating a new journal article format for Quarto |
-| **同济大学** | [TJ-CSCCG/tongji-recommendation-template] | ![88][TJ-CSCCG/tongji-recommendation-template/stars]<br>![5][TJ-CSCCG/tongji-recommendation-template/forks]<br>![2023-11-15][TJ-CSCCG/tongji-recommendation-template/last-commit] | :page_facing_up: 同济大学推荐信模版，欢迎大家在目标院校未提供模版的情况下取用，支持 Overleaf / Windows / Linux / Workshop。 |
-| **通用模板** | [emersonmello/modelos-latex] | ![87][emersonmello/modelos-latex/stars]<br>![47][emersonmello/modelos-latex/forks]<br>![2026-10-21][emersonmello/modelos-latex/last-commit] | Modelos de documentos em LaTeX para docentes e discentes. Modelo de prova, lista de exercício, apresentação, nota de aula, relatórios e TCC. |
-| **通用模板** | [cdc08x/letter-2-reviewers-LaTeX-template] | ![77][cdc08x/letter-2-reviewers-LaTeX-template/stars]<br>![24][cdc08x/letter-2-reviewers-LaTeX-template/forks]<br>![2026-01-19][cdc08x/letter-2-reviewers-LaTeX-template/last-commit] | A LaTeX template to write response letters for journal revisions |
-| **通用模板** | [Steve-Cheung-emct/upLaTeX-SZ.CLS] | ![75][Steve-Cheung-emct/upLaTeX-SZ.CLS/stars]<br>![18][Steve-Cheung-emct/upLaTeX-SZ.CLS/forks]<br>![2024-05-12][Steve-Cheung-emct/upLaTeX-SZ.CLS/last-commit] | A Template of Chinese/Japanese vertical book style. |
-| **通用模板** | [XuehaiPan/LaTeX-Templates] | ![71][XuehaiPan/LaTeX-Templates/stars]<br>![14][XuehaiPan/LaTeX-Templates/forks]<br>![2025-09-25][XuehaiPan/LaTeX-Templates/last-commit] | A collection of LaTeX templates in English/Chinese, with VS Code settings for LaTeX Workshop. |
-| **通用模板** | [anyirao/latex-conference-template] | ![71][anyirao/latex-conference-template/stars]<br>![12][anyirao/latex-conference-template/forks]<br>![2023-04-25][anyirao/latex-conference-template/last-commit] | Latex template for conference (e.g. ICCV/CVPR) submission/supplementary/rebuttal |
-| **通用模板** | [rashidtalha/latex-templates] | ![67][rashidtalha/latex-templates/stars]<br>![9][rashidtalha/latex-templates/forks]<br>![2026-06-28][rashidtalha/latex-templates/last-commit] | A handmade collection of latex templates, classes and style files |
-| **（美国）麻省理工学院**<br>*Massachusetts Institute of Technology (MIT)* | [mit-eecs-gsa/mit-eecs-thesis-proposal-template] | ![63][mit-eecs-gsa/mit-eecs-thesis-proposal-template/stars]<br>![40][mit-eecs-gsa/mit-eecs-thesis-proposal-template/forks]<br>![2024-01-30][mit-eecs-gsa/mit-eecs-thesis-proposal-template/last-commit] | MIT EECS Thesis Proposal Template |
-| **中山大学** | [NorthSecond/SYSU_Latex_Template] | ![60][NorthSecond/SYSU_Latex_Template/stars]<br>![3][NorthSecond/SYSU_Latex_Template/forks]<br>![2024-09-26][NorthSecond/SYSU_Latex_Template/last-commit] | 适用于中山大学（SYSU）课程/实验报告的一个简单的 LaTeX 小模板 |
-| **通用模板** | [monetjoe/latex_paper_templates] | ![59][monetjoe/latex_paper_templates/stars]<br>![118][monetjoe/latex_paper_templates/forks]<br>![2026-01-29][monetjoe/latex_paper_templates/last-commit] | This repository provides LaTeX templates for academic papers, you can select the appropriate template for your target conference or journal by switching branches. Each branch corresponds to a specific publication venue and follows its official formatting requirements.\|本项目提供多种学术论文的 LaTeX 模板，可通过切换分支选择对应的会议或期刊模板。每个分支均针对特定投稿场景设计，并遵循相应的官方排版规范。 |
-| **武汉理工大学** | [huangyxi/whutmod] | ![55][huangyxi/whutmod/stars]<br>![17][huangyxi/whutmod/forks]<br>![2026-03-09][huangyxi/whutmod/last-commit] | 武汉理工大学数学建模培训 LaTeX 模板 A LaTeX Template for Mathematical Modeling Training at Wuhan University of Technology (WHUT) |
-| **通用模板** | [Korogodin/NSLReport] | ![50][Korogodin/NSLReport/stars]<br>![12][Korogodin/NSLReport/forks]<br>![2024-07-11][Korogodin/NSLReport/last-commit] | NavSysLab LaTeX report project for GOST 7.0.11, 7.32, 2.105 documents |
-| **通用模板** | [dpmj/alcazar] | ![50][dpmj/alcazar/stars]<br>![5][dpmj/alcazar/forks]<br>![2025-08-15][dpmj/alcazar/last-commit] | A free and Open-Source LaTeX template for academic works: theses, reports, etc. |
-| **西安电子科技大学** | [note286/xduugtp] | ![50][note286/xduugtp/stars]<br>![1][note286/xduugtp/forks]<br>![2022-03-09][note286/xduugtp/last-commit] | 西安电子科技大学本科生毕业论文（设计）开题报告LaTeX模板 |
-| **通用模板** | [Passer-montanus/AAS_Template_LaTeX] | ![35][Passer-montanus/AAS_Template_LaTeX/stars]<br>![63][Passer-montanus/AAS_Template_LaTeX/forks]<br>![2023-11-09][Passer-montanus/AAS_Template_LaTeX/last-commit] | 该项目为Overleaf提供可直接导入的《自动化学报》中文稿件LateX |
-| **通用模板** | [conference-websites/acmart-sigproc-template] | ![35][conference-websites/acmart-sigproc-template/stars]<br>![36][conference-websites/acmart-sigproc-template/forks]<br>![2023-03-07][conference-websites/acmart-sigproc-template/last-commit] | New template for ACM Conferences (acmart / sigconf) |
 
 [archived]: https://img.shields.io/badge/archived-TRUE-orange?style=plastic
 [fork]: https://img.shields.io/badge/fork-TRUE-green?style=plastic
-[huangwb8/ChineseResearchLaTeX]: https://github.com/huangwb8/ChineseResearchLaTeX
-[huangwb8/ChineseResearchLaTeX/stars]: https://img.shields.io/github/stars/huangwb8/ChineseResearchLaTeX?style=flat-square
-[huangwb8/ChineseResearchLaTeX/forks]: https://img.shields.io/github/forks/huangwb8/ChineseResearchLaTeX?style=flat-square
-[huangwb8/ChineseResearchLaTeX/last-commit]: https://img.shields.io/github/last-commit/huangwb8/ChineseResearchLaTeX?style=flat-square
-[ElegantLaTeX/ElegantBook]: https://github.com/ElegantLaTeX/ElegantBook
-[ElegantLaTeX/ElegantBook/stars]: https://img.shields.io/github/stars/ElegantLaTeX/ElegantBook?style=flat-square
-[ElegantLaTeX/ElegantBook/forks]: https://img.shields.io/github/forks/ElegantLaTeX/ElegantBook?style=flat-square
-[ElegantLaTeX/ElegantBook/last-commit]: https://img.shields.io/github/last-commit/ElegantLaTeX/ElegantBook?style=flat-square
-[kourgeorge/arxiv-style]: https://github.com/kourgeorge/arxiv-style
-[kourgeorge/arxiv-style/stars]: https://img.shields.io/github/stars/kourgeorge/arxiv-style?style=flat-square
-[kourgeorge/arxiv-style/forks]: https://img.shields.io/github/forks/kourgeorge/arxiv-style?style=flat-square
-[kourgeorge/arxiv-style/last-commit]: https://img.shields.io/github/last-commit/kourgeorge/arxiv-style?style=flat-square
-[ElegantLaTeX/ElegantPaper]: https://github.com/ElegantLaTeX/ElegantPaper
-[ElegantLaTeX/ElegantPaper/stars]: https://img.shields.io/github/stars/ElegantLaTeX/ElegantPaper?style=flat-square
-[ElegantLaTeX/ElegantPaper/forks]: https://img.shields.io/github/forks/ElegantLaTeX/ElegantPaper?style=flat-square
-[ElegantLaTeX/ElegantPaper/last-commit]: https://img.shields.io/github/last-commit/ElegantLaTeX/ElegantPaper?style=flat-square
-[fylimas/nsfc]: https://github.com/fylimas/nsfc
-[fylimas/nsfc/stars]: https://img.shields.io/github/stars/fylimas/nsfc?style=flat-square
-[fylimas/nsfc/forks]: https://img.shields.io/github/forks/fylimas/nsfc?style=flat-square
-[fylimas/nsfc/last-commit]: https://img.shields.io/github/last-commit/fylimas/nsfc?style=flat-square
-[fmarotta/kaobook]: https://github.com/fmarotta/kaobook
-[fmarotta/kaobook/stars]: https://img.shields.io/github/stars/fmarotta/kaobook?style=flat-square
-[fmarotta/kaobook/forks]: https://img.shields.io/github/forks/fmarotta/kaobook?style=flat-square
-[fmarotta/kaobook/last-commit]: https://img.shields.io/github/last-commit/fmarotta/kaobook?style=flat-square
-[Ruzim/NSFC-application-template-latex]: https://github.com/Ruzim/NSFC-application-template-latex
-[Ruzim/NSFC-application-template-latex/stars]: https://img.shields.io/github/stars/Ruzim/NSFC-application-template-latex?style=flat-square
-[Ruzim/NSFC-application-template-latex/forks]: https://img.shields.io/github/forks/Ruzim/NSFC-application-template-latex?style=flat-square
-[Ruzim/NSFC-application-template-latex/last-commit]: https://img.shields.io/github/last-commit/Ruzim/NSFC-application-template-latex?style=flat-square
-[apoorvkh/cvpr-latex-template]: https://github.com/apoorvkh/cvpr-latex-template
-[apoorvkh/cvpr-latex-template/stars]: https://img.shields.io/github/stars/apoorvkh/cvpr-latex-template?style=flat-square
-[apoorvkh/cvpr-latex-template/forks]: https://img.shields.io/github/forks/apoorvkh/cvpr-latex-template?style=flat-square
-[apoorvkh/cvpr-latex-template/last-commit]: https://img.shields.io/github/last-commit/apoorvkh/cvpr-latex-template?style=flat-square
-[YimianDai/iNSFC]: https://github.com/YimianDai/iNSFC
-[YimianDai/iNSFC/stars]: https://img.shields.io/github/stars/YimianDai/iNSFC?style=flat-square
-[YimianDai/iNSFC/forks]: https://img.shields.io/github/forks/YimianDai/iNSFC?style=flat-square
-[YimianDai/iNSFC/last-commit]: https://img.shields.io/github/last-commit/YimianDai/iNSFC?style=flat-square
-[pmichaillat/latex-paper]: https://github.com/pmichaillat/latex-paper
-[pmichaillat/latex-paper/stars]: https://img.shields.io/github/stars/pmichaillat/latex-paper?style=flat-square
-[pmichaillat/latex-paper/forks]: https://img.shields.io/github/forks/pmichaillat/latex-paper?style=flat-square
-[pmichaillat/latex-paper/last-commit]: https://img.shields.io/github/last-commit/pmichaillat/latex-paper?style=flat-square
-[Larry955/Latex-Paper-Templates]: https://github.com/Larry955/Latex-Paper-Templates
-[Larry955/Latex-Paper-Templates/stars]: https://img.shields.io/github/stars/Larry955/Latex-Paper-Templates?style=flat-square
-[Larry955/Latex-Paper-Templates/forks]: https://img.shields.io/github/forks/Larry955/Latex-Paper-Templates?style=flat-square
-[Larry955/Latex-Paper-Templates/last-commit]: https://img.shields.io/github/last-commit/Larry955/Latex-Paper-Templates?style=flat-square
-[QTH1225/LaTeX-in-ICM-MCM]: https://github.com/QTH1225/LaTeX-in-ICM-MCM
-[QTH1225/LaTeX-in-ICM-MCM/stars]: https://img.shields.io/github/stars/QTH1225/LaTeX-in-ICM-MCM?style=flat-square
-[QTH1225/LaTeX-in-ICM-MCM/forks]: https://img.shields.io/github/forks/QTH1225/LaTeX-in-ICM-MCM?style=flat-square
-[QTH1225/LaTeX-in-ICM-MCM/last-commit]: https://img.shields.io/github/last-commit/QTH1225/LaTeX-in-ICM-MCM?style=flat-square
-[jdujava/TeXtured]: https://github.com/jdujava/TeXtured
-[jdujava/TeXtured/stars]: https://img.shields.io/github/stars/jdujava/TeXtured?style=flat-square
-[jdujava/TeXtured/forks]: https://img.shields.io/github/forks/jdujava/TeXtured?style=flat-square
-[jdujava/TeXtured/last-commit]: https://img.shields.io/github/last-commit/jdujava/TeXtured?style=flat-square
-[latextemplates/lncs-enhanced]: https://github.com/latextemplates/lncs-enhanced
-[latextemplates/lncs-enhanced/stars]: https://img.shields.io/github/stars/latextemplates/lncs-enhanced?style=flat-square
-[latextemplates/lncs-enhanced/forks]: https://img.shields.io/github/forks/latextemplates/lncs-enhanced?style=flat-square
-[latextemplates/lncs-enhanced/last-commit]: https://img.shields.io/github/last-commit/latextemplates/lncs-enhanced?style=flat-square
-[guicho271828/aaai-template]: https://github.com/guicho271828/aaai-template
-[guicho271828/aaai-template/stars]: https://img.shields.io/github/stars/guicho271828/aaai-template?style=flat-square
-[guicho271828/aaai-template/forks]: https://img.shields.io/github/forks/guicho271828/aaai-template?style=flat-square
-[guicho271828/aaai-template/last-commit]: https://img.shields.io/github/last-commit/guicho271828/aaai-template?style=flat-square
-[NemoYuan2008/SJTU-Thesis-Proposal]: https://github.com/NemoYuan2008/SJTU-Thesis-Proposal
-[NemoYuan2008/SJTU-Thesis-Proposal/stars]: https://img.shields.io/github/stars/NemoYuan2008/SJTU-Thesis-Proposal?style=flat-square
-[NemoYuan2008/SJTU-Thesis-Proposal/forks]: https://img.shields.io/github/forks/NemoYuan2008/SJTU-Thesis-Proposal?style=flat-square
-[NemoYuan2008/SJTU-Thesis-Proposal/last-commit]: https://img.shields.io/github/last-commit/NemoYuan2008/SJTU-Thesis-Proposal?style=flat-square
-[BeautyLaTeX/beautybook_liquidglass]: https://github.com/BeautyLaTeX/beautybook_liquidglass
-[BeautyLaTeX/beautybook_liquidglass/stars]: https://img.shields.io/github/stars/BeautyLaTeX/beautybook_liquidglass?style=flat-square
-[BeautyLaTeX/beautybook_liquidglass/forks]: https://img.shields.io/github/forks/BeautyLaTeX/beautybook_liquidglass?style=flat-square
-[BeautyLaTeX/beautybook_liquidglass/last-commit]: https://img.shields.io/github/last-commit/BeautyLaTeX/beautybook_liquidglass?style=flat-square
-[jpeisenbarth/SRS-Tex]: https://github.com/jpeisenbarth/SRS-Tex
-[jpeisenbarth/SRS-Tex/stars]: https://img.shields.io/github/stars/jpeisenbarth/SRS-Tex?style=flat-square
-[jpeisenbarth/SRS-Tex/forks]: https://img.shields.io/github/forks/jpeisenbarth/SRS-Tex?style=flat-square
-[jpeisenbarth/SRS-Tex/last-commit]: https://img.shields.io/github/last-commit/jpeisenbarth/SRS-Tex?style=flat-square
-[chianjin/zhvt-classic]: https://github.com/chianjin/zhvt-classic
-[chianjin/zhvt-classic/stars]: https://img.shields.io/github/stars/chianjin/zhvt-classic?style=flat-square
-[chianjin/zhvt-classic/forks]: https://img.shields.io/github/forks/chianjin/zhvt-classic?style=flat-square
-[chianjin/zhvt-classic/last-commit]: https://img.shields.io/github/last-commit/chianjin/zhvt-classic?style=flat-square
-[note286/xdupgtp]: https://github.com/note286/xdupgtp
-[note286/xdupgtp/stars]: https://img.shields.io/github/stars/note286/xdupgtp?style=flat-square
-[note286/xdupgtp/forks]: https://img.shields.io/github/forks/note286/xdupgtp?style=flat-square
-[note286/xdupgtp/last-commit]: https://img.shields.io/github/last-commit/note286/xdupgtp?style=flat-square
-[academic-templates/tex-book-template]: https://github.com/academic-templates/tex-book-template
-[academic-templates/tex-book-template/stars]: https://img.shields.io/github/stars/academic-templates/tex-book-template?style=flat-square
-[academic-templates/tex-book-template/forks]: https://img.shields.io/github/forks/academic-templates/tex-book-template?style=flat-square
-[academic-templates/tex-book-template/last-commit]: https://img.shields.io/github/last-commit/academic-templates/tex-book-template?style=flat-square
-[latextemplates/ieee-enhanced]: https://github.com/latextemplates/ieee-enhanced
-[latextemplates/ieee-enhanced/stars]: https://img.shields.io/github/stars/latextemplates/ieee-enhanced?style=flat-square
-[latextemplates/ieee-enhanced/forks]: https://img.shields.io/github/forks/latextemplates/ieee-enhanced?style=flat-square
-[latextemplates/ieee-enhanced/last-commit]: https://img.shields.io/github/last-commit/latextemplates/ieee-enhanced?style=flat-square
-[TomHeaven/nudtproposal]: https://github.com/TomHeaven/nudtproposal
-[TomHeaven/nudtproposal/stars]: https://img.shields.io/github/stars/TomHeaven/nudtproposal?style=flat-square
-[TomHeaven/nudtproposal/forks]: https://img.shields.io/github/forks/TomHeaven/nudtproposal?style=flat-square
-[TomHeaven/nudtproposal/last-commit]: https://img.shields.io/github/last-commit/TomHeaven/nudtproposal?style=flat-square
-[megrxu/zjureport]: https://github.com/megrxu/zjureport
-[megrxu/zjureport/stars]: https://img.shields.io/github/stars/megrxu/zjureport?style=flat-square
-[megrxu/zjureport/forks]: https://img.shields.io/github/forks/megrxu/zjureport?style=flat-square
-[megrxu/zjureport/last-commit]: https://img.shields.io/github/last-commit/megrxu/zjureport?style=flat-square
-[jweihe/UCAS_Latex_Template]: https://github.com/jweihe/UCAS_Latex_Template
-[jweihe/UCAS_Latex_Template/stars]: https://img.shields.io/github/stars/jweihe/UCAS_Latex_Template?style=flat-square
-[jweihe/UCAS_Latex_Template/forks]: https://img.shields.io/github/forks/jweihe/UCAS_Latex_Template?style=flat-square
-[jweihe/UCAS_Latex_Template/last-commit]: https://img.shields.io/github/last-commit/jweihe/UCAS_Latex_Template?style=flat-square
-[quarto-journals/article-format-template]: https://github.com/quarto-journals/article-format-template
-[quarto-journals/article-format-template/stars]: https://img.shields.io/github/stars/quarto-journals/article-format-template?style=flat-square
-[quarto-journals/article-format-template/forks]: https://img.shields.io/github/forks/quarto-journals/article-format-template?style=flat-square
-[quarto-journals/article-format-template/last-commit]: https://img.shields.io/github/last-commit/quarto-journals/article-format-template?style=flat-square
-[TJ-CSCCG/tongji-recommendation-template]: https://github.com/TJ-CSCCG/tongji-recommendation-template
-[TJ-CSCCG/tongji-recommendation-template/stars]: https://img.shields.io/github/stars/TJ-CSCCG/tongji-recommendation-template?style=flat-square
-[TJ-CSCCG/tongji-recommendation-template/forks]: https://img.shields.io/github/forks/TJ-CSCCG/tongji-recommendation-template?style=flat-square
-[TJ-CSCCG/tongji-recommendation-template/last-commit]: https://img.shields.io/github/last-commit/TJ-CSCCG/tongji-recommendation-template?style=flat-square
-[emersonmello/modelos-latex]: https://github.com/emersonmello/modelos-latex
-[emersonmello/modelos-latex/stars]: https://img.shields.io/github/stars/emersonmello/modelos-latex?style=flat-square
-[emersonmello/modelos-latex/forks]: https://img.shields.io/github/forks/emersonmello/modelos-latex?style=flat-square
-[emersonmello/modelos-latex/last-commit]: https://img.shields.io/github/last-commit/emersonmello/modelos-latex?style=flat-square
-[cdc08x/letter-2-reviewers-LaTeX-template]: https://github.com/cdc08x/letter-2-reviewers-LaTeX-template
-[cdc08x/letter-2-reviewers-LaTeX-template/stars]: https://img.shields.io/github/stars/cdc08x/letter-2-reviewers-LaTeX-template?style=flat-square
-[cdc08x/letter-2-reviewers-LaTeX-template/forks]: https://img.shields.io/github/forks/cdc08x/letter-2-reviewers-LaTeX-template?style=flat-square
-[cdc08x/letter-2-reviewers-LaTeX-template/last-commit]: https://img.shields.io/github/last-commit/cdc08x/letter-2-reviewers-LaTeX-template?style=flat-square
-[Steve-Cheung-emct/upLaTeX-SZ.CLS]: https://github.com/Steve-Cheung-emct/upLaTeX-SZ.CLS
-[Steve-Cheung-emct/upLaTeX-SZ.CLS/stars]: https://img.shields.io/github/stars/Steve-Cheung-emct/upLaTeX-SZ.CLS?style=flat-square
-[Steve-Cheung-emct/upLaTeX-SZ.CLS/forks]: https://img.shields.io/github/forks/Steve-Cheung-emct/upLaTeX-SZ.CLS?style=flat-square
-[Steve-Cheung-emct/upLaTeX-SZ.CLS/last-commit]: https://img.shields.io/github/last-commit/Steve-Cheung-emct/upLaTeX-SZ.CLS?style=flat-square
-[XuehaiPan/LaTeX-Templates]: https://github.com/XuehaiPan/LaTeX-Templates
-[XuehaiPan/LaTeX-Templates/stars]: https://img.shields.io/github/stars/XuehaiPan/LaTeX-Templates?style=flat-square
-[XuehaiPan/LaTeX-Templates/forks]: https://img.shields.io/github/forks/XuehaiPan/LaTeX-Templates?style=flat-square
-[XuehaiPan/LaTeX-Templates/last-commit]: https://img.shields.io/github/last-commit/XuehaiPan/LaTeX-Templates?style=flat-square
-[anyirao/latex-conference-template]: https://github.com/anyirao/latex-conference-template
-[anyirao/latex-conference-template/stars]: https://img.shields.io/github/stars/anyirao/latex-conference-template?style=flat-square
-[anyirao/latex-conference-template/forks]: https://img.shields.io/github/forks/anyirao/latex-conference-template?style=flat-square
-[anyirao/latex-conference-template/last-commit]: https://img.shields.io/github/last-commit/anyirao/latex-conference-template?style=flat-square
-[rashidtalha/latex-templates]: https://github.com/rashidtalha/latex-templates
-[rashidtalha/latex-templates/stars]: https://img.shields.io/github/stars/rashidtalha/latex-templates?style=flat-square
-[rashidtalha/latex-templates/forks]: https://img.shields.io/github/forks/rashidtalha/latex-templates?style=flat-square
-[rashidtalha/latex-templates/last-commit]: https://img.shields.io/github/last-commit/rashidtalha/latex-templates?style=flat-square
-[mit-eecs-gsa/mit-eecs-thesis-proposal-template]: https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template
-[mit-eecs-gsa/mit-eecs-thesis-proposal-template/stars]: https://img.shields.io/github/stars/mit-eecs-gsa/mit-eecs-thesis-proposal-template?style=flat-square
-[mit-eecs-gsa/mit-eecs-thesis-proposal-template/forks]: https://img.shields.io/github/forks/mit-eecs-gsa/mit-eecs-thesis-proposal-template?style=flat-square
-[mit-eecs-gsa/mit-eecs-thesis-proposal-template/last-commit]: https://img.shields.io/github/last-commit/mit-eecs-gsa/mit-eecs-thesis-proposal-template?style=flat-square
-[NorthSecond/SYSU_Latex_Template]: https://github.com/NorthSecond/SYSU_Latex_Template
-[NorthSecond/SYSU_Latex_Template/stars]: https://img.shields.io/github/stars/NorthSecond/SYSU_Latex_Template?style=flat-square
-[NorthSecond/SYSU_Latex_Template/forks]: https://img.shields.io/github/forks/NorthSecond/SYSU_Latex_Template?style=flat-square
-[NorthSecond/SYSU_Latex_Template/last-commit]: https://img.shields.io/github/last-commit/NorthSecond/SYSU_Latex_Template?style=flat-square
-[monetjoe/latex_paper_templates]: https://github.com/monetjoe/latex_paper_templates
-[monetjoe/latex_paper_templates/stars]: https://img.shields.io/github/stars/monetjoe/latex_paper_templates?style=flat-square
-[monetjoe/latex_paper_templates/forks]: https://img.shields.io/github/forks/monetjoe/latex_paper_templates?style=flat-square
-[monetjoe/latex_paper_templates/last-commit]: https://img.shields.io/github/last-commit/monetjoe/latex_paper_templates?style=flat-square
-[huangyxi/whutmod]: https://github.com/huangyxi/whutmod
-[huangyxi/whutmod/stars]: https://img.shields.io/github/stars/huangyxi/whutmod?style=flat-square
-[huangyxi/whutmod/forks]: https://img.shields.io/github/forks/huangyxi/whutmod?style=flat-square
-[huangyxi/whutmod/last-commit]: https://img.shields.io/github/last-commit/huangyxi/whutmod?style=flat-square
-[Korogodin/NSLReport]: https://github.com/Korogodin/NSLReport
-[Korogodin/NSLReport/stars]: https://img.shields.io/github/stars/Korogodin/NSLReport?style=flat-square
-[Korogodin/NSLReport/forks]: https://img.shields.io/github/forks/Korogodin/NSLReport?style=flat-square
-[Korogodin/NSLReport/last-commit]: https://img.shields.io/github/last-commit/Korogodin/NSLReport?style=flat-square
-[dpmj/alcazar]: https://github.com/dpmj/alcazar
-[dpmj/alcazar/stars]: https://img.shields.io/github/stars/dpmj/alcazar?style=flat-square
-[dpmj/alcazar/forks]: https://img.shields.io/github/forks/dpmj/alcazar?style=flat-square
-[dpmj/alcazar/last-commit]: https://img.shields.io/github/last-commit/dpmj/alcazar?style=flat-square
-[note286/xduugtp]: https://github.com/note286/xduugtp
-[note286/xduugtp/stars]: https://img.shields.io/github/stars/note286/xduugtp?style=flat-square
-[note286/xduugtp/forks]: https://img.shields.io/github/forks/note286/xduugtp?style=flat-square
-[note286/xduugtp/last-commit]: https://img.shields.io/github/last-commit/note286/xduugtp?style=flat-square
-[Passer-montanus/AAS_Template_LaTeX]: https://github.com/Passer-montanus/AAS_Template_LaTeX
-[Passer-montanus/AAS_Template_LaTeX/stars]: https://img.shields.io/github/stars/Passer-montanus/AAS_Template_LaTeX?style=flat-square
-[Passer-montanus/AAS_Template_LaTeX/forks]: https://img.shields.io/github/forks/Passer-montanus/AAS_Template_LaTeX?style=flat-square
-[Passer-montanus/AAS_Template_LaTeX/last-commit]: https://img.shields.io/github/last-commit/Passer-montanus/AAS_Template_LaTeX?style=flat-square
-[conference-websites/acmart-sigproc-template]: https://github.com/conference-websites/acmart-sigproc-template
-[conference-websites/acmart-sigproc-template/stars]: https://img.shields.io/github/stars/conference-websites/acmart-sigproc-template?style=flat-square
-[conference-websites/acmart-sigproc-template/forks]: https://img.shields.io/github/forks/conference-websites/acmart-sigproc-template?style=flat-square
-[conference-websites/acmart-sigproc-template/last-commit]: https://img.shields.io/github/last-commit/conference-websites/acmart-sigproc-template?style=flat-square
 
 <!-- END-TABLE -->
 

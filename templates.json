@@ -9,7 +9,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/qxx/AHU_Thesis"
@@ -27,7 +27,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/WizenZhang/NMUThesis"
@@ -41,35 +41,29 @@
       "en": "Peking University",
       "raw": ""
     },
-    "total": 15,
+    "total": 16,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 6,
+        "language": "tex",
+        "count": 8,
         "links": [
+          "https://github.com/AllanChain/pkuthss-lyx",
           "https://github.com/CasperVector/pkuthss",
           "https://github.com/doubleZ0108/pkuthss-mac",
           "https://github.com/GXIU/Easy-Templates",
           "https://github.com/qu-tan-um/PKU_EECS_UGR_THSS",
           "https://github.com/Thesharing/pkuthss",
+          "https://github.com/vidon/pkuthssLyX",
           "https://github.com/wongsingfo/pku-grad-thesis"
         ]
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 2,
         "links": [
-          "https://github.com/AllanChain/pkuthss-lyx",
-          "https://github.com/vidon/pkuthssLyX"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "typst",
-        "count": 1,
-        "links": [
+          "https://github.com/chuxinyuan/pku-thesis-pass",
           "https://github.com/pku-typst/pkuthss-typst"
         ]
       },
@@ -84,7 +78,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/huxuan/pkuthss-slide",
@@ -105,7 +99,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/juneleung/BFA_Master_Thesis_Template",
@@ -114,7 +108,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/juneleung/BFA_MasterCourse_Paper_Template"
@@ -132,7 +126,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/bjut-swift/BJUTLATEX",
@@ -142,7 +136,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/bycore/bjut-beamer"
@@ -156,11 +150,11 @@
       "en": "Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)",
       "raw": ""
     },
-    "total": 16,
+    "total": 17,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/BHOSC/BUAAthesis",
@@ -175,6 +169,14 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/wangjq4214/buaa-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "ms-word",
         "count": 2,
         "links": [
@@ -184,7 +186,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/GFCYqw/Fengrubei_LaTeX_Template",
@@ -193,7 +195,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/Htallone/beamerBUAA",
@@ -221,7 +223,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/qianqianjun/UnetFCNDAE",
@@ -240,7 +242,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/chenzewei01/bjtuThesis",
@@ -252,7 +254,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Allenpandas/BJTU-Beamer-Theme",
@@ -271,7 +273,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/Jeff-Hugh/USTBThesis",
@@ -281,7 +283,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ShawniLee/LaTeX-Beamer-USTB"
@@ -299,7 +301,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/BIT-thesis/LaTeX-template",
@@ -324,7 +326,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/bjfu-projects/bjfuthesis",
@@ -337,7 +339,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Bloomberg2000/BJFUThesis-outstanding"
@@ -351,11 +353,11 @@
       "en": "Beijing Normal University",
       "raw": ""
     },
-    "total": 5,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/gebrilliant/BNU-Latex-Thesis",
@@ -366,10 +368,26 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/MosRat/modern-bnu-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "markdown",
         "count": 1,
         "links": [
           "https://github.com/94wgfk/BNUThesisPandoc"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/EuanTop/modern-bnu-course-paper"
         ]
       }
     ]
@@ -384,7 +402,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Ryan-the-hito/BFSU-paper"
@@ -398,11 +416,11 @@
       "en": "Beijing University of Posts and Telecommunications",
       "raw": ""
     },
-    "total": 11,
+    "total": 12,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 9,
         "links": [
           "https://github.com/baggiorio18/BUPTGraduateThesis",
@@ -431,6 +449,14 @@
         "links": [
           "https://github.com/sigmarising/BUPTMasterThesisWord"
         ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/BUPT-typst/BUPT-Report-Typst"
+        ]
       }
     ]
   },
@@ -444,7 +470,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cunliangkong/BLCU-Thesis"
@@ -462,7 +488,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xiaoleeza/chdthesis"
@@ -480,7 +506,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/csust-latex-sig/CSUSTBachelorThesis",
@@ -499,7 +525,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/cs-whh/CDUT_thesis",
@@ -514,11 +540,11 @@
       "en": "Chongqing University",
       "raw": ""
     },
-    "total": 7,
+    "total": 8,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/cqu-bdsc/CQUThesis",
@@ -536,8 +562,16 @@
         ]
       },
       {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/CQUtug/TeXProposal"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/CQUtug/CQUBeamer",
@@ -556,7 +590,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/broadcreate/CQJTU-Latex-Thesis",
@@ -575,7 +609,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/coding-tan/CQUPTtex",
@@ -596,7 +630,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/aurora1625/dmuthesis-latex"
@@ -614,7 +648,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/MrLQQ/DJTU-latex-thesis"
@@ -632,10 +666,11 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 12,
+        "language": "tex",
+        "count": 13,
         "links": [
           "https://github.com/01xz/dlut-thesis",
+          "https://github.com/dutLQG/DUT-LyX",
           "https://github.com/echoorchid/DLUT_XeLaTeX_Template_for_Master",
           "https://github.com/EdwardNigma163/dut_essay_model",
           "https://github.com/GoBigorGoHome/dutthesis",
@@ -650,16 +685,8 @@
         ]
       },
       {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
-          "https://github.com/dutLQG/DUT-LyX"
-        ]
-      },
-      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/iamjarryfeng/DLUT-Beamer-Slide-V1",
@@ -679,7 +706,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/neumason/DLNU"
@@ -693,12 +720,12 @@
       "en": "University of Electronic Science and Technology of China",
       "raw": ""
     },
-    "total": 14,
+    "total": 15,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 11,
+        "language": "tex",
+        "count": 12,
         "links": [
           "https://github.com/Alan5279/UESTC_Doc_Thesis",
           "https://github.com/bdebye/thesisuestc",
@@ -706,6 +733,7 @@
           "https://github.com/LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template",
           "https://github.com/raja21068/UESTC-LATEX-THESIS-FORMAT",
           "https://github.com/raja21068/UESTC-THESIS",
+          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex",
           "https://github.com/richardkwo/UESTC-bachelor-thesis-xelatex",
           "https://github.com/savicsw/ThesisUESTC",
           "https://github.com/shifujun/UESTCthesis",
@@ -715,15 +743,15 @@
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/raja21068/UESTC-Thesis-Templete-LYX-Latex"
+          "https://github.com/uestc-typst/thesis-template"
         ]
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/404-NOTFOUND-Coder/UESTC--report--template",
@@ -738,11 +766,11 @@
       "en": "Northeastern University",
       "raw": ""
     },
-    "total": 13,
+    "total": 14,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 11,
         "links": [
           "https://github.com/Acytoo/neu_bachelor_thesis_template",
@@ -760,6 +788,14 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/SchrodingerBlume/touying-simpl-neu"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "ms-word",
         "count": 1,
         "links": [
@@ -768,7 +804,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zhouyanasd/NEU-Beamer-Slide"
@@ -786,7 +822,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jycnb-666/NEEPUTHESIS"
@@ -804,7 +840,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/dustincys/NEFUThesis"
@@ -822,7 +858,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/BENZJ/NNU_Latex_temple",
@@ -841,7 +877,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/leungll/NENU-Letter-Template"
@@ -859,7 +895,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/3000ye/dhuBachelor",
@@ -879,8 +915,8 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 15,
+        "language": "tex",
+        "count": 16,
         "links": [
           "https://github.com/cmuCoppelia/seuthesis2020",
           "https://github.com/DansYU/SeuThesiY",
@@ -888,6 +924,7 @@
           "https://github.com/jasonbian97/Southeast-University-Paper-Latex-Template",
           "https://github.com/JosanSun/SEUThesis",
           "https://github.com/liuying1905/seu_thesis",
+          "https://github.com/oldoldstone/seuthslyx",
           "https://github.com/RayDia/SEU-LaTeX-Thesis-Template-",
           "https://github.com/Reanon/SEUThesisLatexTemplate",
           "https://github.com/seucs/seuthesis",
@@ -897,14 +934,6 @@
           "https://github.com/TouchFishPioneer/SEU-master-thesis",
           "https://github.com/wen-fei/seu-thesis-latex-template",
           "https://github.com/zhimengfan1990/seuthesix"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
-          "https://github.com/oldoldstone/seuthslyx"
         ]
       },
       {
@@ -925,7 +954,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Teddy-van-Jerry/SEU-ML-Assign_LaTeX_Template"
@@ -933,7 +962,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/eshoyuan/SEU_Beamer_Template_Latex",
@@ -962,7 +991,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ye-sun-econ/uibethesis"
@@ -976,17 +1005,25 @@
       "en": "Fuzhou University",
       "raw": ""
     },
-    "total": 4,
+    "total": 5,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/chenzl23/FZUThesis",
           "https://github.com/FzuerStudio/fzu-thesis-template",
           "https://github.com/HuangTM23/FZU_Thesis",
           "https://github.com/siaimes/ThesisFZU"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/zenor0/modern-fzu-thesis"
         ]
       }
     ]
@@ -1001,7 +1038,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 9,
         "links": [
           "https://github.com/eurekayuan/fduthesis2022",
@@ -1017,7 +1054,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/GuangLun2000/FZU-latex-template",
@@ -1036,7 +1073,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/KevinGuo1007/GDUE-Beamer-Slides-Theme"
@@ -1054,7 +1091,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/Gnomeek/GDUT-UndergraduateThesis",
@@ -1072,7 +1109,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jiahaoli57/GDUT-Beamer-Template",
@@ -1091,7 +1128,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates"
@@ -1109,7 +1146,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/swq123459/GZHU-Report-Latex-Version",
@@ -1129,7 +1166,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/wrm244/GUEThesis",
@@ -1138,7 +1175,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wrm244/GUETBeamer"
@@ -1152,14 +1189,22 @@
       "en": "Guizhou University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/francisol/GZUthesis-template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/chengwu26/gzu-thesis-unofficial"
         ]
       }
     ]
@@ -1170,11 +1215,11 @@
       "en": "National Defense University of Science and Technology",
       "raw": ""
     },
-    "total": 6,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/kelvin0207/NUDT-Template",
@@ -1185,7 +1230,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/TomHeaven/nudtproposal"
@@ -1193,10 +1238,18 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yangjingo/nudtbeamer"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/yelpevade/touying-nudt"
         ]
       }
     ]
@@ -1211,7 +1264,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/fylimas/nsfc",
@@ -1232,7 +1285,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Benyjuice/hrbeuthesis"
@@ -1250,7 +1303,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/dustincys/PlutoThesis",
@@ -1273,7 +1326,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/hithesis/HITBeamer",
@@ -1294,7 +1347,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/a67878813/HMUThesis-master"
@@ -1312,7 +1365,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cliffigor/hainnu-thesis"
@@ -1330,7 +1383,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 9,
         "links": [
           "https://github.com/cughmy/hduthesis",
@@ -1352,14 +1405,22 @@
       "en": "Hebei University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Direct-A/hbuthesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/strangelion/HeBeiUniversity-template-Typst"
         ]
       }
     ]
@@ -1374,7 +1435,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/lime-j/HEBUT-Beamer-Theme"
@@ -1388,11 +1449,11 @@
       "en": "HeFei University of Technology",
       "raw": ""
     },
-    "total": 7,
+    "total": 8,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/HFUTTUG/HFUT_Thesis",
@@ -1402,15 +1463,23 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/HFUTTUG/HFUT_Course_Report"
         ]
       },
       {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/KercyDing/modern-hfut-report"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/HFUT-BinChen/HFUT-Beamer",
@@ -1426,11 +1495,11 @@
       "en": "Hohai University",
       "raw": ""
     },
-    "total": 5,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/caowenhan/hhuthesis",
@@ -1440,11 +1509,27 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/shaneworld/HHU-Thesis-Template"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Mizera-Mondo/HHU-Slides-Template"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/HPDell/touying-wave-hhu"
         ]
       }
     ]
@@ -1459,7 +1544,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/potatogood/HPU_Beamer_Template"
@@ -1477,7 +1562,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wvqusrai/hnu_exam"
@@ -1495,7 +1580,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Jsoneft/HBUTPaperTemplate"
@@ -1513,7 +1598,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/snyh/hbue_thesis"
@@ -1531,7 +1616,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 12,
         "links": [
           "https://github.com/AaronDavis2020/HNU-thesis",
@@ -1550,7 +1635,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zcyeee/HNU_LaTeX_Template"
@@ -1568,7 +1653,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ethan-phu/hutb_master_thesis_latex"
@@ -1586,7 +1671,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/gkm0120/hunnu",
@@ -1595,7 +1680,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ljmdzyx1985/HUNNU_Beamer"
@@ -1613,7 +1698,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/obster-y/NCEPU-thesis"
@@ -1621,7 +1706,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/liuzhaoze/NCEPU-beamer-template"
@@ -1639,7 +1724,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/muyuuuu/A-customized-MCM-LaTeX-template-based-on-ctexart"
@@ -1657,7 +1742,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 9,
         "links": [
           "https://github.com/blanche07/ecust-master-thesis-latex",
@@ -1679,12 +1764,12 @@
       "en": "East China Normal University",
       "raw": ""
     },
-    "total": 16,
+    "total": 18,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 16,
+        "language": "tex",
+        "count": 15,
         "links": [
           "https://github.com/Baileyswu/ECNU-thesis-template",
           "https://github.com/c834606877/ECNU-Paper-Template",
@@ -1694,7 +1779,6 @@
           "https://github.com/ECNU-ICA/ECNU_graduation_thesis_template",
           "https://github.com/Haskely/ECNUMasterThesisLatexTemplate",
           "https://github.com/Jarvis-K/ECNU_Latex_Template",
-          "https://github.com/jtchen2k/modern-ecnu-thesis",
           "https://github.com/Koyamin/ecnuthesis",
           "https://github.com/myzmh/ECNU-MASTER-S-DISSERTATION-",
           "https://github.com/programokey/ECNUUndergraduateDissertationTemplate",
@@ -1702,6 +1786,30 @@
           "https://github.com/rachlegend/ECNU-Template",
           "https://github.com/SmartPangzi/ECNU-Graduation-Thesis-Template",
           "https://github.com/YijunYuan/ECNU-Undergraduate-LaTeX"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/jtchen2k/modern-ecnu-thesis"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/syqwq-OMG/ecnu-math-hwk"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ccyoung3/touying-simpl-ecnu"
         ]
       }
     ]
@@ -1716,7 +1824,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 12,
         "links": [
           "https://github.com/alwintsui/scutthesis",
@@ -1735,7 +1843,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wanglh03/SCUT-Beamer-Theme"
@@ -1753,7 +1861,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wuenzhe/SCAUThesis"
@@ -1771,7 +1879,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/scnu/scnuthesis"
@@ -1779,7 +1887,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Elitedj/SCNU_BeamerTemplate"
@@ -1797,7 +1905,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/hust-latex/hustthesis",
@@ -1817,7 +1925,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/latexstudio/HUST-Beamer-Theme",
@@ -1837,7 +1945,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wuenzhe/HZAUBeamer"
@@ -1855,11 +1963,29 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/wasphin/latex-ccnu-thesis",
           "https://github.com/xkwxdyy/CCNUthesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "淮安大学",
+      "en": "Huai'an University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/shxuanc/hauthesis"
         ]
       }
     ]
@@ -1874,7 +2000,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/everyx/HNUthesis"
@@ -1888,11 +2014,11 @@
       "en": "Jilin University",
       "raw": ""
     },
-    "total": 12,
+    "total": 13,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 10,
         "links": [
           "https://github.com/dartall/jluthesis",
@@ -1908,8 +2034,16 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Islatri/universal-jlu-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/GohUnTsuan/JLU-Beamer-Theme",
@@ -1924,15 +2058,31 @@
       "en": "Jinan University",
       "raw": ""
     },
-    "total": 2,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Latiyas/JNUThesis",
           "https://github.com/ytZhou/JNUMasterThesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/lencelg/typst4JnuBachelor"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/lencelg/modern-jnu-lab-report"
         ]
       }
     ]
@@ -1947,7 +2097,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xen0n/JNUthesis"
@@ -1961,11 +2111,11 @@
       "en": "Jiangsu University",
       "raw": ""
     },
-    "total": 5,
+    "total": 6,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/NTrabbit5/UJS-thesis",
@@ -1975,11 +2125,37 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/han0126/modern-jsu-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/skygazer42/beamer-"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "江苏海洋大学",
+      "en": "Jiangsu Ocean University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/TsekaLuk/JOU-Undergraduate-Thesis-LaTeX-Template"
         ]
       }
     ]
@@ -1994,7 +2170,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sheeplib/JustThesis"
@@ -2008,14 +2184,22 @@
       "en": "Jiangxi University of Finance and Economics",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zipzou/jufe-thesis-tex"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/MaxforCherubim/Jufe-master-thesis-Typst-template"
         ]
       }
     ]
@@ -2030,7 +2214,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/CosmosLiang/LZUthesis",
@@ -2045,7 +2229,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/yuhldr/LZUBeamer",
@@ -2064,7 +2248,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/estivalinp/LuThesis"
@@ -2082,7 +2266,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Jin-bao/NCU-thesis"
@@ -2100,7 +2284,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/NCHUSC/NCHU_Bachelor_Thesis_Template"
@@ -2114,11 +2298,11 @@
       "en": "Southern University of Science and Technology",
       "raw": ""
     },
-    "total": 17,
+    "total": 19,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/iydon/sustechthesis",
@@ -2132,8 +2316,10 @@
       {
         "genre": "thesis",
         "language": "typst",
-        "count": 1,
+        "count": 3,
         "links": [
+          "https://github.com/Fragecity/modern-sustech-thesis",
+          "https://github.com/lace-wing/lacy-sustech-thesis.typ",
           "https://github.com/wyatt-feng/sustech-ug-thesis-typst"
         ]
       },
@@ -2155,7 +2341,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/RUSRUSHB/SUSTech_Letterhead_LaTeX",
@@ -2165,7 +2351,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/liziwl/sustech-xiaosan-beamer",
@@ -2194,8 +2380,8 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 12,
+        "language": "tex",
+        "count": 11,
         "links": [
           "https://github.com/anyirao/NJUThesis2018",
           "https://github.com/EdwardSaidZhou/NJU-thesis-esz",
@@ -2203,12 +2389,19 @@
           "https://github.com/GFrankenstein/NJU-Thesis-LaTeX-Template",
           "https://github.com/Haixing-Hu/nju-thesis",
           "https://github.com/jiangyy/njuthesis",
-          "https://github.com/nju-lug/modern-nju-thesis",
           "https://github.com/nju-lug/NJUThesis",
           "https://github.com/njuhan/njuthesis-nju-thesis-template",
           "https://github.com/solrex/njuthesis",
           "https://github.com/zhangchuheng123/NJUThesis",
           "https://github.com/ZLCao/NJUBachelor"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/nju-lug/modern-nju-thesis"
         ]
       },
       {
@@ -2221,7 +2414,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/nju-lug/NJURepo",
@@ -2230,7 +2423,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/EagleBear2002/NJUSE-Beamer-Template"
@@ -2248,7 +2441,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/AstralHope/NJTECHMasterThesis",
@@ -2267,7 +2460,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/dr-n-khan/NUAA-Thesis-Template-NASR",
@@ -2283,13 +2476,14 @@
       "en": "Nanjing University of Science and Technology",
       "raw": ""
     },
-    "total": 4,
+    "total": 5,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 3,
+        "language": "tex",
+        "count": 4,
         "links": [
+          "https://github.com/Freed-Wu/njustthesis",
           "https://github.com/packyan/NJUST_Master_Thesis_Latex_Template",
           "https://github.com/pasteller/njusttt",
           "https://github.com/StillKeepTry/NJUST-PHD-Thesis"
@@ -2297,7 +2491,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Andrew5c/NJUST-beamer-LaTeX"
@@ -2315,7 +2509,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/iamty/thesis-NJFU"
@@ -2323,7 +2517,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jiangtengkexin/NJFU-Beamer-Theme"
@@ -2341,7 +2535,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Qsion/NJAU_Thesis"
@@ -2359,7 +2553,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jordanzhouda/nnuthesis"
@@ -2377,7 +2571,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/Alrash/NUIST_Master_Thesis",
@@ -2400,7 +2594,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/gzr-lgtm/NJUPThesis-Bachelor",
@@ -2419,7 +2613,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 14,
         "links": [
           "https://github.com/alumik/nkthesis",
@@ -2440,7 +2634,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/Hughshine/nku-beamer",
@@ -2460,7 +2654,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/changbozhu/ntuthesis"
@@ -2478,7 +2672,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/baoxianyuan/NXUThesis"
@@ -2496,7 +2690,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/chardoncs/qdubachelor-tex",
@@ -2515,7 +2709,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/monburan/oucqdc-LaTeX-document"
@@ -2533,7 +2727,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Leev1s/QUT-Beamer-Template"
@@ -2551,7 +2745,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/coffeelize/QHUthesis"
@@ -2565,11 +2759,11 @@
       "en": "Tsinghua University",
       "raw": ""
     },
-    "total": 13,
+    "total": 15,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/atxy-blip/thuthesis3",
@@ -2583,8 +2777,9 @@
       {
         "genre": "thesis",
         "language": "typst",
-        "count": 1,
+        "count": 2,
         "links": [
+          "https://github.com/dl-li/uo-Tsinghua-Thesis-Typst-Template",
           "https://github.com/tuna/thuthesis-typst"
         ]
       },
@@ -2598,12 +2793,20 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/luoyt14/presentationTemplete",
           "https://github.com/tuna/THU-Beamer-Theme",
           "https://github.com/YangLaTeX/thubeamer"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Jzzzi/slide-thu"
         ]
       },
       {
@@ -2616,7 +2819,7 @@
       },
       {
         "genre": "resume",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/K-Wu/CV-tsinghua-template"
@@ -2634,7 +2837,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sxdxyxy/smartmedical"
@@ -2652,7 +2855,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mslxl/sdufe-thesis"
@@ -2666,11 +2869,11 @@
       "en": "Shandong University",
       "raw": ""
     },
-    "total": 16,
+    "total": 20,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 14,
         "links": [
           "https://github.com/arisukawa/SDU-Latex-Template-for-dissertations",
@@ -2691,6 +2894,14 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/GrooveSino/unofficial-sdu-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "ms-word",
         "count": 1,
         "links": [
@@ -2699,10 +2910,27 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/miyu0403/SDU-LaTeX-Template"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/xmdjy/sdu-report-template"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/Dregen-Yor/sdu-touying-simpl",
+          "https://github.com/xmdjy/sdu-smpl-slides"
         ]
       }
     ]
@@ -2717,7 +2945,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/RuYunW/SDNU-LaTeX-bachelor-2021",
@@ -2736,7 +2964,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/dubuqingfeng/sxau-document"
@@ -2754,10 +2982,28 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yykphy/yk-snnu-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "汕头大学",
+      "en": "Shantou University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/weixinhum2023/shantou-university-thesis-typst-template"
         ]
       }
     ]
@@ -2772,7 +3018,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sijichun/sufethesis"
@@ -2786,11 +3032,11 @@
       "en": "Shanghai University",
       "raw": ""
     },
-    "total": 10,
+    "total": 11,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/ahhylau/shuthesis",
@@ -2804,15 +3050,16 @@
       {
         "genre": "thesis",
         "language": "typst",
-        "count": 2,
+        "count": 3,
         "links": [
           "https://github.com/LuminolT/SHU-Bachelor-Thesis-Typst",
-          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst"
+          "https://github.com/shuosc/SHU-Bachelor-Thesis-Typst",
+          "https://github.com/XY-cpp/typst-shu-thesis"
         ]
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/kaleidoscope257-git/SHUbeamer",
@@ -2831,7 +3078,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/chuxubank/ssputhesis",
@@ -2850,7 +3097,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/SUEPaper/SUEPThesis"
@@ -2866,7 +3113,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/SUEPaper/cs202-latex-report",
@@ -2887,7 +3134,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Yangruipis/SUIBEthesis"
@@ -2905,7 +3152,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/AndyYangjd/SUES-Paper",
@@ -2916,7 +3163,7 @@
       },
       {
         "genre": "paper",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/MobtgZhang/sues-mm"
@@ -2934,7 +3181,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hellckt/SHMTUThesis"
@@ -2942,7 +3189,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/a645162/SHMTU-Beamer-Theme"
@@ -2956,11 +3203,11 @@
       "en": "Shanghai Jiaotong University",
       "raw": ""
     },
-    "total": 13,
+    "total": 19,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/dyweb/SJTUThesis",
@@ -2996,13 +3243,26 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/MrShoza/SJTU-Bachelor-Thesis-Proposal-Latex-Template",
           "https://github.com/NemoYuan2008/SJTU-Thesis-Proposal",
           "https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template",
           "https://github.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Latex-Template"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 6,
+        "links": [
+          "https://github.com/HellOwhatAs/linedx2-sjtu",
+          "https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Typst-Template",
+          "https://github.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Typst-Template",
+          "https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template",
+          "https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template",
+          "https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template"
         ]
       },
       {
@@ -3025,7 +3285,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/Haoxiaoling/shtuthesis",
@@ -3036,7 +3296,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hist2/slide_template"
@@ -3054,7 +3314,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/FrankSFLYS/usstthesis"
@@ -3072,7 +3332,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/andy123t/shnubachelor",
@@ -3087,11 +3347,11 @@
       "en": "Shenzhen University",
       "raw": ""
     },
-    "total": 10,
+    "total": 11,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/bearcatat/SZUThesis",
@@ -3114,10 +3374,18 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Degurechaff57/szu-typst-slides"
         ]
       }
     ]
@@ -3132,7 +3400,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/SZTU-ACM/SZTU-Thesis-Latex-Template"
@@ -3158,7 +3426,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xunyoyo/SHZU-Beamer-Theme"
@@ -3172,14 +3440,22 @@
       "en": "Capital Normal University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/huwan/cnuthesis"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/maxchang3/touying-simpl-cnu"
         ]
       }
     ]
@@ -3194,7 +3470,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 11,
         "links": [
           "https://github.com/bennyji/SCUthesis",
@@ -3222,7 +3498,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/FvNCCR228/SCU-Beamer-Theme"
@@ -3248,7 +3524,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yiyuezhuo/sicnu-thesis"
@@ -3266,7 +3542,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/absop/LaTeX-Template",
@@ -3279,10 +3555,28 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ymliucs/SUDA-Beamer-Theme"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "太原理工大学",
+      "en": "Taiyuan University of Technology",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/pdcxs/unofficial-tyut-thesis"
         ]
       }
     ]
@@ -3297,7 +3591,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 15,
         "links": [
           "https://github.com/6gbluewind/Tjuthesis_phd_1.2-",
@@ -3319,7 +3613,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/FeathBow/TJU-RL-template"
@@ -3327,7 +3621,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/JiangChengrun/TJU-LaTeX-Beamer-Template",
@@ -3339,15 +3633,33 @@
   },
   {
     "name": {
+      "zh": "天津科技大学",
+      "en": "Tianjin University of Science and Technology",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/martin-cao/modern-tust-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "zh": "同济大学",
       "en": "Tongji University",
       "raw": ""
     },
-    "total": 18,
+    "total": 20,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 14,
         "links": [
           "https://github.com/C-zzZZ/TongjiThesis",
@@ -3367,8 +3679,17 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/TJ-CSCCG/modern-tongji-thesis",
+          "https://github.com/xialugui/universal-tongji-thesis"
+        ]
+      },
+      {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/TJ-CSCCG/tongji-recommendation-template"
@@ -3376,7 +3697,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Andeviking/PPT_Template",
@@ -3395,15 +3716,69 @@
   },
   {
     "name": {
+      "zh": "温州大学",
+      "en": "Wenzhou University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/WaltYoung/WZU_ReportAndThesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "温州肯恩大学",
+      "en": "Wenzhou-Kean University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/timmycheng/modern-wku-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "温州医科大学",
+      "en": "Wenzhou Medical University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/ZhangLabWMU/WMUDoctor"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "zh": "武汉大学",
       "en": "Wuhan University",
       "raw": ""
     },
-    "total": 25,
+    "total": 27,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 16,
         "links": [
           "https://github.com/0xf4vul/whuBSthesis",
@@ -3435,7 +3810,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/whutug/course-report",
@@ -3443,8 +3818,17 @@
         ]
       },
       {
+        "genre": "report",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/whoisKIWIIZZZ/report_template",
+          "https://github.com/zoomy14112/report-theme-whu"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/FlorianTseng/WHU-Beamer",
@@ -3466,7 +3850,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Bowen1911/wust_beamer"
@@ -3484,7 +3868,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/huangyxi/WHUT-Bachelor",
@@ -3495,7 +3879,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/huangyxi/whutmod"
@@ -3503,7 +3887,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/LiUzHiAn/BeamerTemplateWHUT"
@@ -3521,7 +3905,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 12,
         "links": [
           "https://github.com/103yiran/XDUthesis_xelatex",
@@ -3549,7 +3933,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/note286/xdupgtp",
@@ -3566,7 +3950,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/103yiran/XDUtheme",
@@ -3587,7 +3971,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 15,
         "links": [
           "https://github.com/1989Ryan/XJTU-Bachelor-Thesis-LaTeX-Template",
@@ -3617,7 +4001,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/qyxf/beamerthemeXJTU",
@@ -3636,7 +4020,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/shincfk/latex-slide-template-with-beamer"
@@ -3654,7 +4038,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/h2y/xsyu-latex"
@@ -3668,14 +4052,22 @@
       "en": "Northwestern University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Nat-Sci/NWU-dissertation-template"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/Easecond/nwu-academic-year-paper"
         ]
       }
     ]
@@ -3686,11 +4078,11 @@
       "en": "Northwestern Polytechnical University",
       "raw": ""
     },
-    "total": 14,
+    "total": 15,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis",
@@ -3705,6 +4097,14 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/1195343015/modern-npu-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "ms-word",
         "count": 1,
         "links": [
@@ -3713,7 +4113,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/moetayuko/NPU_PhD_proposal",
@@ -3723,7 +4123,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ruiguoz/NWPU-BEAMER"
@@ -3731,7 +4131,7 @@
       },
       {
         "genre": "resume",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/CSW33/NPU-CV"
@@ -3749,7 +4149,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/Jeromezp/NorthWestThesis",
@@ -3759,7 +4159,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/registor/nwafuBeamerTheme"
@@ -3777,7 +4177,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yxli8023/Graduate-Thesis-Module"
@@ -3791,11 +4191,19 @@
       "en": "Westlake University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/Westlake-TUG/westlakethesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zhoubay/WestlakeU-Beamer-Theme"
@@ -3813,7 +4221,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/feimax/latex_template_for_xjtlu_eee"
@@ -3821,7 +4229,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yaoshanliang/XJTLU-Beamer-Template"
@@ -3835,15 +4243,23 @@
       "en": "Southwestern University of Finance and Economics",
       "raw": ""
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/OopsYao/swufethesis",
           "https://github.com/sierxue/ThesisSWUFE"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/leichaoL/touying-simpl-swufe"
         ]
       }
     ]
@@ -3858,7 +4274,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/huangjunjie-cs/college-swu-beamer",
@@ -3873,11 +4289,11 @@
       "en": "Southwest Jiaotong University",
       "raw": ""
     },
-    "total": 7,
+    "total": 8,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/cshaowang/swjtuThesisV2.0",
@@ -3888,8 +4304,16 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/somnus0917/modern-swjtu-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Solar-WU/SWJTU_Slides_Template",
@@ -3908,7 +4332,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/japinli/swust-thesis"
@@ -3926,7 +4350,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/changkun/SWUNThesis"
@@ -3944,7 +4368,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jinggqu/swputhesis",
@@ -3953,7 +4377,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/befeng/swpu_beamer"
@@ -3967,12 +4391,12 @@
       "en": "Xiamen University",
       "raw": ""
     },
-    "total": 15,
+    "total": 16,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 12,
+        "language": "tex",
+        "count": 13,
         "links": [
           "https://github.com/CamuseCao/XMU-thesis",
           "https://github.com/CamuseCao/XMU-Thesis-Overleaf",
@@ -3982,6 +4406,7 @@
           "https://github.com/kirainmoe/xmu-thesis-latex-template",
           "https://github.com/liulizhi1996/XMU-Bachelor-Thesis-Templete",
           "https://github.com/naseeihity/xmu-latex-temple",
+          "https://github.com/renkun-ken/xmu-thesis-lyx",
           "https://github.com/uhomelee/xmu-undergraduate-thesis",
           "https://github.com/wwwxmu/-Latex-",
           "https://github.com/xiamenwcy/LaTeXFileforXMUThesis",
@@ -3990,10 +4415,10 @@
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/renkun-ken/xmu-thesis-lyx"
+          "https://github.com/HPCesia/modern-xmu-thesis"
         ]
       },
       {
@@ -4006,7 +4431,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/iceduu/xmu-beamer"
@@ -4024,7 +4449,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/MrDongdongLin/xtuthesis",
@@ -4043,10 +4468,36 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/LeoLQF/xjuthesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "燕山大学",
+      "en": "Yanshan University",
+      "raw": ""
+    },
+    "total": 2,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Woodman3/modern-ysu-thesis"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/bahayonghang/simply-ysu-touying"
         ]
       }
     ]
@@ -4061,20 +4512,13 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 3,
+        "language": "tex",
+        "count": 4,
         "links": [
           "https://github.com/Astro-Lee/YNU-thesis-bachelor",
           "https://github.com/Astro-Lee/YNUthesis",
+          "https://github.com/cherrot/ynuthesislyx",
           "https://github.com/ZhenfengLei/Yunnan-University-Thesis-Latex"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
-          "https://github.com/cherrot/ynuthesislyx"
         ]
       }
     ]
@@ -4089,7 +4533,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Republic1024/NTUBeamer"
@@ -4107,7 +4551,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sqsssq/ZUFE-Thesis"
@@ -4125,7 +4569,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xiehao/cuzthesis"
@@ -4133,7 +4577,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xiehao/cuzexam"
@@ -4141,7 +4585,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/xiehao/cuzbeamer"
@@ -4159,7 +4603,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 16,
         "links": [
           "https://github.com/5kg/zju-bachelor-thesis",
@@ -4182,7 +4626,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/corenel/ZJUProposal",
@@ -4192,7 +4636,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/corenel/zju-beamer-theme",
@@ -4213,7 +4657,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zewei-Zhang/zjgsuthesis"
@@ -4239,7 +4683,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/AsukaEva2/ZJUTbachelor",
@@ -4249,7 +4693,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sichengchen/ZJUT-Beamer-Template"
@@ -4267,7 +4711,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Casta-mere/LaTeX-GraduationTemplate"
@@ -4275,7 +4719,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/spartajet/zstu-beamer"
@@ -4293,7 +4737,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/favefan/ZAFUBeamer-Latex",
@@ -4312,7 +4756,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/minqimao/zjnu_thesis"
@@ -4330,7 +4774,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/fylimas/zzuthesis",
@@ -4352,7 +4796,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/AmnesiaBeing/CUC-Thesis-Template",
@@ -4364,7 +4808,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/TheoCUC/Beamer_CUC"
@@ -4378,17 +4822,25 @@
       "en": "China University of Geosciences",
       "raw": ""
     },
-    "total": 4,
+    "total": 5,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/benmyb/CUGThesis",
           "https://github.com/Timozer/CUGThesis",
           "https://github.com/xujinlai/CUGThesis",
           "https://github.com/zguoch/cugthesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Rsweater/cug-thesis-typst"
         ]
       }
     ]
@@ -4399,11 +4851,11 @@
       "en": "Ocean University of China",
       "raw": ""
     },
-    "total": 6,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/Duola-li/OUC-Latex-Thesis-master",
@@ -4412,6 +4864,14 @@
           "https://github.com/ouc-ocean-group/oucthesis",
           "https://github.com/summitgao/OUC-LaTex-bachelor",
           "https://github.com/summitgao/OUC-LaTex-master"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/typst-ouc/bachelor-thesis"
         ]
       }
     ]
@@ -4422,35 +4882,44 @@
       "en": "University of Science and Technology of China",
       "raw": ""
     },
-    "total": 8,
+    "total": 10,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 6,
+        "language": "tex",
+        "count": 7,
         "links": [
           "https://github.com/acgotaku/USTC-SSE-THESIS",
           "https://github.com/DingyunZhang/ustc_thesis_bachelor",
           "https://github.com/GaZ3ll3/ustcthesis",
           "https://github.com/jiaopjie/ustcthesis",
+          "https://github.com/ustctug/ustclyx",
           "https://github.com/ustctug/ustcthesis",
           "https://github.com/ywgATustcbbs/ustcthesis"
         ]
       },
       {
-        "genre": "thesis",
-        "language": "lyx",
+        "genre": "report",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/ustctug/ustclyx"
+          "https://github.com/ustctug/modern-ustc-proposal"
         ]
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ustctug/ustcbeamer"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Quaternijkon/touying-pres-ustc"
         ]
       }
     ]
@@ -4461,11 +4930,11 @@
       "en": "University of Chinese Academy of Sciences",
       "raw": ""
     },
-    "total": 16,
+    "total": 17,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 10,
         "links": [
           "https://github.com/FirstPotato/IUE-Thesis",
@@ -4482,6 +4951,14 @@
       },
       {
         "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Vncntvx/modern-ucas-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
         "language": "ms-word",
         "count": 1,
         "links": [
@@ -4490,7 +4967,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jweihe/UCAS_Latex_Template",
@@ -4499,7 +4976,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/huangjunjie-cs/simple-ucas-beamer",
@@ -4519,7 +4996,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/phoenix1917/CASIA-Thesis"
@@ -4537,7 +5014,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jiandong4388/CUMTB-Latex",
@@ -4552,11 +5029,11 @@
       "en": "China Agricultural University",
       "raw": ""
     },
-    "total": 3,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Cdmium/CAUTemplate",
@@ -4570,6 +5047,14 @@
         "links": [
           "https://github.com/JWangL5/CAU-ThesisTemplate-Typst"
         ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/maxchang3/touying-simpl-cau"
+        ]
       }
     ]
   },
@@ -4579,11 +5064,11 @@
       "en": "Renmin University of China",
       "raw": ""
     },
-    "total": 8,
+    "total": 9,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/abuccts/ructhesis",
@@ -4594,8 +5079,16 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ruc-thesis/modern-ruc-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/andelf/ruc-beamer-template",
@@ -4615,7 +5108,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/linyuantiaohe/cupb-phd-thesis"
@@ -4629,15 +5122,23 @@
       "en": "China University of Petroleum (East China)",
       "raw": ""
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/DotWang/UPCThesis_advanced",
           "https://github.com/walkman-z/upc-thesis-2020"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ttOwwA/ts-upc-thesis-typst"
         ]
       }
     ]
@@ -4652,7 +5153,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/donk3yzz/zuel_zh",
@@ -4671,7 +5172,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 9,
         "links": [
           "https://github.com/BingBLL/CSUThesis",
@@ -4695,7 +5196,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zhong-yy/CSU_Thesis_Proposal"
@@ -4703,7 +5204,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Hsinyuann/CSUBeamer"
@@ -4717,11 +5218,11 @@
       "en": "Sun Yat-sen University",
       "raw": ""
     },
-    "total": 19,
+    "total": 20,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 10,
         "links": [
           "https://github.com/chungkwong/sysu_thesis",
@@ -4755,7 +5256,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/huanyushi/SYSU-SPA-Labreport-Template",
@@ -4764,12 +5265,20 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/xsro/SYSU-Beamer-Slide-V2",
           "https://github.com/yanghw8/sysubeamer-unofficial",
           "https://github.com/yxnchen/sysu-beamer-template"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/sysu/modern-sysu-touying"
         ]
       },
       {
@@ -4792,7 +5301,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Nanqiang01/CUFE_Graduate_Thesis_Template"
@@ -4810,7 +5319,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Jin-Cheng-Ming/ZHKU_Thesis"
@@ -4824,15 +5333,23 @@
       "en": "University of Macau (UM)",
       "raw": "澳門大學"
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/gwwang16/UM-PhD-Thesis-Latex-TMPL",
           "https://github.com/williamwuzeyi/UM-FST-MSc-Thesis-LaTeX-TMPL"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ShabbyGayBar/modern-um-thesis"
         ]
       }
     ]
@@ -4847,7 +5364,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/iihciyekub/MUST-Thesis",
@@ -4862,14 +5379,22 @@
       "en": "National Cheng Kung University (NCKU)",
       "raw": "國立成功大學"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wengan-li/ncku-thesis-template-latex"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Haouo/NCKU-Thesis-Typst"
         ]
       }
     ]
@@ -4880,11 +5405,11 @@
       "en": "National Taiwan University (NTU)",
       "raw": "國立臺灣大學"
     },
-    "total": 9,
+    "total": 10,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 7,
         "links": [
           "https://github.com/chujay/NTU_latex",
@@ -4894,6 +5419,14 @@
           "https://github.com/NTU-NCS-lab/NTU-Thesis-Writing-Template",
           "https://github.com/shaform/ntu-thesis",
           "https://github.com/tzhuan/ntu-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/confusedkernel/fubell"
         ]
       },
       {
@@ -4917,7 +5450,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yuhao-kuo/NKUST-thesis-template"
@@ -4931,14 +5464,22 @@
       "en": "National Taiwan University of Science and Technology (NTUST)",
       "raw": "國立臺灣科技大學"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hadziq/ntust-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/8LWXpg/ntust-thesis-unofficial-typst"
         ]
       }
     ]
@@ -4953,7 +5494,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yingchaotw/STUST-thesis-template"
@@ -4971,7 +5512,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/HW-Lee/nthu-thesis-template",
@@ -4991,7 +5532,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/c1ydehhx/NTUT-Thesis-Template"
@@ -5009,7 +5550,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 6,
         "links": [
           "https://github.com/alex81527/latex-nctu-thesis",
@@ -5040,7 +5581,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Walker088/nccu-thesis"
@@ -5048,7 +5589,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/AbnerTeng/LaTeX-templates"
@@ -5066,7 +5607,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hasanabs/nsysu-thesis-latex-template"
@@ -5084,7 +5625,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/anlit75/CCU-Thesis-LaTeX-Template"
@@ -5098,15 +5639,24 @@
       "en": "City University of Hong Kong (CityU)",
       "raw": "香港城市大學"
     },
-    "total": 2,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/huwan/CityU_Thesis",
           "https://github.com/huwan/cleanthesis-cityu"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/bowentan/unofficial-cityuhk-thesis",
+          "https://github.com/Lucas-Wye/typst-CityUHK-thesis"
         ]
       }
     ]
@@ -5121,7 +5671,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/guanyingc/HKU-PhD-Thesis-LaTex",
@@ -5140,7 +5690,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/Cheedoong/hkust-latex-thesis",
@@ -5161,7 +5711,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/edwardtoday/hkputhesis",
@@ -5170,7 +5720,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/fletcherjiang/Polyulatex",
@@ -5189,7 +5739,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/cllu/CUHK-Thesis-Template",
@@ -5199,7 +5749,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yuehaowang/CUHK-Beamer-Template"
@@ -5217,7 +5767,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/federicoduca/latex-templates"
@@ -5235,7 +5785,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/MohamedAliRashad/Graduation-Project-Book-Template"
@@ -5253,7 +5803,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sim642/unitartucs-thesis-template"
@@ -5271,7 +5821,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hbristow/quthesis"
@@ -5325,7 +5875,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/danhey/thesis"
@@ -5333,7 +5883,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/malramsay64/usyd-beamer-theme"
@@ -5351,7 +5901,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/andrewletten/LettenPhDThesis2015"
@@ -5369,7 +5919,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/davidjb/JCU-Thesis-LyX-Layout"
@@ -5387,7 +5937,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/MarkusPic/master_thesis_template"
@@ -5413,7 +5963,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ppatrzyk/UniWien-LaTeX-Thesis"
@@ -5427,14 +5977,23 @@
       "en": "Vienna University of Technology (TU Wien)",
       "raw": "Technische Universität Wien"
     },
-    "total": 1,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/tobjec/tuw-latex-thesis-template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/npikall/vienna-tech",
+          "https://github.com/TUW-GEO/tuwien-geo-masterthesis"
         ]
       }
     ]
@@ -5449,7 +6008,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/michaelroland/jku-templates-report-latex"
@@ -5457,7 +6016,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/michaelroland/jku-templates-presentation-latex"
@@ -5475,7 +6034,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/wmeira/utfprct-tex"
@@ -5493,10 +6052,46 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/altinodantas/ufgtexposter"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（巴西）维索萨联邦大学",
+      "en": "Federal University of Viçosa",
+      "raw": "Universidade Federal de Viçosa (UFV)"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/ViniciusBRodrigues/TeseUFVLatex"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（巴西）维索萨联邦大学",
+      "en": "São Paulo State University",
+      "raw": "Universidade Estadual Paulista \"Júlio de Mesquita Filho\""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/waltermaldonado/fcavTeX"
         ]
       }
     ]
@@ -5511,7 +6106,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/nadevko/bsuir-TeX-1"
@@ -5529,7 +6124,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/nschloe/ua-beamer"
@@ -5561,14 +6156,22 @@
       "en": "National University of Engineering",
       "raw": "Universidad Nacional de Ingeniería (UNI)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ErickChacon/uni-thesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/bxcowo/classic-uni-thesis"
         ]
       }
     ]
@@ -5583,7 +6186,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rkubosz/dyplompwr"
@@ -5597,14 +6200,22 @@
       "en": "Gdańsk University of Technology",
       "raw": "Politechnika Gdańska"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ack2406/pg-thesis-template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/jan-Kulpas/pg-thesis-unofficial"
         ]
       }
     ]
@@ -5619,7 +6230,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/ArturB/WUT-Thesis",
@@ -5638,7 +6249,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jlokiec/FTIMS-thesis-template"
@@ -5656,7 +6267,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/karlosos/zut-fibeamer"
@@ -5674,7 +6285,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ksiminski/polsl-aei-theses"
@@ -5688,14 +6299,22 @@
       "en": "Aalborg University",
       "raw": "Aalborg Universitet (AAU)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jkjaer/aauLatexTemplates"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Tinggaard/classic-aau-report"
         ]
       }
     ]
@@ -5710,7 +6329,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/taskbjorn/au-latex"
@@ -5718,7 +6337,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ninagad/latex-presentation-template-Aarhus-University"
@@ -5732,14 +6351,22 @@
       "en": "Technical University of Denmark",
       "raw": "Danmarks Tekniske Universitet (DTU)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/LasseRegin/master-thesis-deep-learning"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/deme3/ready-acm-dtu-ux"
         ]
       }
     ]
@@ -5750,14 +6377,48 @@
       "en": "University of Copenhagen",
       "raw": "Københavns Universitet"
     },
+    "total": 3,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/jorgenhost/ucph-lehmann-thesis"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/cbourjau/frederiksberg_beamer"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/jorgenhost/ucph-nielsine-touying"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（丹麦）哥本哈根信息技术大学",
+      "en": "IT University of Copenhagen (ITU)",
+      "raw": "IT-Universitetet i København"
+    },
     "total": 1,
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/cbourjau/frederiksberg_beamer"
+          "https://github.com/FrederikBertelsen/onyx-itu-unofficial"
         ]
       }
     ]
@@ -5772,7 +6433,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/faltfe/iodhbwm",
@@ -5792,6 +6453,24 @@
   },
   {
     "name": {
+      "zh": "（德国）波茨坦大学",
+      "en": "University of Potsdam",
+      "raw": "Universität Potsdam"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/felixhoffmnn/hpi-thesis-template"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "zh": "（德国）波恩-莱茵-锡格应用技术大学",
       "en": "Hochschule Bonn-Rhein-Sieg University of Applied Sciences",
       "raw": "Hochschule Bonn-Rhein-Sieg"
@@ -5800,7 +6479,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/MartinX3-EducationOrganization/hbrs-latex-vorlage-arbeit"
@@ -5818,7 +6497,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sjewo/rub-beamer"
@@ -5836,7 +6515,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/holgern/TUB_PhDThesisTemplate"
@@ -5854,7 +6533,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/benmaier/LyXTufteThesis",
@@ -5882,7 +6561,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/tudace/tuda_latex_templates",
@@ -5901,7 +6580,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/playduck/thd-thesis"
@@ -5919,7 +6598,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/andygrunwald/FOM-LaTeX-Template"
@@ -5955,10 +6634,28 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mhellmeier/LaTeX-Thesis-Template"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（德国）哈雷-维滕贝格马丁路德大学",
+      "en": "Martin Luther University Halle-Wittenberg",
+      "raw": "Martin-Luther-Universität Halle-Wittenberg (MLU)"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/fsrmatheinfo/mluexercise"
         ]
       }
     ]
@@ -5973,7 +6670,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/satta/zbh-beamer-theme"
@@ -5991,7 +6688,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/markushaug/iu-latex-template"
@@ -6005,8 +6702,16 @@
       "en": "Karlsruhe Institute of Technology (KIT)",
       "raw": "Karlsruher Institut für Technologie"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/GORywwyN/ksp-thesis"
+        ]
+      },
       {
         "genre": "presentation",
         "language": "typst",
@@ -6027,7 +6732,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/AihamAbusaleh/thesis-template-latex"
@@ -6045,7 +6750,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/aeimer/latex-template-hsrm-bachelorthesis",
@@ -6065,7 +6770,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jonasbingel/HSMZ-Thesis-Template"
@@ -6083,7 +6788,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/changkun/lmu-thesis-latex"
@@ -6097,11 +6802,11 @@
       "en": "Technical University of Munich",
       "raw": "Technische Universität München"
     },
-    "total": 10,
+    "total": 11,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 8,
         "links": [
           "https://github.com/fwalch/tum-thesis-latex",
@@ -6117,10 +6822,11 @@
       {
         "genre": "thesis",
         "language": "typst",
-        "count": 2,
+        "count": 3,
         "links": [
           "https://github.com/lkndl/typst-bioinfo-thesis",
-          "https://github.com/ls1intum/thesis-template-typst"
+          "https://github.com/ls1intum/thesis-template-typst",
+          "https://github.com/santiagonar1/tum-tastic-thesis"
         ]
       }
     ]
@@ -6131,14 +6837,22 @@
       "en": "Munich University of Applied Sciences",
       "raw": "Hochschule für angewandte Wissenschaften München"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Simon-Hi5/Hochschule-Muenchen-LaTeX-Template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/FelixSchladt/supercharged-hm"
         ]
       }
     ]
@@ -6149,14 +6863,22 @@
       "en": "Paderborn University",
       "raw": "Universität Paderborn"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/patrickrobrecht/latex-templates-upb"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/upb-cn/student-templates-typst"
         ]
       }
     ]
@@ -6167,14 +6889,15 @@
       "en": "University of Passau",
       "raw": "Universität Passau"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
-          "https://github.com/harshildarji/thesis"
+          "https://github.com/harshildarji/thesis",
+          "https://github.com/se2p/se2thesis"
         ]
       }
     ]
@@ -6185,11 +6908,20 @@
       "en": "Saarland University",
       "raw": "Universität des Saarlandes"
     },
-    "total": 1,
+    "total": 3,
     "repositories": [
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/alanssitis/saar-thesis",
+          "https://github.com/coli-saar/owl-lst-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/kailashbuki/beamerthemesaarland"
@@ -6203,11 +6935,11 @@
       "en": "University of Stuttgart",
       "raw": "Universität Stuttgart"
     },
-    "total": 3,
+    "total": 5,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/latextemplates/uni-stuttgart-dissertation-template",
@@ -6215,8 +6947,24 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/LS3-university-of-stuttgart/ls3-typst-templates-public"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/latextemplates/scientific-thesis-cover"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/valentjn/uni-stuttgart-beamer-template"
@@ -6234,7 +6982,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/oogl/prue-thesis-template"
@@ -6252,7 +7000,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/NetherQuartz/BachelorThesis"
@@ -6270,7 +7018,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/SweetVishnya/msu-thesis"
@@ -6288,7 +7036,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yl3dy/mipt-thesis"
@@ -6306,7 +7054,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/mmcs-sfedu/mmcs_sfedu_thesis",
@@ -6325,11 +7073,29 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Amet13/overfull",
           "https://github.com/Amet13/proofback"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（俄罗斯）圣彼得堡国立航空航天仪器大学",
+      "en": "Saint Petersburg State University of Aerospace Instrumentation (SUAI)",
+      "raw": "Санкт-Петербургский государственный университет аэрокосмического приборостроения (ГУАП)"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/Echways/suai-report"
         ]
       }
     ]
@@ -6362,7 +7128,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yzrobot/LIASD_LaTeX_Thesis_Template"
@@ -6380,10 +7146,28 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/stellasia/thesis-template"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（法国）滨海-珍珠海岸大学",
+      "en": "University of the Littoral Opal Coast",
+      "raw": "Université du Littoral-Côte-d'Opale (ULCO)"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/dbitouze/yathesis"
         ]
       }
     ]
@@ -6398,7 +7182,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Callidon/template-thesis-ubl-mathstic"
@@ -6416,7 +7200,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/milouse/utclatex"
@@ -6434,7 +7218,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/dylan-moinse/phd-thesis-latex-template"
@@ -6466,14 +7250,22 @@
       "en": "University of Lille",
       "raw": "Université de Lille"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/eleurent/phd-thesis"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/gzordrai/catiche"
         ]
       }
     ]
@@ -6524,7 +7316,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/shlee-lab/KUThesis2022"
@@ -6542,7 +7334,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Luminebear/PKNU-thesis-template"
@@ -6560,7 +7352,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/saeedahmadicp/KNUT-THESIS-TEMPLATE"
@@ -6578,7 +7370,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 5,
         "links": [
           "https://github.com/skywalker023/thesis-template-snu-cse",
@@ -6596,14 +7388,22 @@
       "en": "University of Amsterdam",
       "raw": "Universiteit van Amsterdam"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/m4lvin/illc-phd-thesis-template"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/qu1ncyk/amsterdammetje-article-typst"
         ]
       }
     ]
@@ -6614,23 +7414,24 @@
       "en": "Delft University of Technology",
       "raw": "Technische Universiteit Delft (TU Delft)"
     },
-    "total": 3,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 2,
+        "language": "tex",
+        "count": 3,
         "links": [
           "https://github.com/dzwaneveld/tudelft-report-thesis-template",
-          "https://github.com/Inventitech/phd-thesis-template"
+          "https://github.com/Inventitech/phd-thesis-template",
+          "https://github.com/jmilhomens/lyx-phdthesis-tudelft"
         ]
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/jmilhomens/lyx-phdthesis-tudelft"
+          "https://github.com/Vector04/tudelft-thesis-template"
         ]
       }
     ]
@@ -6641,11 +7442,27 @@
       "en": "Radboud University (RU)",
       "raw": "Radboud Universiteit Nijmegen"
     },
-    "total": 1,
+    "total": 3,
     "repositories": [
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Jorritboer/radboud-thesis-typst"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/dopefishh/rutitlepage"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/naiaden/presentations"
@@ -6663,7 +7480,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/JoeriHermans/maastricht-university-thesis-template",
@@ -6683,7 +7500,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/UtrechtUniversity/UU-dissertation-template"
@@ -6701,7 +7518,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/draldric/uAlberta-Thesis-LaTeX-Template"
@@ -6719,7 +7536,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/dpasut/thesis-template",
@@ -6734,23 +7551,24 @@
       "en": "University of British Columbia",
       "raw": ""
     },
-    "total": 3,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 2,
+        "language": "tex",
+        "count": 3,
         "links": [
+          "https://github.com/alanmanning/ubc-thesis-lyx",
           "https://github.com/briandealwis/ubcdiss",
           "https://github.com/oganm/ThesisProposal"
         ]
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/alanmanning/ubc-thesis-lyx"
+          "https://github.com/DJDuque/bye-ubc"
         ]
       }
     ]
@@ -6761,22 +7579,48 @@
       "en": "University of Toronto",
       "raw": ""
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jessexknight/ut-thesis"
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/pvelayudhan/clean-uoft-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/alexalex222/Beamer-template-uoft"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（加拿大）多伦多都市大学",
+      "en": "Toronto Metropolitan University",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/yshoaib/RyersonSgsThesisTemplateLatex"
         ]
       }
     ]
@@ -6791,7 +7635,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mohuangrui/uwaterloothesis"
@@ -6817,7 +7661,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rzach/ucalgmthesis"
@@ -6835,7 +7679,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/huntertran/concordia-thesis-template",
@@ -6855,7 +7699,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/philchalmers/York_Thesis_LyX"
@@ -6891,7 +7735,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Harvie/CULS-Thesis"
@@ -6909,7 +7753,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Witiko/fibeamer"
@@ -6963,7 +7807,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/blankdots/LatexThesisTemplate"
@@ -6981,7 +7825,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jp-um/university_of_malta_LaTeX_dissertation_template"
@@ -6999,7 +7843,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rizauddin/uitmthesis"
@@ -7017,7 +7861,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/kianmeng/utmthesis-context"
@@ -7035,7 +7879,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/qianjzhang/Uiowa-Thesis-Template",
@@ -7055,7 +7899,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cci-grads/uncc-thesis-latex"
@@ -7073,7 +7917,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jhykes/ncsuthesis"
@@ -7091,7 +7935,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/shyamupa/upenn-cis-thesis-template"
@@ -7137,17 +7981,36 @@
   },
   {
     "name": {
-      "zh": "（美国）德克萨斯州大学奥斯汀分校",
-      "en": "University of Texas at Austin",
+      "zh": "（美国）得克萨斯农工大学",
+      "en": "Texas A&M University (TAMU)",
       "raw": ""
     },
     "total": 1,
     "repositories": [
       {
-        "genre": "thesis",
-        "language": "latex",
+        "genre": "presentation",
+        "language": "tex",
         "count": 1,
         "links": [
+          "https://github.com/alick/beamerthemetamu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（美国）德克萨斯州大学奥斯汀分校",
+      "en": "University of Texas at Austin",
+      "raw": ""
+    },
+    "total": 2,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 2,
+        "links": [
+          "https://github.com/linguistics/utexas-latex",
           "https://github.com/OttoStruve/UT-thesis"
         ]
       }
@@ -7163,7 +8026,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/swarnendubiswas/ohio-state-coe-dissertation-template"
@@ -7181,7 +8044,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/royaleconqueso/fsu-beamer-theme"
@@ -7199,7 +8062,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "typst",
+        "language": "markdown",
         "count": 1,
         "links": [
           "https://github.com/corybrunson/NIH-proposal-template"
@@ -7217,7 +8080,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/kolesarm/harvard-gsas-thesis"
@@ -7239,14 +8102,22 @@
       "en": "University of Washington (UW)",
       "raw": ""
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/UWIT-IAM/UWThesis"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Yuan-Ru-Lin/husky-uw-thesis"
         ]
       },
       {
@@ -7269,7 +8140,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/louis925/uclathes",
@@ -7288,7 +8159,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/lotten/uci-thesis-latex"
@@ -7306,7 +8177,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ucsd-thesis/ucsd-thesis"
@@ -7324,7 +8195,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/adamnovak/ucscthesis"
@@ -7342,7 +8213,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/chesun/latex_templates"
@@ -7360,7 +8231,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mruffalo/beamer-theme-cwru"
@@ -7396,7 +8267,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/corybrunson/beamerthemeuconn"
@@ -7414,7 +8285,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/miligithub/MinesThesisTemplate"
@@ -7432,10 +8303,28 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/idfah/csuthesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（美国）罗德岛大学",
+      "en": "University of Rhode Island (URI)",
+      "raw": ""
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/kylemonette/thesis-template"
         ]
       }
     ]
@@ -7450,7 +8339,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rucsgss/thesis"
@@ -7468,7 +8357,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/kljensen/mit-phd-thesis"
@@ -7476,7 +8365,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mit-eecs-gsa/mit-eecs-thesis-proposal-template"
@@ -7494,7 +8383,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/pdgessler/mugsthesis"
@@ -7512,7 +8401,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/umasscs/umassthesis"
@@ -7530,7 +8419,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/DakotaHester/Starkville_beamer_theme"
@@ -7548,7 +8437,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/pettni/um-thesis"
@@ -7566,7 +8455,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/amunn/msu-thesis"
@@ -7610,7 +8499,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/STOM-Group/USF-Beamer-Template"
@@ -7628,7 +8517,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cardi/USCthesis"
@@ -7646,7 +8535,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/stephensekula/Dedman-Thesis-Latex-Template"
@@ -7664,7 +8553,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cbourke/beamer-unl"
@@ -7682,7 +8571,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/js8544/nyu-latex-templates"
@@ -7700,7 +8589,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/royaleconqueso/fit-beamer-theme"
@@ -7718,7 +8607,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/zacyu/pitt-beamer"
@@ -7736,7 +8625,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/skulumani/thesis-gwu"
@@ -7750,11 +8639,11 @@
       "en": "Stanford University",
       "raw": ""
     },
-    "total": 6,
+    "total": 7,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/dcroote/stanford-thesis-example",
@@ -7763,8 +8652,16 @@
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/mayasheth/cardinal-su-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template",
@@ -7784,7 +8681,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/edponce/thesis_template"
@@ -7802,7 +8699,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/yishanhe/WM-AS-thesis-latex-template"
@@ -7820,7 +8717,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/Lodour/wisc-thesis-template",
@@ -7829,7 +8726,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/travitch/uw-beamer-template"
@@ -7847,7 +8744,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jbreitenbucher/exampleis"
@@ -7865,7 +8762,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/h-havenga/The-unofficial-NWU-LaTeX-template"
@@ -7883,7 +8780,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/TrevorDBrown/MastersThesis-Template"
@@ -7901,7 +8798,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jonlighthall/wmu"
@@ -7919,7 +8816,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cainmagi/UH-beamer-templates"
@@ -7937,7 +8834,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/dafnidrake/UA_Dissertation_Template"
@@ -7955,7 +8852,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/juliantao/quarto-asu-thesis",
@@ -7974,7 +8871,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jopetty/yale-thesis"
@@ -7988,14 +8885,22 @@
       "en": "Indiana University",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/liang-chen/IU-PhD-Thesis-Template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/bojohnson5/modern-iu-thesis"
         ]
       }
     ]
@@ -8010,7 +8915,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/weitzner/jhu-thesis-template"
@@ -8028,7 +8933,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/uchicago-library/uchicago-dissertation"
@@ -8036,7 +8941,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/jacksonllee/uchicago-beamer"
@@ -8054,7 +8959,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/royaleconqueso/uga-beamer-theme"
@@ -8072,7 +8977,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/kastnerp/ElegantThesisLaTeX"
@@ -8090,7 +8995,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ascuet/puc-report-template"
@@ -8122,13 +9027,14 @@
       "en": "National Autonomous University of Mexico",
       "raw": "Universidad Nacional Autónoma de México (UNAM)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
+          "https://github.com/camachojua/unam",
           "https://github.com/jafPrudente/Tesis"
         ]
       }
@@ -8162,7 +9068,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/uio-latex/phduio-monograph"
@@ -8170,7 +9076,7 @@
       },
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/uio-latex/mnfrontpage"
@@ -8184,11 +9090,19 @@
       "en": "University of Bergen",
       "raw": "Universitetet i Bergen"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/AugustinWinther/structured-uib"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/martinhelso/UiB"
@@ -8202,16 +9116,26 @@
       "en": "Norwegian University of Science and Technology",
       "raw": "Norges teknisk-naturvitenskapelige universitet (NTNU)"
     },
-    "total": 3,
+    "total": 6,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/COPCSE-NTNU/bachelor-thesis-NTNU",
           "https://github.com/COPCSE-NTNU/thesis-NTNU",
           "https://github.com/frodal/PhD-thesis-Latex-template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 3,
+        "links": [
+          "https://github.com/Lima98/nidaros-ntnu-thesis",
+          "https://github.com/saimnaveediqbal/thesis-NTNU-typst",
+          "https://github.com/Th3o4oR/master-piece-ntnu"
         ]
       }
     ]
@@ -8226,7 +9150,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/egraff/uit-thesis"
@@ -8248,17 +9172,25 @@
       "en": "Instituto Superior Técnico",
       "raw": "Instituto Superior Técnico (IST)"
     },
-    "total": 4,
+    "total": 5,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/ekspek/ist-thesis",
           "https://github.com/FilipeMar/DoctoralThesisIST",
           "https://github.com/FilipeMar/Phd-Thesis-Tecnico",
           "https://github.com/themiguelamador/ThesisIST"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/tfachada/thesist"
         ]
       }
     ]
@@ -8273,7 +9205,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/detiuaveiro/ua-thesis-template"
@@ -8291,7 +9223,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mjpc13/latex-dissertation-template"
@@ -8309,7 +9241,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ricardodpcosta/UMinhoThesisTemplate"
@@ -8327,7 +9259,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/linwest/JAISTthesisLaTeX"
@@ -8345,7 +9277,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/cohsh/dissertation-template",
@@ -8365,7 +9297,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ravijo/kyutech-thesis-template"
@@ -8383,7 +9315,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/akira-okumura/MasterThesisTemplate"
@@ -8401,7 +9333,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ymrl/thesis-template"
@@ -8415,11 +9347,19 @@
       "en": "Chalmers University of Technology",
       "raw": "Chalmers tekniska högskola"
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ElliotMS/cthesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/E2-PhD-Council/ThesisTemplate",
@@ -8438,7 +9378,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/bcschiffler/phdthesis_ki"
@@ -8456,7 +9396,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/samuel-bohman/su-phd-thesis-template"
@@ -8474,7 +9414,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/ivangiangreco/basilea-beamer"
@@ -8510,7 +9450,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/maechler/latex-thesis-template"
@@ -8537,7 +9477,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/gc3-uzh-ch/beamer-theme-gc3"
@@ -8555,7 +9495,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/tuxu/ethz-thesis"
@@ -8573,7 +9513,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/matteodelucchi/ZHAW_thesis-template"
@@ -8591,7 +9531,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mdemierre/hesso-latextemplate-thesis"
@@ -8609,7 +9549,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/coc-it/qu-thesis-template"
@@ -8641,22 +9581,41 @@
       "en": "Istanbul Technical University",
       "raw": "istanbul Teknik Üniversitesi (ITU)"
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
+          "https://github.com/ituast/itutezLyX",
           "https://github.com/ondes/Template-Latex-ITU-Thesis"
         ]
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/ituast/itutezLyX"
+          "https://github.com/hmzsnc96/itu-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（乌克兰）国立技术大学“伊戈尔·西科尔斯基基辅理工学院”（基辅理工学院）",
+      "en": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\" / Kyiv Polytechnic Institute (KPI)",
+      "raw": "Київський політехнічний інститут (КПІ)"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "report",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/sokolovgit/kpi-thesis"
         ]
       }
     ]
@@ -8671,7 +9630,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sabirdvd/LaTeX-template-for-UPC-thesis-"
@@ -8685,15 +9644,23 @@
       "en": "Technical University of Madrid",
       "raw": "Universidad Politécnica de Madrid (UPM)"
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/eduayme/UPM-thesis-template-latex",
           "https://github.com/ricardolopezgr/TFG-TFM-template"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Tikitikitikidesuka/typst-upm-report"
         ]
       }
     ]
@@ -8704,14 +9671,22 @@
       "en": "University of Malaga",
       "raw": "Universidad de Málaga (UMA)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/benhid/TFG-UMA"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/oscarpaa/typst-uma-template"
         ]
       }
     ]
@@ -8726,7 +9701,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/tsikup/ece-upatras-thesis-template"
@@ -8744,7 +9719,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/cnasikas/di-thesis-template",
@@ -8763,7 +9738,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/demanasta/phd-thesis-template",
@@ -8783,7 +9758,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/alxiong/ntu-thesis-latex",
@@ -8803,7 +9778,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 3,
         "links": [
           "https://github.com/ramananbalakrishnan/nus-thesis-latex-template",
@@ -8831,7 +9806,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jennafin/work-report-latex-sample",
@@ -8850,7 +9825,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/mcserep/elteiktdk",
@@ -8869,7 +9844,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/aminrashidbeigi/BS-thesis"
@@ -8887,7 +9862,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sinamomken/tehran-thesis"
@@ -8905,7 +9880,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/aminfakhari/AThesis-IUT-Thesis-Template"
@@ -8923,11 +9898,29 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/MJAHMADEE/KNTUThesis",
           "https://github.com/msinamsina/kntu-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（伊朗）库姆大学",
+      "en": "University of Qom",
+      "raw": "دانشگاه قم"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/javadr/thesis-qom"
         ]
       }
     ]
@@ -8942,7 +9935,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/armineh-rahmanian/TMU-Latex-Thesis-Template"
@@ -8960,7 +9953,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/habedi/IUST-Master-Thesis-Template"
@@ -8978,23 +9971,16 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
+          "https://github.com/alexlib/tau_thesis_lyx_template",
           "https://github.com/kourgeorge/tau-thesis-latex"
         ]
       },
       {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
-          "https://github.com/alexlib/tau_thesis_lyx_template"
-        ]
-      },
-      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/alexlib/beamer_template_tau"
@@ -9012,7 +9998,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/micheleberetta98/unibg-thesis-template"
@@ -9026,22 +10012,23 @@
       "en": "University of Bologna",
       "raw": "Università di Bologna"
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
+          "https://github.com/andreadecorte/unibo-thesis-lyx",
           "https://github.com/TemplatesHub/unibo-thesis-template-english"
         ]
       },
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "typst",
         "count": 1,
         "links": [
-          "https://github.com/andreadecorte/unibo-thesis-lyx"
+          "https://github.com/Soliprem/unibo-thesis-template"
         ]
       }
     ]
@@ -9052,14 +10039,40 @@
       "en": "University of Turin",
       "raw": "Università degli Studi di Torino (UNITO)"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/esenes/Unito-thesis-template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/eduardz1/UniTO-typst-template"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（意大利）都灵理工大学",
+      "en": "Polytechnic University of Turin",
+      "raw": "Politecnico di Torino"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "presentation",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/cfiandra/Beamer2Thesis"
         ]
       }
     ]
@@ -9074,10 +10087,28 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/edoardottt/sapienza-latex-thesis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "zh": "（意大利）罗马第二大学",
+      "en": "Tor Vergata University of Rome",
+      "raw": "Università degli Studi di Roma Tor Vergata"
+    },
+    "total": 1,
+    "repositories": [
+      {
+        "genre": "thesis",
+        "language": "tex",
+        "count": 1,
+        "links": [
+          "https://github.com/alessandropellegrini/tvthesis"
         ]
       }
     ]
@@ -9088,19 +10119,28 @@
       "en": "Polytechnic University of Milan",
       "raw": "Politecnico di Milano (PoliMi)"
     },
-    "total": 2,
+    "total": 4,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/gcedo/master-thesis"
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 2,
+        "links": [
+          "https://github.com/VictuarVi/PoliMi-PhD-Thesis",
+          "https://github.com/VictuarVi/Template-Tesi-UniMi"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/pcafrica/beamerthemepolimi"
@@ -9136,7 +10176,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/luistar/unina-thesis-template"
@@ -9144,7 +10184,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/luistar/unina-beamer"
@@ -9162,7 +10202,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 4,
         "links": [
           "https://github.com/FIUP/Thesis-template",
@@ -9183,7 +10223,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/CiccioTecchio/Unisa-LaTeX"
@@ -9201,7 +10241,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/unitn-drive/thesis"
@@ -9219,7 +10259,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/gandalfsaxe/laursens-xelatex-thesis-template"
@@ -9237,7 +10277,7 @@
     "repositories": [
       {
         "genre": "resume",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Anindya-Prithvi/IIITD-ResumeLatexTemplate"
@@ -9255,7 +10295,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/niki864/ThesisTemplate"
@@ -9273,7 +10313,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rajeshrinet/lyx-hbniThesis"
@@ -9291,7 +10331,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/k4rtik/latex-project-report-template"
@@ -9309,7 +10349,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/avnishsachar/manipal_thesis_template"
@@ -9327,7 +10367,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/canggihpw/thesisdtetiugm"
@@ -9345,7 +10385,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/rkkautsar/ui-thesis-template",
@@ -9364,7 +10404,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sdasrc/thesis-template-iitbhu"
@@ -9382,7 +10422,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/utpalbora/IITHThesis"
@@ -9396,14 +10436,22 @@
       "en": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
       "raw": "ਆਈ.ਆਈ.ਟੀ. ਖੜਗਪੁਰ"
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/c-i-p-h-e-r/PhinisheD"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/rajeevvermaa/iitkgp-thesis"
         ]
       }
     ]
@@ -9418,7 +10466,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/amitanilkulkarni/iitm-thesis-template",
@@ -9437,7 +10485,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/georgedeath/University_of_Exeter_Thesis_Template"
@@ -9455,7 +10503,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/H0R5E/edengths",
@@ -9470,14 +10518,22 @@
       "en": "University of Bristol",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/dawbarton/UoB-beamer-theme"
+        ]
+      },
+      {
+        "genre": "presentation",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/HPDell/touying-brandred-uobristol"
         ]
       }
     ]
@@ -9488,14 +10544,22 @@
       "en": "Imperial College London (IC)",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/blaahhrrgg/icldiss"
+        ]
+      },
+      {
+        "genre": "report",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/bkmashiro/ic-individual-project-typst"
         ]
       }
     ]
@@ -9506,14 +10570,22 @@
       "en": "University of Glasgow",
       "raw": ""
     },
-    "total": 1,
+    "total": 2,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/sdstrowes/Glasgow-Thesis-Template"
+        ]
+      },
+      {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/Surobaki/thesis-simple-uofg-typst"
         ]
       }
     ]
@@ -9528,7 +10600,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/jackred/Heriot_Watt_Thesis_Template",
@@ -9547,18 +10619,11 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 2,
+        "language": "tex",
+        "count": 3,
         "links": [
           "https://github.com/cambridge/thesis",
-          "https://github.com/kks32/phd-thesis-template"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
+          "https://github.com/kks32/phd-thesis-template",
           "https://github.com/kks32/PhDThesisLyX"
         ]
       },
@@ -9572,7 +10637,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/rjw57/cambridge-beamer"
@@ -9590,7 +10655,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/GR8DAN/coventry-thesis"
@@ -9608,7 +10673,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/ErickChacon/lancs-thesis",
@@ -9627,7 +10692,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/GiacomoPope/thesis-template"
@@ -9645,17 +10710,10 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 1,
+        "language": "tex",
+        "count": 2,
         "links": [
-          "https://github.com/UCL/ucl-latex-thesis-templates"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
+          "https://github.com/UCL/ucl-latex-thesis-templates",
           "https://github.com/wittawatj/ucl-lyx-thesis"
         ]
       },
@@ -9680,7 +10738,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/cai4cai/XCLThesisTemplate"
@@ -9706,7 +10764,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/natuk/ual-thesis-template"
@@ -9720,19 +10778,27 @@
       "en": "University of Manchester",
       "raw": ""
     },
-    "total": 2,
+    "total": 3,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "lyx",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/Adorno-Lab/phd-thesis-lyx-template"
         ]
       },
       {
+        "genre": "thesis",
+        "language": "typst",
+        "count": 1,
+        "links": [
+          "https://github.com/ALEX-CASSON-LAB/casson-uom-thesis"
+        ]
+      },
+      {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/mundya/unofficial-university-of-manchester-beamer"
@@ -9750,7 +10816,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/hlwhl/ECS_Thesis_Template_LaTex"
@@ -9758,7 +10824,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/tgodfrey0/soton-beamer"
@@ -9776,21 +10842,14 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 4,
+        "language": "tex",
+        "count": 5,
         "links": [
           "https://github.com/m-sgstyb/thesisTemplate-uniOfOxford",
           "https://github.com/maurovm/thesis_template",
           "https://github.com/mcmanigle/OxThesis",
+          "https://github.com/telegraphic/Oxford-LyX-Thesis-Template",
           "https://github.com/Tinyblack/Oxford-EngSci-Thesis-Template"
-        ]
-      },
-      {
-        "genre": "thesis",
-        "language": "lyx",
-        "count": 1,
-        "links": [
-          "https://github.com/telegraphic/Oxford-LyX-Thesis-Template"
         ]
       },
       {
@@ -9804,7 +10863,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/gbaydin/oxford-poster"
@@ -9822,7 +10881,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/AndreGuerra123/NUTT",
@@ -9831,7 +10890,7 @@
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/nitrogl/nclbeamer"
@@ -9849,7 +10908,7 @@
     "repositories": [
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/nitrogl/strathbeamer"
@@ -9867,7 +10926,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/leduyquang753/uet-graduation-latex"
@@ -9885,7 +10944,7 @@
     "repositories": [
       {
         "genre": "report",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/quang-tran0/HCMUT-LaTeX-Template"
@@ -9903,7 +10962,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/duongludien/thesis-template"
@@ -9921,7 +10980,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/nd-hung/thesis-template"
@@ -9939,7 +10998,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 2,
         "links": [
           "https://github.com/autopawn/tex-thesis-template",
@@ -9996,7 +11055,7 @@
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
+        "language": "tex",
         "count": 1,
         "links": [
           "https://github.com/open-source-uc/latex-templates"
@@ -10010,12 +11069,12 @@
       "en": "Common Templates",
       "raw": ""
     },
-    "total": 175,
+    "total": 181,
     "repositories": [
       {
         "genre": "thesis",
-        "language": "latex",
-        "count": 35,
+        "language": "tex",
+        "count": 36,
         "links": [
           "https://github.com/academic-templates/tex-master-thesis-template",
           "https://github.com/Aloft-Lab/CTEX-Templates",
@@ -10031,6 +11090,7 @@
           "https://github.com/Digital-Media/HagenbergThesis",
           "https://github.com/farshadrasuli/parsa",
           "https://github.com/fmilthaler/Thesis-LaTeX-Template",
+          "https://github.com/gallandarakhneorg/tex-templates",
           "https://github.com/gillescastel/masterthesis",
           "https://github.com/goorkamateusz/praca-dyplomowa-szablon",
           "https://github.com/jankapunkt/master-thesis",
@@ -10082,7 +11142,7 @@
       },
       {
         "genre": "paper",
-        "language": "latex",
+        "language": "tex",
         "count": 44,
         "links": [
           "https://github.com/01Zhangbw/Paper-Template",
@@ -10134,8 +11194,9 @@
       {
         "genre": "paper",
         "language": "typst",
-        "count": 3,
+        "count": 4,
         "links": [
+          "https://github.com/a-kkiri/CUMCM-typst-template",
           "https://github.com/DawnEver/ieee-conference-typst-template",
           "https://github.com/JoshuaLampert/clean-math-paper",
           "https://github.com/sebmestrallet/typst-simple-siam"
@@ -10143,8 +11204,8 @@
       },
       {
         "genre": "report",
-        "language": "latex",
-        "count": 15,
+        "language": "tex",
+        "count": 18,
         "links": [
           "https://github.com/AravindVasudev/Statement-of-Purpose",
           "https://github.com/bernardparent/TEXCLASS",
@@ -10155,28 +11216,32 @@
           "https://github.com/ddddavid-he/LaTeXTemplate_ActaPhysicaSinica",
           "https://github.com/emersonmello/modelos-latex",
           "https://github.com/geraked/template-report",
+          "https://github.com/KorigamiK/doc-korigamik",
           "https://github.com/Korogodin/NSLReport",
           "https://github.com/labordynamicsinstitute/paper-template",
+          "https://github.com/latexstudio-org/mcmthesis",
           "https://github.com/MBerkayHamurcu/VSCTeX",
           "https://github.com/NN708/SimpleLabReport",
           "https://github.com/quarto-journals/article-format-template",
-          "https://github.com/rashidtalha/latex-templates"
+          "https://github.com/rashidtalha/latex-templates",
+          "https://github.com/zoomoid/assignments"
         ]
       },
       {
         "genre": "report",
         "language": "typst",
-        "count": 4,
+        "count": 5,
         "links": [
           "https://github.com/chantakan/jsass-typst-template",
           "https://github.com/hongjr03/typst-assignment-template",
           "https://github.com/jskherman/jsk-lecnotes",
-          "https://github.com/kdkasad/typst-homework-template"
+          "https://github.com/kdkasad/typst-homework-template",
+          "https://github.com/SchrodingerBlume/typst-culsc-record"
         ]
       },
       {
         "genre": "presentation",
-        "language": "latex",
+        "language": "tex",
         "count": 50,
         "links": [
           "https://github.com/aecio/beamer-theme",
@@ -10241,7 +11306,7 @@
       },
       {
         "genre": "book",
-        "language": "latex",
+        "language": "tex",
         "count": 11,
         "links": [
           "https://github.com/academic-templates/tex-book-template",
